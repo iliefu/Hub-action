@@ -35,6 +35,10 @@ MAX_FOLDER_DEPTH = 3  # Node configs are typically at root or 1-2 levels deep
 STALE_DAYS = 30  # Skip files not updated in 30+ days (likely archived/bloat)
 MAX_NODES_PER_REPO = 3000  # Sample to this limit if repo extracts more
 
+# Whitelist configuration
+WHITELIST_THRESHOLD = 100  # Repos with >= 100 raw nodes are added to whitelist
+WHITELIST_REFRESH_DAYS = 7  # Refresh whitelist entries after N days
+
 # Repos to skip - typically frontend-heavy with no node configs
 SKIP_REPO_PATTERNS = [
     r"\.github\.io$",  # GitHub Pages sites
@@ -50,6 +54,8 @@ OUTPUT_DIR.mkdir(exist_ok=True)
 
 # File to track repos with zero nodes (blacklist)
 BLACKLIST_FILE = OUTPUT_DIR / "zero_node_repos.json"
+# File to track high-value repos with 100+ nodes (whitelist)
+WHITELIST_FILE = OUTPUT_DIR / "high_value_repos.json"
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
@@ -147,6 +153,121 @@ def save_zero_node_blacklist(zero_repos):
 def is_repo_blacklisted(repo_name, blacklist):
     """Check if repo is in the zero-node blacklist."""
     return repo_name in blacklist
+
+# =========================
+# WHITELIST MANAGEMENT
+# =========================
+def load_high_value_whitelist():
+    """Load the high-value repos whitelist with 100+ nodes."""
+    if WHITELIST_FILE.exists():
+        try:
+            with open(WHITELIST_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                # Convert list to dict keyed by repo name for O(1) lookup
+                whitelist_dict = {}
+                for entry in data.get("high_value_repos", []):
+                    repo_name = entry.get("repository")
+                    if repo_name:
+                        whitelist_dict[repo_name] = entry
+                return whitelist_dict
+        except Exception as e:
+            logger.warning(f"Failed to load whitelist: {e}")
+    return {}
+
+def save_high_value_whitelist(whitelist_dict):
+    """Save high-value repos to whitelist file."""
+    try:
+        # Convert dict back to list for JSON serialization
+        whitelist_list = list(whitelist_dict.values())
+        whitelist_list.sort(key=lambda x: x.get("extracted_nodes", 0), reverse=True)
+        
+        with open(WHITELIST_FILE, "w", encoding="utf-8") as f:
+            json.dump({
+                "high_value_repos": whitelist_list,
+                "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
+                "total_whitelisted_repos": len(whitelist_list),
+                "total_cached_nodes": sum(e.get("extracted_nodes", 0) for e in whitelist_list)
+            }, f, indent=2)
+        logger.info(f"Saved {len(whitelist_list)} high-value repos to whitelist")
+    except IOError as e:
+        logger.error(f"Failed to save whitelist: {e}")
+
+def should_refresh_whitelist_entry(whitelist_entry):
+    """Check if a whitelist entry needs to be refreshed based on age."""
+    try:
+        last_scan_str = whitelist_entry.get("last_full_scan")
+        if not last_scan_str:
+            return True
+        
+        last_scan = datetime.fromisoformat(last_scan_str.replace('Z', '+00:00'))
+        refresh_cutoff = datetime.now(last_scan.tzinfo) - timedelta(days=WHITELIST_REFRESH_DAYS)
+        
+        needs_refresh = last_scan < refresh_cutoff
+        if needs_refresh:
+            logger.debug(f"Whitelist entry for {whitelist_entry.get('repository')} needs refresh (last scan: {last_scan_str})")
+        return needs_refresh
+    except Exception as e:
+        logger.debug(f"Failed to check whitelist refresh: {e}")
+        return True
+
+def check_whitelist(repo_name, whitelist):
+    """Check if repo is in whitelist and return entry if not expired."""
+    entry = whitelist.get(repo_name)
+    if entry and not should_refresh_whitelist_entry(entry):
+        return entry
+    return None
+
+def extract_from_whitelist_files(whitelist_entry):
+    """Extract nodes directly from whitelist-tracked files without tree traversal."""
+    nodes = []
+    repo_name = whitelist_entry.get("repository")
+    node_files = whitelist_entry.get("node_files", [])
+    
+    if not node_files:
+        logger.warning(f"No tracked files for whitelisted repo {repo_name}")
+        return nodes
+    
+    for file_info in node_files:
+        url = file_info.get("url")
+        path = file_info.get("path", "")
+        
+        if not url:
+            logger.debug(f"Skipping file with no URL: {path}")
+            continue
+        
+        try:
+            content_res = session.get(url, timeout=7)
+            if content_res.status_code == 200:
+                extracted = decode_and_extract(content_res.content, path)
+                nodes.extend(extracted)
+                logger.debug(f"Extracted {len(extracted)} nodes from whitelist file {path}")
+            else:
+                logger.debug(f"Failed to fetch whitelist file {path}: HTTP {content_res.status_code}")
+        except Exception as e:
+            logger.debug(f"Error fetching whitelist file {url}: {e}")
+    
+    return nodes
+
+def update_whitelist_entry(repo_name, stars, forks, node_files, extracted_count, whitelist):
+    """Add or update a repo entry in the whitelist."""
+    if extracted_count < WHITELIST_THRESHOLD:
+        # Don't add to whitelist if below threshold
+        return
+    
+    entry = {
+        "repository": repo_name,
+        "stars": stars,
+        "forks": forks,
+        "extracted_nodes": extracted_count,
+        "valid_nodes": 0,  # Will be updated during validation phase
+        "quality_score": 0.0,
+        "node_files": node_files,
+        "last_full_scan": datetime.utcnow().isoformat() + "Z",
+        "last_nodes_update": datetime.utcnow().isoformat() + "Z"
+    }
+    
+    whitelist[repo_name] = entry
+    logger.info(f"Added {repo_name} to whitelist with {extracted_count} raw nodes")
 
 # =========================
 # INTELLIGENT FILE FILTERING LAYER
@@ -429,9 +550,15 @@ def main():
     zero_node_blacklist = load_zero_node_blacklist()
     logger.info(f"Loaded {len(zero_node_blacklist)} repos from zero-node blacklist")
     
+    # Load whitelist of high-value repos with 100+ nodes
+    high_value_whitelist = load_high_value_whitelist()
+    logger.info(f"Loaded {len(high_value_whitelist)} repos from high-value whitelist")
+    
     unique_raw_nodes = set()
     processed_repos = set()
     zero_node_repos = set()  # Track new repos with zero nodes this run
+    whitelist_update = {}  # Track repos to add to whitelist
+    whitelist_hits = 0  # Track whitelist cache hits
     current_year = time.strftime("%Y")
 
     for keyword in SEARCH_KEYWORDS:
@@ -467,6 +594,24 @@ def main():
             tracker.init_repo(repo_name, item["stargazers_count"], item["forks_count"])
             logger.info(f"Targeting repository: {repo_name}")
 
+            repo_raw_nodes = []
+            
+            # ===== NEW: Check whitelist first =====
+            whitelist_entry = check_whitelist(repo_name, high_value_whitelist)
+            if whitelist_entry:
+                logger.info(f"✓ Using cached whitelist entry for {repo_name} (cached {whitelist_entry.get('extracted_nodes')} nodes)")
+                repo_raw_nodes = extract_from_whitelist_files(whitelist_entry)
+                if repo_raw_nodes:
+                    whitelist_hits += 1
+                    tracker.add_counts(repo_name, extracted=len(repo_raw_nodes))
+                    unique_raw_nodes.update(repo_raw_nodes)
+                    for node in repo_raw_nodes:
+                        tracker.track_node_source(node, repo_name)
+                    logger.info(f" -> Retrieved {len(repo_raw_nodes)} cached nodes from whitelist")
+                continue
+            # ===== END: Whitelist check =====
+
+            # If not in whitelist or needs refresh, do full tree traversal
             try:
                 branch = item['default_branch']
                 # Get repository info including tree SHA
@@ -497,7 +642,7 @@ def main():
                 logger.error(f"Error fetching metadata for {repo_name}: {e}")
                 continue
 
-            repo_raw_nodes = []
+            node_files_info = []  # Track files that contributed nodes for whitelist
             for file_obj in files_data.get("tree", []):
                 path = file_obj.get("path", "")
                 file_size = file_obj.get("size", 0)
@@ -512,9 +657,17 @@ def main():
                     content_res = session.get(raw_url, timeout=7)
                     if content_res.status_code == 200:
                         extracted = decode_and_extract(content_res.content, path)
-                        repo_raw_nodes.extend(extracted)
-                        for node in extracted:
-                            tracker.track_node_source(node, repo_name)
+                        if extracted:
+                            repo_raw_nodes.extend(extracted)
+                            # Record this file for whitelist tracking
+                            node_files_info.append({
+                                "path": path,
+                                "node_count": len(extracted),
+                                "last_checked": datetime.utcnow().isoformat() + "Z",
+                                "url": raw_url
+                            })
+                            for node in extracted:
+                                tracker.track_node_source(node, repo_name)
                 except Exception as e:
                     logger.debug(f"Failed to fetch {raw_url}: {e}")
                     continue
@@ -530,14 +683,42 @@ def main():
                 tracker.add_counts(repo_name, extracted=len(repo_raw_nodes))
                 unique_raw_nodes.update(repo_raw_nodes)
                 logger.info(f" -> Found {len(repo_raw_nodes)} raw nodes from {repo_name}.")
+                
+                # ===== NEW: Add to whitelist if exceeds threshold =====
+                if len(repo_raw_nodes) >= WHITELIST_THRESHOLD:
+                    whitelist_update[repo_name] = {
+                        "repo_name": repo_name,
+                        "stars": item["stargazers_count"],
+                        "forks": item["forks_count"],
+                        "extracted_count": len(repo_raw_nodes),
+                        "node_files": node_files_info
+                    }
+                    logger.info(f"✓ Marked {repo_name} for whitelist (has {len(repo_raw_nodes)} nodes)")
+                # ===== END: Whitelist tracking =====
             else:
                 # Track repos with zero nodes
                 zero_node_repos.add(repo_name)
                 logger.info(f" -> No nodes found in {repo_name} (will be blacklisted)")
 
+    # ===== NEW: Update whitelist with newly discovered high-value repos =====
+    for repo_name, repo_info in whitelist_update.items():
+        update_whitelist_entry(
+            repo_info["repo_name"],
+            repo_info["stars"],
+            repo_info["forks"],
+            repo_info["node_files"],
+            repo_info["extracted_count"],
+            high_value_whitelist
+        )
+    # ===== END: Whitelist update =====
+
     # Update and save the blacklist with new zero-node repos
     zero_node_blacklist.update(zero_node_repos)
     save_zero_node_blacklist(zero_node_blacklist)
+    
+    # Save updated whitelist
+    save_high_value_whitelist(high_value_whitelist)
+    logger.info(f"Whitelist cache hits this run: {whitelist_hits}")
 
     raw_node_list = list(unique_raw_nodes)
     logger.info(f"Total unique raw nodes found: {len(raw_node_list)}.")
