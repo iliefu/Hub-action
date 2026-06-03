@@ -1,12 +1,15 @@
 {
   "zero_node_repos": [
     "029danio/fly",
+    "1756141021/comfyui-character-picker",
     "AlchemyLink/Raven-subscribe",
     "Alvin9999-newpac/fanqiang",
     "Beallenonindustrial63/no-ai-in-nodejs-core",
     "Bemly/china-steam-pricer",
     "Cat-Ling/sing-box",
+    "CloudTool/proxy_share",
     "LankstonAnderson/WorkerVless2sub",
+    "LikaiLee/rss-reader",
     "OpenNetCN/clash",
     "Pawdroid/Free-servers",
     "QMahyar/Cloudflare-Scanner",
@@ -14,6 +17,7 @@
     "SiddanthEmani/kyros",
     "Sinaksh0/Warp-config",
     "XiaoM-OVO/cvr-config",
+    "bq2015/FreeProxies",
     "crossxx-labs/free-proxy",
     "devswha/patina",
     "junjun266/FreeProxyGo",
@@ -22,6 +26,7 @@
     "macrwfuse/myspeed-cn",
     "maiyulao/ResoHub",
     "parsamrrelax/auto-warp-config",
+    "physics-dimension/PriceAI",
     "prima32/warp-config-generator-vercel",
     "python-net-dev/network-test",
     "toml66l/fanqiang",
@@ -30,5 +35,5 @@
     "yezuofan/free-internet-guide",
     "zinan92/daily-newsletter"
   ],
-  "updated_at": "2026-06-03 09:08:28"
+  "updated_at": "2026-06-03 09:29:41"
 }
