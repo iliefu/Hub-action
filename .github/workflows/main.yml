@@ -4,6 +4,7 @@ on:
   schedule:
     # 每 4 小时自动执行一次 (UTC 时间)
     - cron: '0 */4 * * *'
+      timezone: Asia/Shanghai
   workflow_dispatch: # 允许你在 GitHub 页面上点击按钮手动触发
 
 permissions:
