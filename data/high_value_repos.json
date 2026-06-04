@@ -3101,9 +3101,27 @@
       ],
       "last_full_scan": "2026-06-03T09:29:41.408042Z",
       "last_nodes_update": "2026-06-03T09:29:41.408047Z"
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 256,
+      "forks": 25,
+      "extracted_nodes": 141,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "ConfigSub_list.txt",
+          "node_count": 143,
+          "last_checked": "2026-06-04T02:38:14.207624Z",
+          "url": "https://raw.githubusercontent.com/WLget/V2Ray_configs_64/master/ConfigSub_list.txt"
+        }
+      ],
+      "last_full_scan": "2026-06-04T02:38:29.521492Z",
+      "last_nodes_update": "2026-06-04T02:38:29.521519Z"
     }
   ],
-  "updated_at": "2026-06-03 22:24:12",
-  "total_whitelisted_repos": 7,
-  "total_cached_nodes": 6289
+  "updated_at": "2026-06-04 02:38:29",
+  "total_whitelisted_repos": 8,
+  "total_cached_nodes": 6430
 }
