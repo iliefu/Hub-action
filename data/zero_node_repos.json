@@ -2,15 +2,19 @@
   "zero_node_repos": [
     "029danio/fly",
     "1756141021/comfyui-character-picker",
+    "644646497/kindle-news-nyt",
     "AlchemyLink/Raven-subscribe",
     "Alvin9999-newpac/fanqiang",
     "Anna0314zy/designable-editor",
     "Beallenonindustrial63/no-ai-in-nodejs-core",
     "Bemly/china-steam-pricer",
     "Cat-Ling/sing-box",
+    "ChanceYu/front-end-rss",
     "ChaselDutt/VPN-Deep-Test",
     "CloudTool/proxy_share",
     "DiningFactory/panda-vpn-pro",
+    "FrecklyComb1728/picmi",
+    "FrecklyComb1728/picmi-node",
     "HandsomeMJZ/cfip",
     "KaWaIDeSuNe/dijiajichang",
     "LankstonAnderson/WorkerVless2sub",
@@ -21,6 +25,7 @@
     "Pawdroid/Free-servers",
     "Pinocchang/Proxy_Res",
     "QMahyar/Cloudflare-Scanner",
+    "Raphael005/warp-config",
     "RingoCaviar/CainFlow",
     "Rurikobaka/Subscription-conversion-configuration",
     "SANTOSHPATIL2004/Telegram-Proxy",
@@ -49,6 +54,7 @@
     "feiniao25789/feiniao-vpn",
     "feiniao25789/vpn",
     "feiniaovpn/Free-VPN",
+    "feiniaovpn/Office---VPN",
     "find-xposed-magisk/cloudflare-reverse-proxy",
     "free-proxy-nodes/free-nodes",
     "gfpcom/free-proxy-list",
@@ -69,6 +75,7 @@
     "maiyulao/ResoHub",
     "mingko3/socks5-clash-proxy",
     "myggpark/myggpark-knowledge",
+    "netptop/siteproxy",
     "nyarvex/VPS_proxy_hy2",
     "parsamrrelax/auto-warp-config",
     "peacefulgeek/debtfree-wedding",
@@ -97,5 +104,5 @@
     "zinan92/daily-newsletter",
     "zming-huang/Pure_Vector_Studio_Pro"
   ],
-  "updated_at": "2026-06-05 17:48:23"
+  "updated_at": "2026-06-05 21:17:42"
 }
