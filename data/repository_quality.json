@@ -5,31 +5,15 @@
       "stars": 9006,
       "forks": 670,
       "extracted_nodes": 55,
-      "valid_nodes": 35,
+      "valid_nodes": 33,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 908,
+      "stars": 909,
       "forks": 128,
       "extracted_nodes": 3000,
-      "valid_nodes": 130,
-      "quality_score": 100
-    },
-    {
-      "repository": "peasoft/NoMoreWalls",
-      "stars": 3296,
-      "forks": 524,
-      "extracted_nodes": 201,
-      "valid_nodes": 53,
-      "quality_score": 100
-    },
-    {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7523,
-      "forks": 1229,
-      "extracted_nodes": 95,
-      "valid_nodes": 21,
+      "valid_nodes": 132,
       "quality_score": 100
     },
     {
@@ -45,24 +29,24 @@
       "stars": 51,
       "forks": 6,
       "extracted_nodes": 404,
-      "valid_nodes": 206,
+      "valid_nodes": 203,
       "quality_score": 86.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 256,
-      "forks": 25,
-      "extracted_nodes": 6,
+      "repository": "SuYxh/ai-news-aggregator",
+      "stars": 259,
+      "forks": 46,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 60
     },
     {
-      "repository": "lanzm/MetaFetch",
-      "stars": 9,
-      "forks": 2,
-      "extracted_nodes": 141,
-      "valid_nodes": 57,
-      "quality_score": 49.2
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 648,
+      "valid_nodes": 35,
+      "quality_score": 47.4
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -77,35 +61,19 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 133,
-      "valid_nodes": 127,
+      "valid_nodes": 125,
       "quality_score": 40.8
     },
     {
-      "repository": "liangshengyong/LanWan",
-      "stars": 35,
-      "forks": 4,
+      "repository": "RingoCaviar/CainFlow",
+      "stars": 24,
+      "forks": 2,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 32.0
+      "quality_score": 21.2
     },
     {
-      "repository": "feiniao25789/feiniao-vpn",
-      "stars": 7,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 5.6
-    },
-    {
-      "repository": "lerity-yao/czt-contrib",
-      "stars": 3,
-      "forks": 3,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 5.4
-    },
-    {
-      "repository": "sdfnh/fanqiang",
+      "repository": "zhenzi0322/comfyui-koukoutu",
       "stars": 2,
       "forks": 1,
       "extracted_nodes": 0,
@@ -113,23 +81,23 @@
       "quality_score": 2.6
     },
     {
-      "repository": "lioneltchami/superwarp-toolkit",
-      "stars": 0,
+      "repository": "zhh293/SimplePlanePlatform",
+      "stars": 2,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 1.6
     },
     {
-      "repository": "YuFan08/sbm",
-      "stars": 0,
+      "repository": "tpxcer/oui",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     },
     {
-      "repository": "feiniao1-VPN/Node-based-VPN",
+      "repository": "soongbr/Mindial",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -137,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-05 06:58:34"
+  "updated_at": "2026-06-05 08:00:22"
 }

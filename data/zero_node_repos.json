@@ -19,10 +19,12 @@
     "Pawdroid/Free-servers",
     "Pinocchang/Proxy_Res",
     "QMahyar/Cloudflare-Scanner",
+    "RingoCaviar/CainFlow",
     "Rurikobaka/Subscription-conversion-configuration",
     "SANTOSHPATIL2004/Telegram-Proxy",
     "SiddanthEmani/kyros",
     "Sinaksh0/Warp-config",
+    "SuYxh/ai-news-aggregator",
     "VordaBrat/zeroReg-landing",
     "XiaoM-OVO/cvr-config",
     "XuelinHu/chinese-vietnamese-railway-term-learning",
@@ -69,7 +71,9 @@
     "raychencrh-cpu/ai-subscription-compare",
     "sdfnh/fanqiang",
     "skka3134/Free-servers",
+    "soongbr/Mindial",
     "toml66l/fanqiang",
+    "tpxcer/oui",
     "wanwushequ/cfyxip",
     "wichaisw/news-crawler",
     "winds18/FluxGate",
@@ -77,8 +81,10 @@
     "xiaoshengyvlin/Zako-Prompt-Tools",
     "yezuofan/free-internet-guide",
     "yyyr-otz/iptv-api",
+    "zhenzi0322/comfyui-koukoutu",
+    "zhh293/SimplePlanePlatform",
     "zinan92/daily-newsletter",
     "zming-huang/Pure_Vector_Studio_Pro"
   ],
-  "updated_at": "2026-06-05 06:58:30"
+  "updated_at": "2026-06-05 08:00:16"
 }
