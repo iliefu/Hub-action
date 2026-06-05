@@ -34,6 +34,7 @@ MAX_PROXIES_PER_FILE = 500
 MAX_FOLDER_DEPTH = 3  # Node configs are typically at root or 1-2 levels deep
 STALE_DAYS = 30  # Skip files not updated in 30+ days (likely archived/bloat)
 MAX_NODES_PER_REPO = 3000  # Sample to this limit if repo extracts more
+MAX_FINAL_NODES = 500  # Maximum nodes in final output (nodes.txt)
 
 # Whitelist configuration
 WHITELIST_THRESHOLD = 100  # Repos with >= 100 raw nodes are added to whitelist
@@ -245,6 +246,13 @@ def extract_from_whitelist_files(whitelist_entry):
                 logger.debug(f"Failed to fetch whitelist file {path}: HTTP {content_res.status_code}")
         except Exception as e:
             logger.debug(f"Error fetching whitelist file {url}: {e}")
+    
+    # Apply MAX_NODES_PER_REPO limit to whitelist nodes (需求1)
+    if nodes:
+        nodes = list(set(nodes))  # Remove duplicates first
+        if len(nodes) > MAX_NODES_PER_REPO:
+            logger.info(f"Sampling {MAX_NODES_PER_REPO} nodes from {len(nodes)} in whitelist for {repo_name}")
+            nodes = random.sample(nodes, MAX_NODES_PER_REPO)
     
     return nodes
 
@@ -765,12 +773,18 @@ def main():
 
     # Write output files once after all processing is complete
     try:
+        # Apply MAX_FINAL_NODES limit (需求2): If more than MAX_FINAL_NODES, randomly sample
+        final_nodes_list = valid_nodes_list
+        if len(final_nodes_list) > MAX_FINAL_NODES:
+            logger.info(f"Sampling {MAX_FINAL_NODES} nodes from {len(final_nodes_list)} for final output")
+            final_nodes_list = random.sample(final_nodes_list, MAX_FINAL_NODES)
+        
         # Base64-encode verified items into data/nodes.txt
-        valid_payload_string = "\n".join(valid_nodes_list)
+        valid_payload_string = "\n".join(final_nodes_list)
         base64_encoded_bytes = base64.b64encode(valid_payload_string.encode('utf-8'))
         with open(OUTPUT_DIR / "nodes.txt", "wb") as f:
             f.write(base64_encoded_bytes)
-        logger.info(f"Wrote {len(valid_nodes_list)} verified nodes (base64-encoded) to nodes.txt")
+        logger.info(f"Wrote {len(final_nodes_list)} verified nodes (base64-encoded) to nodes.txt")
 
         # Save repository quality metrics
         tracker.calculate_and_save(OUTPUT_DIR / "repository_quality.json")
