@@ -1,68 +1,68 @@
 {
   "repositories": [
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 911,
+      "forks": 128,
+      "extracted_nodes": 3000,
+      "valid_nodes": 107,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9006,
+      "stars": 9007,
       "forks": 670,
       "extracted_nodes": 55,
       "valid_nodes": 33,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 911,
-      "forks": 128,
-      "extracted_nodes": 3000,
-      "valid_nodes": 118,
+      "repository": "PuddinCat/BestClash",
+      "stars": 1652,
+      "forks": 104,
+      "extracted_nodes": 16,
+      "valid_nodes": 16,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 761,
-      "forks": 70,
-      "extracted_nodes": 28,
-      "valid_nodes": 12,
-      "quality_score": 100
+      "repository": "hello-world-1989/cn-news",
+      "stars": 432,
+      "forks": 18,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 98.0
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7527,
-      "forks": 1230,
-      "extracted_nodes": 86,
-      "valid_nodes": 21,
-      "quality_score": 100
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 81,
+      "forks": 7,
+      "extracted_nodes": 496,
+      "valid_nodes": 11,
+      "quality_score": 87.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 51,
       "forks": 6,
-      "extracted_nodes": 375,
-      "valid_nodes": 166,
+      "extracted_nodes": 382,
+      "valid_nodes": 178,
       "quality_score": 86.0
     },
     {
-      "repository": "akiralereal/iptv",
-      "stars": 106,
-      "forks": 44,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 46,
+      "forks": 6,
+      "extracted_nodes": 1139,
+      "valid_nodes": 247,
+      "quality_score": 82.8
     },
     {
       "repository": "WLget/V2Ray_configs_64",
-      "stars": 255,
+      "stars": 256,
       "forks": 25,
-      "extracted_nodes": 0,
+      "extracted_nodes": 1,
       "valid_nodes": 0,
       "quality_score": 60
-    },
-    {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 166,
-      "forks": 19,
-      "extracted_nodes": 15,
-      "valid_nodes": 0,
-      "quality_score": 59.0
     },
     {
       "repository": "spincat/SmartProxyPipeline",
@@ -76,18 +76,66 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 8,
       "forks": 0,
-      "extracted_nodes": 52,
-      "valid_nodes": 19,
+      "extracted_nodes": 53,
+      "valid_nodes": 20,
       "quality_score": 46.4
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
+      "repository": "ChaselDutt/VPN-Deep-Test",
+      "stars": 75,
+      "forks": 2,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 42.0
+    },
+    {
+      "repository": "nyarvex/VPS_proxy_hy2",
+      "stars": 47,
+      "forks": 4,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 41.6
+    },
+    {
+      "repository": "cbusifabcap/daily_free_vpn",
+      "stars": 15,
+      "forks": 2,
+      "extracted_nodes": 480,
+      "valid_nodes": 0,
+      "quality_score": 14.0
+    },
+    {
+      "repository": "feiniaovpn/Free-VPN",
+      "stars": 2,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 2.6
+    },
+    {
+      "repository": "styleless-oldboy528/ispip",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 133,
-      "valid_nodes": 123,
-      "quality_score": 40.8
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "kael-aiur/clash-subscriber",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "wangdefoo/clash-subscribe",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 4,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-05 14:24:09"
+  "updated_at": "2026-06-05 17:48:36"
 }
