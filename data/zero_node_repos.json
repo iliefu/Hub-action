@@ -27,6 +27,7 @@
     "XiaoM-OVO/cvr-config",
     "XuelinHu/chinese-vietnamese-railway-term-learning",
     "XuelinHu/school-chinese-exam-practice",
+    "YuFan08/sbm",
     "alibaba/canal",
     "bgpeer/vps-net",
     "bia-pain-bache/BPB-Worker-Panel",
@@ -37,6 +38,8 @@
     "deezertidal/fee-based",
     "devswha/patina",
     "feiniao1-VPN/Free-Accelerator---VPN",
+    "feiniao1-VPN/Node-based-VPN",
+    "feiniao25789/feiniao-vpn",
     "feiniao25789/vpn",
     "find-xposed-magisk/cloudflare-reverse-proxy",
     "gfpcom/free-proxy-list",
@@ -45,8 +48,11 @@
     "hyizhou/coding-quota-bar",
     "ilhajs/ilha",
     "junjun266/FreeProxyGo",
+    "lerity-yao/czt-contrib",
     "lerjtl/Testfree",
+    "liangshengyong/LanWan",
     "licheng527/Free-servers",
+    "lioneltchami/superwarp-toolkit",
     "liuyangyi0/argus",
     "lps604/20260119BPBauto",
     "macrwfuse/myspeed-cn",
@@ -61,6 +67,7 @@
     "px80004/Best-China-VPN-2026-GFW-Bypass",
     "python-net-dev/network-test",
     "raychencrh-cpu/ai-subscription-compare",
+    "sdfnh/fanqiang",
     "skka3134/Free-servers",
     "toml66l/fanqiang",
     "wanwushequ/cfyxip",
@@ -73,5 +80,5 @@
     "zinan92/daily-newsletter",
     "zming-huang/Pure_Vector_Studio_Pro"
   ],
-  "updated_at": "2026-06-04 14:34:26"
+  "updated_at": "2026-06-05 06:58:30"
 }

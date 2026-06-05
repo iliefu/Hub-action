@@ -3085,6 +3085,156 @@
       "last_nodes_update": "2026-06-03T09:29:41.407996Z"
     },
     {
+      "repository": "peasoft/NoMoreWalls",
+      "stars": 3296,
+      "forks": 524,
+      "extracted_nodes": 201,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "list.meta.yml",
+          "node_count": 112,
+          "last_checked": "2026-06-05T06:58:16.109789Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml"
+        },
+        {
+          "path": "list.txt",
+          "node_count": 112,
+          "last_checked": "2026-06-05T06:58:16.173165Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt"
+        },
+        {
+          "path": "list.yml",
+          "node_count": 33,
+          "last_checked": "2026-06-05T06:58:16.577740Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml"
+        },
+        {
+          "path": "list_raw.txt",
+          "node_count": 112,
+          "last_checked": "2026-06-05T06:58:16.628823Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt"
+        },
+        {
+          "path": "snippets/nodes.meta.yml",
+          "node_count": 112,
+          "last_checked": "2026-06-05T06:58:17.512530Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml"
+        },
+        {
+          "path": "snippets/nodes.yml",
+          "node_count": 33,
+          "last_checked": "2026-06-05T06:58:17.588818Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.yml"
+        },
+        {
+          "path": "snippets/nodes_CA.meta.yml",
+          "node_count": 1,
+          "last_checked": "2026-06-05T06:58:17.683282Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_CA.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_CA.yml",
+          "node_count": 1,
+          "last_checked": "2026-06-05T06:58:17.761673Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_CA.yml"
+        },
+        {
+          "path": "snippets/nodes_CH.meta.yml",
+          "node_count": 1,
+          "last_checked": "2026-06-05T06:58:17.858895Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_CH.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_CH.yml",
+          "node_count": 1,
+          "last_checked": "2026-06-05T06:58:17.949992Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_CH.yml"
+        },
+        {
+          "path": "snippets/nodes_DE.meta.yml",
+          "node_count": 16,
+          "last_checked": "2026-06-05T06:58:18.315322Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_DE.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_DE.yml",
+          "node_count": 3,
+          "last_checked": "2026-06-05T06:58:18.404904Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_DE.yml"
+        },
+        {
+          "path": "snippets/nodes_FR.meta.yml",
+          "node_count": 3,
+          "last_checked": "2026-06-05T06:58:18.650396Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_FR.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_GB.meta.yml",
+          "node_count": 11,
+          "last_checked": "2026-06-05T06:58:18.824798Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_GB.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_HK.meta.yml",
+          "node_count": 10,
+          "last_checked": "2026-06-05T06:58:19.014505Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_HK.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_HK.yml",
+          "node_count": 6,
+          "last_checked": "2026-06-05T06:58:19.089412Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_HK.yml"
+        },
+        {
+          "path": "snippets/nodes_JP.meta.yml",
+          "node_count": 6,
+          "last_checked": "2026-06-05T06:58:19.174198Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_JP.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_JP.yml",
+          "node_count": 3,
+          "last_checked": "2026-06-05T06:58:19.262484Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_JP.yml"
+        },
+        {
+          "path": "snippets/nodes_RU.meta.yml",
+          "node_count": 5,
+          "last_checked": "2026-06-05T06:58:19.512724Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_RU.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_SG.meta.yml",
+          "node_count": 6,
+          "last_checked": "2026-06-05T06:58:19.853310Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_SG.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_SG.yml",
+          "node_count": 3,
+          "last_checked": "2026-06-05T06:58:19.921499Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_SG.yml"
+        },
+        {
+          "path": "snippets/nodes_US.meta.yml",
+          "node_count": 11,
+          "last_checked": "2026-06-05T06:58:20.173477Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_US.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_US.yml",
+          "node_count": 4,
+          "last_checked": "2026-06-05T06:58:20.265883Z",
+          "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes_US.yml"
+        }
+      ],
+      "last_full_scan": "2026-06-05T06:58:30.478155Z",
+      "last_nodes_update": "2026-06-05T06:58:30.478159Z"
+    },
+    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
@@ -3119,9 +3269,27 @@
       ],
       "last_full_scan": "2026-06-04T02:38:29.521492Z",
       "last_nodes_update": "2026-06-04T02:38:29.521519Z"
+    },
+    {
+      "repository": "lanzm/MetaFetch",
+      "stars": 9,
+      "forks": 2,
+      "extracted_nodes": 141,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "list.meta.yml",
+          "node_count": 141,
+          "last_checked": "2026-06-05T06:58:11.226989Z",
+          "url": "https://raw.githubusercontent.com/lanzm/MetaFetch/master/list.meta.yml"
+        }
+      ],
+      "last_full_scan": "2026-06-05T06:58:30.478093Z",
+      "last_nodes_update": "2026-06-05T06:58:30.478113Z"
     }
   ],
-  "updated_at": "2026-06-04 14:34:26",
-  "total_whitelisted_repos": 8,
-  "total_cached_nodes": 6430
+  "updated_at": "2026-06-05 06:58:30",
+  "total_whitelisted_repos": 10,
+  "total_cached_nodes": 6772
 }
