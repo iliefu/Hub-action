@@ -2,7 +2,7 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9008,
+      "stars": 9010,
       "forks": 670,
       "extracted_nodes": 55,
       "valid_nodes": 34,
@@ -11,24 +11,32 @@
     {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 913,
-      "forks": 128,
+      "forks": 129,
       "extracted_nodes": 3000,
-      "valid_nodes": 120,
+      "valid_nodes": 122,
       "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 433,
+      "forks": 18,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 98.0
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 46,
       "forks": 56,
-      "extracted_nodes": 465,
-      "valid_nodes": 15,
+      "extracted_nodes": 549,
+      "valid_nodes": 12,
       "quality_score": 96.8
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 81,
       "forks": 7,
-      "extracted_nodes": 495,
+      "extracted_nodes": 488,
       "valid_nodes": 9,
       "quality_score": 87.0
     },
@@ -36,23 +44,15 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 51,
       "forks": 6,
-      "extracted_nodes": 192,
-      "valid_nodes": 9,
+      "extracted_nodes": 421,
+      "valid_nodes": 213,
       "quality_score": 86.0
     },
     {
-      "repository": "gslege/CloudflareIP",
-      "stars": 442,
-      "forks": 228,
-      "extracted_nodes": 20,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 257,
-      "forks": 25,
-      "extracted_nodes": 8,
+      "repository": "NiceVPN123/NiceVPN",
+      "stars": 628,
+      "forks": 57,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -65,11 +65,19 @@
       "quality_score": 59.0
     },
     {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 672,
+      "valid_nodes": 44,
+      "quality_score": 47.4
+    },
+    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 8,
       "forks": 0,
-      "extracted_nodes": 51,
-      "valid_nodes": 18,
+      "extracted_nodes": 50,
+      "valid_nodes": 16,
       "quality_score": 46.4
     },
     {
@@ -81,15 +89,15 @@
       "quality_score": 40.8
     },
     {
-      "repository": "qingchencloud/openclaw-standalone",
-      "stars": 34,
-      "forks": 10,
+      "repository": "lzm880880/free-vpn-clash-nodes",
+      "stars": 4,
+      "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 37.2
+      "quality_score": 3.2
     },
     {
-      "repository": "sdlw7757/Node-Aggregation-Platform",
+      "repository": "644646497/rss",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,7 +105,23 @@
       "quality_score": 0.8
     },
     {
-      "repository": "1837620622/freevpn-cknb-ckk",
+      "repository": "feiniaovpn/Game-Accelerator---VPN",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "onl35461-debug/Node-Airport---VPN",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "xixinsama/GDNative-GPUStableFluids2D",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,15 +129,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "Vitam1n4ik/warp-config-generator-vercel",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Suquster/CANN-Operator-Ladder-Contest-2026-06",
+      "repository": "feiniaovpn/--VPN",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -121,5 +137,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-06 13:06:22"
+  "updated_at": "2026-06-06 16:59:28"
 }
