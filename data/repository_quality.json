@@ -2,7 +2,7 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9007,
+      "stars": 9008,
       "forks": 670,
       "extracted_nodes": 55,
       "valid_nodes": 26,
@@ -10,10 +10,10 @@
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 911,
+      "stars": 912,
       "forks": 128,
       "extracted_nodes": 3000,
-      "valid_nodes": 131,
+      "valid_nodes": 112,
       "quality_score": 100
     },
     {
@@ -28,74 +28,66 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 45,
       "forks": 57,
-      "extracted_nodes": 628,
-      "valid_nodes": 9,
+      "extracted_nodes": 575,
+      "valid_nodes": 5,
       "quality_score": 96.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 51,
       "forks": 6,
-      "extracted_nodes": 182,
-      "valid_nodes": 15,
+      "extracted_nodes": 414,
+      "valid_nodes": 205,
       "quality_score": 86.0
     },
     {
-      "repository": "ripaojiedian/freenode",
-      "stars": 2275,
-      "forks": 121,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "nellimonix/warp-config-generator-vercel",
-      "stars": 909,
-      "forks": 38,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 256,
-      "forks": 25,
-      "extracted_nodes": 31,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 672,
+      "valid_nodes": 43,
+      "quality_score": 47.4
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 8,
       "forks": 0,
-      "extracted_nodes": 53,
-      "valid_nodes": 20,
+      "extracted_nodes": 52,
+      "valid_nodes": 19,
       "quality_score": 46.4
-    },
-    {
-      "repository": "nodesfree/clashnode",
-      "stars": 71,
-      "forks": 4,
-      "extracted_nodes": 16,
-      "valid_nodes": 0,
-      "quality_score": 44.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 139,
-      "valid_nodes": 129,
+      "extracted_nodes": 137,
+      "valid_nodes": 131,
       "quality_score": 40.8
     },
     {
       "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 15,
+      "stars": 16,
       "forks": 2,
       "extracted_nodes": 480,
       "valid_nodes": 0,
-      "quality_score": 14.0
+      "quality_score": 14.8
+    },
+    {
+      "repository": "Xeonice/kitty-config",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "XKLingYu/kk-vibe-cli",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-06 02:04:14"
+  "updated_at": "2026-06-06 06:46:40"
 }
