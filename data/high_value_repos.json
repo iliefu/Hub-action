@@ -1849,6 +1849,30 @@
       "last_nodes_update": "2026-06-03T09:29:41.408142Z"
     },
     {
+      "repository": "tonyhuang23-sys/CFnodes",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 719,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/nodes.txt",
+          "node_count": 973,
+          "last_checked": "2026-06-07T10:22:32.814905Z",
+          "url": "https://raw.githubusercontent.com/tonyhuang23-sys/CFnodes/main/output/nodes.txt"
+        },
+        {
+          "path": "output/sub.txt",
+          "node_count": 973,
+          "last_checked": "2026-06-07T10:22:33.008426Z",
+          "url": "https://raw.githubusercontent.com/tonyhuang23-sys/CFnodes/main/output/sub.txt"
+        }
+      ],
+      "last_full_scan": "2026-06-07T10:22:37.004600Z",
+      "last_nodes_update": "2026-06-07T10:22:37.004638Z"
+    },
+    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 45,
       "forks": 57,
@@ -3355,7 +3379,7 @@
       "last_nodes_update": "2026-06-05T06:58:30.478113Z"
     }
   ],
-  "updated_at": "2026-06-07 07:47:25",
-  "total_whitelisted_repos": 11,
-  "total_cached_nodes": 7449
+  "updated_at": "2026-06-07 10:22:37",
+  "total_whitelisted_repos": 12,
+  "total_cached_nodes": 8168
 }

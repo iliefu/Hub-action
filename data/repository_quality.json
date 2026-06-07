@@ -5,7 +5,7 @@
       "stars": 9013,
       "forks": 670,
       "extracted_nodes": 55,
-      "valid_nodes": 30,
+      "valid_nodes": 31,
       "quality_score": 100
     },
     {
@@ -13,7 +13,7 @@
       "stars": 914,
       "forks": 130,
       "extracted_nodes": 3000,
-      "valid_nodes": 121,
+      "valid_nodes": 137,
       "quality_score": 100
     },
     {
@@ -21,16 +21,24 @@
       "stars": 434,
       "forks": 18,
       "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "valid_nodes": 1,
       "quality_score": 98.0
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 46,
       "forks": 57,
-      "extracted_nodes": 674,
+      "extracted_nodes": 793,
       "valid_nodes": 64,
       "quality_score": 96.8
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 81,
+      "forks": 7,
+      "extracted_nodes": 491,
+      "valid_nodes": 9,
+      "quality_score": 87.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -41,12 +49,12 @@
       "quality_score": 86.0
     },
     {
-      "repository": "ishalumi/proxy-node-collector",
-      "stars": 23,
-      "forks": 1,
-      "extracted_nodes": 80,
-      "valid_nodes": 14,
-      "quality_score": 59.4
+      "repository": "wenxig/dongtai-sub",
+      "stars": 167,
+      "forks": 19,
+      "extracted_nodes": 15,
+      "valid_nodes": 0,
+      "quality_score": 59.0
     },
     {
       "repository": "spincat/SmartProxyPipeline",
@@ -69,8 +77,16 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 136,
-      "valid_nodes": 125,
+      "valid_nodes": 122,
       "quality_score": 40.8
+    },
+    {
+      "repository": "tonyhuang23-sys/CFnodes",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 719,
+      "valid_nodes": 279,
+      "quality_score": 40.0
     },
     {
       "repository": "cbusifabcap/daily_free_vpn",
@@ -81,15 +97,7 @@
       "quality_score": 14.8
     },
     {
-      "repository": "Miku196/a-ics",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 1.6
-    },
-    {
-      "repository": "Sparky2273/V2RayConverter",
+      "repository": "9527moses/tizi",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-07 07:47:35"
+  "updated_at": "2026-06-07 10:22:40"
 }
