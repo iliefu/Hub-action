@@ -5,23 +5,31 @@
       "stars": 9014,
       "forks": 670,
       "extracted_nodes": 55,
-      "valid_nodes": 31,
+      "valid_nodes": 30,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 917,
-      "forks": 131,
+      "stars": 920,
+      "forks": 133,
       "extracted_nodes": 3000,
-      "valid_nodes": 125,
+      "valid_nodes": 105,
       "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 435,
+      "forks": 18,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 98.0
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 46,
       "forks": 57,
-      "extracted_nodes": 452,
-      "valid_nodes": 42,
+      "extracted_nodes": 644,
+      "valid_nodes": 59,
       "quality_score": 96.8
     },
     {
@@ -29,24 +37,16 @@
       "stars": 51,
       "forks": 6,
       "extracted_nodes": 371,
-      "valid_nodes": 177,
+      "valid_nodes": 173,
       "quality_score": 86.0
     },
     {
-      "repository": "esmnext/esmx",
-      "stars": 666,
-      "forks": 68,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 257,
-      "forks": 25,
-      "extracted_nodes": 37,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 635,
+      "valid_nodes": 37,
+      "quality_score": 47.4
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -57,23 +57,47 @@
       "quality_score": 46.4
     },
     {
-      "repository": "TG-NAV/nodeshare",
-      "stars": 76,
-      "forks": 3,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 43.0
-    },
-    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 118,
-      "valid_nodes": 113,
+      "extracted_nodes": 131,
+      "valid_nodes": 127,
       "quality_score": 40.8
     },
     {
-      "repository": "vchan-ui/sublinkY",
+      "repository": "My-Search/official-subscribe",
+      "stars": 20,
+      "forks": 7,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 23.0
+    },
+    {
+      "repository": "linlvyy/litebox-singbox-mini",
+      "stars": 6,
+      "forks": 6,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 10.8
+    },
+    {
+      "repository": "usehe/2026-Grok-SuperGrok-Grok",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "Neocvsu-commits/asset-exporter-tool",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "novacross5/vpn-android",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-08 02:36:18"
+  "updated_at": "2026-06-08 08:45:11"
 }
