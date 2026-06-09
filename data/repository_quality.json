@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9014,
+      "stars": 9012,
       "forks": 670,
       "extracted_nodes": 55,
-      "valid_nodes": 31,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
@@ -13,12 +13,12 @@
       "stars": 925,
       "forks": 133,
       "extracted_nodes": 3000,
-      "valid_nodes": 122,
+      "valid_nodes": 103,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 436,
+      "stars": 438,
       "forks": 18,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -28,32 +28,48 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 47,
       "forks": 57,
-      "extracted_nodes": 608,
-      "valid_nodes": 10,
+      "extracted_nodes": 929,
+      "valid_nodes": 21,
       "quality_score": 97.6
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 82,
+      "forks": 8,
+      "extracted_nodes": 477,
+      "valid_nodes": 11,
+      "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 52,
       "forks": 6,
-      "extracted_nodes": 406,
-      "valid_nodes": 167,
+      "extracted_nodes": 402,
+      "valid_nodes": 159,
       "quality_score": 86.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 171,
+      "forks": 19,
+      "extracted_nodes": 15,
+      "valid_nodes": 0,
+      "quality_score": 59.0
     },
     {
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
       "extracted_nodes": 663,
-      "valid_nodes": 22,
+      "valid_nodes": 21,
       "quality_score": 47.4
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 8,
       "forks": 0,
-      "extracted_nodes": 69,
-      "valid_nodes": 35,
+      "extracted_nodes": 64,
+      "valid_nodes": 32,
       "quality_score": 46.4
     },
     {
@@ -61,43 +77,19 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 120,
-      "valid_nodes": 110,
+      "valid_nodes": 103,
       "quality_score": 40.8
     },
     {
-      "repository": "wirelouis/komari-traffic-hub",
-      "stars": 12,
-      "forks": 2,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 11.6
-    },
-    {
-      "repository": "baimao9527/jptv_redirect",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "freeman1912/Good-News",
+      "repository": "tonyhuang23-sys/CFnodes",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "extracted_nodes": 676,
+      "valid_nodes": 180,
+      "quality_score": 40.0
     },
     {
-      "repository": "qianbkk/ScholarFlow",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "gofly12/proxy",
+      "repository": "Pretic/SB-cfy-Pre",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-09 07:37:55"
+  "updated_at": "2026-06-09 10:52:25"
 }
