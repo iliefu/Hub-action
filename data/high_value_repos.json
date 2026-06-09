@@ -6787,6 +6787,48 @@
       "last_nodes_update": "2026-06-03T09:29:41.407996Z"
     },
     {
+      "repository": "saishun/TyporaTheme",
+      "stars": 4,
+      "forks": 16,
+      "extracted_nodes": 241,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "sub.txt",
+          "node_count": 63,
+          "last_checked": "2026-06-09T21:30:03.034883Z",
+          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/sub.txt"
+        },
+        {
+          "path": "sub3.txt",
+          "node_count": 73,
+          "last_checked": "2026-06-09T21:30:03.123042Z",
+          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/sub3.txt"
+        },
+        {
+          "path": "trial.yaml",
+          "node_count": 105,
+          "last_checked": "2026-06-09T21:30:03.736738Z",
+          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/trial.yaml"
+        },
+        {
+          "path": "trials/ayucloud.services.yaml",
+          "node_count": 105,
+          "last_checked": "2026-06-09T21:30:04.793335Z",
+          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/trials/ayucloud.services.yaml"
+        },
+        {
+          "path": "trials_providers/All.yaml",
+          "node_count": 105,
+          "last_checked": "2026-06-09T21:30:05.508003Z",
+          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/trials_providers/All.yaml"
+        }
+      ],
+      "last_full_scan": "2026-06-09T21:30:10.613347Z",
+      "last_nodes_update": "2026-06-09T21:30:10.613376Z"
+    },
+    {
       "repository": "peasoft/NoMoreWalls",
       "stars": 3296,
       "forks": 524,
@@ -7117,7 +7159,7 @@
       "last_nodes_update": "2026-06-07T17:06:58.181361Z"
     }
   ],
-  "updated_at": "2026-06-09 17:54:05",
-  "total_whitelisted_repos": 15,
-  "total_cached_nodes": 12218
+  "updated_at": "2026-06-09 21:30:10",
+  "total_whitelisted_repos": 16,
+  "total_cached_nodes": 12459
 }

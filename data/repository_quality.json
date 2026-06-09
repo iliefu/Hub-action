@@ -5,15 +5,15 @@
       "stars": 9013,
       "forks": 670,
       "extracted_nodes": 55,
-      "valid_nodes": 31,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 928,
+      "stars": 930,
       "forks": 133,
       "extracted_nodes": 3000,
-      "valid_nodes": 131,
+      "valid_nodes": 147,
       "quality_score": 100
     },
     {
@@ -21,23 +21,15 @@
       "stars": 1666,
       "forks": 105,
       "extracted_nodes": 16,
-      "valid_nodes": 12,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 259,
-      "forks": 25,
-      "extracted_nodes": 2,
-      "valid_nodes": 1,
+      "valid_nodes": 16,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 48,
       "forks": 58,
-      "extracted_nodes": 628,
-      "valid_nodes": 19,
+      "extracted_nodes": 591,
+      "valid_nodes": 81,
       "quality_score": 98.4
     },
     {
@@ -52,17 +44,41 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 82,
       "forks": 8,
-      "extracted_nodes": 477,
-      "valid_nodes": 15,
+      "extracted_nodes": 472,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 52,
       "forks": 6,
-      "extracted_nodes": 428,
-      "valid_nodes": 195,
+      "extracted_nodes": 425,
+      "valid_nodes": 185,
       "quality_score": 86.0
+    },
+    {
+      "repository": "deezertidal/freevpn",
+      "stars": 820,
+      "forks": 31,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "saishun/TyporaTheme",
+      "stars": 4,
+      "forks": 16,
+      "extracted_nodes": 241,
+      "valid_nodes": 168,
+      "quality_score": 59.2
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 171,
+      "forks": 19,
+      "extracted_nodes": 15,
+      "valid_nodes": 0,
+      "quality_score": 59.0
     },
     {
       "repository": "spincat/SmartProxyPipeline",
@@ -76,36 +92,28 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 8,
       "forks": 0,
-      "extracted_nodes": 60,
-      "valid_nodes": 26,
+      "extracted_nodes": 51,
+      "valid_nodes": 20,
       "quality_score": 46.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 123,
-      "valid_nodes": 110,
+      "extracted_nodes": 133,
+      "valid_nodes": 123,
       "quality_score": 40.8
     },
     {
-      "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 17,
-      "forks": 2,
-      "extracted_nodes": 480,
-      "valid_nodes": 0,
-      "quality_score": 15.6
-    },
-    {
-      "repository": "CB-X2-Jun/proxy-lists",
-      "stars": 4,
-      "forks": 1,
+      "repository": "Babbage42/whirli-ng",
+      "stars": 1,
+      "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 4.2
+      "quality_score": 0.8
     },
     {
-      "repository": "georgio-ghamchoul/chines-pocker",
+      "repository": "feiniao1-VPN/Node-Airport---VPN",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,5 +121,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-09 17:54:08"
+  "updated_at": "2026-06-09 21:30:14"
 }
