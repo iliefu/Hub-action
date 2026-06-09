@@ -60,6 +60,7 @@
     "achuanya/rss-lhasa",
     "akiralereal/iptv",
     "alibaba/canal",
+    "baimao9527/jptv_redirect",
     "bgpeer/vps-net",
     "bia-pain-bache/BPB-Worker-Panel",
     "bq2015/FreeProxies",
@@ -85,9 +86,11 @@
     "feiniaovpn/Office---VPN",
     "find-xposed-magisk/cloudflare-reverse-proxy",
     "free-proxy-nodes/free-nodes",
+    "freeman1912/Good-News",
     "fxai666/fxai-toolkit",
     "gandaoyang/AsoooN",
     "gfpcom/free-proxy-list",
+    "gofly12/proxy",
     "haandiiong/yp7.net",
     "harrypapaai/limitless",
     "hyizhou/coding-quota-bar",
@@ -126,6 +129,7 @@
     "pwhkk/pyxy",
     "px80004/Best-China-VPN-2026-GFW-Bypass",
     "python-net-dev/network-test",
+    "qianbkk/ScholarFlow",
     "qingchencloud/openclaw-standalone",
     "raychencrh-cpu/ai-subscription-compare",
     "ripaojiedian/freenode",
@@ -144,6 +148,7 @@
     "wanwushequ/cfyxip",
     "wichaisw/news-crawler",
     "winds18/FluxGate",
+    "wirelouis/komari-traffic-hub",
     "wonderingearth/comfyui-moss-tts",
     "xiaoshengyvlin/Zako-Prompt-Tools",
     "xixinsama/GDNative-GPUStableFluids2D",
@@ -156,5 +161,5 @@
     "zinan92/daily-newsletter",
     "zming-huang/Pure_Vector_Studio_Pro"
   ],
-  "updated_at": "2026-06-09 02:00:33"
+  "updated_at": "2026-06-09 07:37:44"
 }
