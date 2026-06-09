@@ -10,26 +10,18 @@
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 923,
+      "stars": 924,
       "forks": 133,
       "extracted_nodes": 3000,
-      "valid_nodes": 127,
-      "quality_score": 100
-    },
-    {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1661,
-      "forks": 104,
-      "extracted_nodes": 16,
-      "valid_nodes": 16,
+      "valid_nodes": 130,
       "quality_score": 100
     },
     {
       "repository": "WLget/V2Ray_configs_64",
       "stars": 259,
       "forks": 25,
-      "extracted_nodes": 101,
-      "valid_nodes": 2,
+      "extracted_nodes": 135,
+      "valid_nodes": 5,
       "quality_score": 100
     },
     {
@@ -44,45 +36,21 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 47,
       "forks": 57,
-      "extracted_nodes": 639,
-      "valid_nodes": 77,
+      "extracted_nodes": 613,
+      "valid_nodes": 25,
       "quality_score": 97.6
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 82,
-      "forks": 8,
-      "extracted_nodes": 476,
-      "valid_nodes": 11,
-      "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 51,
       "forks": 6,
-      "extracted_nodes": 411,
-      "valid_nodes": 182,
+      "extracted_nodes": 409,
+      "valid_nodes": 180,
       "quality_score": 86.0
     },
     {
-      "repository": "danmaifu/mianfeijiedian",
-      "stars": 133,
-      "forks": 4,
-      "extracted_nodes": 3000,
-      "valid_nodes": 568,
-      "quality_score": 84.0
-    },
-    {
-      "repository": "jichangtuijian-cheap/cheap-airports",
-      "stars": 413,
-      "forks": 27,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
       "repository": "wenxig/dongtai-sub",
-      "stars": 169,
+      "stars": 170,
       "forks": 19,
       "extracted_nodes": 15,
       "valid_nodes": 0,
@@ -93,7 +61,7 @@
       "stars": 8,
       "forks": 0,
       "extracted_nodes": 58,
-      "valid_nodes": 26,
+      "valid_nodes": 27,
       "quality_score": 46.4
     },
     {
@@ -101,7 +69,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 126,
-      "valid_nodes": 123,
+      "valid_nodes": 124,
       "quality_score": 40.8
     },
     {
@@ -113,13 +81,21 @@
       "quality_score": 15.6
     },
     {
-      "repository": "achuanya/rss-lhasa",
-      "stars": 2,
+      "repository": "fxai666/fxai-toolkit",
+      "stars": 11,
       "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 2.6
+      "quality_score": 9.8
+    },
+    {
+      "repository": "mylovecoop-ux/iphonet",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-08 21:46:23"
+  "updated_at": "2026-06-09 02:00:43"
 }
