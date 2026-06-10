@@ -5791,6 +5791,36 @@
       "last_nodes_update": "2026-06-08T21:46:10.335307Z"
     },
     {
+      "repository": "cxddgtb/dljdsjq",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 2643,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/easy_proxy_asia.txt",
+          "node_count": 1274,
+          "last_checked": "2026-06-10T18:29:44.149535Z",
+          "url": "https://raw.githubusercontent.com/cxddgtb/dljdsjq/main/output/easy_proxy_asia.txt"
+        },
+        {
+          "path": "output/easy_proxy_nodes.txt",
+          "node_count": 1422,
+          "last_checked": "2026-06-10T18:29:44.529047Z",
+          "url": "https://raw.githubusercontent.com/cxddgtb/dljdsjq/main/output/easy_proxy_nodes.txt"
+        },
+        {
+          "path": "output/easy_proxy_us_optimized.txt",
+          "node_count": 2132,
+          "last_checked": "2026-06-10T18:29:45.486803Z",
+          "url": "https://raw.githubusercontent.com/cxddgtb/dljdsjq/main/output/easy_proxy_us_optimized.txt"
+        }
+      ],
+      "last_full_scan": "2026-06-10T18:29:53.013203Z",
+      "last_nodes_update": "2026-06-10T18:29:53.013223Z"
+    },
+    {
       "repository": "v2raynnodes/v2rayfree",
       "stars": 43,
       "forks": 6,
@@ -7657,7 +7687,7 @@
       "last_nodes_update": "2026-06-07T17:06:58.181361Z"
     }
   ],
-  "updated_at": "2026-06-10 14:52:15",
-  "total_whitelisted_repos": 16,
-  "total_cached_nodes": 12206
+  "updated_at": "2026-06-10 18:29:53",
+  "total_whitelisted_repos": 17,
+  "total_cached_nodes": 14849
 }

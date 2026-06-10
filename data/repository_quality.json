@@ -2,7 +2,7 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9022,
+      "stars": 9023,
       "forks": 670,
       "extracted_nodes": 55,
       "valid_nodes": 31,
@@ -10,18 +10,18 @@
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 933,
+      "stars": 935,
       "forks": 134,
       "extracted_nodes": 3000,
-      "valid_nodes": 171,
+      "valid_nodes": 190,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 48,
       "forks": 58,
-      "extracted_nodes": 579,
-      "valid_nodes": 83,
+      "extracted_nodes": 764,
+      "valid_nodes": 16,
       "quality_score": 98.4
     },
     {
@@ -36,17 +36,25 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 82,
       "forks": 8,
-      "extracted_nodes": 471,
-      "valid_nodes": 12,
+      "extracted_nodes": 475,
+      "valid_nodes": 13,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 53,
       "forks": 6,
-      "extracted_nodes": 193,
-      "valid_nodes": 4,
+      "extracted_nodes": 191,
+      "valid_nodes": 2,
       "quality_score": 86.0
+    },
+    {
+      "repository": "John19187/The-40-Best-VPNs",
+      "stars": 757,
+      "forks": 59,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "wenxig/dongtai-sub",
@@ -57,11 +65,19 @@
       "quality_score": 59.0
     },
     {
+      "repository": "cxddgtb/dljdsjq",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 2643,
+      "valid_nodes": 256,
+      "quality_score": 47.4
+    },
+    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 8,
       "forks": 0,
-      "extracted_nodes": 55,
-      "valid_nodes": 23,
+      "extracted_nodes": 54,
+      "valid_nodes": 20,
       "quality_score": 46.4
     },
     {
@@ -69,41 +85,57 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 132,
-      "valid_nodes": 120,
+      "valid_nodes": 119,
       "quality_score": 40.8
     },
     {
-      "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 18,
-      "forks": 2,
-      "extracted_nodes": 480,
+      "repository": "lanrat/wireguard-warp-generator",
+      "stars": 37,
+      "forks": 3,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 16.4
+      "quality_score": 32.6
     },
     {
-      "repository": "xiagefei/GeFei-Sub-Worker-",
-      "stars": 0,
+      "repository": "ls125781003/qqctg",
+      "stars": 6,
+      "forks": 9,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 13.8
+    },
+    {
+      "repository": "st800820/iptv-api",
+      "stars": 3,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 2.4
     },
     {
-      "repository": "AnthemZhou/Node_Console",
-      "stars": 0,
+      "repository": "zhaolinger9902/china-cryptos",
+      "stars": 3,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 2.4
     },
     {
-      "repository": "wangyiyuanfive/elevator_mode",
-      "stars": 0,
+      "repository": "xijianwei/kexueshangwang",
+      "stars": 1,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.8
+    },
+    {
+      "repository": "syzry/c.t.f_ical",
+      "stars": 2,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 1.6
     }
   ],
-  "updated_at": "2026-06-10 14:52:25"
+  "updated_at": "2026-06-10 18:30:04"
 }
