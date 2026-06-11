@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9023,
+      "stars": 9025,
       "forks": 670,
       "extracted_nodes": 55,
-      "valid_nodes": 32,
+      "valid_nodes": 30,
       "quality_score": 100
     },
     {
@@ -13,28 +13,20 @@
       "stars": 936,
       "forks": 134,
       "extracted_nodes": 3000,
-      "valid_nodes": 133,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 260,
-      "forks": 25,
-      "extracted_nodes": 27,
-      "valid_nodes": 2,
+      "valid_nodes": 128,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 48,
-      "forks": 58,
-      "extracted_nodes": 681,
-      "valid_nodes": 98,
+      "forks": 57,
+      "extracted_nodes": 934,
+      "valid_nodes": 6,
       "quality_score": 98.4
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 438,
+      "stars": 440,
       "forks": 18,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -42,36 +34,76 @@
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 53,
+      "stars": 54,
       "forks": 6,
       "extracted_nodes": 196,
       "valid_nodes": 5,
       "quality_score": 86.0
     },
     {
+      "repository": "maomao533/jichangtizi-tuijian",
+      "stars": 819,
+      "forks": 31,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 732,
+      "extracted_nodes": 731,
       "valid_nodes": 27,
       "quality_score": 47.4
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
-      "stars": 8,
+      "stars": 9,
       "forks": 0,
-      "extracted_nodes": 50,
-      "valid_nodes": 20,
-      "quality_score": 46.4
+      "extracted_nodes": 56,
+      "valid_nodes": 24,
+      "quality_score": 47.2
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 132,
-      "valid_nodes": 121,
+      "extracted_nodes": 131,
+      "valid_nodes": 124,
       "quality_score": 40.8
+    },
+    {
+      "repository": "28998306/MagicalCanvas",
+      "stars": 10,
+      "forks": 9,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 17.0
+    },
+    {
+      "repository": "idadawn/sing-box-deploy",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "cnkedao/opengnb-admin",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "yadinae/tg-cloud-drive-worker",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-11 02:38:35"
+  "updated_at": "2026-06-11 08:27:52"
 }
