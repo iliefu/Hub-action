@@ -7297,6 +7297,30 @@
       "last_nodes_update": "2026-06-10T11:40:46.789876Z"
     },
     {
+      "repository": "free18/v2ray",
+      "stars": 4797,
+      "forks": 225,
+      "extracted_nodes": 268,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "c.yaml",
+          "node_count": 158,
+          "last_checked": "2026-06-12T02:31:09.524278Z",
+          "url": "https://raw.githubusercontent.com/free18/v2ray/main/c.yaml"
+        },
+        {
+          "path": "v.txt",
+          "node_count": 158,
+          "last_checked": "2026-06-12T02:31:09.602668Z",
+          "url": "https://raw.githubusercontent.com/free18/v2ray/main/v.txt"
+        }
+      ],
+      "last_full_scan": "2026-06-12T02:31:09.965864Z",
+      "last_nodes_update": "2026-06-12T02:31:09.965883Z"
+    },
+    {
       "repository": "saishun/TyporaTheme",
       "stars": 4,
       "forks": 16,
@@ -7687,7 +7711,7 @@
       "last_nodes_update": "2026-06-07T17:06:58.181361Z"
     }
   ],
-  "updated_at": "2026-06-11 21:55:35",
-  "total_whitelisted_repos": 17,
-  "total_cached_nodes": 14932
+  "updated_at": "2026-06-12 02:31:09",
+  "total_whitelisted_repos": 18,
+  "total_cached_nodes": 15200
 }
