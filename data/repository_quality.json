@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9028,
+      "stars": 9029,
       "forks": 670,
       "extracted_nodes": 55,
-      "valid_nodes": 31,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
@@ -13,23 +13,15 @@
       "stars": 944,
       "forks": 137,
       "extracted_nodes": 3000,
-      "valid_nodes": 60,
+      "valid_nodes": 96,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 51,
       "forks": 58,
-      "extracted_nodes": 494,
-      "valid_nodes": 23,
-      "quality_score": 100
-    },
-    {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7578,
-      "forks": 1235,
-      "extracted_nodes": 90,
-      "valid_nodes": 18,
+      "extracted_nodes": 807,
+      "valid_nodes": 87,
       "quality_score": 100
     },
     {
@@ -44,24 +36,24 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 82,
       "forks": 8,
-      "extracted_nodes": 479,
-      "valid_nodes": 9,
+      "extracted_nodes": 473,
+      "valid_nodes": 10,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 55,
       "forks": 6,
-      "extracted_nodes": 192,
-      "valid_nodes": 4,
+      "extracted_nodes": 199,
+      "valid_nodes": 5,
       "quality_score": 86.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 10,
       "forks": 0,
-      "extracted_nodes": 40,
-      "valid_nodes": 8,
+      "extracted_nodes": 45,
+      "valid_nodes": 14,
       "quality_score": 48.0
     },
     {
@@ -69,7 +61,7 @@
       "stars": 8,
       "forks": 1,
       "extracted_nodes": 654,
-      "valid_nodes": 17,
+      "valid_nodes": 19,
       "quality_score": 47.4
     },
     {
@@ -77,25 +69,25 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 126,
-      "valid_nodes": 117,
+      "valid_nodes": 116,
       "quality_score": 40.8
     },
     {
-      "repository": "2428424081cn/RedChamber-GraphRAG",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
+      "repository": "cbusifabcap/daily_free_vpn",
+      "stars": 22,
+      "forks": 2,
+      "extracted_nodes": 480,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 19.6
     },
     {
-      "repository": "AiLee77/proxyip.cczz.eu.cc",
-      "stars": 1,
+      "repository": "QuickQ-Officialdownload/QuickQ-Officialdownload",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-12 14:34:10"
+  "updated_at": "2026-06-12 18:00:48"
 }
