@@ -9,24 +9,40 @@
       "quality_score": 100
     },
     {
+      "repository": "shaoyouvip/free",
+      "stars": 782,
+      "forks": 70,
+      "extracted_nodes": 81,
+      "valid_nodes": 40,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 944,
+      "stars": 947,
       "forks": 137,
       "extracted_nodes": 3000,
-      "valid_nodes": 96,
+      "valid_nodes": 81,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 51,
       "forks": 58,
-      "extracted_nodes": 807,
-      "valid_nodes": 87,
+      "extracted_nodes": 662,
+      "valid_nodes": 42,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7579,
+      "forks": 1235,
+      "extracted_nodes": 88,
+      "valid_nodes": 18,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 443,
+      "stars": 444,
       "forks": 18,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -36,24 +52,24 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 82,
       "forks": 8,
-      "extracted_nodes": 473,
-      "valid_nodes": 10,
+      "extracted_nodes": 472,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 55,
       "forks": 6,
-      "extracted_nodes": 199,
-      "valid_nodes": 5,
+      "extracted_nodes": 195,
+      "valid_nodes": 4,
       "quality_score": 86.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 10,
       "forks": 0,
-      "extracted_nodes": 45,
-      "valid_nodes": 14,
+      "extracted_nodes": 39,
+      "valid_nodes": 8,
       "quality_score": 48.0
     },
     {
@@ -68,8 +84,8 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 126,
-      "valid_nodes": 116,
+      "extracted_nodes": 146,
+      "valid_nodes": 144,
       "quality_score": 40.8
     },
     {
@@ -81,7 +97,23 @@
       "quality_score": 19.6
     },
     {
-      "repository": "QuickQ-Officialdownload/QuickQ-Officialdownload",
+      "repository": "411A/V2RayDAR",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "i234323/warp-config-generator-vercel",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "sun0537/xray-web-maneger",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +121,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-12 18:00:48"
+  "updated_at": "2026-06-12 21:27:16"
 }
