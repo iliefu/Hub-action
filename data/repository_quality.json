@@ -1,6 +1,22 @@
 {
   "repositories": [
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 947,
+      "forks": 138,
+      "extracted_nodes": 3000,
+      "valid_nodes": 101,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 51,
+      "forks": 58,
+      "extracted_nodes": 599,
+      "valid_nodes": 17,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9029,
       "forks": 670,
@@ -9,32 +25,8 @@
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 51,
-      "forks": 58,
-      "extracted_nodes": 460,
-      "valid_nodes": 44,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 947,
-      "forks": 137,
-      "extracted_nodes": 3000,
-      "valid_nodes": 104,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 262,
-      "forks": 25,
-      "extracted_nodes": 19,
-      "valid_nodes": 3,
-      "quality_score": 100
-    },
-    {
       "repository": "hello-world-1989/cn-news",
-      "stars": 447,
+      "stars": 446,
       "forks": 18,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -44,36 +36,52 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 55,
       "forks": 6,
-      "extracted_nodes": 183,
-      "valid_nodes": 2,
+      "extracted_nodes": 189,
+      "valid_nodes": 1,
       "quality_score": 86.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 10,
       "forks": 0,
-      "extracted_nodes": 39,
-      "valid_nodes": 8,
+      "extracted_nodes": 42,
+      "valid_nodes": 12,
       "quality_score": 48.0
+    },
+    {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 689,
+      "valid_nodes": 20,
+      "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 146,
-      "valid_nodes": 142,
+      "extracted_nodes": 128,
+      "valid_nodes": 125,
       "quality_score": 40.8
     },
     {
-      "repository": "heyxiaoc/not-fade-away",
-      "stars": 26,
-      "forks": 1,
+      "repository": "Zhejian-Zheng/pilates-health-quiz",
+      "stars": 0,
+      "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 21.8
+      "quality_score": 0.0
     },
     {
-      "repository": "jlu005807/Simple-img-rawer",
+      "repository": "SatanDS/DuShengCDN",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "rshh-h/FigmaToCodeMcpServer",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-13 02:11:38"
+  "updated_at": "2026-06-13 07:40:10"
 }
