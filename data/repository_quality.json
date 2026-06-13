@@ -1,27 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 947,
-      "forks": 138,
-      "extracted_nodes": 3000,
-      "valid_nodes": 101,
-      "quality_score": 100
-    },
-    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 51,
       "forks": 58,
-      "extracted_nodes": 599,
-      "valid_nodes": 17,
+      "extracted_nodes": 2656,
+      "valid_nodes": 452,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 949,
+      "forks": 138,
+      "extracted_nodes": 3000,
+      "valid_nodes": 93,
       "quality_score": 100
     },
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9029,
+      "stars": 9027,
       "forks": 670,
       "extracted_nodes": 55,
-      "valid_nodes": 32,
+      "valid_nodes": 31,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7583,
+      "forks": 1235,
+      "extracted_nodes": 86,
+      "valid_nodes": 17,
       "quality_score": 100
     },
     {
@@ -33,12 +41,28 @@
       "quality_score": 98.0
     },
     {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 82,
+      "forks": 8,
+      "extracted_nodes": 474,
+      "valid_nodes": 10,
+      "quality_score": 88.0
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 55,
       "forks": 6,
       "extracted_nodes": 189,
       "valid_nodes": 1,
       "quality_score": 86.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 171,
+      "forks": 19,
+      "extracted_nodes": 13,
+      "valid_nodes": 0,
+      "quality_score": 59.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -53,7 +77,7 @@
       "stars": 8,
       "forks": 1,
       "extracted_nodes": 689,
-      "valid_nodes": 20,
+      "valid_nodes": 19,
       "quality_score": 47.4
     },
     {
@@ -61,27 +85,19 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 128,
-      "valid_nodes": 125,
+      "valid_nodes": 124,
       "quality_score": 40.8
     },
     {
-      "repository": "Zhejian-Zheng/pilates-health-quiz",
+      "repository": "tonyhuang23-sys/CFnodes",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "extracted_nodes": 801,
+      "valid_nodes": 169,
+      "quality_score": 40.0
     },
     {
-      "repository": "SatanDS/DuShengCDN",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "rshh-h/FigmaToCodeMcpServer",
+      "repository": "1148194155-cell/bureau2",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-13 07:40:10"
+  "updated_at": "2026-06-13 10:22:06"
 }

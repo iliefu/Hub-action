@@ -1,6 +1,7 @@
 {
   "zero_node_repos": [
     "029danio/fly",
+    "1148194155-cell/bureau2",
     "1756141021/comfyui-character-picker",
     "1837620622/freevpn-cknb-ckk",
     "2428424081cn/RedChamber-GraphRAG",
@@ -220,5 +221,5 @@
     "zinan92/daily-newsletter",
     "zming-huang/Pure_Vector_Studio_Pro"
   ],
-  "updated_at": "2026-06-13 07:40:00"
+  "updated_at": "2026-06-13 10:22:03"
 }
