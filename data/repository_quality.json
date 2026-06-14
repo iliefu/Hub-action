@@ -5,7 +5,7 @@
       "stars": 9027,
       "forks": 670,
       "extracted_nodes": 55,
-      "valid_nodes": 31,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
@@ -13,23 +13,23 @@
       "stars": 952,
       "forks": 138,
       "extracted_nodes": 3000,
-      "valid_nodes": 104,
+      "valid_nodes": 120,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 53,
-      "forks": 58,
-      "extracted_nodes": 971,
-      "valid_nodes": 114,
+      "forks": 59,
+      "extracted_nodes": 403,
+      "valid_nodes": 94,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7588,
-      "forks": 1235,
-      "extracted_nodes": 90,
-      "valid_nodes": 18,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 262,
+      "forks": 25,
+      "extracted_nodes": 28,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -41,19 +41,11 @@
       "quality_score": 98.0
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 82,
-      "forks": 8,
-      "extracted_nodes": 471,
-      "valid_nodes": 8,
-      "quality_score": 88.0
-    },
-    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 56,
       "forks": 6,
-      "extracted_nodes": 176,
-      "valid_nodes": 2,
+      "extracted_nodes": 171,
+      "valid_nodes": 4,
       "quality_score": 86.0
     },
     {
@@ -61,33 +53,17 @@
       "stars": 10,
       "forks": 0,
       "extracted_nodes": 40,
-      "valid_nodes": 9,
+      "valid_nodes": 10,
       "quality_score": 48.0
-    },
-    {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 689,
-      "valid_nodes": 20,
-      "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 129,
-      "valid_nodes": 121,
+      "valid_nodes": 117,
       "quality_score": 40.8
-    },
-    {
-      "repository": "jsllb1986/gkd-rules",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-13 21:02:41"
+  "updated_at": "2026-06-14 02:35:23"
 }
