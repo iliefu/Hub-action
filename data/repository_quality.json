@@ -5,7 +5,7 @@
       "stars": 9029,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 27,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
@@ -13,23 +13,23 @@
       "stars": 954,
       "forks": 138,
       "extracted_nodes": 3000,
-      "valid_nodes": 118,
+      "valid_nodes": 111,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 53,
       "forks": 60,
-      "extracted_nodes": 784,
-      "valid_nodes": 100,
+      "extracted_nodes": 828,
+      "valid_nodes": 37,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1679,
-      "forks": 106,
-      "extracted_nodes": 16,
-      "valid_nodes": 10,
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7588,
+      "forks": 1236,
+      "extracted_nodes": 80,
+      "valid_nodes": 19,
       "quality_score": 100
     },
     {
@@ -44,15 +44,15 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 82,
       "forks": 8,
-      "extracted_nodes": 472,
-      "valid_nodes": 11,
+      "extracted_nodes": 487,
+      "valid_nodes": 12,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 57,
       "forks": 6,
-      "extracted_nodes": 183,
+      "extracted_nodes": 184,
       "valid_nodes": 5,
       "quality_score": 86.0
     },
@@ -73,19 +73,11 @@
       "quality_score": 48.0
     },
     {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 673,
-      "valid_nodes": 21,
-      "quality_score": 47.4
-    },
-    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 139,
-      "valid_nodes": 128,
+      "valid_nodes": 131,
       "quality_score": 40.8
     },
     {
@@ -95,23 +87,7 @@
       "extracted_nodes": 928,
       "valid_nodes": 0,
       "quality_score": 19.6
-    },
-    {
-      "repository": "warpcmdr/warpcmdr",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "thirteen-incense/kikumi-translate",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-14 17:09:13"
+  "updated_at": "2026-06-14 21:01:00"
 }
