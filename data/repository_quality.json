@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9031,
+      "stars": 9033,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 31,
+      "valid_nodes": 25,
       "quality_score": 100
     },
     {
@@ -13,28 +13,20 @@
       "stars": 957,
       "forks": 138,
       "extracted_nodes": 3000,
-      "valid_nodes": 103,
+      "valid_nodes": 111,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 53,
       "forks": 60,
-      "extracted_nodes": 894,
-      "valid_nodes": 13,
-      "quality_score": 100
-    },
-    {
-      "repository": "free18/v2ray",
-      "stars": 4828,
-      "forks": 226,
-      "extracted_nodes": 198,
-      "valid_nodes": 99,
+      "extracted_nodes": 825,
+      "valid_nodes": 86,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 449,
+      "stars": 450,
       "forks": 18,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -52,42 +44,66 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 10,
       "forks": 0,
-      "extracted_nodes": 39,
-      "valid_nodes": 10,
+      "extracted_nodes": 40,
+      "valid_nodes": 8,
       "quality_score": 48.0
-    },
-    {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 698,
-      "valid_nodes": 20,
-      "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 144,
-      "valid_nodes": 136,
+      "extracted_nodes": 139,
+      "valid_nodes": 131,
       "quality_score": 40.8
     },
     {
-      "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 23,
+      "repository": "Jump-Internet/ClashSSV2RaySSRTrojanShare",
+      "stars": 28,
       "forks": 2,
-      "extracted_nodes": 957,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 20.4
+      "quality_score": 24.4
     },
     {
-      "repository": "shao-ye/MultiPortProxy",
-      "stars": 4,
-      "forks": 0,
-      "extracted_nodes": 1,
+      "repository": "sheshuyu/fuckCourse",
+      "stars": 5,
+      "forks": 1,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 3.2
+      "quality_score": 5.0
+    },
+    {
+      "repository": "mike1996/iptv-api",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.0
+    },
+    {
+      "repository": "willsonchan89-spec/iptv-api",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "644646497/proxy-scraper",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 13,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "zc1235/iptv-api",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-15 09:52:11"
+  "updated_at": "2026-06-15 16:55:31"
 }
