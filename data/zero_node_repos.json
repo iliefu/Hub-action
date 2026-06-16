@@ -124,6 +124,7 @@
     "feiniaovpn/Free-VPN",
     "feiniaovpn/Game-Accelerator---VPN",
     "feiniaovpn/Office---VPN",
+    "feiniaovpn/feiniao-VPN",
     "find-xposed-magisk/cloudflare-reverse-proxy",
     "findnr/findnr-feeds",
     "free-proxy-nodes/free-nodes",
@@ -210,6 +211,7 @@
     "toml66l/fanqiang",
     "tpxcer/oui",
     "tqb4342/Open-Internet",
+    "ts-sf/fly",
     "usehe/2026-Grok-SuperGrok-Grok",
     "v2raynnodes/clashnode",
     "vchan-ui/sublinkY",
@@ -246,5 +248,5 @@
     "zinan92/daily-newsletter",
     "zming-huang/Pure_Vector_Studio_Pro"
   ],
-  "updated_at": "2026-06-16 16:22:54"
+  "updated_at": "2026-06-16 22:07:18"
 }
