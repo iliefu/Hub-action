@@ -2,39 +2,39 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9034,
+      "stars": 9032,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 29,
+      "valid_nodes": 25,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 959,
+      "stars": 961,
       "forks": 138,
       "extracted_nodes": 3000,
-      "valid_nodes": 115,
+      "valid_nodes": 105,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 53,
       "forks": 60,
-      "extracted_nodes": 469,
-      "valid_nodes": 7,
+      "extracted_nodes": 445,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 266,
-      "forks": 25,
-      "extracted_nodes": 22,
-      "valid_nodes": 2,
+      "repository": "shaoyouvip/free",
+      "stars": 792,
+      "forks": 70,
+      "extracted_nodes": 87,
+      "valid_nodes": 44,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 450,
+      "stars": 451,
       "forks": 18,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -44,25 +44,9 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 58,
       "forks": 6,
-      "extracted_nodes": 198,
-      "valid_nodes": 5,
+      "extracted_nodes": 207,
+      "valid_nodes": 8,
       "quality_score": 86.0
-    },
-    {
-      "repository": "Jsnzkpg/Jsnzkpg",
-      "stars": 3639,
-      "forks": 355,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "KaWaIDeSuNe/xingjiabijichang",
-      "stars": 1221,
-      "forks": 76,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -76,12 +60,28 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 138,
-      "valid_nodes": 134,
+      "extracted_nodes": 140,
+      "valid_nodes": 132,
       "quality_score": 40.8
     },
     {
-      "repository": "warpcmdr/warpcmdr",
+      "repository": "cbusifabcap/daily_free_vpn",
+      "stars": 23,
+      "forks": 2,
+      "extracted_nodes": 928,
+      "valid_nodes": 0,
+      "quality_score": 20.4
+    },
+    {
+      "repository": "wpbtb015/evoxt-china-optimized",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "Teletz/warp-config-generator-vercel-372ce",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,7 +89,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "bcisabug/bigblack",
+      "repository": "Teletz/warp-config-generator-vercel",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "18287452845/liuyao-divination",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-16 02:42:58"
+  "updated_at": "2026-06-16 09:16:37"
 }
