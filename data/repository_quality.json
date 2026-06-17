@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9033,
+      "stars": 9034,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 27,
+      "valid_nodes": 25,
       "quality_score": 100
     },
     {
@@ -13,48 +13,56 @@
       "stars": 966,
       "forks": 139,
       "extracted_nodes": 3000,
-      "valid_nodes": 115,
+      "valid_nodes": 110,
       "quality_score": 100
     },
     {
       "repository": "WLget/V2Ray_configs_64",
-      "stars": 267,
+      "stars": 268,
       "forks": 25,
-      "extracted_nodes": 29,
-      "valid_nodes": 2,
+      "extracted_nodes": 18,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 454,
+      "stars": 455,
       "forks": 18,
       "extracted_nodes": 8,
       "valid_nodes": 2,
       "quality_score": 98.0
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 84,
-      "forks": 8,
-      "extracted_nodes": 483,
-      "valid_nodes": 13,
-      "quality_score": 88.0
-    },
-    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 59,
       "forks": 6,
       "extracted_nodes": 211,
-      "valid_nodes": 10,
+      "valid_nodes": 9,
       "quality_score": 86.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 180,
-      "forks": 20,
-      "extracted_nodes": 13,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 53,
+      "forks": 60,
+      "extracted_nodes": 3000,
       "valid_nodes": 0,
-      "quality_score": 60.0
+      "quality_score": 60
+    },
+    {
+      "repository": "thsrite/configflow",
+      "stars": 116,
+      "forks": 21,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "WAADRI/ChaoXing_node_signin",
+      "stars": 184,
+      "forks": 10,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 50.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -65,29 +73,45 @@
       "quality_score": 48.0
     },
     {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 662,
+      "valid_nodes": 26,
+      "quality_score": 47.4
+    },
+    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 130,
-      "valid_nodes": 126,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "Earl9/subconv-next",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 9,
-      "valid_nodes": 4,
+      "extracted_nodes": 139,
+      "valid_nodes": 133,
       "quality_score": 40.8
     },
     {
       "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 24,
+      "stars": 25,
       "forks": 2,
       "extracted_nodes": 928,
       "valid_nodes": 0,
-      "quality_score": 21.2
+      "quality_score": 22.0
+    },
+    {
+      "repository": "sharkAndshark/TrendingChinese",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "jauyhsuyahaandersiuayha-oss/letsvpn--",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-17 02:39:38"
+  "updated_at": "2026-06-17 08:55:10"
 }
