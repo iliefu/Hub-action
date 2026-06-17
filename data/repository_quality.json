@@ -5,15 +5,15 @@
       "stars": 9032,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 27,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 53,
       "forks": 60,
-      "extracted_nodes": 739,
-      "valid_nodes": 7,
+      "extracted_nodes": 698,
+      "valid_nodes": 20,
       "quality_score": 100
     },
     {
@@ -21,15 +21,7 @@
       "stars": 972,
       "forks": 139,
       "extracted_nodes": 3000,
-      "valid_nodes": 202,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 804,
-      "forks": 70,
-      "extracted_nodes": 74,
-      "valid_nodes": 35,
+      "valid_nodes": 158,
       "quality_score": 100
     },
     {
@@ -44,8 +36,8 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 84,
       "forks": 8,
-      "extracted_nodes": 485,
-      "valid_nodes": 10,
+      "extracted_nodes": 491,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
@@ -53,23 +45,39 @@
       "stars": 59,
       "forks": 6,
       "extracted_nodes": 571,
-      "valid_nodes": 177,
+      "valid_nodes": 175,
       "quality_score": 86.0
     },
     {
-      "repository": "ovmvo/FreeSub",
-      "stars": 117,
-      "forks": 9,
-      "extracted_nodes": 0,
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 55,
+      "forks": 6,
+      "extracted_nodes": 1140,
+      "valid_nodes": 215,
+      "quality_score": 86.0
+    },
+    {
+      "repository": "gslege/CloudflareIP",
+      "stars": 483,
+      "forks": 239,
+      "extracted_nodes": 20,
       "valid_nodes": 0,
-      "quality_score": 49.0
+      "quality_score": 60
+    },
+    {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 10,
+      "forks": 0,
+      "extracted_nodes": 77,
+      "valid_nodes": 47,
+      "quality_score": 48.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 140,
-      "valid_nodes": 131,
+      "extracted_nodes": 141,
+      "valid_nodes": 132,
       "quality_score": 40.8
     },
     {
@@ -81,39 +89,15 @@
       "quality_score": 22.0
     },
     {
-      "repository": "644646497/proxy-scraper",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 18,
+      "repository": "oplopo/Warp-config-ip-Hiddify-",
+      "stars": 5,
+      "forks": 1,
+      "extracted_nodes": 7,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 5.0
     },
     {
-      "repository": "onl35461-debug/Node-climbing-wall-ladder---VPN",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "super200893154/freev2-subscriber",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 4,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "ikun2020/SubSieve",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "zaofengyue/node-sb",
+      "repository": "qijin-3/localRSS",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -121,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-17 14:51:07"
+  "updated_at": "2026-06-17 18:16:03"
 }
