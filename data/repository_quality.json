@@ -9,19 +9,35 @@
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 53,
-      "forks": 60,
-      "extracted_nodes": 698,
-      "valid_nodes": 20,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 976,
+      "forks": 140,
+      "extracted_nodes": 3000,
+      "valid_nodes": 101,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 972,
-      "forks": 139,
-      "extracted_nodes": 3000,
-      "valid_nodes": 158,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 53,
+      "forks": 60,
+      "extracted_nodes": 534,
+      "valid_nodes": 14,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 805,
+      "forks": 70,
+      "extracted_nodes": 98,
+      "valid_nodes": 45,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1691,
+      "forks": 106,
+      "extracted_nodes": 16,
+      "valid_nodes": 16,
       "quality_score": 100
     },
     {
@@ -36,8 +52,8 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 84,
       "forks": 8,
-      "extracted_nodes": 491,
-      "valid_nodes": 11,
+      "extracted_nodes": 489,
+      "valid_nodes": 8,
       "quality_score": 88.0
     },
     {
@@ -45,65 +61,49 @@
       "stars": 59,
       "forks": 6,
       "extracted_nodes": 571,
-      "valid_nodes": 175,
+      "valid_nodes": 170,
       "quality_score": 86.0
     },
     {
-      "repository": "v2raynnodes/v2rayfree",
-      "stars": 55,
-      "forks": 6,
-      "extracted_nodes": 1140,
-      "valid_nodes": 215,
-      "quality_score": 86.0
-    },
-    {
-      "repository": "gslege/CloudflareIP",
-      "stars": 483,
-      "forks": 239,
-      "extracted_nodes": 20,
+      "repository": "wenxig/dongtai-sub",
+      "stars": 180,
+      "forks": 20,
+      "extracted_nodes": 13,
       "valid_nodes": 0,
-      "quality_score": 60
+      "quality_score": 60.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 10,
       "forks": 0,
       "extracted_nodes": 77,
-      "valid_nodes": 47,
+      "valid_nodes": 46,
       "quality_score": 48.0
+    },
+    {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 661,
+      "valid_nodes": 26,
+      "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 141,
-      "valid_nodes": 132,
+      "valid_nodes": 131,
       "quality_score": 40.8
     },
     {
-      "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 25,
-      "forks": 2,
-      "extracted_nodes": 928,
-      "valid_nodes": 0,
-      "quality_score": 22.0
-    },
-    {
-      "repository": "oplopo/Warp-config-ip-Hiddify-",
-      "stars": 5,
-      "forks": 1,
-      "extracted_nodes": 7,
-      "valid_nodes": 0,
-      "quality_score": 5.0
-    },
-    {
-      "repository": "qijin-3/localRSS",
-      "stars": 0,
+      "repository": "gitfox-enter/RSSForge",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-06-17 18:16:03"
+  "updated_at": "2026-06-17 21:54:01"
 }
