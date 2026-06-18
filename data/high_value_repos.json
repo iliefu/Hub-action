@@ -6469,6 +6469,24 @@
       "last_nodes_update": "2026-06-07T13:19:41.286327Z"
     },
     {
+      "repository": "cbusifabcap/daily_free_vpn",
+      "stars": 25,
+      "forks": 2,
+      "extracted_nodes": 928,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "Z.txt",
+          "node_count": 957,
+          "last_checked": "2026-06-18T08:32:13.462671Z",
+          "url": "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/Z.txt"
+        }
+      ],
+      "last_full_scan": "2026-06-18T08:32:15.215976Z",
+      "last_nodes_update": "2026-06-18T08:32:15.215981Z"
+    },
+    {
       "repository": "tonyhuang23-sys/CFnodes",
       "stars": 0,
       "forks": 0,
@@ -7789,24 +7807,6 @@
       "last_nodes_update": "2026-06-17T14:51:04.159635Z"
     },
     {
-      "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 19,
-      "forks": 2,
-      "extracted_nodes": 480,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "Z.txt",
-          "node_count": 480,
-          "last_checked": "2026-06-10T21:52:23.672173Z",
-          "url": "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/Z.txt"
-        }
-      ],
-      "last_full_scan": "2026-06-10T21:52:25.856452Z",
-      "last_nodes_update": "2026-06-10T21:52:25.856458Z"
-    },
-    {
       "repository": "LancelotRar/free-subs",
       "stars": 26,
       "forks": 4,
@@ -8101,6 +8101,42 @@
       "last_nodes_update": "2026-06-17T14:51:04.159795Z"
     },
     {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 11,
+      "forks": 0,
+      "extracted_nodes": 114,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "source/clash-meta-2.yaml",
+          "node_count": 38,
+          "last_checked": "2026-06-18T08:30:18.381835Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta-2.yaml"
+        },
+        {
+          "path": "source/clash-meta.yaml",
+          "node_count": 47,
+          "last_checked": "2026-06-18T08:30:18.606477Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta.yaml"
+        },
+        {
+          "path": "subscribe/clash.yml",
+          "node_count": 3,
+          "last_checked": "2026-06-18T08:30:18.804936Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/clash.yml"
+        },
+        {
+          "path": "subscribe/v2ray.txt",
+          "node_count": 26,
+          "last_checked": "2026-06-18T08:30:19.071097Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/v2ray.txt"
+        }
+      ],
+      "last_full_scan": "2026-06-18T08:32:15.215875Z",
+      "last_nodes_update": "2026-06-18T08:32:15.215919Z"
+    },
+    {
       "repository": "chengaopan/AutoMergePublicNodes",
       "stars": 7543,
       "forks": 1233,
@@ -8227,7 +8263,7 @@
       "last_nodes_update": "2026-06-07T17:06:58.181361Z"
     }
   ],
-  "updated_at": "2026-06-18 02:37:39",
-  "total_whitelisted_repos": 19,
-  "total_cached_nodes": 15835
+  "updated_at": "2026-06-18 08:32:15",
+  "total_whitelisted_repos": 20,
+  "total_cached_nodes": 16397
 }
