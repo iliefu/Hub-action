@@ -2,34 +2,34 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9034,
+      "stars": 9035,
       "forks": 668,
       "extracted_nodes": 55,
       "valid_nodes": 27,
       "quality_score": 100
     },
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 986,
+      "forks": 140,
+      "extracted_nodes": 3000,
+      "valid_nodes": 81,
+      "quality_score": 100
+    },
+    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 53,
       "forks": 59,
-      "extracted_nodes": 932,
-      "valid_nodes": 24,
+      "extracted_nodes": 598,
+      "valid_nodes": 11,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 985,
-      "forks": 140,
-      "extracted_nodes": 3000,
-      "valid_nodes": 84,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 269,
-      "forks": 25,
-      "extracted_nodes": 23,
-      "valid_nodes": 1,
+      "repository": "shaoyouvip/free",
+      "stars": 810,
+      "forks": 70,
+      "extracted_nodes": 63,
+      "valid_nodes": 29,
       "quality_score": 100
     },
     {
@@ -41,18 +41,34 @@
       "quality_score": 98.0
     },
     {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 84,
+      "forks": 8,
+      "extracted_nodes": 482,
+      "valid_nodes": 9,
+      "quality_score": 88.0
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 60,
       "forks": 7,
       "extracted_nodes": 658,
-      "valid_nodes": 207,
+      "valid_nodes": 208,
       "quality_score": 87.0
     },
     {
-      "repository": "topvpntool/free-vpn",
-      "stars": 232,
-      "forks": 23,
-      "extracted_nodes": 0,
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 56,
+      "forks": 6,
+      "extracted_nodes": 1156,
+      "valid_nodes": 237,
+      "quality_score": 86.0
+    },
+    {
+      "repository": "gslege/CloudflareIP",
+      "stars": 490,
+      "forks": 242,
+      "extracted_nodes": 20,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -61,7 +77,7 @@
       "stars": 11,
       "forks": 0,
       "extracted_nodes": 98,
-      "valid_nodes": 64,
+      "valid_nodes": 66,
       "quality_score": 48.8
     },
     {
@@ -69,65 +85,17 @@
       "stars": 8,
       "forks": 1,
       "extracted_nodes": 786,
-      "valid_nodes": 24,
+      "valid_nodes": 23,
       "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 145,
-      "valid_nodes": 132,
+      "extracted_nodes": 143,
+      "valid_nodes": 135,
       "quality_score": 40.8
-    },
-    {
-      "repository": "miaoziguan/obsidian-Bamboo-Darts",
-      "stars": 6,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 4.8
-    },
-    {
-      "repository": "YuWan-030/subsentry-public",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 7,
-      "valid_nodes": 0,
-      "quality_score": 1.6
-    },
-    {
-      "repository": "ermaozi/pyjichang.com",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "Delta-Kronecker/WARP-Config",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "brianhliou/misty-banqi",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "TomClancy258/cesium01",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-19 08:59:14"
+  "updated_at": "2026-06-19 14:43:14"
 }
