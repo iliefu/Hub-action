@@ -1,11 +1,11 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 53,
-      "forks": 59,
-      "extracted_nodes": 456,
-      "valid_nodes": 4,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9035,
+      "forks": 668,
+      "extracted_nodes": 55,
+      "valid_nodes": 31,
       "quality_score": 100
     },
     {
@@ -13,23 +13,23 @@
       "stars": 984,
       "forks": 140,
       "extracted_nodes": 3000,
-      "valid_nodes": 80,
+      "valid_nodes": 72,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9035,
-      "forks": 668,
-      "extracted_nodes": 55,
-      "valid_nodes": 29,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 53,
+      "forks": 59,
+      "extracted_nodes": 154,
+      "valid_nodes": 3,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1692,
-      "forks": 106,
-      "extracted_nodes": 16,
-      "valid_nodes": 7,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 269,
+      "forks": 25,
+      "extracted_nodes": 40,
+      "valid_nodes": 3,
       "quality_score": 100
     },
     {
@@ -45,16 +45,24 @@
       "stars": 84,
       "forks": 8,
       "extracted_nodes": 485,
-      "valid_nodes": 11,
+      "valid_nodes": 9,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 60,
       "forks": 7,
-      "extracted_nodes": 640,
-      "valid_nodes": 196,
+      "extracted_nodes": 726,
+      "valid_nodes": 285,
       "quality_score": 87.0
+    },
+    {
+      "repository": "linyuan0213/nexus-media",
+      "stars": 540,
+      "forks": 121,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -65,39 +73,31 @@
       "quality_score": 48.8
     },
     {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 843,
-      "valid_nodes": 39,
-      "quality_score": 47.4
-    },
-    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 143,
-      "valid_nodes": 137,
+      "valid_nodes": 139,
       "quality_score": 40.8
     },
     {
-      "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 26,
-      "forks": 2,
-      "extracted_nodes": 928,
-      "valid_nodes": 0,
-      "quality_score": 22.8
-    },
-    {
-      "repository": "crazypeace/my-dream-proxy-client",
-      "stars": 7,
+      "repository": "iiluog/shopify-marketplace-integrations",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 5.6
+      "quality_score": 0.0
     },
     {
-      "repository": "DikozImpact/warp-config-generator-vercel",
+      "repository": "DeterminantMatrix/ACL4SSR",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "newbietan/Vless2Clash",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-18 21:58:11"
+  "updated_at": "2026-06-19 02:54:22"
 }
