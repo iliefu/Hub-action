@@ -5,7 +5,7 @@
       "stars": 9038,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 21,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
@@ -13,7 +13,15 @@
       "stars": 991,
       "forks": 140,
       "extracted_nodes": 3000,
-      "valid_nodes": 99,
+      "valid_nodes": 91,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7629,
+      "forks": 1232,
+      "extracted_nodes": 181,
+      "valid_nodes": 60,
       "quality_score": 100
     },
     {
@@ -28,31 +36,23 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 84,
       "forks": 8,
-      "extracted_nodes": 484,
-      "valid_nodes": 8,
+      "extracted_nodes": 483,
+      "valid_nodes": 10,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 60,
+      "stars": 61,
       "forks": 8,
-      "extracted_nodes": 693,
-      "valid_nodes": 234,
+      "extracted_nodes": 688,
+      "valid_nodes": 229,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/dongtai-sub",
-      "stars": 182,
+      "stars": 183,
       "forks": 21,
       "extracted_nodes": 13,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "gslege/CloudflareIP",
-      "stars": 490,
-      "forks": 243,
-      "extracted_nodes": 20,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -60,8 +60,8 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 91,
-      "valid_nodes": 60,
+      "extracted_nodes": 86,
+      "valid_nodes": 55,
       "quality_score": 48.8
     },
     {
@@ -69,25 +69,25 @@
       "stars": 8,
       "forks": 1,
       "extracted_nodes": 780,
-      "valid_nodes": 22,
+      "valid_nodes": 24,
       "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 135,
+      "extracted_nodes": 138,
+      "valid_nodes": 127,
       "quality_score": 40.8
     },
     {
-      "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 25,
+      "repository": "SakuraPuare/Hive",
+      "stars": 3,
       "forks": 2,
-      "extracted_nodes": 165,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 22.0
+      "quality_score": 4.4
     }
   ],
-  "updated_at": "2026-06-20 17:16:50"
+  "updated_at": "2026-06-20 21:05:04"
 }
