@@ -6271,6 +6271,1734 @@
       "last_nodes_update": "2026-06-08T21:46:10.335307Z"
     },
     {
+      "repository": "xibanyahu/phppachong-freenode",
+      "stars": 13,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "feed/clash-20260113.yaml",
+          "node_count": 113,
+          "last_checked": "2026-06-20T10:27:11.188963Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260113.yaml"
+        },
+        {
+          "path": "feed/clash-20260114.yaml",
+          "node_count": 117,
+          "last_checked": "2026-06-20T10:27:11.677401Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260114.yaml"
+        },
+        {
+          "path": "feed/clash-20260115.yaml",
+          "node_count": 117,
+          "last_checked": "2026-06-20T10:27:12.121649Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260115.yaml"
+        },
+        {
+          "path": "feed/clash-20260116.yaml",
+          "node_count": 117,
+          "last_checked": "2026-06-20T10:27:12.512915Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260116.yaml"
+        },
+        {
+          "path": "feed/clash-20260117.yaml",
+          "node_count": 110,
+          "last_checked": "2026-06-20T10:27:12.902942Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260117.yaml"
+        },
+        {
+          "path": "feed/clash-20260118.yaml",
+          "node_count": 75,
+          "last_checked": "2026-06-20T10:27:13.351169Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260118.yaml"
+        },
+        {
+          "path": "feed/clash-20260119.yaml",
+          "node_count": 103,
+          "last_checked": "2026-06-20T10:27:13.733379Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260119.yaml"
+        },
+        {
+          "path": "feed/clash-20260120.yaml",
+          "node_count": 94,
+          "last_checked": "2026-06-20T10:27:14.099848Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260120.yaml"
+        },
+        {
+          "path": "feed/clash-20260121.yaml",
+          "node_count": 81,
+          "last_checked": "2026-06-20T10:27:14.510625Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260121.yaml"
+        },
+        {
+          "path": "feed/clash-20260122.yaml",
+          "node_count": 86,
+          "last_checked": "2026-06-20T10:27:14.980561Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260122.yaml"
+        },
+        {
+          "path": "feed/clash-20260123.yaml",
+          "node_count": 74,
+          "last_checked": "2026-06-20T10:27:15.383218Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260123.yaml"
+        },
+        {
+          "path": "feed/clash-20260124.yaml",
+          "node_count": 101,
+          "last_checked": "2026-06-20T10:27:15.870167Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260124.yaml"
+        },
+        {
+          "path": "feed/clash-20260125.yaml",
+          "node_count": 24,
+          "last_checked": "2026-06-20T10:27:16.146991Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260125.yaml"
+        },
+        {
+          "path": "feed/clash-20260126.yaml",
+          "node_count": 40,
+          "last_checked": "2026-06-20T10:27:16.541797Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260126.yaml"
+        },
+        {
+          "path": "feed/clash-20260127.yaml",
+          "node_count": 35,
+          "last_checked": "2026-06-20T10:27:16.930805Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260127.yaml"
+        },
+        {
+          "path": "feed/clash-20260128.yaml",
+          "node_count": 47,
+          "last_checked": "2026-06-20T10:27:17.379556Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260128.yaml"
+        },
+        {
+          "path": "feed/clash-20260129.yaml",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:27:17.682969Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260129.yaml"
+        },
+        {
+          "path": "feed/clash-20260130.yaml",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:27:17.979761Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260130.yaml"
+        },
+        {
+          "path": "feed/clash-20260131.yaml",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:27:18.302549Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260131.yaml"
+        },
+        {
+          "path": "feed/clash-20260201.yaml",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:27:18.627443Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260201.yaml"
+        },
+        {
+          "path": "feed/clash-20260203.yaml",
+          "node_count": 55,
+          "last_checked": "2026-06-20T10:27:19.002529Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260203.yaml"
+        },
+        {
+          "path": "feed/clash-20260204.yaml",
+          "node_count": 101,
+          "last_checked": "2026-06-20T10:27:19.416075Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260204.yaml"
+        },
+        {
+          "path": "feed/clash-20260205.yaml",
+          "node_count": 76,
+          "last_checked": "2026-06-20T10:27:19.756008Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260205.yaml"
+        },
+        {
+          "path": "feed/clash-20260206.yaml",
+          "node_count": 119,
+          "last_checked": "2026-06-20T10:27:20.165566Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260206.yaml"
+        },
+        {
+          "path": "feed/clash-20260207.yaml",
+          "node_count": 138,
+          "last_checked": "2026-06-20T10:27:20.568502Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260207.yaml"
+        },
+        {
+          "path": "feed/clash-20260208.yaml",
+          "node_count": 143,
+          "last_checked": "2026-06-20T10:27:20.985227Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260208.yaml"
+        },
+        {
+          "path": "feed/clash-20260209.yaml",
+          "node_count": 131,
+          "last_checked": "2026-06-20T10:27:21.411677Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260209.yaml"
+        },
+        {
+          "path": "feed/clash-20260210.yaml",
+          "node_count": 88,
+          "last_checked": "2026-06-20T10:27:21.764909Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260210.yaml"
+        },
+        {
+          "path": "feed/clash-20260211.yaml",
+          "node_count": 118,
+          "last_checked": "2026-06-20T10:27:22.148095Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260211.yaml"
+        },
+        {
+          "path": "feed/clash-20260212.yaml",
+          "node_count": 71,
+          "last_checked": "2026-06-20T10:27:22.476208Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260212.yaml"
+        },
+        {
+          "path": "feed/clash-20260213.yaml",
+          "node_count": 55,
+          "last_checked": "2026-06-20T10:27:22.830945Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260213.yaml"
+        },
+        {
+          "path": "feed/clash-20260214.yaml",
+          "node_count": 55,
+          "last_checked": "2026-06-20T10:27:23.140976Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260214.yaml"
+        },
+        {
+          "path": "feed/clash-20260215.yaml",
+          "node_count": 127,
+          "last_checked": "2026-06-20T10:27:23.541138Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260215.yaml"
+        },
+        {
+          "path": "feed/clash-20260216.yaml",
+          "node_count": 125,
+          "last_checked": "2026-06-20T10:27:23.940914Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260216.yaml"
+        },
+        {
+          "path": "feed/clash-20260217.yaml",
+          "node_count": 42,
+          "last_checked": "2026-06-20T10:27:24.276030Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260217.yaml"
+        },
+        {
+          "path": "feed/clash-20260218.yaml",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:27:24.583508Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260218.yaml"
+        },
+        {
+          "path": "feed/clash-20260219.yaml",
+          "node_count": 58,
+          "last_checked": "2026-06-20T10:27:25.032306Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260219.yaml"
+        },
+        {
+          "path": "feed/clash-20260220.yaml",
+          "node_count": 58,
+          "last_checked": "2026-06-20T10:27:25.343667Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260220.yaml"
+        },
+        {
+          "path": "feed/clash-20260221.yaml",
+          "node_count": 51,
+          "last_checked": "2026-06-20T10:27:25.680276Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260221.yaml"
+        },
+        {
+          "path": "feed/clash-20260222.yaml",
+          "node_count": 49,
+          "last_checked": "2026-06-20T10:27:25.997615Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260222.yaml"
+        },
+        {
+          "path": "feed/clash-20260223.yaml",
+          "node_count": 49,
+          "last_checked": "2026-06-20T10:27:26.346173Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260223.yaml"
+        },
+        {
+          "path": "feed/clash-20260224.yaml",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:27:26.689717Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260224.yaml"
+        },
+        {
+          "path": "feed/clash-20260225.yaml",
+          "node_count": 47,
+          "last_checked": "2026-06-20T10:27:27.057160Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260225.yaml"
+        },
+        {
+          "path": "feed/clash-20260226.yaml",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:27:27.369278Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260226.yaml"
+        },
+        {
+          "path": "feed/clash-20260227.yaml",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:27:27.674771Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260227.yaml"
+        },
+        {
+          "path": "feed/clash-20260228.yaml",
+          "node_count": 55,
+          "last_checked": "2026-06-20T10:27:27.983702Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260228.yaml"
+        },
+        {
+          "path": "feed/clash-20260307.yaml",
+          "node_count": 57,
+          "last_checked": "2026-06-20T10:27:28.418524Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260307.yaml"
+        },
+        {
+          "path": "feed/clash-20260308.yaml",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:27:28.717909Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260308.yaml"
+        },
+        {
+          "path": "feed/clash-20260309.yaml",
+          "node_count": 57,
+          "last_checked": "2026-06-20T10:27:29.152202Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260309.yaml"
+        },
+        {
+          "path": "feed/clash-20260310.yaml",
+          "node_count": 76,
+          "last_checked": "2026-06-20T10:27:29.487842Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260310.yaml"
+        },
+        {
+          "path": "feed/clash-20260311.yaml",
+          "node_count": 49,
+          "last_checked": "2026-06-20T10:27:29.791602Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260311.yaml"
+        },
+        {
+          "path": "feed/clash-20260312.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:30.127716Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260312.yaml"
+        },
+        {
+          "path": "feed/clash-20260313.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:30.439292Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260313.yaml"
+        },
+        {
+          "path": "feed/clash-20260314.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:30.868346Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260314.yaml"
+        },
+        {
+          "path": "feed/clash-20260315.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:31.325466Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260315.yaml"
+        },
+        {
+          "path": "feed/clash-20260317.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:31.698511Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260317.yaml"
+        },
+        {
+          "path": "feed/clash-20260318.yaml",
+          "node_count": 51,
+          "last_checked": "2026-06-20T10:27:31.990870Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260318.yaml"
+        },
+        {
+          "path": "feed/clash-20260319.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:32.302623Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260319.yaml"
+        },
+        {
+          "path": "feed/clash-20260320.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:32.685344Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260320.yaml"
+        },
+        {
+          "path": "feed/clash-20260321.yaml",
+          "node_count": 53,
+          "last_checked": "2026-06-20T10:27:32.982803Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260321.yaml"
+        },
+        {
+          "path": "feed/clash-20260322.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:33.285857Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260322.yaml"
+        },
+        {
+          "path": "feed/clash-20260323.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:33.584291Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260323.yaml"
+        },
+        {
+          "path": "feed/clash-20260324.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:34.159429Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260324.yaml"
+        },
+        {
+          "path": "feed/clash-20260325.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:34.609929Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260325.yaml"
+        },
+        {
+          "path": "feed/clash-20260326.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:34.952184Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260326.yaml"
+        },
+        {
+          "path": "feed/clash-20260327.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:35.390753Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260327.yaml"
+        },
+        {
+          "path": "feed/clash-20260328.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:35.925452Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260328.yaml"
+        },
+        {
+          "path": "feed/clash-20260329.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:36.381970Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260329.yaml"
+        },
+        {
+          "path": "feed/clash-20260330.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:36.883445Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260330.yaml"
+        },
+        {
+          "path": "feed/clash-20260331.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:37.335815Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260331.yaml"
+        },
+        {
+          "path": "feed/clash-20260401.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:37.828231Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260401.yaml"
+        },
+        {
+          "path": "feed/clash-20260402.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:38.256043Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260402.yaml"
+        },
+        {
+          "path": "feed/clash-20260403.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:38.557826Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260403.yaml"
+        },
+        {
+          "path": "feed/clash-20260404.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:38.987377Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260404.yaml"
+        },
+        {
+          "path": "feed/clash-20260405.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:39.332838Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260405.yaml"
+        },
+        {
+          "path": "feed/clash-20260406.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:39.688859Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260406.yaml"
+        },
+        {
+          "path": "feed/clash-20260407.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:39.980228Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260407.yaml"
+        },
+        {
+          "path": "feed/clash-20260408.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:40.577179Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260408.yaml"
+        },
+        {
+          "path": "feed/clash-20260409.yaml",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:27:40.877158Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260409.yaml"
+        },
+        {
+          "path": "feed/clash-20260410.yaml",
+          "node_count": 43,
+          "last_checked": "2026-06-20T10:27:41.198359Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260410.yaml"
+        },
+        {
+          "path": "feed/clash-20260411.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:41.504121Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260411.yaml"
+        },
+        {
+          "path": "feed/clash-20260412.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:41.811770Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260412.yaml"
+        },
+        {
+          "path": "feed/clash-20260413.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:42.264055Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260413.yaml"
+        },
+        {
+          "path": "feed/clash-20260414.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:42.571424Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260414.yaml"
+        },
+        {
+          "path": "feed/clash-20260415.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:42.918952Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260415.yaml"
+        },
+        {
+          "path": "feed/clash-20260416.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:43.254176Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260416.yaml"
+        },
+        {
+          "path": "feed/clash-20260417.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:43.692709Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260417.yaml"
+        },
+        {
+          "path": "feed/clash-20260418.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:44.112889Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260418.yaml"
+        },
+        {
+          "path": "feed/clash-20260419.yaml",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:27:44.568590Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260419.yaml"
+        },
+        {
+          "path": "feed/clash-20260420.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:44.873659Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260420.yaml"
+        },
+        {
+          "path": "feed/clash-20260421.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:45.273442Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260421.yaml"
+        },
+        {
+          "path": "feed/clash-20260422.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:45.571478Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260422.yaml"
+        },
+        {
+          "path": "feed/clash-20260423.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:45.913662Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260423.yaml"
+        },
+        {
+          "path": "feed/clash-20260424.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:46.249946Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260424.yaml"
+        },
+        {
+          "path": "feed/clash-20260425.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:46.546313Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260425.yaml"
+        },
+        {
+          "path": "feed/clash-20260427.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:46.944946Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260427.yaml"
+        },
+        {
+          "path": "feed/clash-20260428.yaml",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:27:47.388809Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260428.yaml"
+        },
+        {
+          "path": "feed/clash-20260429.yaml",
+          "node_count": 53,
+          "last_checked": "2026-06-20T10:27:47.687555Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260429.yaml"
+        },
+        {
+          "path": "feed/clash-20260430.yaml",
+          "node_count": 53,
+          "last_checked": "2026-06-20T10:27:47.988061Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260430.yaml"
+        },
+        {
+          "path": "feed/clash-20260501.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:48.297129Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260501.yaml"
+        },
+        {
+          "path": "feed/clash-20260502.yaml",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:27:48.625690Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260502.yaml"
+        },
+        {
+          "path": "feed/clash-20260503.yaml",
+          "node_count": 42,
+          "last_checked": "2026-06-20T10:27:48.924391Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260503.yaml"
+        },
+        {
+          "path": "feed/clash-20260504.yaml",
+          "node_count": 42,
+          "last_checked": "2026-06-20T10:27:49.250914Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260504.yaml"
+        },
+        {
+          "path": "feed/clash-20260505.yaml",
+          "node_count": 42,
+          "last_checked": "2026-06-20T10:27:49.533310Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260505.yaml"
+        },
+        {
+          "path": "feed/clash-20260506.yaml",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:27:49.815326Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260506.yaml"
+        },
+        {
+          "path": "feed/clash-20260507.yaml",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:27:50.172486Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260507.yaml"
+        },
+        {
+          "path": "feed/clash-20260508.yaml",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:27:50.464781Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260508.yaml"
+        },
+        {
+          "path": "feed/clash-20260509.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:50.757078Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260509.yaml"
+        },
+        {
+          "path": "feed/clash-20260510.yaml",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:27:51.201906Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260510.yaml"
+        },
+        {
+          "path": "feed/clash-20260511.yaml",
+          "node_count": 54,
+          "last_checked": "2026-06-20T10:27:51.723399Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260511.yaml"
+        },
+        {
+          "path": "feed/clash-20260513.yaml",
+          "node_count": 53,
+          "last_checked": "2026-06-20T10:27:52.054852Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260513.yaml"
+        },
+        {
+          "path": "feed/clash-20260515.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:52.349824Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260515.yaml"
+        },
+        {
+          "path": "feed/clash-20260516.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:52.678504Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260516.yaml"
+        },
+        {
+          "path": "feed/clash-20260518.yaml",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:27:53.010954Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260518.yaml"
+        },
+        {
+          "path": "feed/clash-20260519.yaml",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:27:53.306841Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260519.yaml"
+        },
+        {
+          "path": "feed/clash-20260520.yaml",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:27:53.636741Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260520.yaml"
+        },
+        {
+          "path": "feed/clash-20260522.yaml",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:27:53.942143Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260522.yaml"
+        },
+        {
+          "path": "feed/clash-20260523.yaml",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:27:54.293396Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260523.yaml"
+        },
+        {
+          "path": "feed/clash-20260524.yaml",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:27:54.635442Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260524.yaml"
+        },
+        {
+          "path": "feed/clash-20260525.yaml",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:27:54.939274Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260525.yaml"
+        },
+        {
+          "path": "feed/clash-20260526.yaml",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:27:55.389661Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260526.yaml"
+        },
+        {
+          "path": "feed/clash-20260527.yaml",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:27:55.716708Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260527.yaml"
+        },
+        {
+          "path": "feed/clash-20260528.yaml",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:27:56.020612Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260528.yaml"
+        },
+        {
+          "path": "feed/clash-20260529.yaml",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:27:56.437698Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260529.yaml"
+        },
+        {
+          "path": "feed/clash-20260530.yaml",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:27:56.807267Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260530.yaml"
+        },
+        {
+          "path": "feed/clash-20260601.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:57.132093Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260601.yaml"
+        },
+        {
+          "path": "feed/clash-20260602.yaml",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:27:57.422591Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260602.yaml"
+        },
+        {
+          "path": "feed/clash-20260603.yaml",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:27:57.728367Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260603.yaml"
+        },
+        {
+          "path": "feed/clash-20260604.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:58.171726Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260604.yaml"
+        },
+        {
+          "path": "feed/clash-20260605.yaml",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:27:58.461638Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260605.yaml"
+        },
+        {
+          "path": "feed/clash-20260606.yaml",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:27:58.760549Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260606.yaml"
+        },
+        {
+          "path": "feed/clash-20260607.yaml",
+          "node_count": 42,
+          "last_checked": "2026-06-20T10:27:59.178949Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260607.yaml"
+        },
+        {
+          "path": "feed/clash-20260608.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:59.591234Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260608.yaml"
+        },
+        {
+          "path": "feed/clash-20260609.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:27:59.898273Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260609.yaml"
+        },
+        {
+          "path": "feed/clash-20260610.yaml",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:28:00.195766Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260610.yaml"
+        },
+        {
+          "path": "feed/clash-20260611.yaml",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:28:00.481064Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260611.yaml"
+        },
+        {
+          "path": "feed/clash-20260612.yaml",
+          "node_count": 38,
+          "last_checked": "2026-06-20T10:28:00.767719Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260612.yaml"
+        },
+        {
+          "path": "feed/clash-20260613.yaml",
+          "node_count": 38,
+          "last_checked": "2026-06-20T10:28:01.090433Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260613.yaml"
+        },
+        {
+          "path": "feed/clash-20260615.yaml",
+          "node_count": 38,
+          "last_checked": "2026-06-20T10:28:01.490543Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260615.yaml"
+        },
+        {
+          "path": "feed/clash-20260616.yaml",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:28:01.996366Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260616.yaml"
+        },
+        {
+          "path": "feed/clash-20260617.yaml",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:28:02.296518Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260617.yaml"
+        },
+        {
+          "path": "feed/clash-20260618.yaml",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:28:02.583423Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260618.yaml"
+        },
+        {
+          "path": "feed/clash-20260620.yaml",
+          "node_count": 38,
+          "last_checked": "2026-06-20T10:28:02.931406Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/clash-20260620.yaml"
+        },
+        {
+          "path": "feed/v2ray-20260113.txt",
+          "node_count": 127,
+          "last_checked": "2026-06-20T10:28:03.047224Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260113.txt"
+        },
+        {
+          "path": "feed/v2ray-20260114.txt",
+          "node_count": 123,
+          "last_checked": "2026-06-20T10:28:03.162837Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260114.txt"
+        },
+        {
+          "path": "feed/v2ray-20260115.txt",
+          "node_count": 123,
+          "last_checked": "2026-06-20T10:28:03.281999Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260115.txt"
+        },
+        {
+          "path": "feed/v2ray-20260116.txt",
+          "node_count": 123,
+          "last_checked": "2026-06-20T10:28:03.408082Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260116.txt"
+        },
+        {
+          "path": "feed/v2ray-20260117.txt",
+          "node_count": 123,
+          "last_checked": "2026-06-20T10:28:03.703865Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260117.txt"
+        },
+        {
+          "path": "feed/v2ray-20260118.txt",
+          "node_count": 88,
+          "last_checked": "2026-06-20T10:28:03.827743Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260118.txt"
+        },
+        {
+          "path": "feed/v2ray-20260119.txt",
+          "node_count": 117,
+          "last_checked": "2026-06-20T10:28:03.963720Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260119.txt"
+        },
+        {
+          "path": "feed/v2ray-20260120.txt",
+          "node_count": 108,
+          "last_checked": "2026-06-20T10:28:04.133322Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260120.txt"
+        },
+        {
+          "path": "feed/v2ray-20260121.txt",
+          "node_count": 86,
+          "last_checked": "2026-06-20T10:28:04.302426Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260121.txt"
+        },
+        {
+          "path": "feed/v2ray-20260122.txt",
+          "node_count": 92,
+          "last_checked": "2026-06-20T10:28:04.601355Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260122.txt"
+        },
+        {
+          "path": "feed/v2ray-20260123.txt",
+          "node_count": 80,
+          "last_checked": "2026-06-20T10:28:04.727244Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260123.txt"
+        },
+        {
+          "path": "feed/v2ray-20260124.txt",
+          "node_count": 99,
+          "last_checked": "2026-06-20T10:28:04.859260Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260124.txt"
+        },
+        {
+          "path": "feed/v2ray-20260125.txt",
+          "node_count": 31,
+          "last_checked": "2026-06-20T10:28:05.085913Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260125.txt"
+        },
+        {
+          "path": "feed/v2ray-20260126.txt",
+          "node_count": 47,
+          "last_checked": "2026-06-20T10:28:05.320354Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260126.txt"
+        },
+        {
+          "path": "feed/v2ray-20260127.txt",
+          "node_count": 42,
+          "last_checked": "2026-06-20T10:28:05.443663Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260127.txt"
+        },
+        {
+          "path": "feed/v2ray-20260128.txt",
+          "node_count": 54,
+          "last_checked": "2026-06-20T10:28:05.573491Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260128.txt"
+        },
+        {
+          "path": "feed/v2ray-20260129.txt",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:28:05.705839Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260129.txt"
+        },
+        {
+          "path": "feed/v2ray-20260130.txt",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:28:05.933977Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260130.txt"
+        },
+        {
+          "path": "feed/v2ray-20260131.txt",
+          "node_count": 47,
+          "last_checked": "2026-06-20T10:28:06.158154Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260131.txt"
+        },
+        {
+          "path": "feed/v2ray-20260201.txt",
+          "node_count": 47,
+          "last_checked": "2026-06-20T10:28:06.285924Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260201.txt"
+        },
+        {
+          "path": "feed/v2ray-20260203.txt",
+          "node_count": 55,
+          "last_checked": "2026-06-20T10:28:06.412840Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260203.txt"
+        },
+        {
+          "path": "feed/v2ray-20260204.txt",
+          "node_count": 101,
+          "last_checked": "2026-06-20T10:28:06.573904Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260204.txt"
+        },
+        {
+          "path": "feed/v2ray-20260205.txt",
+          "node_count": 76,
+          "last_checked": "2026-06-20T10:28:06.699462Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260205.txt"
+        },
+        {
+          "path": "feed/v2ray-20260206.txt",
+          "node_count": 119,
+          "last_checked": "2026-06-20T10:28:06.824875Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260206.txt"
+        },
+        {
+          "path": "feed/v2ray-20260207.txt",
+          "node_count": 137,
+          "last_checked": "2026-06-20T10:28:06.990459Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260207.txt"
+        },
+        {
+          "path": "feed/v2ray-20260208.txt",
+          "node_count": 142,
+          "last_checked": "2026-06-20T10:28:07.161312Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260208.txt"
+        },
+        {
+          "path": "feed/v2ray-20260209.txt",
+          "node_count": 128,
+          "last_checked": "2026-06-20T10:28:07.302804Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260209.txt"
+        },
+        {
+          "path": "feed/v2ray-20260210.txt",
+          "node_count": 87,
+          "last_checked": "2026-06-20T10:28:07.420065Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260210.txt"
+        },
+        {
+          "path": "feed/v2ray-20260211.txt",
+          "node_count": 115,
+          "last_checked": "2026-06-20T10:28:07.541480Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260211.txt"
+        },
+        {
+          "path": "feed/v2ray-20260212.txt",
+          "node_count": 70,
+          "last_checked": "2026-06-20T10:28:07.704464Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260212.txt"
+        },
+        {
+          "path": "feed/v2ray-20260213.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:07.830562Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260213.txt"
+        },
+        {
+          "path": "feed/v2ray-20260214.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:08.118879Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260214.txt"
+        },
+        {
+          "path": "feed/v2ray-20260215.txt",
+          "node_count": 121,
+          "last_checked": "2026-06-20T10:28:08.249774Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260215.txt"
+        },
+        {
+          "path": "feed/v2ray-20260216.txt",
+          "node_count": 117,
+          "last_checked": "2026-06-20T10:28:08.402081Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260216.txt"
+        },
+        {
+          "path": "feed/v2ray-20260217.txt",
+          "node_count": 43,
+          "last_checked": "2026-06-20T10:28:08.525960Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260217.txt"
+        },
+        {
+          "path": "feed/v2ray-20260218.txt",
+          "node_count": 47,
+          "last_checked": "2026-06-20T10:28:08.659649Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260218.txt"
+        },
+        {
+          "path": "feed/v2ray-20260219.txt",
+          "node_count": 59,
+          "last_checked": "2026-06-20T10:28:08.810428Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260219.txt"
+        },
+        {
+          "path": "feed/v2ray-20260220.txt",
+          "node_count": 59,
+          "last_checked": "2026-06-20T10:28:09.080134Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260220.txt"
+        },
+        {
+          "path": "feed/v2ray-20260221.txt",
+          "node_count": 51,
+          "last_checked": "2026-06-20T10:28:09.225605Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260221.txt"
+        },
+        {
+          "path": "feed/v2ray-20260222.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:09.488695Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260222.txt"
+        },
+        {
+          "path": "feed/v2ray-20260223.txt",
+          "node_count": 53,
+          "last_checked": "2026-06-20T10:28:09.659377Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260223.txt"
+        },
+        {
+          "path": "feed/v2ray-20260224.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:09.788634Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260224.txt"
+        },
+        {
+          "path": "feed/v2ray-20260225.txt",
+          "node_count": 51,
+          "last_checked": "2026-06-20T10:28:09.919994Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260225.txt"
+        },
+        {
+          "path": "feed/v2ray-20260226.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:10.044372Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260226.txt"
+        },
+        {
+          "path": "feed/v2ray-20260227.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:10.173528Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260227.txt"
+        },
+        {
+          "path": "feed/v2ray-20260228.txt",
+          "node_count": 55,
+          "last_checked": "2026-06-20T10:28:10.339558Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260228.txt"
+        },
+        {
+          "path": "feed/v2ray-20260307.txt",
+          "node_count": 57,
+          "last_checked": "2026-06-20T10:28:10.463244Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260307.txt"
+        },
+        {
+          "path": "feed/v2ray-20260308.txt",
+          "node_count": 47,
+          "last_checked": "2026-06-20T10:28:10.575584Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260308.txt"
+        },
+        {
+          "path": "feed/v2ray-20260309.txt",
+          "node_count": 57,
+          "last_checked": "2026-06-20T10:28:10.702346Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260309.txt"
+        },
+        {
+          "path": "feed/v2ray-20260310.txt",
+          "node_count": 76,
+          "last_checked": "2026-06-20T10:28:10.832664Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260310.txt"
+        },
+        {
+          "path": "feed/v2ray-20260311.txt",
+          "node_count": 49,
+          "last_checked": "2026-06-20T10:28:10.962399Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260311.txt"
+        },
+        {
+          "path": "feed/v2ray-20260312.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:11.087848Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260312.txt"
+        },
+        {
+          "path": "feed/v2ray-20260313.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:11.335244Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260313.txt"
+        },
+        {
+          "path": "feed/v2ray-20260314.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:11.448607Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260314.txt"
+        },
+        {
+          "path": "feed/v2ray-20260315.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:11.564245Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260315.txt"
+        },
+        {
+          "path": "feed/v2ray-20260317.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:11.683539Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260317.txt"
+        },
+        {
+          "path": "feed/v2ray-20260318.txt",
+          "node_count": 51,
+          "last_checked": "2026-06-20T10:28:11.814094Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260318.txt"
+        },
+        {
+          "path": "feed/v2ray-20260319.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:11.936669Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260319.txt"
+        },
+        {
+          "path": "feed/v2ray-20260320.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:12.057975Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260320.txt"
+        },
+        {
+          "path": "feed/v2ray-20260321.txt",
+          "node_count": 53,
+          "last_checked": "2026-06-20T10:28:12.173134Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260321.txt"
+        },
+        {
+          "path": "feed/v2ray-20260322.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:12.301994Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260322.txt"
+        },
+        {
+          "path": "feed/v2ray-20260323.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:12.431515Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260323.txt"
+        },
+        {
+          "path": "feed/v2ray-20260324.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:12.559789Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260324.txt"
+        },
+        {
+          "path": "feed/v2ray-20260325.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:12.819820Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260325.txt"
+        },
+        {
+          "path": "feed/v2ray-20260326.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:13.066067Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260326.txt"
+        },
+        {
+          "path": "feed/v2ray-20260327.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:13.183183Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260327.txt"
+        },
+        {
+          "path": "feed/v2ray-20260328.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:13.307514Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260328.txt"
+        },
+        {
+          "path": "feed/v2ray-20260329.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:13.434100Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260329.txt"
+        },
+        {
+          "path": "feed/v2ray-20260330.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:13.677025Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260330.txt"
+        },
+        {
+          "path": "feed/v2ray-20260331.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:13.808433Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260331.txt"
+        },
+        {
+          "path": "feed/v2ray-20260401.txt",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:28:13.929632Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260401.txt"
+        },
+        {
+          "path": "feed/v2ray-20260402.txt",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:28:14.051669Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260402.txt"
+        },
+        {
+          "path": "feed/v2ray-20260403.txt",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:28:14.181364Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260403.txt"
+        },
+        {
+          "path": "feed/v2ray-20260404.txt",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:28:14.427671Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260404.txt"
+        },
+        {
+          "path": "feed/v2ray-20260405.txt",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:28:14.672966Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260405.txt"
+        },
+        {
+          "path": "feed/v2ray-20260406.txt",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:28:14.802970Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260406.txt"
+        },
+        {
+          "path": "feed/v2ray-20260407.txt",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:28:14.927096Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260407.txt"
+        },
+        {
+          "path": "feed/v2ray-20260408.txt",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:28:15.049041Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260408.txt"
+        },
+        {
+          "path": "feed/v2ray-20260409.txt",
+          "node_count": 47,
+          "last_checked": "2026-06-20T10:28:15.170498Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260409.txt"
+        },
+        {
+          "path": "feed/v2ray-20260410.txt",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:28:15.297908Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260410.txt"
+        },
+        {
+          "path": "feed/v2ray-20260411.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:15.420457Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260411.txt"
+        },
+        {
+          "path": "feed/v2ray-20260412.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:15.542992Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260412.txt"
+        },
+        {
+          "path": "feed/v2ray-20260413.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:15.673369Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260413.txt"
+        },
+        {
+          "path": "feed/v2ray-20260414.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:15.800817Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260414.txt"
+        },
+        {
+          "path": "feed/v2ray-20260415.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:15.922645Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260415.txt"
+        },
+        {
+          "path": "feed/v2ray-20260416.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:16.042892Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260416.txt"
+        },
+        {
+          "path": "feed/v2ray-20260417.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:16.174641Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260417.txt"
+        },
+        {
+          "path": "feed/v2ray-20260418.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:16.401039Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260418.txt"
+        },
+        {
+          "path": "feed/v2ray-20260419.txt",
+          "node_count": 50,
+          "last_checked": "2026-06-20T10:28:16.521793Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260419.txt"
+        },
+        {
+          "path": "feed/v2ray-20260420.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:16.647160Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260420.txt"
+        },
+        {
+          "path": "feed/v2ray-20260421.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:16.799076Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260421.txt"
+        },
+        {
+          "path": "feed/v2ray-20260422.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:16.922457Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260422.txt"
+        },
+        {
+          "path": "feed/v2ray-20260423.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:17.047101Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260423.txt"
+        },
+        {
+          "path": "feed/v2ray-20260424.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:17.167872Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260424.txt"
+        },
+        {
+          "path": "feed/v2ray-20260425.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:17.291446Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260425.txt"
+        },
+        {
+          "path": "feed/v2ray-20260427.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:17.419844Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260427.txt"
+        },
+        {
+          "path": "feed/v2ray-20260428.txt",
+          "node_count": 52,
+          "last_checked": "2026-06-20T10:28:17.539977Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260428.txt"
+        },
+        {
+          "path": "feed/v2ray-20260429.txt",
+          "node_count": 53,
+          "last_checked": "2026-06-20T10:28:17.678514Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260429.txt"
+        },
+        {
+          "path": "feed/v2ray-20260430.txt",
+          "node_count": 53,
+          "last_checked": "2026-06-20T10:28:17.801140Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260430.txt"
+        },
+        {
+          "path": "feed/v2ray-20260501.txt",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:28:17.917826Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260501.txt"
+        },
+        {
+          "path": "feed/v2ray-20260502.txt",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:28:18.043318Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260502.txt"
+        },
+        {
+          "path": "feed/v2ray-20260503.txt",
+          "node_count": 42,
+          "last_checked": "2026-06-20T10:28:18.180770Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260503.txt"
+        },
+        {
+          "path": "feed/v2ray-20260504.txt",
+          "node_count": 42,
+          "last_checked": "2026-06-20T10:28:18.300811Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260504.txt"
+        },
+        {
+          "path": "feed/v2ray-20260505.txt",
+          "node_count": 42,
+          "last_checked": "2026-06-20T10:28:18.418231Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260505.txt"
+        },
+        {
+          "path": "feed/v2ray-20260506.txt",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:28:18.543236Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260506.txt"
+        },
+        {
+          "path": "feed/v2ray-20260507.txt",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:28:18.660538Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260507.txt"
+        },
+        {
+          "path": "feed/v2ray-20260508.txt",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:28:18.786424Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260508.txt"
+        },
+        {
+          "path": "feed/v2ray-20260509.txt",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:28:18.900190Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260509.txt"
+        },
+        {
+          "path": "feed/v2ray-20260510.txt",
+          "node_count": 46,
+          "last_checked": "2026-06-20T10:28:19.015501Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260510.txt"
+        },
+        {
+          "path": "feed/v2ray-20260511.txt",
+          "node_count": 54,
+          "last_checked": "2026-06-20T10:28:19.171800Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260511.txt"
+        },
+        {
+          "path": "feed/v2ray-20260513.txt",
+          "node_count": 53,
+          "last_checked": "2026-06-20T10:28:19.307897Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260513.txt"
+        },
+        {
+          "path": "feed/v2ray-20260515.txt",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:28:19.430877Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260515.txt"
+        },
+        {
+          "path": "feed/v2ray-20260516.txt",
+          "node_count": 48,
+          "last_checked": "2026-06-20T10:28:19.547943Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260516.txt"
+        },
+        {
+          "path": "feed/v2ray-20260518.txt",
+          "node_count": 49,
+          "last_checked": "2026-06-20T10:28:19.668124Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260518.txt"
+        },
+        {
+          "path": "feed/v2ray-20260519.txt",
+          "node_count": 49,
+          "last_checked": "2026-06-20T10:28:19.787973Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260519.txt"
+        },
+        {
+          "path": "feed/v2ray-20260520.txt",
+          "node_count": 49,
+          "last_checked": "2026-06-20T10:28:19.904638Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260520.txt"
+        },
+        {
+          "path": "feed/v2ray-20260522.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:20.085959Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260522.txt"
+        },
+        {
+          "path": "feed/v2ray-20260523.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:20.198318Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260523.txt"
+        },
+        {
+          "path": "feed/v2ray-20260524.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:20.328285Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260524.txt"
+        },
+        {
+          "path": "feed/v2ray-20260525.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:20.464150Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260525.txt"
+        },
+        {
+          "path": "feed/v2ray-20260526.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:20.593145Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260526.txt"
+        },
+        {
+          "path": "feed/v2ray-20260527.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:20.716870Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260527.txt"
+        },
+        {
+          "path": "feed/v2ray-20260528.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:21.055977Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260528.txt"
+        },
+        {
+          "path": "feed/v2ray-20260529.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:21.179308Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260529.txt"
+        },
+        {
+          "path": "feed/v2ray-20260530.txt",
+          "node_count": 56,
+          "last_checked": "2026-06-20T10:28:21.293088Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260530.txt"
+        },
+        {
+          "path": "feed/v2ray-20260601.txt",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:28:21.410783Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260601.txt"
+        },
+        {
+          "path": "feed/v2ray-20260602.txt",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:28:21.538491Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260602.txt"
+        },
+        {
+          "path": "feed/v2ray-20260603.txt",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:28:21.664687Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260603.txt"
+        },
+        {
+          "path": "feed/v2ray-20260604.txt",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:28:21.782490Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260604.txt"
+        },
+        {
+          "path": "feed/v2ray-20260605.txt",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:28:21.905382Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260605.txt"
+        },
+        {
+          "path": "feed/v2ray-20260606.txt",
+          "node_count": 44,
+          "last_checked": "2026-06-20T10:28:22.027501Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260606.txt"
+        },
+        {
+          "path": "feed/v2ray-20260607.txt",
+          "node_count": 42,
+          "last_checked": "2026-06-20T10:28:22.146345Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260607.txt"
+        },
+        {
+          "path": "feed/v2ray-20260608.txt",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:28:22.272162Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260608.txt"
+        },
+        {
+          "path": "feed/v2ray-20260609.txt",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:28:22.399366Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260609.txt"
+        },
+        {
+          "path": "feed/v2ray-20260610.txt",
+          "node_count": 45,
+          "last_checked": "2026-06-20T10:28:22.517085Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260610.txt"
+        },
+        {
+          "path": "feed/v2ray-20260611.txt",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:28:22.631220Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260611.txt"
+        },
+        {
+          "path": "feed/v2ray-20260612.txt",
+          "node_count": 38,
+          "last_checked": "2026-06-20T10:28:22.750605Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260612.txt"
+        },
+        {
+          "path": "feed/v2ray-20260613.txt",
+          "node_count": 38,
+          "last_checked": "2026-06-20T10:28:22.870980Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260613.txt"
+        },
+        {
+          "path": "feed/v2ray-20260615.txt",
+          "node_count": 38,
+          "last_checked": "2026-06-20T10:28:23.015622Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260615.txt"
+        },
+        {
+          "path": "feed/v2ray-20260616.txt",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:28:23.137102Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260616.txt"
+        },
+        {
+          "path": "feed/v2ray-20260617.txt",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:28:23.256358Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260617.txt"
+        },
+        {
+          "path": "feed/v2ray-20260618.txt",
+          "node_count": 39,
+          "last_checked": "2026-06-20T10:28:23.378473Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260618.txt"
+        },
+        {
+          "path": "feed/v2ray-20260620.txt",
+          "node_count": 38,
+          "last_checked": "2026-06-20T10:28:23.483748Z",
+          "url": "https://raw.githubusercontent.com/xibanyahu/phppachong-freenode/main/feed/v2ray-20260620.txt"
+        }
+      ],
+      "last_full_scan": "2026-06-20T10:28:28.800543Z",
+      "last_nodes_update": "2026-06-20T10:28:28.800568Z"
+    },
+    {
       "repository": "cxddgtb/dljdsjq",
       "stars": 10,
       "forks": 1,
@@ -6490,25 +8218,25 @@
       "repository": "tonyhuang23-sys/CFnodes",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 719,
+      "extracted_nodes": 689,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "output/nodes.txt",
-          "node_count": 973,
-          "last_checked": "2026-06-07T10:22:32.814905Z",
+          "node_count": 1065,
+          "last_checked": "2026-06-20T10:28:25.173175Z",
           "url": "https://raw.githubusercontent.com/tonyhuang23-sys/CFnodes/main/output/nodes.txt"
         },
         {
           "path": "output/sub.txt",
-          "node_count": 973,
-          "last_checked": "2026-06-07T10:22:33.008426Z",
+          "node_count": 1065,
+          "last_checked": "2026-06-20T10:28:25.391851Z",
           "url": "https://raw.githubusercontent.com/tonyhuang23-sys/CFnodes/main/output/sub.txt"
         }
       ],
-      "last_full_scan": "2026-06-07T10:22:37.004600Z",
-      "last_nodes_update": "2026-06-07T10:22:37.004638Z"
+      "last_full_scan": "2026-06-20T10:28:28.800596Z",
+      "last_nodes_update": "2026-06-20T10:28:28.800598Z"
     },
     {
       "repository": "spincat/SmartProxyPipeline",
@@ -8263,7 +9991,7 @@
       "last_nodes_update": "2026-06-07T17:06:58.181361Z"
     }
   ],
-  "updated_at": "2026-06-20 07:43:17",
-  "total_whitelisted_repos": 20,
-  "total_cached_nodes": 15491
+  "updated_at": "2026-06-20 10:28:28",
+  "total_whitelisted_repos": 21,
+  "total_cached_nodes": 18461
 }

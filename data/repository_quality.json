@@ -2,26 +2,26 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9035,
+      "stars": 9034,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 29,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 989,
-      "forks": 140,
-      "extracted_nodes": 3000,
-      "valid_nodes": 73,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 52,
       "forks": 58,
-      "extracted_nodes": 438,
+      "extracted_nodes": 468,
       "valid_nodes": 9,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 990,
+      "forks": 140,
+      "extracted_nodes": 3000,
+      "valid_nodes": 77,
       "quality_score": 100
     },
     {
@@ -33,12 +33,36 @@
       "quality_score": 98.0
     },
     {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 84,
+      "forks": 8,
+      "extracted_nodes": 488,
+      "valid_nodes": 11,
+      "quality_score": 88.0
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 60,
       "forks": 8,
       "extracted_nodes": 227,
-      "valid_nodes": 27,
+      "valid_nodes": 20,
       "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 182,
+      "forks": 21,
+      "extracted_nodes": 13,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "xibanyahu/phppachong-freenode",
+      "stars": 13,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 424,
+      "quality_score": 50.4
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -53,7 +77,7 @@
       "stars": 8,
       "forks": 1,
       "extracted_nodes": 781,
-      "valid_nodes": 25,
+      "valid_nodes": 24,
       "quality_score": 47.4
     },
     {
@@ -61,19 +85,19 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 144,
-      "valid_nodes": 139,
+      "valid_nodes": 134,
       "quality_score": 40.8
     },
     {
-      "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 25,
-      "forks": 2,
-      "extracted_nodes": 160,
-      "valid_nodes": 0,
-      "quality_score": 22.0
+      "repository": "tonyhuang23-sys/CFnodes",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 689,
+      "valid_nodes": 187,
+      "quality_score": 40.0
     },
     {
-      "repository": "davoo233/Godfe2ray",
+      "repository": "forestslin/mosaic-screensaver-windows",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +105,5 @@
       "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-06-20 07:43:20"
+  "updated_at": "2026-06-20 10:28:48"
 }
