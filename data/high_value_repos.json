@@ -9709,6 +9709,132 @@
       "last_nodes_update": "2026-06-05T06:58:30.478159Z"
     },
     {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7627,
+      "forks": 1232,
+      "extracted_nodes": 170,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "list.meta.yml",
+          "node_count": 86,
+          "last_checked": "2026-06-20T13:26:05.600760Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml"
+        },
+        {
+          "path": "list.txt",
+          "node_count": 88,
+          "last_checked": "2026-06-20T13:26:05.657119Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt"
+        },
+        {
+          "path": "list.yml",
+          "node_count": 18,
+          "last_checked": "2026-06-20T13:26:06.090292Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml"
+        },
+        {
+          "path": "list_raw.txt",
+          "node_count": 88,
+          "last_checked": "2026-06-20T13:26:06.145741Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list_raw.txt"
+        },
+        {
+          "path": "snippets/nodes.meta.yml",
+          "node_count": 86,
+          "last_checked": "2026-06-20T13:26:06.988968Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes.meta.yml"
+        },
+        {
+          "path": "snippets/nodes.yml",
+          "node_count": 18,
+          "last_checked": "2026-06-20T13:26:07.172506Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes.yml"
+        },
+        {
+          "path": "snippets/nodes_DE.meta.yml",
+          "node_count": 2,
+          "last_checked": "2026-06-20T13:26:07.721137Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_DE.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_HK.meta.yml",
+          "node_count": 7,
+          "last_checked": "2026-06-20T13:26:08.342789Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_HK.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_HK.yml",
+          "node_count": 5,
+          "last_checked": "2026-06-20T13:26:08.405185Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_HK.yml"
+        },
+        {
+          "path": "snippets/nodes_JP.meta.yml",
+          "node_count": 4,
+          "last_checked": "2026-06-20T13:26:08.483835Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_JP.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_JP.yml",
+          "node_count": 3,
+          "last_checked": "2026-06-20T13:26:08.568983Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_JP.yml"
+        },
+        {
+          "path": "snippets/nodes_KR.meta.yml",
+          "node_count": 2,
+          "last_checked": "2026-06-20T13:26:08.626166Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_KR.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_KR.yml",
+          "node_count": 1,
+          "last_checked": "2026-06-20T13:26:08.702903Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_KR.yml"
+        },
+        {
+          "path": "snippets/nodes_SE.meta.yml",
+          "node_count": 9,
+          "last_checked": "2026-06-20T13:26:09.000313Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_SE.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_SG.meta.yml",
+          "node_count": 4,
+          "last_checked": "2026-06-20T13:26:09.159285Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_SG.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_SG.yml",
+          "node_count": 3,
+          "last_checked": "2026-06-20T13:26:09.238130Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_SG.yml"
+        },
+        {
+          "path": "snippets/nodes_TW.meta.yml",
+          "node_count": 1,
+          "last_checked": "2026-06-20T13:26:09.295275Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_TW.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_US.meta.yml",
+          "node_count": 9,
+          "last_checked": "2026-06-20T13:26:09.440202Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_US.meta.yml"
+        },
+        {
+          "path": "snippets/nodes_US.yml",
+          "node_count": 5,
+          "last_checked": "2026-06-20T13:26:09.519595Z",
+          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_US.yml"
+        }
+      ],
+      "last_full_scan": "2026-06-20T13:26:11.819480Z",
+      "last_nodes_update": "2026-06-20T13:26:11.819502Z"
+    },
+    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 52,
       "forks": 58,
@@ -9863,135 +9989,9 @@
       ],
       "last_full_scan": "2026-06-18T08:32:15.215875Z",
       "last_nodes_update": "2026-06-18T08:32:15.215919Z"
-    },
-    {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7543,
-      "forks": 1233,
-      "extracted_nodes": 103,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "list.meta.yml",
-          "node_count": 60,
-          "last_checked": "2026-06-07T17:06:46.151013Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml"
-        },
-        {
-          "path": "list.txt",
-          "node_count": 63,
-          "last_checked": "2026-06-07T17:06:46.279672Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt"
-        },
-        {
-          "path": "list.yml",
-          "node_count": 15,
-          "last_checked": "2026-06-07T17:06:46.812486Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml"
-        },
-        {
-          "path": "list_raw.txt",
-          "node_count": 63,
-          "last_checked": "2026-06-07T17:06:47.082100Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list_raw.txt"
-        },
-        {
-          "path": "snippets/nodes.meta.yml",
-          "node_count": 60,
-          "last_checked": "2026-06-07T17:06:48.517783Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes.meta.yml"
-        },
-        {
-          "path": "snippets/nodes.yml",
-          "node_count": 15,
-          "last_checked": "2026-06-07T17:06:48.671580Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes.yml"
-        },
-        {
-          "path": "snippets/nodes_DE.meta.yml",
-          "node_count": 3,
-          "last_checked": "2026-06-07T17:06:49.997576Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_DE.meta.yml"
-        },
-        {
-          "path": "snippets/nodes_DE.yml",
-          "node_count": 1,
-          "last_checked": "2026-06-07T17:06:50.238021Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_DE.yml"
-        },
-        {
-          "path": "snippets/nodes_GB.meta.yml",
-          "node_count": 3,
-          "last_checked": "2026-06-07T17:06:51.013183Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_GB.meta.yml"
-        },
-        {
-          "path": "snippets/nodes_HK.meta.yml",
-          "node_count": 6,
-          "last_checked": "2026-06-07T17:06:51.492165Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_HK.meta.yml"
-        },
-        {
-          "path": "snippets/nodes_HK.yml",
-          "node_count": 5,
-          "last_checked": "2026-06-07T17:06:51.647114Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_HK.yml"
-        },
-        {
-          "path": "snippets/nodes_JP.meta.yml",
-          "node_count": 3,
-          "last_checked": "2026-06-07T17:06:51.798488Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_JP.meta.yml"
-        },
-        {
-          "path": "snippets/nodes_JP.yml",
-          "node_count": 2,
-          "last_checked": "2026-06-07T17:06:51.958658Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_JP.yml"
-        },
-        {
-          "path": "snippets/nodes_RU.meta.yml",
-          "node_count": 4,
-          "last_checked": "2026-06-07T17:06:52.520785Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_RU.meta.yml"
-        },
-        {
-          "path": "snippets/nodes_SG.meta.yml",
-          "node_count": 3,
-          "last_checked": "2026-06-07T17:06:53.154622Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_SG.meta.yml"
-        },
-        {
-          "path": "snippets/nodes_SG.yml",
-          "node_count": 2,
-          "last_checked": "2026-06-07T17:06:53.329741Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_SG.yml"
-        },
-        {
-          "path": "snippets/nodes_TW.meta.yml",
-          "node_count": 1,
-          "last_checked": "2026-06-07T17:06:53.485046Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_TW.meta.yml"
-        },
-        {
-          "path": "snippets/nodes_US.meta.yml",
-          "node_count": 7,
-          "last_checked": "2026-06-07T17:06:53.796901Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_US.meta.yml"
-        },
-        {
-          "path": "snippets/nodes_US.yml",
-          "node_count": 4,
-          "last_checked": "2026-06-07T17:06:53.948495Z",
-          "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/snippets/nodes_US.yml"
-        }
-      ],
-      "last_full_scan": "2026-06-07T17:06:58.181323Z",
-      "last_nodes_update": "2026-06-07T17:06:58.181361Z"
     }
   ],
-  "updated_at": "2026-06-20 10:28:28",
+  "updated_at": "2026-06-20 13:26:11",
   "total_whitelisted_repos": 21,
-  "total_cached_nodes": 18461
+  "total_cached_nodes": 18528
 }
