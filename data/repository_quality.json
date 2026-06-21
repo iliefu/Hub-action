@@ -5,20 +5,20 @@
       "stars": 9039,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 28,
+      "valid_nodes": 22,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 993,
+      "stars": 995,
       "forks": 141,
       "extracted_nodes": 3000,
-      "valid_nodes": 75,
+      "valid_nodes": 88,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 458,
+      "stars": 461,
       "forks": 18,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -28,31 +28,23 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 84,
       "forks": 8,
-      "extracted_nodes": 485,
-      "valid_nodes": 8,
+      "extracted_nodes": 486,
+      "valid_nodes": 6,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 62,
       "forks": 8,
-      "extracted_nodes": 760,
+      "extracted_nodes": 763,
       "valid_nodes": 226,
       "quality_score": 88.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 183,
-      "forks": 22,
-      "extracted_nodes": 13,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 270,
-      "forks": 25,
-      "extracted_nodes": 6,
+      "repository": "gslege/CloudflareIP",
+      "stars": 493,
+      "forks": 245,
+      "extracted_nodes": 20,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -60,8 +52,8 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 102,
-      "valid_nodes": 66,
+      "extracted_nodes": 125,
+      "valid_nodes": 89,
       "quality_score": 48.8
     },
     {
@@ -77,51 +69,11 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 134,
-      "valid_nodes": 123,
+      "valid_nodes": 119,
       "quality_score": 40.8
     },
     {
-      "repository": "cbusifabcap/daily_free_vpn",
-      "stars": 25,
-      "forks": 2,
-      "extracted_nodes": 165,
-      "valid_nodes": 0,
-      "quality_score": 22.0
-    },
-    {
-      "repository": "l0v3m0n3y/warpgen",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "UykiZhao/Clash-Party-Override-Rule",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Jungley8/subconverter-ng",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "jichangohub/jichangtizi",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "jichangohub/jichangogo",
+      "repository": "zhouyumi123-droid/zyt-python-",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -129,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-21 13:47:59"
+  "updated_at": "2026-06-21 17:19:21"
 }
