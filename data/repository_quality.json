@@ -5,7 +5,7 @@
       "stars": 9039,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 31,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
@@ -13,20 +13,20 @@
       "stars": 996,
       "forks": 141,
       "extracted_nodes": 3000,
-      "valid_nodes": 68,
+      "valid_nodes": 88,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7634,
-      "forks": 1233,
-      "extracted_nodes": 202,
-      "valid_nodes": 63,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 270,
+      "forks": 25,
+      "extracted_nodes": 27,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 461,
+      "stars": 463,
       "forks": 18,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -36,58 +36,34 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 84,
       "forks": 8,
-      "extracted_nodes": 492,
-      "valid_nodes": 8,
+      "extracted_nodes": 496,
+      "valid_nodes": 10,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 62,
       "forks": 8,
-      "extracted_nodes": 765,
-      "valid_nodes": 239,
+      "extracted_nodes": 784,
+      "valid_nodes": 240,
       "quality_score": 88.0
-    },
-    {
-      "repository": "gslege/CloudflareIP",
-      "stars": 493,
-      "forks": 245,
-      "extracted_nodes": 20,
-      "valid_nodes": 0,
-      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
       "extracted_nodes": 125,
-      "valid_nodes": 89,
+      "valid_nodes": 87,
       "quality_score": 48.8
-    },
-    {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 771,
-      "valid_nodes": 26,
-      "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 132,
-      "valid_nodes": 120,
+      "valid_nodes": 119,
       "quality_score": 40.8
-    },
-    {
-      "repository": "codelabhq/clash-warp-config",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-21 21:06:02"
+  "updated_at": "2026-06-22 02:42:16"
 }
