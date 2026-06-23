@@ -5,23 +5,31 @@
       "stars": 9041,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 27,
+      "valid_nodes": 28,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 817,
+      "forks": 70,
+      "extracted_nodes": 91,
+      "valid_nodes": 38,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 998,
+      "stars": 999,
       "forks": 142,
       "extracted_nodes": 3000,
-      "valid_nodes": 99,
+      "valid_nodes": 89,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 53,
       "forks": 58,
-      "extracted_nodes": 1993,
-      "valid_nodes": 22,
+      "extracted_nodes": 588,
+      "valid_nodes": 11,
       "quality_score": 100
     },
     {
@@ -36,32 +44,48 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 84,
       "forks": 8,
-      "extracted_nodes": 493,
-      "valid_nodes": 8,
+      "extracted_nodes": 491,
+      "valid_nodes": 7,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 62,
       "forks": 8,
-      "extracted_nodes": 712,
-      "valid_nodes": 228,
+      "extracted_nodes": 705,
+      "valid_nodes": 219,
       "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 184,
+      "forks": 23,
+      "extracted_nodes": 13,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 54,
-      "valid_nodes": 24,
+      "extracted_nodes": 52,
+      "valid_nodes": 22,
       "quality_score": 48.8
+    },
+    {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 835,
+      "valid_nodes": 32,
+      "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 133,
-      "valid_nodes": 122,
+      "extracted_nodes": 131,
+      "valid_nodes": 123,
       "quality_score": 40.8
     },
     {
@@ -73,13 +97,21 @@
       "quality_score": 24.4
     },
     {
-      "repository": "godeluoo1/ko",
+      "repository": "narinishi/platypus-warp",
       "stars": 0,
-      "forks": 1,
+      "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.0
+      "quality_score": 0.0
+    },
+    {
+      "repository": "qifujie020/new-meta.ini",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-23 17:50:05"
+  "updated_at": "2026-06-23 21:24:44"
 }
