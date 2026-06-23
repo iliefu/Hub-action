@@ -9949,6 +9949,30 @@
       "last_nodes_update": "2026-06-17T14:51:04.159635Z"
     },
     {
+      "repository": "dalichuqijiai/DaLiVpn",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 373,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "assets/data/dali_config.yaml",
+          "node_count": 302,
+          "last_checked": "2026-06-23T07:39:37.530556Z",
+          "url": "https://raw.githubusercontent.com/dalichuqijiai/DaLiVpn/main/assets/data/dali_config.yaml"
+        },
+        {
+          "path": "assets/subscription.txt",
+          "node_count": 76,
+          "last_checked": "2026-06-23T07:39:37.658691Z",
+          "url": "https://raw.githubusercontent.com/dalichuqijiai/DaLiVpn/main/assets/subscription.txt"
+        }
+      ],
+      "last_full_scan": "2026-06-23T07:39:46.626331Z",
+      "last_nodes_update": "2026-06-23T07:39:46.626363Z"
+    },
+    {
       "repository": "LancelotRar/free-subs",
       "stars": 26,
       "forks": 4,
@@ -10471,7 +10495,7 @@
       "last_nodes_update": "2026-06-18T08:32:15.215919Z"
     }
   ],
-  "updated_at": "2026-06-23 02:09:19",
-  "total_whitelisted_repos": 22,
-  "total_cached_nodes": 21528
+  "updated_at": "2026-06-23 07:39:46",
+  "total_whitelisted_repos": 23,
+  "total_cached_nodes": 21901
 }
