@@ -5,7 +5,15 @@
       "stars": 9042,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 27,
+      "valid_nodes": 29,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 53,
+      "forks": 58,
+      "extracted_nodes": 675,
+      "valid_nodes": 16,
       "quality_score": 100
     },
     {
@@ -13,15 +21,15 @@
       "stars": 997,
       "forks": 142,
       "extracted_nodes": 3000,
-      "valid_nodes": 101,
+      "valid_nodes": 89,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 53,
-      "forks": 58,
-      "extracted_nodes": 368,
-      "valid_nodes": 8,
+      "repository": "dongchengjie/airport",
+      "stars": 567,
+      "forks": 52,
+      "extracted_nodes": 3000,
+      "valid_nodes": 1944,
       "quality_score": 100
     },
     {
@@ -33,19 +41,35 @@
       "quality_score": 98.0
     },
     {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 84,
+      "forks": 8,
+      "extracted_nodes": 496,
+      "valid_nodes": 9,
+      "quality_score": 88.0
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 62,
       "forks": 8,
-      "extracted_nodes": 714,
-      "valid_nodes": 211,
+      "extracted_nodes": 702,
+      "valid_nodes": 202,
       "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 184,
+      "forks": 22,
+      "extracted_nodes": 13,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 69,
-      "valid_nodes": 39,
+      "extracted_nodes": 67,
+      "valid_nodes": 37,
       "quality_score": 48.8
     },
     {
@@ -53,7 +77,7 @@
       "stars": 8,
       "forks": 1,
       "extracted_nodes": 836,
-      "valid_nodes": 32,
+      "valid_nodes": 31,
       "quality_score": 47.4
     },
     {
@@ -61,16 +85,8 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 131,
-      "valid_nodes": 115,
+      "valid_nodes": 116,
       "quality_score": 40.8
-    },
-    {
-      "repository": "dalichuqijiai/DaLiVpn",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 373,
-      "valid_nodes": 295,
-      "quality_score": 40.0
     },
     {
       "repository": "cbusifabcap/daily_free_vpn",
@@ -81,15 +97,15 @@
       "quality_score": 23.6
     },
     {
-      "repository": "RanKaze/kolid-comfy",
-      "stars": 3,
+      "repository": "Lucas-vdr-a11y/nova-ui",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 2.4
+      "quality_score": 0.0
     },
     {
-      "repository": "bigqingshu/DataFlowKit",
+      "repository": "ZTTYBB/hy2-",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +113,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-23 07:39:51"
+  "updated_at": "2026-06-23 10:55:07"
 }
