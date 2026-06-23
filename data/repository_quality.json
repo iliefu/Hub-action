@@ -2,66 +2,58 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9042,
+      "stars": 9041,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 25,
+      "valid_nodes": 27,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 998,
+      "forks": 142,
+      "extracted_nodes": 3000,
+      "valid_nodes": 99,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 53,
       "forks": 58,
-      "extracted_nodes": 457,
-      "valid_nodes": 6,
+      "extracted_nodes": 1993,
+      "valid_nodes": 22,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 997,
-      "forks": 142,
-      "extracted_nodes": 3000,
-      "valid_nodes": 101,
-      "quality_score": 100
+      "repository": "hello-world-1989/cn-news",
+      "stars": 465,
+      "forks": 18,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 98.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 84,
       "forks": 8,
-      "extracted_nodes": 491,
-      "valid_nodes": 6,
+      "extracted_nodes": 493,
+      "valid_nodes": 8,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 62,
       "forks": 8,
-      "extracted_nodes": 700,
-      "valid_nodes": 204,
+      "extracted_nodes": 712,
+      "valid_nodes": 228,
       "quality_score": 88.0
-    },
-    {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 184,
-      "forks": 22,
-      "extracted_nodes": 13,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 270,
-      "forks": 25,
-      "extracted_nodes": 9,
-      "valid_nodes": 0,
-      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 67,
-      "valid_nodes": 37,
+      "extracted_nodes": 54,
+      "valid_nodes": 24,
       "quality_score": 48.8
     },
     {
@@ -69,7 +61,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 133,
-      "valid_nodes": 115,
+      "valid_nodes": 122,
       "quality_score": 40.8
     },
     {
@@ -81,21 +73,13 @@
       "quality_score": 24.4
     },
     {
-      "repository": "Lucas-vdr-a11y/verve-ui",
+      "repository": "godeluoo1/ko",
       "stars": 0,
-      "forks": 0,
+      "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "YouzSpace/3xui-hub",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 1.0
     }
   ],
-  "updated_at": "2026-06-23 14:26:53"
+  "updated_at": "2026-06-23 17:50:05"
 }
