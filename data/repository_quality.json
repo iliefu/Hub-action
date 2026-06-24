@@ -1,27 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9042,
-      "forks": 668,
-      "extracted_nodes": 55,
-      "valid_nodes": 21,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1000,
       "forks": 142,
       "extracted_nodes": 3000,
-      "valid_nodes": 106,
+      "valid_nodes": 95,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 53,
       "forks": 59,
-      "extracted_nodes": 511,
-      "valid_nodes": 17,
+      "extracted_nodes": 722,
+      "valid_nodes": 18,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9043,
+      "forks": 668,
+      "extracted_nodes": 55,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
@@ -33,34 +33,34 @@
       "quality_score": 98.0
     },
     {
-      "repository": "wenxig/free-nodes-sub",
-      "stars": 62,
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 84,
       "forks": 8,
-      "extracted_nodes": 731,
-      "valid_nodes": 232,
+      "extracted_nodes": 503,
+      "valid_nodes": 8,
       "quality_score": 88.0
     },
     {
-      "repository": "chouniu666/vpn",
-      "stars": 210,
-      "forks": 13,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 53.0
+      "repository": "wenxig/free-nodes-sub",
+      "stars": 62,
+      "forks": 8,
+      "extracted_nodes": 728,
+      "valid_nodes": 232,
+      "quality_score": 88.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 54,
-      "valid_nodes": 24,
+      "extracted_nodes": 53,
+      "valid_nodes": 23,
       "quality_score": 48.8
     },
     {
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 906,
+      "extracted_nodes": 905,
       "valid_nodes": 25,
       "quality_score": 47.4
     },
@@ -69,8 +69,16 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 137,
-      "valid_nodes": 122,
+      "valid_nodes": 125,
       "quality_score": 40.8
+    },
+    {
+      "repository": "tonyhuang23-sys/CFnodes",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 810,
+      "valid_nodes": 188,
+      "quality_score": 40.0
     },
     {
       "repository": "cbusifabcap/daily_free_vpn",
@@ -81,15 +89,15 @@
       "quality_score": 24.4
     },
     {
-      "repository": "atangccc/Astrahub-WordPress",
+      "repository": "wangdefoo/clash-subscribe",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 0,
+      "extracted_nodes": 4,
       "valid_nodes": 0,
       "quality_score": 0.0
     },
     {
-      "repository": "zzhiping1/vibe-coding-blackboard",
+      "repository": "wsoeoe/kNot-site",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-24 07:32:37"
+  "updated_at": "2026-06-24 10:41:26"
 }
