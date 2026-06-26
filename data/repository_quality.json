@@ -2,18 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9044,
+      "stars": 9046,
       "forks": 668,
-      "extracted_nodes": 55,
-      "valid_nodes": 28,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 55,
-      "forks": 60,
-      "extracted_nodes": 502,
-      "valid_nodes": 17,
+      "extracted_nodes": 49,
+      "valid_nodes": 30,
       "quality_score": 100
     },
     {
@@ -22,6 +14,14 @@
       "forks": 143,
       "extracted_nodes": 3000,
       "valid_nodes": 79,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 55,
+      "forks": 60,
+      "extracted_nodes": 647,
+      "valid_nodes": 18,
       "quality_score": 100
     },
     {
@@ -36,17 +36,41 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 62,
       "forks": 8,
-      "extracted_nodes": 829,
-      "valid_nodes": 263,
+      "extracted_nodes": 830,
+      "valid_nodes": 247,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "kooker/FreeSubsCheck",
+      "stars": 55,
+      "forks": 8,
+      "extracted_nodes": 574,
+      "valid_nodes": 78,
       "quality_score": 88.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 84,
       "forks": 7,
-      "extracted_nodes": 498,
-      "valid_nodes": 10,
+      "extracted_nodes": 492,
+      "valid_nodes": 9,
       "quality_score": 87.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 183,
+      "forks": 23,
+      "extracted_nodes": 15,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 271,
+      "forks": 25,
+      "extracted_nodes": 6,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -57,21 +81,21 @@
       "quality_score": 48.8
     },
     {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 866,
-      "valid_nodes": 19,
-      "quality_score": 47.4
+      "repository": "Earl9/subconv-next",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 9,
+      "valid_nodes": 4,
+      "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 139,
-      "valid_nodes": 124,
+      "extracted_nodes": 140,
+      "valid_nodes": 125,
       "quality_score": 40.8
     }
   ],
-  "updated_at": "2026-06-26 10:45:32"
+  "updated_at": "2026-06-26 14:01:58"
 }
