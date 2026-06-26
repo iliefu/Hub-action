@@ -5,23 +5,31 @@
       "stars": 9044,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 26,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 54,
       "forks": 60,
-      "extracted_nodes": 456,
-      "valid_nodes": 8,
+      "extracted_nodes": 355,
+      "valid_nodes": 5,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1009,
+      "stars": 1010,
       "forks": 142,
       "extracted_nodes": 3000,
-      "valid_nodes": 72,
+      "valid_nodes": 65,
+      "quality_score": 100
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 271,
+      "forks": 25,
+      "extracted_nodes": 18,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -36,17 +44,17 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 62,
       "forks": 8,
-      "extracted_nodes": 822,
-      "valid_nodes": 259,
+      "extracted_nodes": 834,
+      "valid_nodes": 273,
       "quality_score": 88.0
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 84,
-      "forks": 7,
-      "extracted_nodes": 494,
-      "valid_nodes": 10,
-      "quality_score": 87.0
+      "repository": "Alvin9999-newpac/Sing-Box-Plus",
+      "stars": 212,
+      "forks": 45,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -57,23 +65,23 @@
       "quality_score": 48.8
     },
     {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 853,
-      "valid_nodes": 25,
-      "quality_score": 47.4
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
+      "repository": "v2raynnodes/v2rayclash",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 134,
-      "quality_score": 40.8
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
     },
     {
-      "repository": "LynnixZ/GTool",
+      "repository": "narinishi/platypus-vortex",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "cssdxc/app_subscription_flutter",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-25 21:22:16"
+  "updated_at": "2026-06-26 02:12:26"
 }
