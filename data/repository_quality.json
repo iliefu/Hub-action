@@ -5,31 +5,23 @@
       "stars": 9044,
       "forks": 668,
       "extracted_nodes": 55,
-      "valid_nodes": 26,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1010,
-      "forks": 142,
-      "extracted_nodes": 3000,
-      "valid_nodes": 87,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 55,
       "forks": 60,
-      "extracted_nodes": 417,
-      "valid_nodes": 6,
+      "extracted_nodes": 502,
+      "valid_nodes": 17,
       "quality_score": 100
     },
     {
-      "repository": "free18/v2ray",
-      "stars": 4907,
-      "forks": 232,
-      "extracted_nodes": 515,
-      "valid_nodes": 279,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1013,
+      "forks": 143,
+      "extracted_nodes": 3000,
+      "valid_nodes": 79,
       "quality_score": 100
     },
     {
@@ -45,16 +37,16 @@
       "stars": 62,
       "forks": 8,
       "extracted_nodes": 829,
-      "valid_nodes": 270,
+      "valid_nodes": 263,
       "quality_score": 88.0
     },
     {
-      "repository": "dongyubin/Free-AppleId-Serve",
-      "stars": 3130,
-      "forks": 196,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 84,
+      "forks": 7,
+      "extracted_nodes": 498,
+      "valid_nodes": 10,
+      "quality_score": 87.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -68,8 +60,8 @@
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 868,
-      "valid_nodes": 18,
+      "extracted_nodes": 866,
+      "valid_nodes": 19,
       "quality_score": 47.4
     },
     {
@@ -77,33 +69,9 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 139,
-      "valid_nodes": 135,
+      "valid_nodes": 124,
       "quality_score": 40.8
-    },
-    {
-      "repository": "WillLiang713/Sift",
-      "stars": 8,
-      "forks": 2,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 8.4
-    },
-    {
-      "repository": "AlexBot189/joint-motor-hal-c-v2",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "ac227/sub-hub",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-26 07:43:40"
+  "updated_at": "2026-06-26 10:45:32"
 }
