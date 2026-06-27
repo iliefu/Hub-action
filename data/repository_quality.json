@@ -4,8 +4,8 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 55,
       "forks": 60,
-      "extracted_nodes": 566,
-      "valid_nodes": 19,
+      "extracted_nodes": 2711,
+      "valid_nodes": 370,
       "quality_score": 100
     },
     {
@@ -13,7 +13,15 @@
       "stars": 1014,
       "forks": 142,
       "extracted_nodes": 3000,
-      "valid_nodes": 59,
+      "valid_nodes": 80,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 830,
+      "forks": 71,
+      "extracted_nodes": 94,
+      "valid_nodes": 45,
       "quality_score": 100
     },
     {
@@ -25,27 +33,59 @@
       "quality_score": 100
     },
     {
-      "repository": "free18/v2ray",
-      "stars": 4914,
-      "forks": 232,
-      "extracted_nodes": 274,
-      "valid_nodes": 152,
+      "repository": "PuddinCat/BestClash",
+      "stars": 1712,
+      "forks": 106,
+      "extracted_nodes": 16,
+      "valid_nodes": 12,
       "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 471,
+      "forks": 18,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 98.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 62,
       "forks": 8,
-      "extracted_nodes": 846,
-      "valid_nodes": 249,
+      "extracted_nodes": 844,
+      "valid_nodes": 242,
       "quality_score": 88.0
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 84,
+      "forks": 7,
+      "extracted_nodes": 485,
+      "valid_nodes": 6,
+      "quality_score": 87.0
+    },
+    {
+      "repository": "twj0/subseek",
+      "stars": 18,
+      "forks": 2,
+      "extracted_nodes": 2523,
+      "valid_nodes": 110,
+      "quality_score": 56.4
+    },
+    {
+      "repository": "bin1site1/V2rayFree",
+      "stars": 84,
+      "forks": 10,
+      "extracted_nodes": 56,
+      "valid_nodes": 0,
+      "quality_score": 50.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 55,
-      "valid_nodes": 25,
+      "extracted_nodes": 53,
+      "valid_nodes": 24,
       "quality_score": 48.8
     },
     {
@@ -53,7 +93,7 @@
       "stars": 8,
       "forks": 1,
       "extracted_nodes": 880,
-      "valid_nodes": 25,
+      "valid_nodes": 23,
       "quality_score": 47.4
     },
     {
@@ -61,7 +101,15 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 139,
-      "valid_nodes": 134,
+      "valid_nodes": 127,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "jyucoeng/singbox-tools",
+      "stars": 26,
+      "forks": 20,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
       "quality_score": 40.8
     },
     {
@@ -71,7 +119,15 @@
       "extracted_nodes": 8,
       "valid_nodes": 0,
       "quality_score": 5.0
+    },
+    {
+      "repository": "Einck0/clash-sub-parser",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-27 06:47:52"
+  "updated_at": "2026-06-27 09:57:18"
 }
