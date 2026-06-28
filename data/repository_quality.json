@@ -9,85 +9,61 @@
       "quality_score": 100
     },
     {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 57,
+      "forks": 60,
+      "extracted_nodes": 575,
+      "valid_nodes": 11,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1019,
       "forks": 142,
       "extracted_nodes": 3000,
-      "valid_nodes": 58,
+      "valid_nodes": 81,
       "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 57,
-      "forks": 60,
-      "extracted_nodes": 364,
-      "valid_nodes": 6,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 475,
-      "forks": 18,
-      "extracted_nodes": 8,
-      "valid_nodes": 1,
-      "quality_score": 98.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 85,
       "forks": 8,
-      "extracted_nodes": 489,
-      "valid_nodes": 6,
+      "extracted_nodes": 485,
+      "valid_nodes": 5,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 63,
       "forks": 8,
-      "extracted_nodes": 842,
-      "valid_nodes": 205,
+      "extracted_nodes": 838,
+      "valid_nodes": 204,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 272,
-      "forks": 25,
-      "extracted_nodes": 3,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "gslege/CloudflareIP",
-      "stars": 508,
-      "forks": 258,
-      "extracted_nodes": 20,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 11,
+      "forks": 0,
+      "extracted_nodes": 45,
+      "valid_nodes": 15,
+      "quality_score": 48.8
     },
     {
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 1055,
+      "extracted_nodes": 1054,
       "valid_nodes": 22,
       "quality_score": 47.4
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
+      "repository": "yakshila/lc-scribe",
       "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 145,
-      "valid_nodes": 130,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "AppsGanin/warp-config-generator",
-      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-06-28 13:15:36"
+  "updated_at": "2026-06-28 16:58:27"
 }
