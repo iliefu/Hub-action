@@ -12,33 +12,65 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 57,
       "forks": 60,
-      "extracted_nodes": 575,
-      "valid_nodes": 11,
+      "extracted_nodes": 661,
+      "valid_nodes": 10,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1019,
+      "stars": 1017,
       "forks": 142,
       "extracted_nodes": 3000,
-      "valid_nodes": 81,
+      "valid_nodes": 91,
       "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7680,
+      "forks": 1238,
+      "extracted_nodes": 103,
+      "valid_nodes": 19,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 477,
+      "forks": 19,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 99.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 85,
       "forks": 8,
       "extracted_nodes": 485,
-      "valid_nodes": 5,
+      "valid_nodes": 6,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 63,
       "forks": 8,
-      "extracted_nodes": 838,
-      "valid_nodes": 204,
+      "extracted_nodes": 848,
+      "valid_nodes": 214,
       "quality_score": 88.0
+    },
+    {
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 59,
+      "forks": 7,
+      "extracted_nodes": 1160,
+      "valid_nodes": 227,
+      "quality_score": 87.0
+    },
+    {
+      "repository": "danmaifu/mianfeijiedian",
+      "stars": 136,
+      "forks": 4,
+      "extracted_nodes": 3000,
+      "valid_nodes": 522,
+      "quality_score": 84.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -52,18 +84,26 @@
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 1054,
+      "extracted_nodes": 1053,
       "valid_nodes": 22,
       "quality_score": 47.4
     },
     {
-      "repository": "yakshila/lc-scribe",
+      "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 143,
+      "valid_nodes": 136,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "AppsGanin/warp-config-ru",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-28 16:58:27"
+  "updated_at": "2026-06-28 20:56:34"
 }
