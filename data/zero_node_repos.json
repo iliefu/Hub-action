@@ -222,6 +222,7 @@
     "kael-aiur/clash-subscriber",
     "ken-jo/agent-connector",
     "kexue-aihao/Knode",
+    "kingflowapi/claude-no-vpn",
     "kxswgj/appleid-free",
     "l0v3m0n3y/warpgen",
     "lanrat/wireguard-warp-generator",
@@ -337,6 +338,7 @@
     "yadinae/tg-cloud-drive-worker",
     "yak33/sub2api_monitor",
     "yanmuq/muqi_gkd",
+    "yemao-dev/claude-china-direct",
     "yezuofan/free-internet-guide",
     "yyyr-otz/iptv-api",
     "zachary9757/3x-abuse-guard",
@@ -352,5 +354,5 @@
     "zming-huang/Pure_Vector_Studio_Pro",
     "zzhiping1/vibe-coding-blackboard"
   ],
-  "updated_at": "2026-06-28 07:44:31"
+  "updated_at": "2026-06-28 10:22:19"
 }

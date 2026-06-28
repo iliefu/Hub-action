@@ -4,16 +4,16 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 56,
       "forks": 60,
-      "extracted_nodes": 419,
-      "valid_nodes": 7,
+      "extracted_nodes": 2604,
+      "valid_nodes": 345,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1017,
+      "stars": 1018,
       "forks": 142,
       "extracted_nodes": 3000,
-      "valid_nodes": 79,
+      "valid_nodes": 69,
       "quality_score": 100
     },
     {
@@ -33,11 +33,19 @@
       "quality_score": 98.0
     },
     {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 85,
+      "forks": 8,
+      "extracted_nodes": 488,
+      "valid_nodes": 5,
+      "quality_score": 88.0
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 63,
       "forks": 8,
-      "extracted_nodes": 838,
-      "valid_nodes": 199,
+      "extracted_nodes": 839,
+      "valid_nodes": 202,
       "quality_score": 88.0
     },
     {
@@ -45,15 +53,15 @@
       "stars": 11,
       "forks": 0,
       "extracted_nodes": 45,
-      "valid_nodes": 15,
+      "valid_nodes": 14,
       "quality_score": 48.8
     },
     {
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 1053,
-      "valid_nodes": 22,
+      "extracted_nodes": 1054,
+      "valid_nodes": 20,
       "quality_score": 47.4
     },
     {
@@ -61,35 +69,19 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 140,
-      "valid_nodes": 132,
+      "valid_nodes": 128,
       "quality_score": 40.8
     },
     {
-      "repository": "rico-cell/clash-proxy-sub",
-      "stars": 8,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 6.4
-    },
-    {
-      "repository": "iluobei/mmw-agent",
+      "repository": "kingflowapi/claude-no-vpn",
       "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 1.0
-    },
-    {
-      "repository": "wangming1114/Skyway",
-      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     },
     {
-      "repository": "Z-yaofang/ComfyUI-Krea2WashControl",
+      "repository": "yemao-dev/claude-china-direct",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-28 07:44:42"
+  "updated_at": "2026-06-28 10:22:22"
 }
