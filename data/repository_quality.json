@@ -1,6 +1,22 @@
 {
   "repositories": [
     {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 56,
+      "forks": 60,
+      "extracted_nodes": 419,
+      "valid_nodes": 7,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1017,
+      "forks": 142,
+      "extracted_nodes": 3000,
+      "valid_nodes": 79,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9055,
       "forks": 668,
@@ -9,45 +25,77 @@
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1017,
-      "forks": 142,
-      "extracted_nodes": 3000,
-      "valid_nodes": 88,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 56,
-      "forks": 60,
-      "extracted_nodes": 537,
-      "valid_nodes": 12,
-      "quality_score": 100
+      "repository": "hello-world-1989/cn-news",
+      "stars": 474,
+      "forks": 18,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 98.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 63,
       "forks": 8,
       "extracted_nodes": 838,
-      "valid_nodes": 209,
+      "valid_nodes": 199,
       "quality_score": 88.0
-    },
-    {
-      "repository": "AIsouler/MyClash",
-      "stars": 245,
-      "forks": 18,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 58.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 47,
-      "valid_nodes": 17,
+      "extracted_nodes": 45,
+      "valid_nodes": 15,
       "quality_score": 48.8
+    },
+    {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 1053,
+      "valid_nodes": 22,
+      "quality_score": 47.4
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 140,
+      "valid_nodes": 132,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "rico-cell/clash-proxy-sub",
+      "stars": 8,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 6.4
+    },
+    {
+      "repository": "iluobei/mmw-agent",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.0
+    },
+    {
+      "repository": "wangming1114/Skyway",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "Z-yaofang/ComfyUI-Krea2WashControl",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-28 02:29:26"
+  "updated_at": "2026-06-28 07:44:42"
 }

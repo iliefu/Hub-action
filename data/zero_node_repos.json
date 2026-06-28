@@ -118,6 +118,7 @@
     "Ystarry/LuoluoAuth",
     "Ystarry/LuoluoCaptcha",
     "YuFan08/sbm",
+    "Z-yaofang/ComfyUI-Krea2WashControl",
     "ZTTYBB/hy2-",
     "Zhejian-Zheng/pilates-health-quiz",
     "ZhiHui6/zhihui_nodes_comfyui",
@@ -205,6 +206,7 @@
     "iiluog/shopify-marketplace-integrations",
     "ikun2020/SubSieve",
     "ilhajs/ilha",
+    "iluobei/mmw-agent",
     "imrsp/SSLmanualCHN",
     "jauyhsuyahaandersiuayha-oss/letsvpn--",
     "jdnei/JiChangTuiJian",
@@ -276,6 +278,7 @@
     "qijin-3/localRSS",
     "qingchencloud/openclaw-standalone",
     "raychencrh-cpu/ai-subscription-compare",
+    "rico-cell/clash-proxy-sub",
     "ripaojiedian/freenode",
     "rshh-h/FigmaToCodeMcpServer",
     "sdf456231-byte/warp-config-generator-vercel",
@@ -307,6 +310,7 @@
     "vchan-ui/sublinkY",
     "vdboots/WarpConfigurator",
     "wangle201210/guateng",
+    "wangming1114/Skyway",
     "wangyiyuanfive/elevator_mode",
     "wansheng8/adblock",
     "wanwushequ/cfyxip",
@@ -348,5 +352,5 @@
     "zming-huang/Pure_Vector_Studio_Pro",
     "zzhiping1/vibe-coding-blackboard"
   ],
-  "updated_at": "2026-06-28 02:29:20"
+  "updated_at": "2026-06-28 07:44:31"
 }
