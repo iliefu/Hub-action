@@ -200,6 +200,7 @@
     "guojijun/ComfyUI_GJJ_Nodes",
     "gxyandy/FreeProxiesSubscribeForClash",
     "haandiiong/yp7.net",
+    "haokejie/clash-tui",
     "harrypapaai/limitless",
     "hello-world-1989/temp",
     "hello-yunshu/luci-app-cloudflare-ip",
@@ -366,5 +367,5 @@
     "zming-huang/Pure_Vector_Studio_Pro",
     "zzhiping1/vibe-coding-blackboard"
   ],
-  "updated_at": "2026-06-29 18:04:59"
+  "updated_at": "2026-06-29 21:17:45"
 }
