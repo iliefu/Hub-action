@@ -5,23 +5,15 @@
       "stars": 9062,
       "forks": 667,
       "extracted_nodes": 26,
-      "valid_nodes": 17,
+      "valid_nodes": 18,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1019,
+      "stars": 1020,
       "forks": 142,
       "extracted_nodes": 3000,
-      "valid_nodes": 64,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 57,
-      "forks": 61,
-      "extracted_nodes": 543,
-      "valid_nodes": 6,
+      "valid_nodes": 75,
       "quality_score": 100
     },
     {
@@ -49,6 +41,14 @@
       "quality_score": 88.0
     },
     {
+      "repository": "kooker/FreeSubsCheck",
+      "stars": 57,
+      "forks": 8,
+      "extracted_nodes": 530,
+      "valid_nodes": 50,
+      "quality_score": 88.0
+    },
+    {
       "repository": "wenxig/dongtai-sub",
       "stars": 186,
       "forks": 23,
@@ -60,16 +60,16 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 97,
-      "valid_nodes": 66,
+      "extracted_nodes": 50,
+      "valid_nodes": 19,
       "quality_score": 48.8
     },
     {
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 971,
-      "valid_nodes": 18,
+      "extracted_nodes": 972,
+      "valid_nodes": 19,
       "quality_score": 47.4
     },
     {
@@ -77,19 +77,11 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 144,
-      "valid_nodes": 138,
+      "valid_nodes": 133,
       "quality_score": 40.8
     },
     {
-      "repository": "644646497/proxy-scraper",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 13,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "zhnkk6/Practical-118-Node-Distribution-System-Dataset",
+      "repository": "bgwastu/warp-manager",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,15 +89,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "PolysaCHride/astrbot_plugin_pixiv",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "cyfain/chatgpt",
+      "repository": "Pegasus02/legado-ios",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-29 15:29:59"
+  "updated_at": "2026-06-29 18:05:03"
 }
