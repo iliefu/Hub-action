@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9064,
+      "stars": 9065,
       "forks": 668,
       "extracted_nodes": 46,
-      "valid_nodes": 22,
+      "valid_nodes": 23,
       "quality_score": 100
     },
     {
@@ -13,39 +13,15 @@
       "stars": 1023,
       "forks": 143,
       "extracted_nodes": 3000,
-      "valid_nodes": 66,
+      "valid_nodes": 70,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 835,
-      "forks": 71,
-      "extracted_nodes": 62,
-      "valid_nodes": 31,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 272,
-      "forks": 25,
-      "extracted_nodes": 4,
-      "valid_nodes": 1,
-      "quality_score": 100
-    },
-    {
-      "repository": "peasoft/NoMoreWalls",
-      "stars": 3353,
-      "forks": 534,
-      "extracted_nodes": 196,
-      "valid_nodes": 20,
-      "quality_score": 100
-    },
-    {
-      "repository": "free18/v2ray",
-      "stars": 4931,
-      "forks": 232,
-      "extracted_nodes": 492,
-      "valid_nodes": 272,
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7688,
+      "forks": 1237,
+      "extracted_nodes": 6,
+      "valid_nodes": 6,
       "quality_score": 100
     },
     {
@@ -58,34 +34,26 @@
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 85,
+      "stars": 86,
       "forks": 8,
-      "extracted_nodes": 474,
-      "valid_nodes": 6,
+      "extracted_nodes": 461,
+      "valid_nodes": 5,
       "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 63,
       "forks": 8,
-      "extracted_nodes": 857,
-      "valid_nodes": 200,
+      "extracted_nodes": 861,
+      "valid_nodes": 202,
       "quality_score": 88.0
-    },
-    {
-      "repository": "lanzm/MetaFetch",
-      "stars": 8,
-      "forks": 3,
-      "extracted_nodes": 454,
-      "valid_nodes": 170,
-      "quality_score": 49.4
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 65,
-      "valid_nodes": 34,
+      "extracted_nodes": 48,
+      "valid_nodes": 17,
       "quality_score": 48.8
     },
     {
@@ -93,7 +61,7 @@
       "stars": 8,
       "forks": 1,
       "extracted_nodes": 929,
-      "valid_nodes": 25,
+      "valid_nodes": 24,
       "quality_score": 47.4
     },
     {
@@ -101,17 +69,33 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 138,
-      "valid_nodes": 131,
+      "valid_nodes": 129,
       "quality_score": 40.8
     },
     {
-      "repository": "liusonwood/oughtgather",
+      "repository": "tonyhuang23-sys/CFnodes",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 746,
+      "valid_nodes": 151,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "vibeinging/yiTrace",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.8
+    },
+    {
+      "repository": "LGYT-KTPD/atuo-singbox",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-06-30 13:56:13"
+  "updated_at": "2026-06-30 17:48:50"
 }

@@ -9457,6 +9457,30 @@
       "last_nodes_update": "2026-06-25T07:33:54.464851Z"
     },
     {
+      "repository": "tonyhuang23-sys/CFnodes",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 746,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/nodes.txt",
+          "node_count": 1119,
+          "last_checked": "2026-06-30T17:48:37.278995Z",
+          "url": "https://raw.githubusercontent.com/tonyhuang23-sys/CFnodes/main/output/nodes.txt"
+        },
+        {
+          "path": "output/sub.txt",
+          "node_count": 1119,
+          "last_checked": "2026-06-30T17:48:37.622238Z",
+          "url": "https://raw.githubusercontent.com/tonyhuang23-sys/CFnodes/main/output/sub.txt"
+        }
+      ],
+      "last_full_scan": "2026-06-30T17:48:46.673410Z",
+      "last_nodes_update": "2026-06-30T17:48:46.673434Z"
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 62,
       "forks": 8,
@@ -9479,30 +9503,6 @@
       ],
       "last_full_scan": "2026-06-24T17:48:11.934901Z",
       "last_nodes_update": "2026-06-24T17:48:11.934906Z"
-    },
-    {
-      "repository": "tonyhuang23-sys/CFnodes",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 689,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "output/nodes.txt",
-          "node_count": 1065,
-          "last_checked": "2026-06-20T10:28:25.173175Z",
-          "url": "https://raw.githubusercontent.com/tonyhuang23-sys/CFnodes/main/output/nodes.txt"
-        },
-        {
-          "path": "output/sub.txt",
-          "node_count": 1065,
-          "last_checked": "2026-06-20T10:28:25.391851Z",
-          "url": "https://raw.githubusercontent.com/tonyhuang23-sys/CFnodes/main/output/sub.txt"
-        }
-      ],
-      "last_full_scan": "2026-06-20T10:28:28.800596Z",
-      "last_nodes_update": "2026-06-20T10:28:28.800598Z"
     },
     {
       "repository": "kooker/FreeSubsCheck",
@@ -11233,7 +11233,7 @@
       "last_nodes_update": "2026-06-28T20:56:13.023023Z"
     }
   ],
-  "updated_at": "2026-06-30 13:56:07",
+  "updated_at": "2026-06-30 17:48:46",
   "total_whitelisted_repos": 26,
-  "total_cached_nodes": 26246
+  "total_cached_nodes": 26303
 }
