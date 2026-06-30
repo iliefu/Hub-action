@@ -11047,6 +11047,36 @@
       "last_nodes_update": "2026-06-24T17:48:11.934943Z"
     },
     {
+      "repository": "shaoyouvip/free",
+      "stars": 836,
+      "forks": 71,
+      "extracted_nodes": 124,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "all.yaml",
+          "node_count": 62,
+          "last_checked": "2026-06-30T07:42:20.684060Z",
+          "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/all.yaml"
+        },
+        {
+          "path": "base64.txt",
+          "node_count": 62,
+          "last_checked": "2026-06-30T07:42:20.830677Z",
+          "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/base64.txt"
+        },
+        {
+          "path": "mihomo.yaml",
+          "node_count": 62,
+          "last_checked": "2026-06-30T07:42:21.006254Z",
+          "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/mihomo.yaml"
+        }
+      ],
+      "last_full_scan": "2026-06-30T07:42:28.873646Z",
+      "last_nodes_update": "2026-06-30T07:42:28.873671Z"
+    },
+    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
@@ -11227,7 +11257,7 @@
       "last_nodes_update": "2026-06-28T20:56:13.023023Z"
     }
   ],
-  "updated_at": "2026-06-30 02:11:05",
-  "total_whitelisted_repos": 25,
-  "total_cached_nodes": 25814
+  "updated_at": "2026-06-30 07:42:28",
+  "total_whitelisted_repos": 26,
+  "total_cached_nodes": 25938
 }
