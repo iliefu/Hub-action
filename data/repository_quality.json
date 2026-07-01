@@ -9,27 +9,35 @@
       "quality_score": 100
     },
     {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 57,
+      "forks": 61,
+      "extracted_nodes": 366,
+      "valid_nodes": 8,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1027,
       "forks": 145,
       "extracted_nodes": 3000,
-      "valid_nodes": 65,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 57,
-      "forks": 61,
-      "extracted_nodes": 669,
-      "valid_nodes": 8,
+      "valid_nodes": 121,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
       "stars": 839,
       "forks": 71,
-      "extracted_nodes": 54,
-      "valid_nodes": 25,
+      "extracted_nodes": 61,
+      "valid_nodes": 28,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7687,
+      "forks": 1237,
+      "extracted_nodes": 101,
+      "valid_nodes": 19,
       "quality_score": 100
     },
     {
@@ -44,8 +52,8 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 65,
       "forks": 9,
-      "extracted_nodes": 875,
-      "valid_nodes": 212,
+      "extracted_nodes": 870,
+      "valid_nodes": 204,
       "quality_score": 89.0
     },
     {
@@ -60,34 +68,26 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 50,
-      "valid_nodes": 18,
+      "extracted_nodes": 47,
+      "valid_nodes": 16,
       "quality_score": 48.8
     },
     {
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 999,
+      "extracted_nodes": 995,
       "valid_nodes": 22,
       "quality_score": 47.4
     },
     {
-      "repository": "apple-fun/Share-SSR-V2ray-network",
-      "stars": 0,
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "s450586793/dingyue",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "extracted_nodes": 145,
+      "valid_nodes": 135,
+      "quality_score": 40.8
     }
   ],
-  "updated_at": "2026-07-01 17:50:46"
+  "updated_at": "2026-07-01 21:19:22"
 }
