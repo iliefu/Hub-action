@@ -1,71 +1,79 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9067,
-      "forks": 668,
-      "extracted_nodes": 40,
-      "valid_nodes": 17,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1027,
+      "stars": 1028,
       "forks": 145,
       "extracted_nodes": 3000,
-      "valid_nodes": 123,
+      "valid_nodes": 112,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 57,
       "forks": 61,
-      "extracted_nodes": 105,
-      "valid_nodes": 7,
+      "extracted_nodes": 728,
+      "valid_nodes": 10,
       "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9068,
+      "forks": 668,
+      "extracted_nodes": 40,
+      "valid_nodes": 15,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 480,
+      "forks": 19,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 99.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 65,
       "forks": 9,
-      "extracted_nodes": 878,
-      "valid_nodes": 214,
+      "extracted_nodes": 875,
+      "valid_nodes": 205,
       "quality_score": 89.0
-    },
-    {
-      "repository": "OverTheWallNode/SSV2RayTrojanSSRClash",
-      "stars": 2784,
-      "forks": 167,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 273,
-      "forks": 25,
-      "extracted_nodes": 10,
-      "valid_nodes": 0,
-      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 47,
-      "valid_nodes": 16,
+      "extracted_nodes": 46,
+      "valid_nodes": 15,
       "quality_score": 48.8
     },
     {
-      "repository": "xiaoming2028/TAG-VPN",
-      "stars": 36,
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 142,
+      "valid_nodes": 124,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "InfernusIntraMe/ComfyUI-Local-Ollama-Translator",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 28.8
+      "quality_score": 0.8
     },
     {
-      "repository": "ylyhyue/Std-Practice",
+      "repository": "ascentspark/angular-calendar",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "Mayorov79997/warp-config-generator",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-02 02:09:14"
+  "updated_at": "2026-07-02 07:02:07"
 }
