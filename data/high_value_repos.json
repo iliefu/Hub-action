@@ -9937,6 +9937,30 @@
       "last_nodes_update": "2026-06-30T17:48:46.673434Z"
     },
     {
+      "repository": "free18/v2ray",
+      "stars": 4947,
+      "forks": 232,
+      "extracted_nodes": 670,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "c.yaml",
+          "node_count": 500,
+          "last_checked": "2026-07-03T10:26:56.954730Z",
+          "url": "https://raw.githubusercontent.com/free18/v2ray/main/c.yaml"
+        },
+        {
+          "path": "v.txt",
+          "node_count": 542,
+          "last_checked": "2026-07-03T10:26:57.039153Z",
+          "url": "https://raw.githubusercontent.com/free18/v2ray/main/v.txt"
+        }
+      ],
+      "last_full_scan": "2026-07-03T10:26:59.912984Z",
+      "last_nodes_update": "2026-07-03T10:26:59.913008Z"
+    },
+    {
       "repository": "kooker/FreeSubsCheck",
       "stars": 54,
       "forks": 8,
@@ -10031,30 +10055,6 @@
       ],
       "last_full_scan": "2026-06-27T06:47:48.951773Z",
       "last_nodes_update": "2026-06-27T06:47:48.951798Z"
-    },
-    {
-      "repository": "free18/v2ray",
-      "stars": 4907,
-      "forks": 232,
-      "extracted_nodes": 515,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "c.yaml",
-          "node_count": 291,
-          "last_checked": "2026-06-26T07:43:27.613292Z",
-          "url": "https://raw.githubusercontent.com/free18/v2ray/main/c.yaml"
-        },
-        {
-          "path": "v.txt",
-          "node_count": 291,
-          "last_checked": "2026-06-26T07:43:27.735246Z",
-          "url": "https://raw.githubusercontent.com/free18/v2ray/main/v.txt"
-        }
-      ],
-      "last_full_scan": "2026-06-26T07:43:30.184431Z",
-      "last_nodes_update": "2026-06-26T07:43:30.184448Z"
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
@@ -11665,7 +11665,7 @@
       "last_nodes_update": "2026-06-28T20:56:13.023023Z"
     }
   ],
-  "updated_at": "2026-07-03 06:54:31",
+  "updated_at": "2026-07-03 10:26:59",
   "total_whitelisted_repos": 26,
-  "total_cached_nodes": 26521
+  "total_cached_nodes": 26676
 }
