@@ -29,6 +29,7 @@
     "Babbage42/whirli-ng",
     "Beallenonindustrial63/no-ai-in-nodejs-core",
     "Bemly/china-steam-pricer",
+    "BillBeam/agent-radar",
     "CB-X2-Jun/proxy-lists",
     "CaoMeiYouRen/rss-impact-server",
     "Cat-Ling/sing-box",
@@ -50,6 +51,7 @@
     "FrecklyComb1728/picmi",
     "FrecklyComb1728/picmi-node",
     "Freedom-Guard/Freedom-Guard",
+    "Gaimoydev/better-speedtest",
     "GmSSL/GmSSL-Nodejs",
     "HandsomeMJZ/cfip",
     "HsMirage/AIPlanHub",
@@ -407,5 +409,5 @@
     "zming-huang/Pure_Vector_Studio_Pro",
     "zzhiping1/vibe-coding-blackboard"
   ],
-  "updated_at": "2026-07-03 10:26:59"
+  "updated_at": "2026-07-03 13:41:49"
 }
