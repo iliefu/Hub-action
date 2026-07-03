@@ -9104,7 +9104,7 @@
     },
     {
       "repository": "dongchengjie/airport",
-      "stars": 566,
+      "stars": 583,
       "forks": 52,
       "extracted_nodes": 3000,
       "valid_nodes": 0,
@@ -9112,475 +9112,493 @@
       "node_files": [
         {
           "path": "subs/Argh73.yaml",
-          "node_count": 500,
-          "last_checked": "2026-06-22T22:00:20.751673Z",
+          "node_count": 65,
+          "last_checked": "2026-07-03T20:52:58.980897Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/Argh73.yaml"
         },
         {
+          "path": "subs/Argh94.yaml",
+          "node_count": 306,
+          "last_checked": "2026-07-03T20:52:59.209793Z",
+          "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/Argh94.yaml"
+        },
+        {
           "path": "subs/Barabama.yaml",
-          "node_count": 84,
-          "last_checked": "2026-06-22T22:00:21.170075Z",
+          "node_count": 210,
+          "last_checked": "2026-07-03T20:52:59.420982Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/Barabama.yaml"
+        },
+        {
+          "path": "subs/Delta-Kronecker.yaml",
+          "node_count": 401,
+          "last_checked": "2026-07-03T20:52:59.720517Z",
+          "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/Delta-Kronecker.yaml"
+        },
+        {
+          "path": "subs/Epodonios.yaml",
+          "node_count": 500,
+          "last_checked": "2026-07-03T20:53:00.194822Z",
+          "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/Epodonios.yaml"
         },
         {
           "path": "subs/Firmfox.yaml",
           "node_count": 500,
-          "last_checked": "2026-06-22T22:00:24.281934Z",
+          "last_checked": "2026-07-03T20:53:02.799511Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/Firmfox.yaml"
+        },
+        {
+          "path": "subs/Ganjabady.yaml",
+          "node_count": 118,
+          "last_checked": "2026-07-03T20:53:02.965402Z",
+          "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/Ganjabady.yaml"
         },
         {
           "path": "subs/KimTaeyeon309.yaml",
           "node_count": 267,
-          "last_checked": "2026-06-22T22:00:25.450480Z",
+          "last_checked": "2026-07-03T20:53:03.356173Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/KimTaeyeon309.yaml"
         },
         {
           "path": "subs/Pawdroid.yaml",
-          "node_count": 15,
-          "last_checked": "2026-06-22T22:00:25.783413Z",
+          "node_count": 12,
+          "last_checked": "2026-07-03T20:53:03.449513Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/Pawdroid.yaml"
         },
         {
           "path": "subs/PuddinCat.yaml",
-          "node_count": 16,
-          "last_checked": "2026-06-22T22:00:26.069373Z",
+          "node_count": 15,
+          "last_checked": "2026-07-03T20:53:03.530241Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/PuddinCat.yaml"
         },
         {
           "path": "subs/QFZYFX.yaml",
-          "node_count": 222,
-          "last_checked": "2026-06-22T22:00:26.826866Z",
+          "node_count": 241,
+          "last_checked": "2026-07-03T20:53:03.813400Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/QFZYFX.yaml"
         },
         {
           "path": "subs/Ruk1ng001.yaml",
-          "node_count": 237,
-          "last_checked": "2026-06-22T22:00:27.498463Z",
+          "node_count": 26,
+          "last_checked": "2026-07-03T20:53:04.010108Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/Ruk1ng001.yaml"
         },
         {
           "path": "subs/SFZY666.yaml",
-          "node_count": 176,
-          "last_checked": "2026-06-22T22:00:27.881915Z",
+          "node_count": 210,
+          "last_checked": "2026-07-03T20:53:04.266511Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/SFZY666.yaml"
         },
         {
           "path": "subs/ShatakVPN.yaml",
           "node_count": 499,
-          "last_checked": "2026-06-22T22:00:28.950079Z",
+          "last_checked": "2026-07-03T20:53:04.810427Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/ShatakVPN.yaml"
         },
         {
           "path": "subs/SoliSpirit.yaml",
           "node_count": 500,
-          "last_checked": "2026-06-22T22:00:29.890747Z",
+          "last_checked": "2026-07-03T20:53:05.538177Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/SoliSpirit.yaml"
         },
         {
           "path": "subs/Vanic24.yaml",
-          "node_count": 310,
-          "last_checked": "2026-06-22T22:00:30.596434Z",
+          "node_count": 319,
+          "last_checked": "2026-07-03T20:53:06.127652Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/Vanic24.yaml"
         },
         {
           "path": "subs/VovaplusEXP.yaml",
-          "node_count": 1,
-          "last_checked": "2026-06-22T22:00:30.889728Z",
+          "node_count": 129,
+          "last_checked": "2026-07-03T20:53:06.319500Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/VovaplusEXP.yaml"
         },
         {
           "path": "subs/WLget.yaml",
-          "node_count": 16,
-          "last_checked": "2026-06-22T22:00:31.212506Z",
+          "node_count": 36,
+          "last_checked": "2026-07-03T20:53:06.414761Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/WLget.yaml"
         },
         {
           "path": "subs/XQKXW.yaml",
-          "node_count": 77,
-          "last_checked": "2026-06-22T22:00:31.647850Z",
+          "node_count": 31,
+          "last_checked": "2026-07-03T20:53:06.512872Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/XQKXW.yaml"
         },
         {
           "path": "subs/ZYFXS.yaml",
-          "node_count": 69,
-          "last_checked": "2026-06-22T22:00:32.044513Z",
+          "node_count": 266,
+          "last_checked": "2026-07-03T20:53:06.788185Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/ZYFXS.yaml"
         },
         {
           "path": "subs/aiboboxx.yaml",
           "node_count": 500,
-          "last_checked": "2026-06-22T22:00:32.761625Z",
+          "last_checked": "2026-07-03T20:53:07.163255Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/aiboboxx.yaml"
         },
         {
           "path": "subs/anaer.yaml",
-          "node_count": 500,
-          "last_checked": "2026-06-22T22:00:35.581936Z",
+          "node_count": 299,
+          "last_checked": "2026-07-03T20:53:07.485632Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/anaer.yaml"
         },
         {
           "path": "subs/awesome-vpn.yaml",
-          "node_count": 118,
-          "last_checked": "2026-06-22T22:00:35.957161Z",
+          "node_count": 145,
+          "last_checked": "2026-07-03T20:53:07.644556Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/awesome-vpn.yaml"
         },
         {
           "path": "subs/barry-far.yaml",
           "node_count": 500,
-          "last_checked": "2026-06-22T22:00:37.798145Z",
+          "last_checked": "2026-07-03T20:53:08.157785Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/barry-far.yaml"
         },
         {
           "path": "subs/blue-Youtube.yaml",
-          "node_count": 10,
-          "last_checked": "2026-06-22T22:00:37.965208Z",
+          "node_count": 40,
+          "last_checked": "2026-07-03T20:53:08.267205Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/blue-Youtube.yaml"
         },
         {
           "path": "subs/cfv2ray.yaml",
           "node_count": 244,
-          "last_checked": "2026-06-22T22:00:38.367195Z",
+          "last_checked": "2026-07-03T20:53:08.505646Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/cfv2ray.yaml"
         },
         {
           "path": "subs/changfengoss.yaml",
           "node_count": 4,
-          "last_checked": "2026-06-22T22:00:38.559795Z",
+          "last_checked": "2026-07-03T20:53:08.585711Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/changfengoss.yaml"
         },
         {
           "path": "subs/chengaopan.yaml",
           "node_count": 16,
-          "last_checked": "2026-06-22T22:00:38.742538Z",
+          "last_checked": "2026-07-03T20:53:08.682531Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/chengaopan.yaml"
         },
         {
           "path": "subs/clash-freenode.yaml",
-          "node_count": 23,
-          "last_checked": "2026-06-22T22:00:38.913266Z",
+          "node_count": 14,
+          "last_checked": "2026-07-03T20:53:08.771380Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/clash-freenode.yaml"
         },
         {
           "path": "subs/clashfree.yaml",
-          "node_count": 332,
-          "last_checked": "2026-06-22T22:00:39.364426Z",
+          "node_count": 204,
+          "last_checked": "2026-07-03T20:53:08.982862Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/clashfree.yaml"
         },
         {
           "path": "subs/clashnodev2ray.yaml",
-          "node_count": 69,
-          "last_checked": "2026-06-22T22:00:39.622661Z",
+          "node_count": 265,
+          "last_checked": "2026-07-03T20:53:09.235506Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/clashnodev2ray.yaml"
         },
         {
           "path": "subs/danmaifu.yaml",
-          "node_count": 42,
-          "last_checked": "2026-06-22T22:00:39.903143Z",
+          "node_count": 71,
+          "last_checked": "2026-07-03T20:53:09.369943Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/danmaifu.yaml"
         },
         {
           "path": "subs/ermaozi.yaml",
-          "node_count": 47,
-          "last_checked": "2026-06-22T22:00:40.084442Z",
+          "node_count": 46,
+          "last_checked": "2026-07-03T20:53:09.472944Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/ermaozi.yaml"
         },
         {
           "path": "subs/free-nodes.yaml",
-          "node_count": 279,
-          "last_checked": "2026-06-22T22:00:40.410788Z",
+          "node_count": 361,
+          "last_checked": "2026-07-03T20:53:09.774749Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/free-nodes.yaml"
         },
         {
           "path": "subs/free18.yaml",
-          "node_count": 142,
-          "last_checked": "2026-06-22T22:00:40.676814Z",
+          "node_count": 126,
+          "last_checked": "2026-07-03T20:53:09.965655Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/free18.yaml"
         },
         {
           "path": "subs/freev2ray.yaml",
           "node_count": 28,
-          "last_checked": "2026-06-22T22:00:40.868220Z",
+          "last_checked": "2026-07-03T20:53:10.074373Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/freev2ray.yaml"
         },
         {
           "path": "subs/g-hunter-g.yaml",
-          "node_count": 121,
-          "last_checked": "2026-06-22T22:00:41.200212Z",
+          "node_count": 69,
+          "last_checked": "2026-07-03T20:53:10.209232Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/g-hunter-g.yaml"
         },
         {
           "path": "subs/go4sharing.yaml",
-          "node_count": 10,
-          "last_checked": "2026-06-22T22:00:41.383349Z",
+          "node_count": 12,
+          "last_checked": "2026-07-03T20:53:10.298922Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/go4sharing.yaml"
         },
         {
           "path": "subs/hysteria350.yaml",
-          "node_count": 26,
-          "last_checked": "2026-06-22T22:00:41.645693Z",
+          "node_count": 27,
+          "last_checked": "2026-07-03T20:53:10.393726Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/hysteria350.yaml"
         },
         {
           "path": "subs/julong111.yaml",
           "node_count": 433,
-          "last_checked": "2026-06-22T22:00:42.506309Z",
+          "last_checked": "2026-07-03T20:53:10.977053Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/julong111.yaml"
         },
         {
           "path": "subs/kingowow.yaml",
           "node_count": 500,
-          "last_checked": "2026-06-22T22:00:43.269068Z",
+          "last_checked": "2026-07-03T20:53:11.497753Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/kingowow.yaml"
         },
         {
           "path": "subs/kooker.yaml",
           "node_count": 60,
-          "last_checked": "2026-06-22T22:00:43.507962Z",
+          "last_checked": "2026-07-03T20:53:11.653192Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/kooker.yaml"
         },
         {
           "path": "subs/luxxuria.yaml",
-          "node_count": 176,
-          "last_checked": "2026-06-22T22:00:43.844399Z",
+          "node_count": 131,
+          "last_checked": "2026-07-03T20:53:11.866895Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/luxxuria.yaml"
         },
         {
           "path": "subs/mGentel1309.yaml",
-          "node_count": 110,
-          "last_checked": "2026-06-22T22:00:44.161855Z",
+          "node_count": 127,
+          "last_checked": "2026-07-03T20:53:12.080609Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/mGentel1309.yaml"
         },
         {
           "path": "subs/mahdibland.yaml",
-          "node_count": 194,
-          "last_checked": "2026-06-22T22:00:44.418538Z",
+          "node_count": 189,
+          "last_checked": "2026-07-03T20:53:12.254459Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/mahdibland.yaml"
         },
         {
           "path": "subs/maimengmeng.yaml",
-          "node_count": 500,
-          "last_checked": "2026-06-22T22:00:44.974604Z",
+          "node_count": 371,
+          "last_checked": "2026-07-03T20:53:12.645920Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/maimengmeng.yaml"
         },
         {
           "path": "subs/merged/tested_within_ssr.yaml",
           "node_count": 1,
-          "last_checked": "2026-06-22T22:00:45.146954Z",
+          "last_checked": "2026-07-03T20:53:12.722986Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within_ssr.yaml"
         },
         {
           "path": "subs/merged/tested_within_trojan.yaml",
-          "node_count": 283,
-          "last_checked": "2026-06-22T22:00:45.624970Z",
+          "node_count": 357,
+          "last_checked": "2026-07-03T20:53:13.072870Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within_trojan.yaml"
         },
         {
           "path": "subs/merged/tested_within_vless.yaml",
           "node_count": 500,
-          "last_checked": "2026-06-22T22:00:47.395796Z",
+          "last_checked": "2026-07-03T20:53:14.180798Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within_vless.yaml"
         },
         {
           "path": "subs/merged/tested_within_vmess.yaml",
-          "node_count": 53,
-          "last_checked": "2026-06-22T22:00:47.651140Z",
+          "node_count": 41,
+          "last_checked": "2026-07-03T20:53:14.291269Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within_vmess.yaml"
         },
         {
           "path": "subs/mfuu.yaml",
-          "node_count": 125,
-          "last_checked": "2026-06-22T22:00:47.886618Z",
+          "node_count": 114,
+          "last_checked": "2026-07-03T20:53:14.427978Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/mfuu.yaml"
         },
         {
           "path": "subs/mohamadfg-dev.yaml",
-          "node_count": 330,
-          "last_checked": "2026-06-22T22:00:48.336163Z",
+          "node_count": 310,
+          "last_checked": "2026-07-03T20:53:14.783410Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/mohamadfg-dev.yaml"
         },
         {
           "path": "subs/myclash.yaml",
           "node_count": 500,
-          "last_checked": "2026-06-22T22:00:49.734965Z",
+          "last_checked": "2026-07-03T20:53:16.022103Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/myclash.yaml"
         },
         {
           "path": "subs/nodesfree.yaml",
           "node_count": 31,
-          "last_checked": "2026-06-22T22:00:49.909442Z",
+          "last_checked": "2026-07-03T20:53:16.120640Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/nodesfree.yaml"
         },
         {
           "path": "subs/nyeinkokoaung404.yaml",
-          "node_count": 345,
-          "last_checked": "2026-06-22T22:00:50.427970Z",
+          "node_count": 332,
+          "last_checked": "2026-07-03T20:53:16.591047Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/nyeinkokoaung404.yaml"
         },
         {
           "path": "subs/ovmvo.yaml",
-          "node_count": 176,
-          "last_checked": "2026-06-22T22:00:50.768843Z",
+          "node_count": 57,
+          "last_checked": "2026-07-03T20:53:16.713970Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/ovmvo.yaml"
         },
         {
           "path": "subs/peasoft.yaml",
-          "node_count": 30,
-          "last_checked": "2026-06-22T22:00:50.970901Z",
+          "node_count": 25,
+          "last_checked": "2026-07-03T20:53:16.815182Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/peasoft.yaml"
         },
         {
           "path": "subs/ripaojiedian.yaml",
-          "node_count": 13,
-          "last_checked": "2026-06-22T22:00:51.158948Z",
+          "node_count": 12,
+          "last_checked": "2026-07-03T20:53:16.893285Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/ripaojiedian.yaml"
-        },
-        {
-          "path": "subs/sakha1370.yaml",
-          "node_count": 460,
-          "last_checked": "2026-06-22T22:00:51.640313Z",
-          "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/sakha1370.yaml"
         },
         {
           "path": "subs/seknei3.yaml",
           "node_count": 500,
-          "last_checked": "2026-06-22T22:00:53.791678Z",
+          "last_checked": "2026-07-03T20:53:18.426705Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/seknei3.yaml"
         },
         {
           "path": "subs/shaoyouvip.yaml",
-          "node_count": 49,
-          "last_checked": "2026-06-22T22:00:54.031726Z",
+          "node_count": 34,
+          "last_checked": "2026-07-03T20:53:18.542628Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/shaoyouvip.yaml"
         },
         {
           "path": "subs/shuaidaoya.yaml",
           "node_count": 7,
-          "last_checked": "2026-06-22T22:00:54.208987Z",
+          "last_checked": "2026-07-03T20:53:18.621175Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/shuaidaoya.yaml"
         },
         {
           "path": "subs/snakem982.yaml",
-          "node_count": 63,
-          "last_checked": "2026-06-22T22:00:54.434206Z",
+          "node_count": 23,
+          "last_checked": "2026-07-03T20:53:18.729806Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/snakem982.yaml"
         },
         {
           "path": "subs/ssrshare.yaml",
           "node_count": 498,
-          "last_checked": "2026-06-22T22:00:55.074013Z",
+          "last_checked": "2026-07-03T20:53:19.465452Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/ssrshare.yaml"
         },
         {
           "path": "subs/ssrsub.yaml",
-          "node_count": 90,
-          "last_checked": "2026-06-22T22:00:55.339622Z",
+          "node_count": 26,
+          "last_checked": "2026-07-03T20:53:19.579352Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/ssrsub.yaml"
         },
         {
           "path": "subs/telegeam.yaml",
           "node_count": 26,
-          "last_checked": "2026-06-22T22:00:55.514828Z",
+          "last_checked": "2026-07-03T20:53:19.682433Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/telegeam.yaml"
         },
         {
           "path": "subs/tgstat.yaml",
           "node_count": 136,
-          "last_checked": "2026-06-22T22:00:55.800498Z",
+          "last_checked": "2026-07-03T20:53:19.853910Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/tgstat.yaml"
         },
         {
           "path": "subs/trial.yaml",
           "node_count": 499,
-          "last_checked": "2026-06-22T22:00:56.574519Z",
+          "last_checked": "2026-07-03T20:53:20.479088Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/trial.yaml"
         },
         {
           "path": "subs/tssf.yaml",
           "node_count": 47,
-          "last_checked": "2026-06-22T22:00:56.784817Z",
+          "last_checked": "2026-07-03T20:53:20.616428Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/tssf.yaml"
         },
         {
           "path": "subs/ttvg.yaml",
           "node_count": 24,
-          "last_checked": "2026-06-22T22:00:56.961714Z",
+          "last_checked": "2026-07-03T20:53:20.717575Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/ttvg.yaml"
         },
         {
           "path": "subs/v2cross.yaml",
           "node_count": 3,
-          "last_checked": "2026-06-22T22:00:57.138768Z",
+          "last_checked": "2026-07-03T20:53:20.810167Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/v2cross.yaml"
         },
         {
           "path": "subs/v2nodes.yaml",
           "node_count": 24,
-          "last_checked": "2026-06-22T22:00:57.330244Z",
+          "last_checked": "2026-07-03T20:53:20.915157Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/v2nodes.yaml"
         },
         {
           "path": "subs/v2rayc.yaml",
           "node_count": 377,
-          "last_checked": "2026-06-22T22:00:57.793207Z",
+          "last_checked": "2026-07-03T20:53:21.263111Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/v2rayc.yaml"
         },
         {
           "path": "subs/vluma.yaml",
           "node_count": 15,
-          "last_checked": "2026-06-22T22:00:58.005436Z",
+          "last_checked": "2026-07-03T20:53:21.352631Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/vluma.yaml"
         },
         {
           "path": "subs/vpnsubscribe.yaml",
           "node_count": 381,
-          "last_checked": "2026-06-22T22:00:58.492459Z",
+          "last_checked": "2026-07-03T20:53:21.712945Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/vpnsubscribe.yaml"
         },
         {
           "path": "subs/wenxig.yaml",
           "node_count": 4,
-          "last_checked": "2026-06-22T22:00:58.679140Z",
+          "last_checked": "2026-07-03T20:53:21.802471Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/wenxig.yaml"
         },
         {
           "path": "subs/xrayvip.yaml",
           "node_count": 11,
-          "last_checked": "2026-06-22T22:00:58.851157Z",
+          "last_checked": "2026-07-03T20:53:21.877161Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/xrayvip.yaml"
         },
         {
           "path": "subs/yafeisun.yaml",
           "node_count": 464,
-          "last_checked": "2026-06-22T22:00:59.432499Z",
+          "last_checked": "2026-07-03T20:53:22.325497Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/yafeisun.yaml"
         },
         {
           "path": "subs/youneedproxy.yaml",
           "node_count": 500,
-          "last_checked": "2026-06-22T22:01:00.286178Z",
+          "last_checked": "2026-07-03T20:53:22.960343Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/youneedproxy.yaml"
         },
         {
           "path": "subs/yoyapai.yaml",
           "node_count": 113,
-          "last_checked": "2026-06-22T22:01:00.631887Z",
+          "last_checked": "2026-07-03T20:53:23.136827Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/yoyapai.yaml"
         },
         {
           "path": "subs/yudou.yaml",
-          "node_count": 40,
-          "last_checked": "2026-06-22T22:01:00.847273Z",
+          "node_count": 35,
+          "last_checked": "2026-07-03T20:53:23.232734Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/yudou.yaml"
         },
         {
           "path": "subs/zhangkaiitugithub.yaml",
-          "node_count": 47,
-          "last_checked": "2026-06-22T22:01:01.150533Z",
+          "node_count": 32,
+          "last_checked": "2026-07-03T20:53:23.361436Z",
           "url": "https://raw.githubusercontent.com/dongchengjie/airport/main/subs/zhangkaiitugithub.yaml"
         }
       ],
-      "last_full_scan": "2026-06-22T22:01:12.344207Z",
-      "last_nodes_update": "2026-06-22T22:01:12.344212Z"
+      "last_full_scan": "2026-07-03T20:53:26.857890Z",
+      "last_nodes_update": "2026-07-03T20:53:26.857919Z"
     },
     {
       "repository": "twj0/subseek",
@@ -11665,7 +11683,7 @@
       "last_nodes_update": "2026-06-28T20:56:13.023023Z"
     }
   ],
-  "updated_at": "2026-07-03 17:16:32",
+  "updated_at": "2026-07-03 20:53:26",
   "total_whitelisted_repos": 26,
   "total_cached_nodes": 26676
 }
