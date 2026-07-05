@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 59,
-      "forks": 62,
-      "extracted_nodes": 578,
-      "valid_nodes": 16,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1044,
       "forks": 145,
       "extracted_nodes": 3000,
-      "valid_nodes": 70,
+      "valid_nodes": 65,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 59,
+      "forks": 62,
+      "extracted_nodes": 657,
+      "valid_nodes": 4,
       "quality_score": 100
     },
     {
@@ -21,47 +21,55 @@
       "stars": 9081,
       "forks": 668,
       "extracted_nodes": 52,
-      "valid_nodes": 15,
+      "valid_nodes": 14,
       "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 484,
+      "forks": 20,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 100.0
+    },
+    {
+      "repository": "wenxig/free-nodes-sub",
+      "stars": 67,
+      "forks": 9,
+      "extracted_nodes": 887,
+      "valid_nodes": 201,
+      "quality_score": 89.0
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 86,
+      "forks": 8,
+      "extracted_nodes": 479,
+      "valid_nodes": 7,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "kooker/FreeSubsCheck",
+      "stars": 61,
+      "forks": 8,
+      "extracted_nodes": 645,
+      "valid_nodes": 55,
+      "quality_score": 88.0
     },
     {
       "repository": "WLget/V2Ray_configs_64",
       "stars": 278,
       "forks": 25,
-      "extracted_nodes": 26,
-      "valid_nodes": 1,
-      "quality_score": 100
-    },
-    {
-      "repository": "wenxig/free-nodes-sub",
-      "stars": 66,
-      "forks": 9,
-      "extracted_nodes": 882,
-      "valid_nodes": 202,
-      "quality_score": 89.0
-    },
-    {
-      "repository": "gslege/CloudflareIP",
-      "stars": 518,
-      "forks": 262,
-      "extracted_nodes": 20,
+      "extracted_nodes": 14,
       "valid_nodes": 0,
       "quality_score": 60
-    },
-    {
-      "repository": "hotseo123/jichangtizi-youhuima",
-      "stars": 338,
-      "forks": 12,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 52.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 46,
-      "valid_nodes": 14,
+      "extracted_nodes": 60,
+      "valid_nodes": 28,
       "quality_score": 48.8
     },
     {
@@ -69,7 +77,7 @@
       "stars": 8,
       "forks": 1,
       "extracted_nodes": 927,
-      "valid_nodes": 23,
+      "valid_nodes": 22,
       "quality_score": 47.4
     },
     {
@@ -77,27 +85,11 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 138,
-      "valid_nodes": 134,
+      "valid_nodes": 135,
       "quality_score": 40.8
     },
     {
-      "repository": "lord27/NexNode",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 4,
-      "valid_nodes": 4,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "kumi-info/Maincraft-plugin_laddercountdown",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "chenyuhao0628/cal-sync",
+      "repository": "kremeshnoi/dotfiles",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,7 +97,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "blackdm666/chatgpt-membership-official-guide",
+      "repository": "leizhenfacai/nezhagate-api-examples",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "lje02/probe-bot",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,5 +113,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-05 06:59:53"
+  "updated_at": "2026-07-05 10:05:27"
 }
