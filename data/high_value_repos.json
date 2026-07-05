@@ -9638,33 +9638,33 @@
     },
     {
       "repository": "cxddgtb/dljdsjq",
-      "stars": 10,
+      "stars": 13,
       "forks": 1,
-      "extracted_nodes": 2244,
+      "extracted_nodes": 2359,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "output/easy_proxy_asia.txt",
-          "node_count": 1021,
-          "last_checked": "2026-06-18T18:23:37.957113Z",
+          "node_count": 985,
+          "last_checked": "2026-07-05T16:54:26.926775Z",
           "url": "https://raw.githubusercontent.com/cxddgtb/dljdsjq/main/output/easy_proxy_asia.txt"
         },
         {
           "path": "output/easy_proxy_nodes.txt",
-          "node_count": 1233,
-          "last_checked": "2026-06-18T18:23:38.352439Z",
+          "node_count": 1382,
+          "last_checked": "2026-07-05T16:54:27.069336Z",
           "url": "https://raw.githubusercontent.com/cxddgtb/dljdsjq/main/output/easy_proxy_nodes.txt"
         },
         {
           "path": "output/easy_proxy_us_optimized.txt",
-          "node_count": 1707,
-          "last_checked": "2026-06-18T18:23:38.734144Z",
+          "node_count": 1858,
+          "last_checked": "2026-07-05T16:54:27.190168Z",
           "url": "https://raw.githubusercontent.com/cxddgtb/dljdsjq/main/output/easy_proxy_us_optimized.txt"
         }
       ],
-      "last_full_scan": "2026-06-18T18:23:44.540950Z",
-      "last_nodes_update": "2026-06-18T18:23:44.540975Z"
+      "last_full_scan": "2026-07-05T16:54:34.160261Z",
+      "last_nodes_update": "2026-07-05T16:54:34.160284Z"
     },
     {
       "repository": "v2raynnodes/v2rayfree",
@@ -11695,7 +11695,7 @@
       "last_nodes_update": "2026-06-28T20:56:13.023023Z"
     }
   ],
-  "updated_at": "2026-07-05 13:07:50",
+  "updated_at": "2026-07-05 16:54:34",
   "total_whitelisted_repos": 26,
-  "total_cached_nodes": 27088
+  "total_cached_nodes": 27203
 }
