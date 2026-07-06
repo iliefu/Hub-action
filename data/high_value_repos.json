@@ -11468,21 +11468,21 @@
     },
     {
       "repository": "WLget/V2Ray_configs_64",
-      "stars": 256,
+      "stars": 278,
       "forks": 25,
-      "extracted_nodes": 141,
+      "extracted_nodes": 130,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "ConfigSub_list.txt",
-          "node_count": 143,
-          "last_checked": "2026-06-04T02:38:14.207624Z",
+          "node_count": 132,
+          "last_checked": "2026-07-06T02:06:26.813143Z",
           "url": "https://raw.githubusercontent.com/WLget/V2Ray_configs_64/master/ConfigSub_list.txt"
         }
       ],
-      "last_full_scan": "2026-06-04T02:38:29.521492Z",
-      "last_nodes_update": "2026-06-04T02:38:29.521519Z"
+      "last_full_scan": "2026-07-06T02:06:28.394598Z",
+      "last_nodes_update": "2026-07-06T02:06:28.394623Z"
     },
     {
       "repository": "shaoyouvip/free",
@@ -11695,7 +11695,7 @@
       "last_nodes_update": "2026-06-28T20:56:13.023023Z"
     }
   ],
-  "updated_at": "2026-07-05 20:46:31",
+  "updated_at": "2026-07-06 02:06:28",
   "total_whitelisted_repos": 26,
-  "total_cached_nodes": 27203
+  "total_cached_nodes": 27192
 }
