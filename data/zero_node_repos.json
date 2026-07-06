@@ -28,6 +28,7 @@
     "AnthemZhou/Node_Console",
     "AppsGanin/warp-config-generator",
     "AppsGanin/warp-config-ru",
+    "Arakiss/ghostty-warp",
     "Babbage42/whirli-ng",
     "Beallenonindustrial63/no-ai-in-nodejs-core",
     "Bemly/china-steam-pricer",
@@ -433,5 +434,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-06 14:57:16"
+  "updated_at": "2026-07-06 18:05:43"
 }
