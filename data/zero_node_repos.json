@@ -92,6 +92,7 @@
     "PolysaCHride/astrbot_plugin_pixiv",
     "Pretic/SB-cfy-Pre",
     "QMahyar/Cloudflare-Scanner",
+    "QXTianPing/vpsbox",
     "QuickQ-Officialdownload/QuickQ-Officialdownload",
     "RanKaze/kolid-comfy",
     "Raphael005/warp-config",
@@ -404,6 +405,7 @@
     "xixinsama/GDNative-GPUStableFluids2D",
     "xtgm/stallTCP1.32-V2",
     "xujianjian2004/WOSAI-ComfyUI",
+    "xunying7860/anima-weaver",
     "xyy2580/iptv-api",
     "xzx-123-xzx/DocToShortVideo",
     "yadinae/tg-cloud-drive-worker",
@@ -430,5 +432,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-06 02:06:28"
+  "updated_at": "2026-07-06 08:11:07"
 }

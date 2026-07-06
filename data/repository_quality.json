@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9083,
+      "stars": 9085,
       "forks": 668,
       "extracted_nodes": 54,
-      "valid_nodes": 18,
+      "valid_nodes": 17,
       "quality_score": 100
     },
     {
@@ -13,30 +13,30 @@
       "stars": 1047,
       "forks": 146,
       "extracted_nodes": 3000,
-      "valid_nodes": 59,
+      "valid_nodes": 113,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 59,
-      "forks": 63,
-      "extracted_nodes": 2262,
-      "valid_nodes": 19,
-      "quality_score": 100
+      "repository": "hello-world-1989/cn-news",
+      "stars": 484,
+      "forks": 20,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 67,
       "forks": 9,
-      "extracted_nodes": 893,
-      "valid_nodes": 200,
+      "extracted_nodes": 898,
+      "valid_nodes": 199,
       "quality_score": 89.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 278,
-      "forks": 25,
-      "extracted_nodes": 130,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 59,
+      "forks": 63,
+      "extracted_nodes": 3000,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -44,12 +44,36 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 47,
-      "valid_nodes": 14,
+      "extracted_nodes": 50,
+      "valid_nodes": 17,
       "quality_score": 48.8
     },
     {
-      "repository": "69gg/RotatorProxy",
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 938,
+      "valid_nodes": 16,
+      "quality_score": 47.4
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 133,
+      "valid_nodes": 125,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "xunying7860/anima-weaver",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "QXTianPing/vpsbox",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -57,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-06 02:06:30"
+  "updated_at": "2026-07-06 08:11:10"
 }
