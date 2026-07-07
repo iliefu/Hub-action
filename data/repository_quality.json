@@ -1,35 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9086,
-      "forks": 668,
-      "extracted_nodes": 54,
-      "valid_nodes": 19,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1050,
-      "forks": 146,
+      "stars": 1051,
+      "forks": 147,
       "extracted_nodes": 3000,
-      "valid_nodes": 68,
+      "valid_nodes": 87,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 60,
       "forks": 63,
-      "extracted_nodes": 466,
-      "valid_nodes": 10,
+      "extracted_nodes": 2202,
+      "valid_nodes": 12,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 859,
-      "forks": 73,
-      "extracted_nodes": 117,
-      "valid_nodes": 43,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9087,
+      "forks": 668,
+      "extracted_nodes": 54,
+      "valid_nodes": 21,
       "quality_score": 100
     },
     {
@@ -44,31 +36,15 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 68,
       "forks": 9,
-      "extracted_nodes": 922,
-      "valid_nodes": 196,
+      "extracted_nodes": 920,
+      "valid_nodes": 195,
       "quality_score": 89.0
     },
     {
-      "repository": "kooker/FreeSubsCheck",
-      "stars": 63,
-      "forks": 9,
-      "extracted_nodes": 738,
-      "valid_nodes": 85,
-      "quality_score": 89.0
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 86,
-      "forks": 8,
-      "extracted_nodes": 491,
-      "valid_nodes": 6,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 279,
-      "forks": 25,
-      "extracted_nodes": 54,
+      "repository": "liuyubing233/zhihu-custom",
+      "stars": 410,
+      "forks": 23,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -76,12 +52,20 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 48,
-      "valid_nodes": 14,
+      "extracted_nodes": 49,
+      "valid_nodes": 16,
       "quality_score": 48.8
     },
     {
-      "repository": "leoyb1010/tide-learning",
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 136,
+      "valid_nodes": 127,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "kerzjz/bbg",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,7 +73,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "ForeverThinking-Owl/organize",
+      "repository": "EastonSun/ProxyRules",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "EndlessNeo/funloom-minigame-maker",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-07 02:01:01"
+  "updated_at": "2026-07-07 07:28:59"
 }
