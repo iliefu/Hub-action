@@ -63,6 +63,7 @@
     "Green-hats/Anime-RSS-Automation",
     "HandsomeMJZ/cfip",
     "HsMirage/AIPlanHub",
+    "HsuanZhao/Criminal-Procedure-Timeline-Calculator",
     "IceTears1/subforge",
     "InfernusIntraMe/ComfyUI-Local-Ollama-Translator",
     "John19187/The-40-Best-VPNs",
@@ -282,6 +283,8 @@
     "kumi-info/Maincraft-plugin_laddercountdown",
     "kxswgj/appleid-free",
     "l0v3m0n3y/warpgen",
+    "ladyznikovoleg-spec/warp-config-generator-vercel",
+    "ladyznikovoleg-spec/warp-config-generator-vercel-99fb7",
     "lanrat/wireguard-warp-generator",
     "laurievermillionqca239/hytz",
     "ldhnet/AntFlow-Designer",
@@ -366,6 +369,7 @@
     "skka3134/Free-servers",
     "soongbr/Mindial",
     "sorin-create/the-Great-Wall-of-China",
+    "sparanoid/grunt-auto-spacing",
     "spiritLHLS/speedtest.net-CN-ID",
     "st800820/iptv-api",
     "stingleyarana/blockchain-core-java-suite",
@@ -444,5 +448,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-07 10:47:28"
+  "updated_at": "2026-07-07 14:07:27"
 }
