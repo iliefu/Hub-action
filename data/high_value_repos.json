@@ -9667,118 +9667,232 @@
       "last_nodes_update": "2026-07-05T16:54:34.160284Z"
     },
     {
+      "repository": "v2raynnodes/clashfree",
+      "stars": 9,
+      "forks": 1,
+      "extracted_nodes": 1608,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "clash.yaml",
+          "node_count": 500,
+          "last_checked": "2026-07-08T01:52:32.533273Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/clash.yaml"
+        },
+        {
+          "path": "nodes/blues.txt",
+          "node_count": 420,
+          "last_checked": "2026-07-08T01:52:32.758736Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/blues.txt"
+        },
+        {
+          "path": "nodes/blues.yaml",
+          "node_count": 359,
+          "last_checked": "2026-07-08T01:52:33.277154Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/blues.yaml"
+        },
+        {
+          "path": "nodes/clashmeta.txt",
+          "node_count": 16,
+          "last_checked": "2026-07-08T01:52:33.375632Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/clashmeta.txt"
+        },
+        {
+          "path": "nodes/clashmeta.yaml",
+          "node_count": 89,
+          "last_checked": "2026-07-08T01:52:33.699923Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/clashmeta.yaml"
+        },
+        {
+          "path": "nodes/ndnode.txt",
+          "node_count": 17,
+          "last_checked": "2026-07-08T01:52:33.796197Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/ndnode.txt"
+        },
+        {
+          "path": "nodes/ndnode.yaml",
+          "node_count": 17,
+          "last_checked": "2026-07-08T01:52:34.083069Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/ndnode.yaml"
+        },
+        {
+          "path": "nodes/nodefree.txt",
+          "node_count": 30,
+          "last_checked": "2026-07-08T01:52:34.195899Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/nodefree.txt"
+        },
+        {
+          "path": "nodes/nodefree.yaml",
+          "node_count": 13,
+          "last_checked": "2026-07-08T01:52:34.305521Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/nodefree.yaml"
+        },
+        {
+          "path": "nodes/nodev2ray.txt",
+          "node_count": 17,
+          "last_checked": "2026-07-08T01:52:34.411484Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/nodev2ray.txt"
+        },
+        {
+          "path": "nodes/nodev2ray.yaml",
+          "node_count": 67,
+          "last_checked": "2026-07-08T01:52:35.042278Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/nodev2ray.yaml"
+        },
+        {
+          "path": "nodes/v2rayshare.txt",
+          "node_count": 30,
+          "last_checked": "2026-07-08T01:52:35.194351Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/v2rayshare.txt"
+        },
+        {
+          "path": "nodes/v2rayshare.yaml",
+          "node_count": 30,
+          "last_checked": "2026-07-08T01:52:35.336247Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/v2rayshare.yaml"
+        },
+        {
+          "path": "nodes/wenode.txt",
+          "node_count": 30,
+          "last_checked": "2026-07-08T01:52:35.430506Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/wenode.txt"
+        },
+        {
+          "path": "nodes/wenode.yaml",
+          "node_count": 30,
+          "last_checked": "2026-07-08T01:52:35.670300Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/wenode.yaml"
+        },
+        {
+          "path": "nodes/yudou66.txt",
+          "node_count": 80,
+          "last_checked": "2026-07-08T01:52:35.771825Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/yudou66.txt"
+        },
+        {
+          "path": "nodes/yudou66.yaml",
+          "node_count": 52,
+          "last_checked": "2026-07-08T01:52:36.609741Z",
+          "url": "https://raw.githubusercontent.com/v2raynnodes/clashfree/main/nodes/yudou66.yaml"
+        }
+      ],
+      "last_full_scan": "2026-07-08T01:52:37.048340Z",
+      "last_nodes_update": "2026-07-08T01:52:37.048344Z"
+    },
+    {
       "repository": "v2raynnodes/v2rayfree",
-      "stars": 59,
+      "stars": 61,
       "forks": 7,
-      "extracted_nodes": 1160,
+      "extracted_nodes": 1162,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "nodes/blues.txt",
           "node_count": 420,
-          "last_checked": "2026-06-28T20:55:55.914293Z",
+          "last_checked": "2026-07-08T01:52:27.000664Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/blues.txt"
         },
         {
           "path": "nodes/blues.yaml",
           "node_count": 359,
-          "last_checked": "2026-06-28T20:55:56.947121Z",
+          "last_checked": "2026-07-08T01:52:27.474479Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/blues.yaml"
         },
         {
           "path": "nodes/clashmeta.txt",
           "node_count": 16,
-          "last_checked": "2026-06-28T20:55:57.070882Z",
+          "last_checked": "2026-07-08T01:52:27.572928Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/clashmeta.txt"
         },
         {
           "path": "nodes/clashmeta.yaml",
           "node_count": 89,
-          "last_checked": "2026-06-28T20:55:57.437605Z",
+          "last_checked": "2026-07-08T01:52:27.860876Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/clashmeta.yaml"
         },
         {
           "path": "nodes/ndnode.txt",
           "node_count": 17,
-          "last_checked": "2026-06-28T20:55:57.559377Z",
+          "last_checked": "2026-07-08T01:52:27.946840Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/ndnode.txt"
         },
         {
           "path": "nodes/ndnode.yaml",
           "node_count": 17,
-          "last_checked": "2026-06-28T20:55:57.847004Z",
+          "last_checked": "2026-07-08T01:52:28.247946Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/ndnode.yaml"
         },
         {
           "path": "nodes/nodefree.txt",
           "node_count": 30,
-          "last_checked": "2026-06-28T20:55:57.993417Z",
+          "last_checked": "2026-07-08T01:52:28.350198Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/nodefree.txt"
         },
         {
           "path": "nodes/nodefree.yaml",
           "node_count": 13,
-          "last_checked": "2026-06-28T20:55:58.133746Z",
+          "last_checked": "2026-07-08T01:52:28.434814Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/nodefree.yaml"
         },
         {
           "path": "nodes/nodev2ray.txt",
           "node_count": 17,
-          "last_checked": "2026-06-28T20:55:58.259071Z",
+          "last_checked": "2026-07-08T01:52:28.783566Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/nodev2ray.txt"
         },
         {
           "path": "nodes/nodev2ray.yaml",
           "node_count": 67,
-          "last_checked": "2026-06-28T20:55:58.906835Z",
+          "last_checked": "2026-07-08T01:52:29.364472Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/nodev2ray.yaml"
         },
         {
           "path": "nodes/v2rayshare.txt",
           "node_count": 30,
-          "last_checked": "2026-06-28T20:55:59.024570Z",
+          "last_checked": "2026-07-08T01:52:29.476573Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/v2rayshare.txt"
         },
         {
           "path": "nodes/v2rayshare.yaml",
           "node_count": 30,
-          "last_checked": "2026-06-28T20:55:59.172684Z",
+          "last_checked": "2026-07-08T01:52:29.575643Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/v2rayshare.yaml"
         },
         {
           "path": "nodes/wenode.txt",
           "node_count": 30,
-          "last_checked": "2026-06-28T20:55:59.295951Z",
+          "last_checked": "2026-07-08T01:52:29.665798Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/wenode.txt"
         },
         {
           "path": "nodes/wenode.yaml",
           "node_count": 30,
-          "last_checked": "2026-06-28T20:55:59.462058Z",
+          "last_checked": "2026-07-08T01:52:29.786104Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/wenode.yaml"
         },
         {
           "path": "nodes/yudou66.txt",
           "node_count": 80,
-          "last_checked": "2026-06-28T20:55:59.623763Z",
+          "last_checked": "2026-07-08T01:52:29.878441Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/yudou66.txt"
         },
         {
           "path": "nodes/yudou66.yaml",
           "node_count": 52,
-          "last_checked": "2026-06-28T20:56:00.400939Z",
+          "last_checked": "2026-07-08T01:52:30.422904Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/nodes/yudou66.yaml"
         },
         {
           "path": "v2ray.txt",
-          "node_count": 61,
-          "last_checked": "2026-06-28T20:56:00.676783Z",
+          "node_count": 71,
+          "last_checked": "2026-07-08T01:52:30.652144Z",
           "url": "https://raw.githubusercontent.com/v2raynnodes/v2rayfree/main/v2ray.txt"
         }
       ],
-      "last_full_scan": "2026-06-28T20:56:13.022964Z",
-      "last_nodes_update": "2026-06-28T20:56:13.022969Z"
+      "last_full_scan": "2026-07-08T01:52:37.048265Z",
+      "last_nodes_update": "2026-07-08T01:52:37.048297Z"
     },
     {
       "repository": "spincat/SmartProxyPipeline",
@@ -11689,7 +11803,7 @@
       "last_nodes_update": "2026-06-27T20:51:54.317192Z"
     }
   ],
-  "updated_at": "2026-07-07 21:15:52",
-  "total_whitelisted_repos": 26,
-  "total_cached_nodes": 27274
+  "updated_at": "2026-07-08 01:52:37",
+  "total_whitelisted_repos": 27,
+  "total_cached_nodes": 28884
 }
