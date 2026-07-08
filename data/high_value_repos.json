@@ -11395,6 +11395,24 @@
       "last_nodes_update": "2026-06-23T07:39:46.626363Z"
     },
     {
+      "repository": "LancelotRar/free-subs",
+      "stars": 41,
+      "forks": 5,
+      "extracted_nodes": 302,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "src/base64-fangshilian.txt",
+          "node_count": 366,
+          "last_checked": "2026-07-08T10:08:24.915741Z",
+          "url": "https://raw.githubusercontent.com/LancelotRar/free-subs/main/src/base64-fangshilian.txt"
+        }
+      ],
+      "last_full_scan": "2026-07-08T10:08:31.161615Z",
+      "last_nodes_update": "2026-07-08T10:08:31.161661Z"
+    },
+    {
       "repository": "saishun/TyporaTheme",
       "stars": 4,
       "forks": 16,
@@ -11783,27 +11801,9 @@
       ],
       "last_full_scan": "2026-06-18T08:32:15.215875Z",
       "last_nodes_update": "2026-06-18T08:32:15.215919Z"
-    },
-    {
-      "repository": "LancelotRar/free-subs",
-      "stars": 30,
-      "forks": 5,
-      "extracted_nodes": 111,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "src/base64-fangshilian.txt",
-          "node_count": 163,
-          "last_checked": "2026-06-27T20:51:46.862395Z",
-          "url": "https://raw.githubusercontent.com/LancelotRar/free-subs/main/src/base64-fangshilian.txt"
-        }
-      ],
-      "last_full_scan": "2026-06-27T20:51:54.317167Z",
-      "last_nodes_update": "2026-06-27T20:51:54.317192Z"
     }
   ],
-  "updated_at": "2026-07-08 06:22:12",
+  "updated_at": "2026-07-08 10:08:31",
   "total_whitelisted_repos": 27,
-  "total_cached_nodes": 28884
+  "total_cached_nodes": 29075
 }
