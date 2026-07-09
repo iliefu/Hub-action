@@ -9,61 +9,77 @@
       "quality_score": 100
     },
     {
+      "repository": "shaoyouvip/free",
+      "stars": 866,
+      "forks": 76,
+      "extracted_nodes": 30,
+      "valid_nodes": 13,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1069,
+      "stars": 1070,
       "forks": 147,
       "extracted_nodes": 3000,
       "valid_nodes": 169,
       "quality_score": 100
     },
     {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 484,
-      "forks": 20,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
-      "quality_score": 100.0
-    },
-    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 68,
       "forks": 9,
-      "extracted_nodes": 939,
-      "valid_nodes": 199,
+      "extracted_nodes": 193,
+      "valid_nodes": 60,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 470,
-      "valid_nodes": 9,
+      "extracted_nodes": 465,
+      "valid_nodes": 7,
       "quality_score": 88.0
     },
     {
-      "repository": "v2raynnodes/v2rayfree",
-      "stars": 61,
-      "forks": 7,
-      "extracted_nodes": 1159,
-      "valid_nodes": 235,
-      "quality_score": 87.0
+      "repository": "wenxig/dongtai-sub",
+      "stars": 193,
+      "forks": 25,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 484,
+      "forks": 20,
+      "extracted_nodes": 8,
+      "valid_nodes": 0,
+      "quality_score": 60.0
+    },
+    {
+      "repository": "gslege/CloudflareIP",
+      "stars": 523,
+      "forks": 264,
+      "extracted_nodes": 20,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 53,
-      "valid_nodes": 21,
+      "extracted_nodes": 49,
+      "valid_nodes": 17,
       "quality_score": 48.8
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 148,
-      "valid_nodes": 136,
+      "extracted_nodes": 144,
+      "valid_nodes": 130,
       "quality_score": 40.8
     }
   ],
-  "updated_at": "2026-07-09 17:47:42"
+  "updated_at": "2026-07-09 21:12:05"
 }
