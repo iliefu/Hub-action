@@ -2,7 +2,7 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9095,
+      "stars": 9096,
       "forks": 668,
       "extracted_nodes": 16,
       "valid_nodes": 6,
@@ -10,26 +10,10 @@
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1068,
+      "stars": 1069,
       "forks": 147,
       "extracted_nodes": 3000,
-      "valid_nodes": 206,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 865,
-      "forks": 76,
-      "extracted_nodes": 30,
-      "valid_nodes": 15,
-      "quality_score": 100
-    },
-    {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7731,
-      "forks": 1238,
-      "extracted_nodes": 163,
-      "valid_nodes": 19,
+      "valid_nodes": 169,
       "quality_score": 100
     },
     {
@@ -45,31 +29,31 @@
       "stars": 68,
       "forks": 9,
       "extracted_nodes": 939,
-      "valid_nodes": 204,
+      "valid_nodes": 199,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 472,
-      "valid_nodes": 7,
+      "extracted_nodes": 470,
+      "valid_nodes": 9,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 279,
-      "forks": 25,
-      "extracted_nodes": 3,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 61,
+      "forks": 7,
+      "extracted_nodes": 1159,
+      "valid_nodes": 235,
+      "quality_score": 87.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 59,
-      "valid_nodes": 19,
+      "extracted_nodes": 53,
+      "valid_nodes": 21,
       "quality_score": 48.8
     },
     {
@@ -77,41 +61,9 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 148,
-      "valid_nodes": 141,
+      "valid_nodes": 136,
       "quality_score": 40.8
-    },
-    {
-      "repository": "islon/goout",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 2.4
-    },
-    {
-      "repository": "644646497/proxy-scraper",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 13,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "hzjanuary/warp-linux-config",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "wt20230521/wtw20230521",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-09 14:29:48"
+  "updated_at": "2026-07-09 17:47:42"
 }
