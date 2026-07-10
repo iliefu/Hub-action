@@ -1,24 +1,24 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 62,
-      "forks": 63,
-      "extracted_nodes": 523,
-      "valid_nodes": 7,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1073,
       "forks": 147,
       "extracted_nodes": 3000,
-      "valid_nodes": 148,
+      "valid_nodes": 147,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 62,
+      "forks": 63,
+      "extracted_nodes": 466,
+      "valid_nodes": 8,
       "quality_score": 100
     },
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9101,
+      "stars": 9102,
       "forks": 668,
       "extracted_nodes": 36,
       "valid_nodes": 22,
@@ -26,7 +26,7 @@
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 483,
+      "stars": 486,
       "forks": 20,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -36,24 +36,40 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 68,
       "forks": 9,
-      "extracted_nodes": 948,
-      "valid_nodes": 204,
+      "extracted_nodes": 492,
+      "valid_nodes": 52,
       "quality_score": 89.0
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 87,
+      "forks": 8,
+      "extracted_nodes": 468,
+      "valid_nodes": 8,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "twj0/subseek",
+      "stars": 18,
+      "forks": 2,
+      "extracted_nodes": 3000,
+      "valid_nodes": 445,
+      "quality_score": 56.4
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 67,
-      "valid_nodes": 30,
+      "extracted_nodes": 71,
+      "valid_nodes": 27,
       "quality_score": 48.8
     },
     {
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 980,
-      "valid_nodes": 28,
+      "extracted_nodes": 979,
+      "valid_nodes": 27,
       "quality_score": 47.4
     },
     {
@@ -61,65 +77,25 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 149,
-      "valid_nodes": 145,
+      "valid_nodes": 139,
       "quality_score": 40.8
     },
     {
-      "repository": "saliva101/fanqiang",
-      "stars": 3,
-      "forks": 0,
+      "repository": "pmman289/link42",
+      "stars": 13,
+      "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 2.4
+      "quality_score": 11.4
     },
     {
-      "repository": "Losangelous/Motor_Vehicle_Written_Test_Practice_for_the_Republic_of_China",
+      "repository": "liusonwood/OughtGather",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.8
-    },
-    {
-      "repository": "nqxnlc035/usdt-payment-pokepay",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "igjds2028/my-freejiedian",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 47,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "buyunhao/shadowrocket-config",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "jeffzc24-cmyk/clash-chain-proxy",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "lamblama/stm32F103ZET6-potatoroom",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-10 07:27:06"
+  "updated_at": "2026-07-10 10:44:20"
 }

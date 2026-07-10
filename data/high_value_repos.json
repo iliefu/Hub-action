@@ -7510,37 +7510,31 @@
       "repository": "twj0/subseek",
       "stars": 18,
       "forks": 2,
-      "extracted_nodes": 2523,
+      "extracted_nodes": 3000,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "data/china_proxies/china_proxy_config.json",
           "node_count": 3,
-          "last_checked": "2026-06-27T09:57:09.906562Z",
+          "last_checked": "2026-07-10T10:44:11.125659Z",
           "url": "https://raw.githubusercontent.com/twj0/subseek/master/data/china_proxies/china_proxy_config.json"
         },
         {
           "path": "data/sub_github.txt",
-          "node_count": 2745,
-          "last_checked": "2026-06-27T09:57:10.108411Z",
+          "node_count": 3797,
+          "last_checked": "2026-07-10T10:44:11.393669Z",
           "url": "https://raw.githubusercontent.com/twj0/subseek/master/data/sub_github.txt"
         },
         {
-          "path": "data/sub_github_base64.txt",
-          "node_count": 2745,
-          "last_checked": "2026-06-27T09:57:10.582148Z",
-          "url": "https://raw.githubusercontent.com/twj0/subseek/master/data/sub_github_base64.txt"
-        },
-        {
           "path": "data/sub_platform_base64.txt",
-          "node_count": 740,
-          "last_checked": "2026-06-27T09:57:10.888708Z",
+          "node_count": 654,
+          "last_checked": "2026-07-10T10:44:11.693986Z",
           "url": "https://raw.githubusercontent.com/twj0/subseek/master/data/sub_platform_base64.txt"
         }
       ],
-      "last_full_scan": "2026-06-27T09:57:15.398224Z",
-      "last_nodes_update": "2026-06-27T09:57:15.398256Z"
+      "last_full_scan": "2026-07-10T10:44:16.210919Z",
+      "last_nodes_update": "2026-07-10T10:44:16.210954Z"
     },
     {
       "repository": "cxddgtb/dljdsjq",
@@ -9709,7 +9703,7 @@
       "last_nodes_update": "2026-06-18T08:32:15.215919Z"
     }
   ],
-  "updated_at": "2026-07-10 07:27:02",
+  "updated_at": "2026-07-10 10:44:16",
   "total_whitelisted_repos": 27,
-  "total_cached_nodes": 29181
+  "total_cached_nodes": 29658
 }
