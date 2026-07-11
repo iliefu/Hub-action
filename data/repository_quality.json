@@ -1,43 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1078,
-      "forks": 147,
-      "extracted_nodes": 3000,
-      "valid_nodes": 139,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9104,
+      "forks": 668,
+      "extracted_nodes": 36,
+      "valid_nodes": 21,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 62,
       "forks": 62,
-      "extracted_nodes": 793,
-      "valid_nodes": 29,
+      "extracted_nodes": 693,
+      "valid_nodes": 13,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 872,
-      "forks": 78,
-      "extracted_nodes": 31,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1078,
+      "forks": 147,
+      "extracted_nodes": 3000,
+      "valid_nodes": 151,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1784,
+      "forks": 116,
+      "extracted_nodes": 16,
       "valid_nodes": 16,
-      "quality_score": 100
-    },
-    {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9103,
-      "forks": 668,
-      "extracted_nodes": 44,
-      "valid_nodes": 25,
-      "quality_score": 100
-    },
-    {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7742,
-      "forks": 1240,
-      "extracted_nodes": 114,
-      "valid_nodes": 17,
       "quality_score": 100
     },
     {
@@ -50,68 +42,44 @@
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 68,
+      "stars": 69,
       "forks": 9,
-      "extracted_nodes": 1018,
-      "valid_nodes": 220,
+      "extracted_nodes": 1022,
+      "valid_nodes": 215,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 478,
-      "valid_nodes": 10,
+      "extracted_nodes": 470,
+      "valid_nodes": 9,
       "quality_score": 88.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 194,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 280,
       "forks": 25,
-      "extracted_nodes": 11,
+      "extracted_nodes": 5,
       "valid_nodes": 0,
       "quality_score": 60
-    },
-    {
-      "repository": "zhuhaiuk/free-nodes",
-      "stars": 16,
-      "forks": 2,
-      "extracted_nodes": 55,
-      "valid_nodes": 27,
-      "quality_score": 54.8
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
       "extracted_nodes": 90,
-      "valid_nodes": 52,
+      "valid_nodes": 51,
       "quality_score": 48.8
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 150,
-      "valid_nodes": 145,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "xianyu110/grok4",
-      "stars": 24,
-      "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 19.2
-    },
-    {
-      "repository": "geevpnfree/geevpn",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-07-11 09:16:29"
+  "updated_at": "2026-07-11 12:53:34"
 }
