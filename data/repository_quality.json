@@ -2,33 +2,33 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9104,
+      "stars": 9106,
       "forks": 668,
       "extracted_nodes": 36,
       "valid_nodes": 21,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 62,
-      "forks": 62,
-      "extracted_nodes": 693,
-      "valid_nodes": 13,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1078,
+      "stars": 1080,
       "forks": 147,
       "extracted_nodes": 3000,
-      "valid_nodes": 151,
+      "valid_nodes": 131,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1784,
-      "forks": 116,
-      "extracted_nodes": 16,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 63,
+      "forks": 62,
+      "extracted_nodes": 781,
+      "valid_nodes": 26,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7744,
+      "forks": 1239,
+      "extracted_nodes": 103,
       "valid_nodes": 16,
       "quality_score": 100
     },
@@ -44,33 +44,41 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 69,
       "forks": 9,
-      "extracted_nodes": 1022,
-      "valid_nodes": 215,
+      "extracted_nodes": 517,
+      "valid_nodes": 61,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 470,
-      "valid_nodes": 9,
+      "extracted_nodes": 479,
+      "valid_nodes": 10,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 280,
-      "forks": 25,
-      "extracted_nodes": 5,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 63,
+      "forks": 7,
+      "extracted_nodes": 1167,
+      "valid_nodes": 234,
+      "quality_score": 87.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 90,
-      "valid_nodes": 51,
+      "extracted_nodes": 72,
+      "valid_nodes": 38,
       "quality_score": 48.8
+    },
+    {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 1012,
+      "valid_nodes": 27,
+      "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
@@ -79,7 +87,15 @@
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.8
+    },
+    {
+      "repository": "JoySec123/openwrt-passwall2",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-11 12:53:34"
+  "updated_at": "2026-07-11 16:43:25"
 }
