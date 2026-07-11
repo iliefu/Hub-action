@@ -9313,48 +9313,6 @@
       "last_nodes_update": "2026-07-08T10:08:31.161661Z"
     },
     {
-      "repository": "saishun/TyporaTheme",
-      "stars": 4,
-      "forks": 16,
-      "extracted_nodes": 241,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "sub.txt",
-          "node_count": 63,
-          "last_checked": "2026-07-04T13:00:01.493525Z",
-          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/sub.txt"
-        },
-        {
-          "path": "sub3.txt",
-          "node_count": 73,
-          "last_checked": "2026-07-04T13:00:01.706854Z",
-          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/sub3.txt"
-        },
-        {
-          "path": "trial.yaml",
-          "node_count": 105,
-          "last_checked": "2026-07-04T13:00:02.164898Z",
-          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/trial.yaml"
-        },
-        {
-          "path": "trials/ayucloud.services.yaml",
-          "node_count": 105,
-          "last_checked": "2026-07-04T13:00:03.364433Z",
-          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/trials/ayucloud.services.yaml"
-        },
-        {
-          "path": "trials_providers/All.yaml",
-          "node_count": 105,
-          "last_checked": "2026-07-04T13:00:04.281641Z",
-          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/trials_providers/All.yaml"
-        }
-      ],
-      "last_full_scan": "2026-07-04T13:00:08.536492Z",
-      "last_nodes_update": "2026-07-04T13:00:08.536510Z"
-    },
-    {
       "repository": "peasoft/NoMoreWalls",
       "stars": 3353,
       "forks": 534,
@@ -9649,6 +9607,66 @@
       "last_nodes_update": "2026-07-09T01:53:03.765274Z"
     },
     {
+      "repository": "saishun/TyporaTheme",
+      "stars": 4,
+      "forks": 16,
+      "extracted_nodes": 136,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "sub.txt",
+          "node_count": 63,
+          "last_checked": "2026-07-11T20:38:02.834577Z",
+          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/sub.txt"
+        },
+        {
+          "path": "sub3.txt",
+          "node_count": 73,
+          "last_checked": "2026-07-11T20:38:03.091044Z",
+          "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/sub3.txt"
+        }
+      ],
+      "last_full_scan": "2026-07-11T20:38:07.163805Z",
+      "last_nodes_update": "2026-07-11T20:38:07.163809Z"
+    },
+    {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 11,
+      "forks": 0,
+      "extracted_nodes": 132,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "source/clash-meta-2.yaml",
+          "node_count": 88,
+          "last_checked": "2026-07-11T20:37:30.847073Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta-2.yaml"
+        },
+        {
+          "path": "source/clash-meta.yaml",
+          "node_count": 15,
+          "last_checked": "2026-07-11T20:37:31.090698Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta.yaml"
+        },
+        {
+          "path": "subscribe/clash.yml",
+          "node_count": 3,
+          "last_checked": "2026-07-11T20:37:31.173166Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/clash.yml"
+        },
+        {
+          "path": "subscribe/v2ray.txt",
+          "node_count": 26,
+          "last_checked": "2026-07-11T20:37:31.224245Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/v2ray.txt"
+        }
+      ],
+      "last_full_scan": "2026-07-11T20:38:07.163724Z",
+      "last_nodes_update": "2026-07-11T20:38:07.163754Z"
+    },
+    {
       "repository": "WLget/V2Ray_configs_64",
       "stars": 278,
       "forks": 25,
@@ -9695,45 +9713,9 @@
       ],
       "last_full_scan": "2026-06-30T07:42:28.873646Z",
       "last_nodes_update": "2026-06-30T07:42:28.873671Z"
-    },
-    {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 11,
-      "forks": 0,
-      "extracted_nodes": 114,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "source/clash-meta-2.yaml",
-          "node_count": 38,
-          "last_checked": "2026-06-18T08:30:18.381835Z",
-          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta-2.yaml"
-        },
-        {
-          "path": "source/clash-meta.yaml",
-          "node_count": 47,
-          "last_checked": "2026-06-18T08:30:18.606477Z",
-          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta.yaml"
-        },
-        {
-          "path": "subscribe/clash.yml",
-          "node_count": 3,
-          "last_checked": "2026-06-18T08:30:18.804936Z",
-          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/clash.yml"
-        },
-        {
-          "path": "subscribe/v2ray.txt",
-          "node_count": 26,
-          "last_checked": "2026-06-18T08:30:19.071097Z",
-          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/v2ray.txt"
-        }
-      ],
-      "last_full_scan": "2026-06-18T08:32:15.215875Z",
-      "last_nodes_update": "2026-06-18T08:32:15.215919Z"
     }
   ],
-  "updated_at": "2026-07-11 16:43:12",
+  "updated_at": "2026-07-11 20:38:07",
   "total_whitelisted_repos": 28,
-  "total_cached_nodes": 29563
+  "total_cached_nodes": 29476
 }
