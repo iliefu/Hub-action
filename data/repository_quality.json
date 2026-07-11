@@ -12,64 +12,80 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 62,
       "forks": 62,
-      "extracted_nodes": 688,
-      "valid_nodes": 27,
+      "extracted_nodes": 793,
+      "valid_nodes": 29,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
-      "stars": 873,
+      "stars": 872,
       "forks": 78,
-      "extracted_nodes": 48,
-      "valid_nodes": 24,
+      "extracted_nodes": 31,
+      "valid_nodes": 16,
       "quality_score": 100
     },
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9105,
+      "stars": 9103,
       "forks": 668,
       "extracted_nodes": 44,
-      "valid_nodes": 26,
+      "valid_nodes": 25,
       "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7742,
+      "forks": 1240,
+      "extracted_nodes": 114,
+      "valid_nodes": 17,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 485,
+      "forks": 20,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 68,
       "forks": 9,
-      "extracted_nodes": 518,
-      "valid_nodes": 65,
+      "extracted_nodes": 1018,
+      "valid_nodes": 220,
       "quality_score": 89.0
     },
     {
-      "repository": "kooker/FreeSubsCheck",
-      "stars": 68,
-      "forks": 9,
-      "extracted_nodes": 340,
-      "valid_nodes": 87,
-      "quality_score": 89.0
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 87,
+      "forks": 8,
+      "extracted_nodes": 478,
+      "valid_nodes": 10,
+      "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 280,
+      "repository": "wenxig/dongtai-sub",
+      "stars": 194,
       "forks": 25,
-      "extracted_nodes": 15,
+      "extracted_nodes": 11,
       "valid_nodes": 0,
       "quality_score": 60
     },
     {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 486,
-      "forks": 20,
-      "extracted_nodes": 8,
-      "valid_nodes": 0,
-      "quality_score": 60.0
+      "repository": "zhuhaiuk/free-nodes",
+      "stars": 16,
+      "forks": 2,
+      "extracted_nodes": 55,
+      "valid_nodes": 27,
+      "quality_score": 54.8
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 65,
-      "valid_nodes": 30,
+      "extracted_nodes": 90,
+      "valid_nodes": 52,
       "quality_score": 48.8
     },
     {
@@ -77,19 +93,19 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 150,
-      "valid_nodes": 144,
+      "valid_nodes": 145,
       "quality_score": 40.8
     },
     {
-      "repository": "JiexiaoZhang1/humanizer-workbench",
-      "stars": 0,
+      "repository": "xianyu110/grok4",
+      "stars": 24,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 19.2
     },
     {
-      "repository": "shanshulin/owl-codex-monitor",
+      "repository": "geevpnfree/geevpn",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +113,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-11 06:06:47"
+  "updated_at": "2026-07-11 09:16:29"
 }
