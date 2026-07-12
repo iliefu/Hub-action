@@ -5,15 +5,7 @@
       "stars": 9109,
       "forks": 668,
       "extracted_nodes": 56,
-      "valid_nodes": 25,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 63,
-      "forks": 62,
-      "extracted_nodes": 857,
-      "valid_nodes": 20,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
@@ -21,15 +13,15 @@
       "stars": 1084,
       "forks": 148,
       "extracted_nodes": 3000,
-      "valid_nodes": 165,
+      "valid_nodes": 140,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7748,
-      "forks": 1239,
-      "extracted_nodes": 121,
-      "valid_nodes": 17,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 63,
+      "forks": 63,
+      "extracted_nodes": 802,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
@@ -44,40 +36,32 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 69,
       "forks": 9,
-      "extracted_nodes": 1040,
-      "valid_nodes": 214,
+      "extracted_nodes": 1035,
+      "valid_nodes": 225,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 480,
+      "extracted_nodes": 476,
       "valid_nodes": 9,
       "quality_score": 88.0
-    },
-    {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 197,
-      "forks": 25,
-      "extracted_nodes": 11,
-      "valid_nodes": 0,
-      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
-      "extracted_nodes": 119,
-      "valid_nodes": 72,
+      "extracted_nodes": 97,
+      "valid_nodes": 49,
       "quality_score": 48.8
     },
     {
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 1031,
-      "valid_nodes": 31,
+      "extracted_nodes": 1030,
+      "valid_nodes": 33,
       "quality_score": 47.4
     },
     {
@@ -85,17 +69,25 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 148,
-      "valid_nodes": 131,
+      "valid_nodes": 140,
       "quality_score": 40.8
     },
     {
-      "repository": "Alisa-luna/Earthquake_warning_system",
-      "stars": 1,
+      "repository": "CatsInJune/tiptap-markdown-react",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
+    },
+    {
+      "repository": "nezgovorov2013-ux/warp-config-generator-vercel",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-12 16:46:00"
+  "updated_at": "2026-07-12 20:36:31"
 }
