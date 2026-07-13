@@ -18,6 +18,7 @@
     "9527moses/tizi",
     "AIWaveAPI/aiwave-sdk-node",
     "AIsouler/MyClash",
+    "Aaalice233/ComfyUI-Aaalice-Nodes",
     "Aethersailor/SubConverter-Extended",
     "Aethersailor/subconverter",
     "Aetik-yue/GodoMaster",
@@ -152,6 +153,7 @@
     "WAADRI/ChaoXing_node_signin",
     "WLget/V2ray_free",
     "WTest1518/MyLending",
+    "Wei-Shaw/sub2api",
     "WillLiang713/Sift",
     "XKLingYu/kk-vibe-cli",
     "Xeonice/kitty-config",
@@ -218,6 +220,7 @@
     "cssdxc/app_subscription_flutter",
     "cxhihilwb123-hash/tixiaozhu-oss",
     "cyfain/chatgpt",
+    "czl-dev-pub/math-atlas",
     "davoo233/Godfe2ray",
     "deezertidal/fee-based",
     "deezertidal/freevpn",
@@ -506,5 +509,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-13 01:45:59"
+  "updated_at": "2026-07-13 06:44:58"
 }
