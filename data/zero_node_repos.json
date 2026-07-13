@@ -19,6 +19,7 @@
     "AIWaveAPI/aiwave-sdk-node",
     "AIsouler/MyClash",
     "Aethersailor/SubConverter-Extended",
+    "Aethersailor/subconverter",
     "Aetik-yue/GodoMaster",
     "AiLee77/proxyip.cczz.eu.cc",
     "AlchemyLink/Raven-subscribe",
@@ -100,6 +101,7 @@
     "Mugzx/MyClash",
     "My-Search/official-subscribe",
     "MyOrbit-top/MyOrbit",
+    "N0va6/TailorProxy",
     "Neocvsu-commits/asset-exporter-tool",
     "NiceVPN123/NiceVPN",
     "OpenNetCN/clash",
@@ -285,6 +287,7 @@
     "iluobei/mmw-agent",
     "imrsp/SSLmanualCHN",
     "islon/goout",
+    "jamebal/xray-kuma-probe",
     "jauyhsuyahaandersiuayha-oss/letsvpn--",
     "jdnei/JiChangTuiJian",
     "jeffzc24-cmyk/clash-chain-proxy",
@@ -409,6 +412,7 @@
     "sheshuyu/fuckCourse",
     "shy3130/tickflow-stock-panel",
     "skka3134/Free-servers",
+    "smysong/mediamaster-v2",
     "soongbr/Mindial",
     "sorin-create/the-Great-Wall-of-China",
     "sparanoid/grunt-auto-spacing",
@@ -502,5 +506,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-12 20:36:19"
+  "updated_at": "2026-07-13 01:45:59"
 }

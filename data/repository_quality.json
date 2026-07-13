@@ -4,24 +4,24 @@
       "repository": "ermaozi/get_subscribe",
       "stars": 9109,
       "forks": 668,
-      "extracted_nodes": 56,
-      "valid_nodes": 24,
+      "extracted_nodes": 40,
+      "valid_nodes": 11,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1084,
+      "stars": 1085,
       "forks": 148,
       "extracted_nodes": 3000,
-      "valid_nodes": 140,
+      "valid_nodes": 145,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 63,
       "forks": 63,
-      "extracted_nodes": 802,
-      "valid_nodes": 26,
+      "extracted_nodes": 481,
+      "valid_nodes": 29,
       "quality_score": 100
     },
     {
@@ -36,44 +36,52 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 69,
       "forks": 9,
-      "extracted_nodes": 1035,
-      "valid_nodes": 225,
+      "extracted_nodes": 1058,
+      "valid_nodes": 239,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 476,
-      "valid_nodes": 9,
+      "extracted_nodes": 475,
+      "valid_nodes": 10,
       "quality_score": 88.0
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 281,
+      "forks": 25,
+      "extracted_nodes": 60,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 11,
       "forks": 0,
       "extracted_nodes": 97,
-      "valid_nodes": 49,
+      "valid_nodes": 50,
       "quality_score": 48.8
     },
     {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 1030,
-      "valid_nodes": 33,
-      "quality_score": 47.4
+      "repository": "smysong/mediamaster-v2",
+      "stars": 5,
+      "forks": 3,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 7.0
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
+      "repository": "N0va6/TailorProxy",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 148,
-      "valid_nodes": 140,
-      "quality_score": 40.8
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
     },
     {
-      "repository": "CatsInJune/tiptap-markdown-react",
+      "repository": "Aethersailor/subconverter",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,7 +89,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "nezgovorov2013-ux/warp-config-generator-vercel",
+      "repository": "jamebal/xray-kuma-probe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-12 20:36:31"
+  "updated_at": "2026-07-13 01:46:03"
 }
