@@ -8060,45 +8060,45 @@
     },
     {
       "repository": "kooker/FreeSubsCheck",
-      "stars": 61,
-      "forks": 8,
-      "extracted_nodes": 633,
+      "stars": 68,
+      "forks": 9,
+      "extracted_nodes": 648,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "all.yaml",
-          "node_count": 8,
-          "last_checked": "2026-07-04T10:02:57.733724Z",
+          "node_count": 5,
+          "last_checked": "2026-07-13T14:03:42.829138Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml"
         },
         {
           "path": "base64.txt",
-          "node_count": 8,
-          "last_checked": "2026-07-04T10:02:57.910508Z",
+          "node_count": 5,
+          "last_checked": "2026-07-13T14:03:43.159030Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt"
         },
         {
           "path": "byxiaoxi.txt",
-          "node_count": 14,
-          "last_checked": "2026-07-04T10:02:58.089491Z",
+          "node_count": 2,
+          "last_checked": "2026-07-13T14:03:43.444082Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/byxiaoxi.txt"
         },
         {
           "path": "kooker.jp.txt",
-          "node_count": 746,
-          "last_checked": "2026-07-04T10:02:58.299023Z",
+          "node_count": 812,
+          "last_checked": "2026-07-13T14:03:43.838926Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
         },
         {
           "path": "mihomo.yaml",
-          "node_count": 8,
-          "last_checked": "2026-07-04T10:02:58.495504Z",
+          "node_count": 5,
+          "last_checked": "2026-07-13T14:03:44.224404Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/mihomo.yaml"
         }
       ],
-      "last_full_scan": "2026-07-04T10:03:01.524053Z",
-      "last_nodes_update": "2026-07-04T10:03:01.524056Z"
+      "last_full_scan": "2026-07-13T14:03:50.510340Z",
+      "last_nodes_update": "2026-07-13T14:03:50.510355Z"
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
@@ -9715,7 +9715,7 @@
       "last_nodes_update": "2026-06-30T07:42:28.873671Z"
     }
   ],
-  "updated_at": "2026-07-13 10:51:12",
+  "updated_at": "2026-07-13 14:03:50",
   "total_whitelisted_repos": 28,
-  "total_cached_nodes": 29476
+  "total_cached_nodes": 29491
 }
