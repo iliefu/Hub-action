@@ -2,57 +2,57 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9115,
+      "stars": 9116,
       "forks": 668,
       "extracted_nodes": 26,
       "valid_nodes": 12,
       "quality_score": 100
     },
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1096,
+      "forks": 149,
+      "extracted_nodes": 3000,
+      "valid_nodes": 33,
+      "quality_score": 100
+    },
+    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 63,
       "forks": 63,
-      "extracted_nodes": 818,
-      "valid_nodes": 28,
+      "extracted_nodes": 564,
+      "valid_nodes": 11,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1093,
-      "forks": 149,
-      "extracted_nodes": 3000,
-      "valid_nodes": 163,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 881,
-      "forks": 78,
-      "extracted_nodes": 84,
-      "valid_nodes": 42,
-      "quality_score": 100
+      "repository": "hello-world-1989/cn-news",
+      "stars": 489,
+      "forks": 20,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 69,
       "forks": 9,
-      "extracted_nodes": 1072,
-      "valid_nodes": 246,
+      "extracted_nodes": 1066,
+      "valid_nodes": 238,
       "quality_score": 89.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 281,
-      "forks": 25,
-      "extracted_nodes": 2,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 87,
+      "forks": 8,
+      "extracted_nodes": 327,
+      "valid_nodes": 9,
+      "quality_score": 88.0
     },
     {
-      "repository": "gslege/CloudflareIP",
-      "stars": 534,
-      "forks": 275,
-      "extracted_nodes": 20,
+      "repository": "wenxig/dongtai-sub",
+      "stars": 199,
+      "forks": 25,
+      "extracted_nodes": 11,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -60,17 +60,9 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 12,
       "forks": 0,
-      "extracted_nodes": 93,
-      "valid_nodes": 46,
+      "extracted_nodes": 73,
+      "valid_nodes": 34,
       "quality_score": 49.6
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 87,
-      "forks": 8,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 48.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
@@ -79,23 +71,7 @@
       "extracted_nodes": 132,
       "valid_nodes": 118,
       "quality_score": 40.8
-    },
-    {
-      "repository": "Skiro1/warp-awg-gen",
-      "stars": 10,
-      "forks": 2,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 10.0
-    },
-    {
-      "repository": "doohuan-ai/singularity",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 1,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-14 13:05:26"
+  "updated_at": "2026-07-14 17:02:28"
 }
