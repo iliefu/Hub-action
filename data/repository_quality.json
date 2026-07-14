@@ -2,26 +2,42 @@
   "repositories": [
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1090,
+      "stars": 1091,
       "forks": 149,
       "extracted_nodes": 3000,
-      "valid_nodes": 149,
+      "valid_nodes": 147,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 63,
       "forks": 63,
-      "extracted_nodes": 257,
+      "extracted_nodes": 2058,
+      "valid_nodes": 361,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 880,
+      "forks": 78,
+      "extracted_nodes": 4,
       "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9114,
+      "stars": 9115,
       "forks": 668,
       "extracted_nodes": 48,
-      "valid_nodes": 25,
+      "valid_nodes": 28,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7751,
+      "forks": 1239,
+      "extracted_nodes": 153,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
@@ -36,44 +52,36 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 69,
       "forks": 9,
-      "extracted_nodes": 560,
+      "extracted_nodes": 561,
       "valid_nodes": 86,
       "quality_score": 89.0
     },
     {
-      "repository": "kooker/FreeSubsCheck",
-      "stars": 68,
-      "forks": 9,
-      "extracted_nodes": 700,
-      "valid_nodes": 76,
-      "quality_score": 89.0
-    },
-    {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 199,
-      "forks": 25,
-      "extracted_nodes": 11,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
-      "stars": 11,
+      "stars": 12,
       "forks": 0,
-      "extracted_nodes": 83,
-      "valid_nodes": 44,
-      "quality_score": 48.8
+      "extracted_nodes": 93,
+      "valid_nodes": 53,
+      "quality_score": 49.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 125,
-      "valid_nodes": 121,
+      "valid_nodes": 119,
       "quality_score": 40.8
     },
     {
-      "repository": "BannyLon/NPie-Draftstage",
+      "repository": "o614/appstore-global-price",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "samnelking/rule",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-14 06:04:34"
+  "updated_at": "2026-07-14 09:46:02"
 }
