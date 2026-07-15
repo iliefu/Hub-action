@@ -1,52 +1,68 @@
 {
   "repositories": [
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9116,
+      "forks": 668,
+      "extracted_nodes": 48,
+      "valid_nodes": 23,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1098,
+      "stars": 1099,
       "forks": 151,
       "extracted_nodes": 3000,
-      "valid_nodes": 24,
+      "valid_nodes": 99,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 63,
       "forks": 63,
-      "extracted_nodes": 715,
-      "valid_nodes": 26,
-      "quality_score": 100
-    },
-    {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9117,
-      "forks": 668,
-      "extracted_nodes": 56,
-      "valid_nodes": 21,
-      "quality_score": 100
-    },
-    {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7757,
-      "forks": 1240,
-      "extracted_nodes": 109,
-      "valid_nodes": 19,
+      "extracted_nodes": 680,
+      "valid_nodes": 33,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 69,
       "forks": 9,
-      "extracted_nodes": 1071,
-      "valid_nodes": 256,
+      "extracted_nodes": 1086,
+      "valid_nodes": 281,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 329,
-      "valid_nodes": 7,
+      "extracted_nodes": 337,
+      "valid_nodes": 9,
       "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 200,
+      "forks": 26,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 281,
+      "forks": 25,
+      "extracted_nodes": 8,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "gslege/CloudflareIP",
+      "stars": 536,
+      "forks": 276,
+      "extracted_nodes": 20,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -60,20 +76,12 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 127,
-      "valid_nodes": 112,
+      "extracted_nodes": 129,
+      "valid_nodes": 116,
       "quality_score": 40.8
     },
     {
-      "repository": "yatori-dev/yatori-free",
-      "stars": 3,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 3.4
-    },
-    {
-      "repository": "JiahangRen/surge-ip-labeler",
+      "repository": "D1-2004/dingtalk-doc-multica-sync",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-15 09:49:27"
+  "updated_at": "2026-07-15 13:10:14"
 }
