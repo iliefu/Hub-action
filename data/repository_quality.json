@@ -2,42 +2,50 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9116,
+      "stars": 9117,
       "forks": 668,
       "extracted_nodes": 48,
-      "valid_nodes": 23,
+      "valid_nodes": 22,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1099,
+      "stars": 1100,
       "forks": 151,
       "extracted_nodes": 3000,
-      "valid_nodes": 99,
+      "valid_nodes": 131,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 63,
       "forks": 63,
-      "extracted_nodes": 680,
-      "valid_nodes": 33,
+      "extracted_nodes": 734,
+      "valid_nodes": 44,
       "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 490,
+      "forks": 20,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 69,
       "forks": 9,
-      "extracted_nodes": 1086,
-      "valid_nodes": 281,
+      "extracted_nodes": 1076,
+      "valid_nodes": 276,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 337,
-      "valid_nodes": 9,
+      "extracted_nodes": 343,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
@@ -49,20 +57,12 @@
       "quality_score": 60
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 281,
-      "forks": 25,
-      "extracted_nodes": 8,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "gslege/CloudflareIP",
-      "stars": 536,
-      "forks": 276,
-      "extracted_nodes": 20,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "saishun/TyporaTheme",
+      "stars": 4,
+      "forks": 16,
+      "extracted_nodes": 136,
+      "valid_nodes": 63,
+      "quality_score": 59.2
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -77,17 +77,9 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 129,
-      "valid_nodes": 116,
+      "valid_nodes": 114,
       "quality_score": 40.8
-    },
-    {
-      "repository": "D1-2004/dingtalk-doc-multica-sync",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-15 13:10:14"
+  "updated_at": "2026-07-15 17:05:04"
 }
