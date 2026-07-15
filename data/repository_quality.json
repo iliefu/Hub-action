@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9115,
+      "stars": 9117,
       "forks": 668,
-      "extracted_nodes": 26,
-      "valid_nodes": 12,
+      "extracted_nodes": 56,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
@@ -13,81 +13,73 @@
       "stars": 1097,
       "forks": 150,
       "extracted_nodes": 3000,
-      "valid_nodes": 26,
+      "valid_nodes": 23,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 63,
       "forks": 63,
-      "extracted_nodes": 1322,
-      "valid_nodes": 453,
+      "extracted_nodes": 399,
+      "valid_nodes": 21,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7753,
-      "forks": 1240,
-      "extracted_nodes": 127,
-      "valid_nodes": 20,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 280,
+      "forks": 25,
+      "extracted_nodes": 42,
+      "valid_nodes": 3,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 69,
       "forks": 9,
-      "extracted_nodes": 1067,
-      "valid_nodes": 251,
+      "extracted_nodes": 1076,
+      "valid_nodes": 258,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 332,
+      "extracted_nodes": 328,
       "valid_nodes": 8,
       "quality_score": 88.0
     },
     {
-      "repository": "zhuhaiuk/free-nodes",
-      "stars": 46,
-      "forks": 5,
-      "extracted_nodes": 6,
-      "valid_nodes": 3,
-      "quality_score": 81.8
-    },
-    {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 199,
-      "forks": 25,
-      "extracted_nodes": 11,
+      "repository": "gslege/CloudflareIP",
+      "stars": 535,
+      "forks": 276,
+      "extracted_nodes": 20,
       "valid_nodes": 0,
       "quality_score": 60
+    },
+    {
+      "repository": "1837620622/chatgpt-specimen-toolbox",
+      "stars": 52,
+      "forks": 19,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 59.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 12,
       "forks": 0,
       "extracted_nodes": 62,
-      "valid_nodes": 22,
+      "valid_nodes": 23,
       "quality_score": 49.6
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 124,
-      "valid_nodes": 113,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "caomengde123s/claude-pro-payment-guide",
-      "stars": 1,
+      "repository": "fonyaxd/WARP-Configuration-for-AmneziaVPN-WG-",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-14 20:49:25"
+  "updated_at": "2026-07-15 01:18:54"
 }
