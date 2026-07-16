@@ -9673,1158 +9673,6 @@
       "last_nodes_update": "2026-07-13T14:03:50.510355Z"
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 87,
-      "forks": 8,
-      "extracted_nodes": 470,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "category/@vmesskhodam.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:56.970297Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/@vmesskhodam.txt"
-        },
-        {
-          "path": "category/Albania.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:50:57.126766Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Albania.txt"
-        },
-        {
-          "path": "category/Algeria.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:57.320113Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Algeria.txt"
-        },
-        {
-          "path": "category/Argentina.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:57.479906Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Argentina.txt"
-        },
-        {
-          "path": "category/Armenia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:57.666770Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Armenia.txt"
-        },
-        {
-          "path": "category/Australia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:57.848160Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Australia.txt"
-        },
-        {
-          "path": "category/Austria.txt",
-          "node_count": 3,
-          "last_checked": "2026-07-09T01:50:57.997797Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Austria.txt"
-        },
-        {
-          "path": "category/Azerbaijan.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:58.230311Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Azerbaijan.txt"
-        },
-        {
-          "path": "category/Bahrain.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:50:58.420526Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Bahrain.txt"
-        },
-        {
-          "path": "category/Belarus.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:58.596174Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Belarus.txt"
-        },
-        {
-          "path": "category/Belgium.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:58.761764Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Belgium.txt"
-        },
-        {
-          "path": "category/Belize.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:58.937360Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Belize.txt"
-        },
-        {
-          "path": "category/Bolivia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:59.139319Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Bolivia.txt"
-        },
-        {
-          "path": "category/Bosnia and Herzegovina.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:59.334565Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Bosnia and Herzegovina.txt"
-        },
-        {
-          "path": "category/Brazil.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:50:59.557248Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Brazil.txt"
-        },
-        {
-          "path": "category/British Virgin Islands.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:50:59.739783Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/British Virgin Islands.txt"
-        },
-        {
-          "path": "category/Bulgaria.txt",
-          "node_count": 3,
-          "last_checked": "2026-07-09T01:50:59.901435Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Bulgaria.txt"
-        },
-        {
-          "path": "category/Cambodia.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:00.098748Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Cambodia.txt"
-        },
-        {
-          "path": "category/Canada.txt",
-          "node_count": 92,
-          "last_checked": "2026-07-09T01:51:00.263661Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Canada.txt"
-        },
-        {
-          "path": "category/Chile.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:00.443550Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Chile.txt"
-        },
-        {
-          "path": "category/China.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:00.596536Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/China.txt"
-        },
-        {
-          "path": "category/Colombia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:00.804420Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Colombia.txt"
-        },
-        {
-          "path": "category/Costa Rica.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:01.036387Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Costa Rica.txt"
-        },
-        {
-          "path": "category/Croatia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:01.808258Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Croatia.txt"
-        },
-        {
-          "path": "category/Curacao.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:02.068815Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Curacao.txt"
-        },
-        {
-          "path": "category/Cyprus.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:02.278545Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Cyprus.txt"
-        },
-        {
-          "path": "category/Czechia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:02.440864Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Czechia.txt"
-        },
-        {
-          "path": "category/Denmark.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:02.598039Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Denmark.txt"
-        },
-        {
-          "path": "category/Ecuador.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:02.793436Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Ecuador.txt"
-        },
-        {
-          "path": "category/Egypt.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:02.951841Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Egypt.txt"
-        },
-        {
-          "path": "category/Estonia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:03.140121Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Estonia.txt"
-        },
-        {
-          "path": "category/Finland.txt",
-          "node_count": 7,
-          "last_checked": "2026-07-09T01:51:03.346144Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Finland.txt"
-        },
-        {
-          "path": "category/France.txt",
-          "node_count": 17,
-          "last_checked": "2026-07-09T01:51:03.487585Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/France.txt"
-        },
-        {
-          "path": "category/Georgia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:03.696797Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Georgia.txt"
-        },
-        {
-          "path": "category/Germany.txt",
-          "node_count": 50,
-          "last_checked": "2026-07-09T01:51:03.874606Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Germany.txt"
-        },
-        {
-          "path": "category/Greece.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:04.034357Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Greece.txt"
-        },
-        {
-          "path": "category/Guatemala.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:04.252480Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Guatemala.txt"
-        },
-        {
-          "path": "category/Hong Kong.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:04.420482Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Hong Kong.txt"
-        },
-        {
-          "path": "category/Hungary.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:04.579855Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Hungary.txt"
-        },
-        {
-          "path": "category/Iceland.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:04.824126Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Iceland.txt"
-        },
-        {
-          "path": "category/India.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:05.005744Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/India.txt"
-        },
-        {
-          "path": "category/Indonesia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:05.170964Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Indonesia.txt"
-        },
-        {
-          "path": "category/Iran.txt",
-          "node_count": 32,
-          "last_checked": "2026-07-09T01:51:05.321731Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Iran.txt"
-        },
-        {
-          "path": "category/Iraq.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:05.516692Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Iraq.txt"
-        },
-        {
-          "path": "category/Ireland.txt",
-          "node_count": 3,
-          "last_checked": "2026-07-09T01:51:05.725115Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Ireland.txt"
-        },
-        {
-          "path": "category/Isle of Man.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:05.972258Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Isle of Man.txt"
-        },
-        {
-          "path": "category/Israel.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:06.212590Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Israel.txt"
-        },
-        {
-          "path": "category/Italy.txt",
-          "node_count": 4,
-          "last_checked": "2026-07-09T01:51:06.358843Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Italy.txt"
-        },
-        {
-          "path": "category/Japan.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:06.535117Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Japan.txt"
-        },
-        {
-          "path": "category/Jordan.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:06.737445Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Jordan.txt"
-        },
-        {
-          "path": "category/Kazakhstan.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:06.945875Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Kazakhstan.txt"
-        },
-        {
-          "path": "category/Kenya.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:07.133702Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Kenya.txt"
-        },
-        {
-          "path": "category/Kuwait.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:07.319647Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Kuwait.txt"
-        },
-        {
-          "path": "category/Kyrgyzstan.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:07.541141Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Kyrgyzstan.txt"
-        },
-        {
-          "path": "category/Latvia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:07.698460Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Latvia.txt"
-        },
-        {
-          "path": "category/Liechtenstein.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:07.878857Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Liechtenstein.txt"
-        },
-        {
-          "path": "category/Lithuania.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:08.078185Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Lithuania.txt"
-        },
-        {
-          "path": "category/Luxembourg.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:08.225599Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Luxembourg.txt"
-        },
-        {
-          "path": "category/Malaysia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:08.370083Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Malaysia.txt"
-        },
-        {
-          "path": "category/Malta.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:08.578708Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Malta.txt"
-        },
-        {
-          "path": "category/Mexico.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:08.754088Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Mexico.txt"
-        },
-        {
-          "path": "category/Moldova.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:08.946543Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Moldova.txt"
-        },
-        {
-          "path": "category/Mongolia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:09.118288Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Mongolia.txt"
-        },
-        {
-          "path": "category/Montenegro.txt",
-          "node_count": 3,
-          "last_checked": "2026-07-09T01:51:09.281511Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Montenegro.txt"
-        },
-        {
-          "path": "category/Morocco.txt",
-          "node_count": 3,
-          "last_checked": "2026-07-09T01:51:09.448487Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Morocco.txt"
-        },
-        {
-          "path": "category/Netherlands.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:09.627560Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Netherlands.txt"
-        },
-        {
-          "path": "category/New Zealand.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:09.776254Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/New Zealand.txt"
-        },
-        {
-          "path": "category/Nigeria.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:09.944248Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Nigeria.txt"
-        },
-        {
-          "path": "category/North Macedonia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:10.205176Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/North Macedonia.txt"
-        },
-        {
-          "path": "category/Norway.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:10.370537Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Norway.txt"
-        },
-        {
-          "path": "category/Oman.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:10.648668Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Oman.txt"
-        },
-        {
-          "path": "category/Pakistan.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:10.835011Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Pakistan.txt"
-        },
-        {
-          "path": "category/Panama.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:10.996634Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Panama.txt"
-        },
-        {
-          "path": "category/Paraguay.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:11.955437Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Paraguay.txt"
-        },
-        {
-          "path": "category/Peru.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:12.189694Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Peru.txt"
-        },
-        {
-          "path": "category/Philippines.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:12.429661Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Philippines.txt"
-        },
-        {
-          "path": "category/Poland.txt",
-          "node_count": 8,
-          "last_checked": "2026-07-09T01:51:12.563485Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Poland.txt"
-        },
-        {
-          "path": "category/Portugal.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:12.849651Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Portugal.txt"
-        },
-        {
-          "path": "category/Puerto Rico.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:13.178486Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Puerto Rico.txt"
-        },
-        {
-          "path": "category/Romania.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:13.402546Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Romania.txt"
-        },
-        {
-          "path": "category/Russia.txt",
-          "node_count": 4,
-          "last_checked": "2026-07-09T01:51:13.564682Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Russia.txt"
-        },
-        {
-          "path": "category/Saudi Arabia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:13.714092Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Saudi Arabia.txt"
-        },
-        {
-          "path": "category/Serbia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:13.886144Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Serbia.txt"
-        },
-        {
-          "path": "category/Seychelles.txt",
-          "node_count": 6,
-          "last_checked": "2026-07-09T01:51:14.232695Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Seychelles.txt"
-        },
-        {
-          "path": "category/Singapore.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:14.371703Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Singapore.txt"
-        },
-        {
-          "path": "category/Slovakia.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:14.535099Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Slovakia.txt"
-        },
-        {
-          "path": "category/Slovenia.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:14.831136Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Slovenia.txt"
-        },
-        {
-          "path": "category/South Africa.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:15.024247Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/South Africa.txt"
-        },
-        {
-          "path": "category/South Korea.txt",
-          "node_count": 4,
-          "last_checked": "2026-07-09T01:51:15.273320Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/South Korea.txt"
-        },
-        {
-          "path": "category/Spain.txt",
-          "node_count": 3,
-          "last_checked": "2026-07-09T01:51:15.449878Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Spain.txt"
-        },
-        {
-          "path": "category/Sweden.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:15.613712Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Sweden.txt"
-        },
-        {
-          "path": "category/Switzerland.txt",
-          "node_count": 7,
-          "last_checked": "2026-07-09T01:51:15.779578Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Switzerland.txt"
-        },
-        {
-          "path": "category/TCP.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:15.969153Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/TCP.txt"
-        },
-        {
-          "path": "category/Taiwan.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:16.128445Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Taiwan.txt"
-        },
-        {
-          "path": "category/Thailand.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:16.315840Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Thailand.txt"
-        },
-        {
-          "path": "category/The Netherlands.txt",
-          "node_count": 13,
-          "last_checked": "2026-07-09T01:51:16.484708Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/The Netherlands.txt"
-        },
-        {
-          "path": "category/Turkey.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:16.639702Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Turkey.txt"
-        },
-        {
-          "path": "category/T\u00fcrkiye.txt",
-          "node_count": 4,
-          "last_checked": "2026-07-09T01:51:16.779836Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/T\u00fcrkiye.txt"
-        },
-        {
-          "path": "category/U.S. Virgin Islands.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:17.000005Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/U.S. Virgin Islands.txt"
-        },
-        {
-          "path": "category/Ukraine.txt",
-          "node_count": 3,
-          "last_checked": "2026-07-09T01:51:17.169050Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Ukraine.txt"
-        },
-        {
-          "path": "category/United Arab Emirates.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:17.352785Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/United Arab Emirates.txt"
-        },
-        {
-          "path": "category/United Kingdom.txt",
-          "node_count": 16,
-          "last_checked": "2026-07-09T01:51:17.522362Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/United Kingdom.txt"
-        },
-        {
-          "path": "category/United States.txt",
-          "node_count": 69,
-          "last_checked": "2026-07-09T01:51:17.748144Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/United States.txt"
-        },
-        {
-          "path": "category/Unknown.txt",
-          "node_count": 44,
-          "last_checked": "2026-07-09T01:51:17.886676Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Unknown.txt"
-        },
-        {
-          "path": "category/Uruguay.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:18.081673Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Uruguay.txt"
-        },
-        {
-          "path": "category/Uzbekistan.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:18.239905Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Uzbekistan.txt"
-        },
-        {
-          "path": "category/V2.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:18.420014Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/V2.txt"
-        },
-        {
-          "path": "category/Venezuela.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:18.614055Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Venezuela.txt"
-        },
-        {
-          "path": "category/Vietnam.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:19.273155Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Vietnam.txt"
-        },
-        {
-          "path": "category/grp.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:19.443824Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grp.txt"
-        },
-        {
-          "path": "category/grpc.txt",
-          "node_count": 16,
-          "last_checked": "2026-07-09T01:51:19.752896Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpc.txt"
-        },
-        {
-          "path": "category/grpc@V2rayBaaz.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:19.913646Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpc@V2rayBaaz.txt"
-        },
-        {
-          "path": "category/grpc@V2rayNGVPN <= \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:20.080011Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpc@V2rayNGVPN <= \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646.txt"
-        },
-        {
-          "path": "category/grpcV2.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:20.320113Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpcV2.txt"
-        },
-        {
-          "path": "category/grpclimo.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:20.496742Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpclimo.txt"
-        },
-        {
-          "path": "category/grpcrt.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:20.695280Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpcrt.txt"
-        },
-        {
-          "path": "category/grpcr\u2661ya.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:20.862513Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpcr\u2661ya.txt"
-        },
-        {
-          "path": "category/grpc\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:21.100698Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpc\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt"
-        },
-        {
-          "path": "category/grpc\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:21.301655Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpc\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt"
-        },
-        {
-          "path": "category/grpc\u00c3\u0082\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:21.503038Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpc\u00c3\u0082\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt"
-        },
-        {
-          "path": "category/grpc\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:21.673136Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpc\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt"
-        },
-        {
-          "path": "category/h2.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:21.848451Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/h2.txt"
-        },
-        {
-          "path": "category/hmmmpicnniade.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:22.026423Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/hmmmpicnniade.txt"
-        },
-        {
-          "path": "category/http.txt",
-          "node_count": 4,
-          "last_checked": "2026-07-09T01:51:22.195635Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/http.txt"
-        },
-        {
-          "path": "category/httpupgrade.txt",
-          "node_count": 9,
-          "last_checked": "2026-07-09T01:51:22.334419Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/httpupgrade.txt"
-        },
-        {
-          "path": "category/httpupgrade@V2rayNGVPN <= \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:22.521765Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/httpupgrade@V2rayNGVPN <= \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646.txt"
-        },
-        {
-          "path": "category/httpupgrade@freenettir.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:22.715232Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/httpupgrade@freenettir.txt"
-        },
-        {
-          "path": "category/kcp.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:22.877505Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/kcp.txt"
-        },
-        {
-          "path": "category/none.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:23.094280Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/none.txt"
-        },
-        {
-          "path": "category/raw.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:23.289671Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/raw.txt"
-        },
-        {
-          "path": "category/splithttp.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:23.470490Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/splithttp.txt"
-        },
-        {
-          "path": "category/ss.txt",
-          "node_count": 32,
-          "last_checked": "2026-07-09T01:51:23.615974Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ss.txt"
-        },
-        {
-          "path": "category/tc.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:23.799294Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tc.txt"
-        },
-        {
-          "path": "category/tcp .txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:23.968212Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp .txt"
-        },
-        {
-          "path": "category/tcp**.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:24.137427Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp**.txt"
-        },
-        {
-          "path": "category/tcp.txt",
-          "node_count": 129,
-          "last_checked": "2026-07-09T01:51:24.302496Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp.txt"
-        },
-        {
-          "path": "category/tcp=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:24.478809Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann.txt"
-        },
-        {
-          "path": "category/tcp@Freeneetir \ud83c\udf35.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:24.702754Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp@Freeneetir \ud83c\udf35.txt"
-        },
-        {
-          "path": "category/tcp@Freeneetir \ud83c\udfa9.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:24.931200Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp@Freeneetir \ud83c\udfa9.txt"
-        },
-        {
-          "path": "category/tcp@Freeneetir\ud83d\udd2e.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:25.129555Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp@Freeneetir\ud83d\udd2e.txt"
-        },
-        {
-          "path": "category/tcp@V2rayBaaz.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:25.310981Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp@V2rayBaaz.txt"
-        },
-        {
-          "path": "category/tcp@V2rayNGVPN <= \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:25.517728Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp@V2rayNGVPN <= \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646.txt"
-        },
-        {
-          "path": "category/tcp@freenettir \u26e9\ufe0f.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:25.901748Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp@freenettir \u26e9\ufe0f.txt"
-        },
-        {
-          "path": "category/tcp@freenettir \ud83c\udff4.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:26.252607Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp@freenettir \ud83c\udff4.txt"
-        },
-        {
-          "path": "category/tcp@freenettir \ud83e\udd5d.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:26.445096Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp@freenettir \ud83e\udd5d.txt"
-        },
-        {
-          "path": "category/tcp@freenettir.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:26.720531Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp@freenettir.txt"
-        },
-        {
-          "path": "category/tcp@freenettir\ud83e\udea9.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:26.914536Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp@freenettir\ud83e\udea9.txt"
-        },
-        {
-          "path": "category/tcpe-500gb. @freenettir .txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:27.108392Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcpe-500gb. @freenettir .txt"
-        },
-        {
-          "path": "category/tcpl.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:27.284372Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcpl.txt"
-        },
-        {
-          "path": "category/tcplimo.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:27.453106Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcplimo.txt"
-        },
-        {
-          "path": "category/tcpr\u2661ya@V2rayBaaz\u25c7\u20df\ud83d\udc9c.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:27.579709Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcpr\u2661ya@V2rayBaaz\u25c7\u20df\ud83d\udc9c.txt"
-        },
-        {
-          "path": "category/tcp\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:27.757696Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt"
-        },
-        {
-          "path": "category/tcp\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:28.000224Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt"
-        },
-        {
-          "path": "category/tcp\u00c3\u0082\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:28.177294Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp\u00c3\u0082\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt"
-        },
-        {
-          "path": "category/tcp\u1d04\u029c\u1d00\u0274\u0274\u1d07\u029f @vpnbaz\ud83c\udf41.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:28.370013Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp\u1d04\u029c\u1d00\u0274\u0274\u1d07\u029f @vpnbaz\ud83c\udf41.txt"
-        },
-        {
-          "path": "category/tcp\ud83c\udde6\ud83c\uddea\u062c\u062f\u06cc\u062f \u062a\u0631\u06cc\u0646.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:28.553708Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp\ud83c\udde6\ud83c\uddea\u062c\u062f\u06cc\u062f \u062a\u0631\u06cc\u0646.txt"
-        },
-        {
-          "path": "category/tcp\ud83c\udde9\ud83c\uddea r\u2661ya.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:28.741174Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp\ud83c\udde9\ud83c\uddea r\u2661ya.txt"
-        },
-        {
-          "path": "category/tcp\ud83d\udc9b@V2rayBaaz| \u062a\u0644\u06af\u0631\u0627\u0645\u0645\u0648\u0646 \ud83e\udd0d.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:28.897689Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp\ud83d\udc9b@V2rayBaaz| \u062a\u0644\u06af\u0631\u0627\u0645\u0645\u0648\u0646 \ud83e\udd0d.txt"
-        },
-        {
-          "path": "category/trojan.txt",
-          "node_count": 49,
-          "last_checked": "2026-07-09T01:51:29.052094Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/trojan.txt"
-        },
-        {
-          "path": "category/udp.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:29.233287Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/udp.txt"
-        },
-        {
-          "path": "category/vless.txt",
-          "node_count": 300,
-          "last_checked": "2026-07-09T01:51:29.450660Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/vless.txt"
-        },
-        {
-          "path": "category/vmess.txt",
-          "node_count": 16,
-          "last_checked": "2026-07-09T01:51:29.658459Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/vmess.txt"
-        },
-        {
-          "path": "category/w.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:29.841427Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/w.txt"
-        },
-        {
-          "path": "category/ws.txt",
-          "node_count": 161,
-          "last_checked": "2026-07-09T01:51:30.179801Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws.txt"
-        },
-        {
-          "path": "category/ws9.98GB\ud83d\udcca.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:30.340698Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws9.98GB\ud83d\udcca.txt"
-        },
-        {
-          "path": "category/ws=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann.txt",
-          "node_count": 3,
-          "last_checked": "2026-07-09T01:51:30.537570Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann.txt"
-        },
-        {
-          "path": "category/ws=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:30.796754Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann.txt"
-        },
-        {
-          "path": "category/ws@Freeneetir \ud83e\udeb7.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:30.973776Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws@Freeneetir \ud83e\udeb7.txt"
-        },
-        {
-          "path": "category/ws@InvoProxy.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:31.150842Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws@InvoProxy.txt"
-        },
-        {
-          "path": "category/ws@V2rayNGVPN <= \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:31.333367Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws@V2rayNGVPN <= \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646.txt"
-        },
-        {
-          "path": "category/ws@freenettir.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:31.555071Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws@freenettir.txt"
-        },
-        {
-          "path": "category/ws@freenettir\ud83e\udea9.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:31.710707Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws@freenettir\ud83e\udea9.txt"
-        },
-        {
-          "path": "category/wsoliver.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:31.866896Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/wsoliver.txt"
-        },
-        {
-          "path": "category/wsv2ray_confiiig.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:32.085192Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/wsv2ray_confiiig.txt"
-        },
-        {
-          "path": "category/ws\u00ace=@freeOnlineVPN.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:32.245268Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws\u00ace=@freeOnlineVPN.txt"
-        },
-        {
-          "path": "category/ws\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:32.412539Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt"
-        },
-        {
-          "path": "category/ws\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:32.609952Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00ace=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---.txt"
-        },
-        {
-          "path": "category/ws\u1d04\u029c\u1d00\u0274\u0274\u1d07\u029f @vpnbaz\ud83c\udf41.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:32.782254Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws\u1d04\u029c\u1d00\u0274\u0274\u1d07\u029f @vpnbaz\ud83c\udf41.txt"
-        },
-        {
-          "path": "category/x.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:32.960150Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/x.txt"
-        },
-        {
-          "path": "category/xhttp.txt",
-          "node_count": 37,
-          "last_checked": "2026-07-09T01:51:33.113355Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttp.txt"
-        },
-        {
-          "path": "category/xhttp1ConfigX2ray.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:33.285946Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttp1ConfigX2ray.txt"
-        },
-        {
-          "path": "category/xhttp5451.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:33.431545Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttp5451.txt"
-        },
-        {
-          "path": "category/xhttp@Freeneetir \ud83c\udf6b.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:33.602703Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttp@Freeneetir \ud83c\udf6b.txt"
-        },
-        {
-          "path": "category/xhttp@Freeneetir \ud83c\udf88.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:33.770296Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttp@Freeneetir \ud83c\udf88.txt"
-        },
-        {
-          "path": "category/xhttp@V2rayNGVPN <= \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646.txt",
-          "node_count": 2,
-          "last_checked": "2026-07-09T01:51:33.971353Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttp@V2rayNGVPN <= \u06a9\u0627\u0646\u0641\u06cc\u06af \u0631\u0627\u06cc\u06af\u0627\u0646.txt"
-        },
-        {
-          "path": "category/xhttp@freenettir.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:34.151776Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttp@freenettir.txt"
-        },
-        {
-          "path": "category/xhttpr\u2661ya.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:34.334886Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttpr\u2661ya.txt"
-        },
-        {
-          "path": "category/xhttpr\u2661ya@V2rayBaaz\u25c7\u20df\ud83d\udc9c.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:34.535550Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttpr\u2661ya@V2rayBaaz\u25c7\u20df\ud83d\udc9c.txt"
-        },
-        {
-          "path": "category/xhttp\u00ace=@FreeOnlineVPN.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:34.709989Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttp\u00ace=@FreeOnlineVPN.txt"
-        },
-        {
-          "path": "category/xhttp\u00c2\u00ace=@freeOnlineVPN.txt",
-          "node_count": 1,
-          "last_checked": "2026-07-09T01:51:34.888627Z",
-          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/xhttp\u00c2\u00ace=@freeOnlineVPN.txt"
-        }
-      ],
-      "last_full_scan": "2026-07-09T01:53:03.765078Z",
-      "last_nodes_update": "2026-07-09T01:53:03.765108Z"
-    },
-    {
       "repository": "lanzm/MetaFetch",
       "stars": 11,
       "forks": 3,
@@ -10865,6 +9713,324 @@
       ],
       "last_full_scan": "2026-06-23T07:39:46.626331Z",
       "last_nodes_update": "2026-06-23T07:39:46.626363Z"
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 87,
+      "forks": 8,
+      "extracted_nodes": 340,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "category/Albania.txt",
+          "node_count": 2,
+          "last_checked": "2026-07-16T09:55:16.742824Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Albania.txt"
+        },
+        {
+          "path": "category/Austria.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:16.879339Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Austria.txt"
+        },
+        {
+          "path": "category/Belize.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:17.051185Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Belize.txt"
+        },
+        {
+          "path": "category/Bulgaria.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:17.224988Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Bulgaria.txt"
+        },
+        {
+          "path": "category/Canada.txt",
+          "node_count": 99,
+          "last_checked": "2026-07-16T09:55:17.419182Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Canada.txt"
+        },
+        {
+          "path": "category/China.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:17.588594Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/China.txt"
+        },
+        {
+          "path": "category/Costa Rica.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:17.769815Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Costa Rica.txt"
+        },
+        {
+          "path": "category/Curacao.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:17.944935Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Curacao.txt"
+        },
+        {
+          "path": "category/Cyprus.txt",
+          "node_count": 2,
+          "last_checked": "2026-07-16T09:55:18.106744Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Cyprus.txt"
+        },
+        {
+          "path": "category/Czechia.txt",
+          "node_count": 2,
+          "last_checked": "2026-07-16T09:55:18.286085Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Czechia.txt"
+        },
+        {
+          "path": "category/Estonia.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:18.467549Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Estonia.txt"
+        },
+        {
+          "path": "category/Finland.txt",
+          "node_count": 14,
+          "last_checked": "2026-07-16T09:55:18.633675Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Finland.txt"
+        },
+        {
+          "path": "category/France.txt",
+          "node_count": 10,
+          "last_checked": "2026-07-16T09:55:18.825058Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/France.txt"
+        },
+        {
+          "path": "category/Germany.txt",
+          "node_count": 46,
+          "last_checked": "2026-07-16T09:55:18.975780Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Germany.txt"
+        },
+        {
+          "path": "category/Hong Kong.txt",
+          "node_count": 4,
+          "last_checked": "2026-07-16T09:55:19.109400Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Hong Kong.txt"
+        },
+        {
+          "path": "category/Hungary.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:19.274025Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Hungary.txt"
+        },
+        {
+          "path": "category/India.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:19.438427Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/India.txt"
+        },
+        {
+          "path": "category/Iran.txt",
+          "node_count": 28,
+          "last_checked": "2026-07-16T09:55:19.571037Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Iran.txt"
+        },
+        {
+          "path": "category/Ireland.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:19.735150Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Ireland.txt"
+        },
+        {
+          "path": "category/Italy.txt",
+          "node_count": 7,
+          "last_checked": "2026-07-16T09:55:19.922917Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Italy.txt"
+        },
+        {
+          "path": "category/Japan.txt",
+          "node_count": 2,
+          "last_checked": "2026-07-16T09:55:20.084256Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Japan.txt"
+        },
+        {
+          "path": "category/Kazakhstan.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:20.252124Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Kazakhstan.txt"
+        },
+        {
+          "path": "category/Latvia.txt",
+          "node_count": 2,
+          "last_checked": "2026-07-16T09:55:20.437868Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Latvia.txt"
+        },
+        {
+          "path": "category/Lithuania.txt",
+          "node_count": 3,
+          "last_checked": "2026-07-16T09:55:20.616197Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Lithuania.txt"
+        },
+        {
+          "path": "category/Malaysia.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:20.764911Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Malaysia.txt"
+        },
+        {
+          "path": "category/Pakistan.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:20.898707Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Pakistan.txt"
+        },
+        {
+          "path": "category/Poland.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:21.069052Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Poland.txt"
+        },
+        {
+          "path": "category/Portugal.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:21.253755Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Portugal.txt"
+        },
+        {
+          "path": "category/Russia.txt",
+          "node_count": 5,
+          "last_checked": "2026-07-16T09:55:21.429506Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Russia.txt"
+        },
+        {
+          "path": "category/Seychelles.txt",
+          "node_count": 9,
+          "last_checked": "2026-07-16T09:55:21.587021Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Seychelles.txt"
+        },
+        {
+          "path": "category/Singapore.txt",
+          "node_count": 4,
+          "last_checked": "2026-07-16T09:55:21.763787Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Singapore.txt"
+        },
+        {
+          "path": "category/South Africa.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:21.937366Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/South Africa.txt"
+        },
+        {
+          "path": "category/South Korea.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:22.111918Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/South Korea.txt"
+        },
+        {
+          "path": "category/Spain.txt",
+          "node_count": 2,
+          "last_checked": "2026-07-16T09:55:22.304024Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Spain.txt"
+        },
+        {
+          "path": "category/Sweden.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:22.457806Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Sweden.txt"
+        },
+        {
+          "path": "category/Switzerland.txt",
+          "node_count": 5,
+          "last_checked": "2026-07-16T09:55:22.609233Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Switzerland.txt"
+        },
+        {
+          "path": "category/Taiwan.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:22.758706Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Taiwan.txt"
+        },
+        {
+          "path": "category/The Netherlands.txt",
+          "node_count": 26,
+          "last_checked": "2026-07-16T09:55:22.907040Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/The Netherlands.txt"
+        },
+        {
+          "path": "category/Turkey.txt",
+          "node_count": 1,
+          "last_checked": "2026-07-16T09:55:23.073454Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Turkey.txt"
+        },
+        {
+          "path": "category/T\u00fcrkiye.txt",
+          "node_count": 4,
+          "last_checked": "2026-07-16T09:55:23.224480Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/T\u00fcrkiye.txt"
+        },
+        {
+          "path": "category/United Kingdom.txt",
+          "node_count": 12,
+          "last_checked": "2026-07-16T09:55:23.373624Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/United Kingdom.txt"
+        },
+        {
+          "path": "category/United States.txt",
+          "node_count": 60,
+          "last_checked": "2026-07-16T09:55:23.529094Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/United States.txt"
+        },
+        {
+          "path": "category/Unknown.txt",
+          "node_count": 39,
+          "last_checked": "2026-07-16T09:55:23.678527Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/Unknown.txt"
+        },
+        {
+          "path": "category/grpc.txt",
+          "node_count": 24,
+          "last_checked": "2026-07-16T09:55:23.834792Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpc.txt"
+        },
+        {
+          "path": "category/httpupgrade.txt",
+          "node_count": 10,
+          "last_checked": "2026-07-16T09:55:23.971149Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/httpupgrade.txt"
+        },
+        {
+          "path": "category/ss.txt",
+          "node_count": 40,
+          "last_checked": "2026-07-16T09:55:24.111058Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ss.txt"
+        },
+        {
+          "path": "category/tcp.txt",
+          "node_count": 205,
+          "last_checked": "2026-07-16T09:55:24.314070Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/tcp.txt"
+        },
+        {
+          "path": "category/trojan.txt",
+          "node_count": 26,
+          "last_checked": "2026-07-16T09:55:24.454640Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/trojan.txt"
+        },
+        {
+          "path": "category/vless.txt",
+          "node_count": 310,
+          "last_checked": "2026-07-16T09:55:24.597799Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/vless.txt"
+        },
+        {
+          "path": "category/vmess.txt",
+          "node_count": 19,
+          "last_checked": "2026-07-16T09:55:24.745862Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/vmess.txt"
+        },
+        {
+          "path": "category/ws.txt",
+          "node_count": 156,
+          "last_checked": "2026-07-16T09:55:24.922948Z",
+          "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws.txt"
+        }
+      ],
+      "last_full_scan": "2026-07-16T09:57:47.066026Z",
+      "last_nodes_update": "2026-07-16T09:57:47.066045Z"
     },
     {
       "repository": "LancelotRar/free-subs",
@@ -11257,6 +10423,30 @@
       "last_nodes_update": "2026-07-16T06:12:11.818709Z"
     },
     {
+      "repository": "thoot-235/Sub-Store",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 125,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "out/merged.txt",
+          "node_count": 127,
+          "last_checked": "2026-07-16T09:57:33.408131Z",
+          "url": "https://raw.githubusercontent.com/thoot-235/Sub-Store/main/out/merged.txt"
+        },
+        {
+          "path": "out/merged_base64.txt",
+          "node_count": 127,
+          "last_checked": "2026-07-16T09:57:33.581733Z",
+          "url": "https://raw.githubusercontent.com/thoot-235/Sub-Store/main/out/merged_base64.txt"
+        }
+      ],
+      "last_full_scan": "2026-07-16T09:57:47.066147Z",
+      "last_nodes_update": "2026-07-16T09:57:47.066154Z"
+    },
+    {
       "repository": "shaoyouvip/free",
       "stars": 836,
       "forks": 71,
@@ -11287,7 +10477,7 @@
       "last_nodes_update": "2026-06-30T07:42:28.873671Z"
     }
   ],
-  "updated_at": "2026-07-16 06:12:11",
-  "total_whitelisted_repos": 28,
-  "total_cached_nodes": 29588
+  "updated_at": "2026-07-16 09:57:47",
+  "total_whitelisted_repos": 29,
+  "total_cached_nodes": 29583
 }
