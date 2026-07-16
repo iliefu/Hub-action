@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9117,
+      "stars": 9120,
       "forks": 668,
       "extracted_nodes": 40,
-      "valid_nodes": 21,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
@@ -13,73 +13,57 @@
       "stars": 1103,
       "forks": 151,
       "extracted_nodes": 3000,
-      "valid_nodes": 121,
+      "valid_nodes": 113,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 63,
-      "forks": 63,
-      "extracted_nodes": 277,
-      "valid_nodes": 6,
+      "repository": "shaoyouvip/free",
+      "stars": 892,
+      "forks": 79,
+      "extracted_nodes": 53,
+      "valid_nodes": 25,
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 284,
-      "forks": 25,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 491,
+      "forks": 20,
       "extracted_nodes": 8,
-      "valid_nodes": 1,
-      "quality_score": 100
-    },
-    {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1800,
-      "forks": 116,
-      "extracted_nodes": 16,
-      "valid_nodes": 12,
-      "quality_score": 100
+      "valid_nodes": 2,
+      "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 69,
       "forks": 9,
-      "extracted_nodes": 606,
-      "valid_nodes": 98,
+      "extracted_nodes": 607,
+      "valid_nodes": 88,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 343,
-      "valid_nodes": 14,
+      "extracted_nodes": 337,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 12,
       "forks": 0,
-      "extracted_nodes": 157,
-      "valid_nodes": 115,
+      "extracted_nodes": 146,
+      "valid_nodes": 95,
       "quality_score": 49.6
-    },
-    {
-      "repository": "wjluoxiao/XB_ToolBox",
-      "stars": 141,
-      "forks": 7,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 47.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 137,
-      "valid_nodes": 129,
+      "valid_nodes": 127,
       "quality_score": 40.8
     }
   ],
-  "updated_at": "2026-07-16 13:19:20"
+  "updated_at": "2026-07-16 17:02:53"
 }
