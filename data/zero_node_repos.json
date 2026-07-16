@@ -20,6 +20,7 @@
     "AIWaveAPI/aiwave-sdk-node",
     "AIsouler/MyClash",
     "Aaalice233/ComfyUI-Aaalice-Nodes",
+    "Abao135/jc-tizi-tj",
     "Aethersailor/SubConverter-Extended",
     "Aethersailor/subconverter",
     "Aetik-yue/GodoMaster",
@@ -463,6 +464,7 @@
     "vibeinging/yiTrace",
     "wangle201210/guateng",
     "wangming1114/Skyway",
+    "wangsy1007/MediaSync115",
     "wangyiyuanfive/elevator_mode",
     "wansheng8/adblock",
     "wanwushequ/cfyxip",
@@ -527,5 +529,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-15 20:49:35"
+  "updated_at": "2026-07-16 01:29:04"
 }
