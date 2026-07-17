@@ -2,50 +2,26 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9120,
-      "forks": 669,
+      "stars": 9121,
+      "forks": 670,
       "extracted_nodes": 55,
-      "valid_nodes": 27,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1107,
-      "forks": 153,
+      "stars": 1109,
+      "forks": 154,
       "extracted_nodes": 3000,
-      "valid_nodes": 67,
+      "valid_nodes": 68,
       "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 895,
-      "forks": 79,
-      "extracted_nodes": 188,
-      "valid_nodes": 97,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 284,
-      "forks": 25,
-      "extracted_nodes": 11,
-      "valid_nodes": 1,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 491,
-      "forks": 20,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
-      "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 71,
       "forks": 9,
-      "extracted_nodes": 603,
-      "valid_nodes": 80,
+      "extracted_nodes": 608,
+      "valid_nodes": 87,
       "quality_score": 89.0
     },
     {
@@ -57,11 +33,19 @@
       "quality_score": 88.0
     },
     {
+      "repository": "selierlin/Share-SSR-V2ray",
+      "stars": 12348,
+      "forks": 1179,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 13,
       "forks": 0,
       "extracted_nodes": 145,
-      "valid_nodes": 96,
+      "valid_nodes": 93,
       "quality_score": 50.4
     },
     {
@@ -69,19 +53,27 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 136,
-      "valid_nodes": 122,
+      "valid_nodes": 113,
       "quality_score": 40.8
     },
     {
-      "repository": "ALLCAPS-Droid/xin-wen-lian-bo",
-      "stars": 1,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 1.8
+      "repository": "bzfq21/proxy-singbox",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 16,
+      "valid_nodes": 10,
+      "quality_score": 40.0
     },
     {
-      "repository": "ertugrulozcan/next-marquee",
+      "repository": "zx123yyds/01_football",
+      "stars": 16,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 12.8
+    },
+    {
+      "repository": "MMortise/Sub2Proxy",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-17 13:03:19"
+  "updated_at": "2026-07-17 16:59:11"
 }
