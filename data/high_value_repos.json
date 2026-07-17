@@ -10327,6 +10327,24 @@
       "last_nodes_update": "2026-07-10T17:41:12.116620Z"
     },
     {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 284,
+      "forks": 25,
+      "extracted_nodes": 142,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "ConfigSub_list.txt",
+          "node_count": 147,
+          "last_checked": "2026-07-17T01:33:54.295160Z",
+          "url": "https://raw.githubusercontent.com/WLget/V2Ray_configs_64/master/ConfigSub_list.txt"
+        }
+      ],
+      "last_full_scan": "2026-07-17T01:33:55.095664Z",
+      "last_nodes_update": "2026-07-17T01:33:55.095689Z"
+    },
+    {
       "repository": "saishun/TyporaTheme",
       "stars": 4,
       "forks": 16,
@@ -10385,24 +10403,6 @@
       ],
       "last_full_scan": "2026-07-11T20:38:07.163724Z",
       "last_nodes_update": "2026-07-11T20:38:07.163754Z"
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 278,
-      "forks": 25,
-      "extracted_nodes": 130,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "ConfigSub_list.txt",
-          "node_count": 132,
-          "last_checked": "2026-07-06T02:06:26.813143Z",
-          "url": "https://raw.githubusercontent.com/WLget/V2Ray_configs_64/master/ConfigSub_list.txt"
-        }
-      ],
-      "last_full_scan": "2026-07-06T02:06:28.394598Z",
-      "last_nodes_update": "2026-07-06T02:06:28.394623Z"
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
@@ -10477,7 +10477,7 @@
       "last_nodes_update": "2026-07-16T09:57:47.066154Z"
     }
   ],
-  "updated_at": "2026-07-16 20:46:18",
+  "updated_at": "2026-07-17 01:33:55",
   "total_whitelisted_repos": 29,
-  "total_cached_nodes": 29587
+  "total_cached_nodes": 29599
 }
