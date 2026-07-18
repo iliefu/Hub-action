@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9123,
+      "stars": 9130,
       "forks": 669,
       "extracted_nodes": 36,
-      "valid_nodes": 21,
+      "valid_nodes": 20,
       "quality_score": 100
     },
     {
@@ -13,38 +13,54 @@
       "stars": 1112,
       "forks": 154,
       "extracted_nodes": 3000,
-      "valid_nodes": 73,
+      "valid_nodes": 66,
       "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 898,
+      "forks": 79,
+      "extracted_nodes": 158,
+      "valid_nodes": 82,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 493,
+      "forks": 20,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 72,
       "forks": 9,
-      "extracted_nodes": 625,
-      "valid_nodes": 104,
+      "extracted_nodes": 642,
+      "valid_nodes": 96,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 335,
+      "extracted_nodes": 330,
       "valid_nodes": 13,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 284,
-      "forks": 25,
-      "extracted_nodes": 16,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 63,
+      "forks": 7,
+      "extracted_nodes": 1167,
+      "valid_nodes": 232,
+      "quality_score": 87.0
     },
     {
-      "repository": "gslege/CloudflareIP",
-      "stars": 539,
-      "forks": 276,
-      "extracted_nodes": 20,
+      "repository": "VpnNetwork01/vpn-net",
+      "stars": 448,
+      "forks": 27,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -53,25 +69,17 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 142,
-      "valid_nodes": 132,
+      "valid_nodes": 131,
       "quality_score": 40.8
     },
     {
-      "repository": "bgpeer/nodekit",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "Wuvomi/adtophagy-filters",
+      "repository": "bzfq21/proxy-singbox",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "extracted_nodes": 16,
+      "valid_nodes": 9,
+      "quality_score": 40.0
     }
   ],
-  "updated_at": "2026-07-18 12:49:15"
+  "updated_at": "2026-07-18 16:44:31"
 }
