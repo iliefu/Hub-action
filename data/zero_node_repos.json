@@ -107,6 +107,7 @@
     "LuoPoJunZi/hysteria2-luopo",
     "LynnixZ/GTool",
     "MMortise/Sub2Proxy",
+    "Maplewhite-net/vpnsknow.review",
     "Mayorov79997/warp-config-generator",
     "Miku196/a-ics",
     "Mugzx/MyClash",
@@ -178,6 +179,7 @@
     "Ystarry/LuoluoCaptcha",
     "YuFan08/sbm",
     "Z-yaofang/ComfyUI-Krea2WashControl",
+    "ZRH-Iris/clone-voice-node-capability",
     "ZTTYBB/hy2-",
     "Zhejian-Zheng/pilates-health-quiz",
     "ZhiHui6/zhihui_nodes_comfyui",
@@ -450,6 +452,8 @@
     "sparanoid/grunt-auto-spacing",
     "spiritLHLS/speedtest.net-CN-ID",
     "spydirbyte/spydirvpn",
+    "ssssliug/claude-skill-docx-cn",
+    "ssssliug/claude-skill-pptx-cn",
     "st800820/iptv-api",
     "stingleyarana/blockchain-core-java-suite",
     "study666-creme/infinite-canvas-jay",
@@ -511,6 +515,7 @@
     "xtgm/stallTCP1.32-V2",
     "xujianjian2004/WOSAI-ComfyUI",
     "xunying7860/anima-weaver",
+    "xvirobotics/metabot",
     "xxww0098/SkillStar",
     "xyy2580/iptv-api",
     "xzx-123-xzx/DocToShortVideo",
@@ -547,5 +552,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-18 05:57:59"
+  "updated_at": "2026-07-18 09:16:29"
 }
