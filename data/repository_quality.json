@@ -1,66 +1,50 @@
 {
   "repositories": [
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9123,
+      "forks": 669,
+      "extracted_nodes": 36,
+      "valid_nodes": 21,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1112,
       "forks": 154,
       "extracted_nodes": 3000,
-      "valid_nodes": 78,
+      "valid_nodes": 73,
       "quality_score": 100
-    },
-    {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9123,
-      "forks": 669,
-      "extracted_nodes": 50,
-      "valid_nodes": 28,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 491,
-      "forks": 20,
-      "extracted_nodes": 8,
-      "valid_nodes": 1,
-      "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 72,
       "forks": 9,
-      "extracted_nodes": 622,
-      "valid_nodes": 85,
+      "extracted_nodes": 625,
+      "valid_nodes": 104,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 330,
-      "valid_nodes": 11,
+      "extracted_nodes": 335,
+      "valid_nodes": 13,
       "quality_score": 88.0
     },
     {
-      "repository": "zhuhaiuk/free-nodes",
-      "stars": 69,
-      "forks": 6,
-      "extracted_nodes": 68,
-      "valid_nodes": 30,
-      "quality_score": 86.0
-    },
-    {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 200,
-      "forks": 26,
-      "extracted_nodes": 11,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 284,
+      "forks": 25,
+      "extracted_nodes": 16,
       "valid_nodes": 0,
       "quality_score": 60
     },
     {
-      "repository": "xvirobotics/metabot",
-      "stars": 919,
-      "forks": 146,
-      "extracted_nodes": 0,
+      "repository": "gslege/CloudflareIP",
+      "stars": 539,
+      "forks": 276,
+      "extracted_nodes": 20,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -68,36 +52,20 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 140,
-      "valid_nodes": 123,
+      "extracted_nodes": 142,
+      "valid_nodes": 132,
       "quality_score": 40.8
     },
     {
-      "repository": "ssssliug/claude-skill-docx-cn",
-      "stars": 0,
+      "repository": "bgpeer/nodekit",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     },
     {
-      "repository": "ssssliug/claude-skill-pptx-cn",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "ZRH-Iris/clone-voice-node-capability",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Maplewhite-net/vpnsknow.review",
+      "repository": "Wuvomi/adtophagy-filters",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +73,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-18 09:16:35"
+  "updated_at": "2026-07-18 12:49:15"
 }
