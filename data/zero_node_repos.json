@@ -51,6 +51,7 @@
     "ChaselDutt/VPN-Deep-Test",
     "ChesionSoft/Sion",
     "CloudTool/proxy_share",
+    "ComfyUI-Plugin/UNet-CLIP-VAE",
     "D1-2004/dingtalk-doc-multica-sync",
     "DaBao-Lee/V2RayN-NodeShare",
     "Delta-Kronecker/WARP-Config",
@@ -188,6 +189,7 @@
     "air2316361/clash-subscribe",
     "akiralereal/iptv",
     "alibaba/canal",
+    "alsolisa/digital-tools-guide",
     "andyxu12341/proxy-group-notes",
     "animarkuss-arch/warp-config-generator-vercel",
     "apple-fun/Share-SSR-V2ray-network",
@@ -204,6 +206,7 @@
     "bgwastu/warp-manager",
     "bia-pain-bache/BPB-Worker-Panel",
     "bigqingshu/DataFlowKit",
+    "biu8bo/FlowWeave",
     "blackdm666/chatgpt-membership-official-guide",
     "bobrovskijaroslav1-sketch/warp-config-generator-vercel",
     "bq2015/FreeProxies",
@@ -544,5 +547,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-18 01:25:28"
+  "updated_at": "2026-07-18 05:57:59"
 }
