@@ -5,7 +5,7 @@
       "stars": 9131,
       "forks": 669,
       "extracted_nodes": 46,
-      "valid_nodes": 23,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
@@ -13,7 +13,7 @@
       "stars": 1115,
       "forks": 155,
       "extracted_nodes": 3000,
-      "valid_nodes": 73,
+      "valid_nodes": 68,
       "quality_score": 100
     },
     {
@@ -23,6 +23,14 @@
       "extracted_nodes": 8,
       "valid_nodes": 2,
       "quality_score": 100.0
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1812,
+      "forks": 116,
+      "extracted_nodes": 16,
+      "valid_nodes": 14,
+      "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -36,66 +44,34 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 325,
-      "valid_nodes": 8,
+      "extracted_nodes": 331,
+      "valid_nodes": 9,
       "quality_score": 88.0
     },
     {
       "repository": "v2raynnodes/v2rayfree",
       "stars": 63,
       "forks": 7,
-      "extracted_nodes": 1159,
-      "valid_nodes": 230,
+      "extracted_nodes": 1160,
+      "valid_nodes": 233,
       "quality_score": 87.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 201,
-      "forks": 26,
-      "extracted_nodes": 11,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "gslege/CloudflareIP",
-      "stars": 540,
-      "forks": 275,
-      "extracted_nodes": 20,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 2832,
+      "valid_nodes": 48,
+      "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 137,
-      "valid_nodes": 94,
+      "extracted_nodes": 142,
+      "valid_nodes": 127,
       "quality_score": 40.8
-    },
-    {
-      "repository": "bluebluesoda/reality-simple",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "songlairui/haohao-flow",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "yuzehong16-tech/chatgpt-plus-pro",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-19 16:46:31"
+  "updated_at": "2026-07-19 20:40:53"
 }
