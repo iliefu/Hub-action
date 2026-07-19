@@ -4,8 +4,8 @@
       "repository": "ermaozi/get_subscribe",
       "stars": 9130,
       "forks": 669,
-      "extracted_nodes": 36,
-      "valid_nodes": 20,
+      "extracted_nodes": 42,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
@@ -13,88 +13,40 @@
       "stars": 1113,
       "forks": 154,
       "extracted_nodes": 3000,
-      "valid_nodes": 64,
+      "valid_nodes": 59,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
       "stars": 898,
       "forks": 79,
-      "extracted_nodes": 92,
-      "valid_nodes": 47,
+      "extracted_nodes": 98,
+      "valid_nodes": 50,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1806,
-      "forks": 116,
-      "extracted_nodes": 16,
-      "valid_nodes": 15,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 493,
-      "forks": 20,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
-      "quality_score": 100.0
-    },
-    {
-      "repository": "bin1site1/V2rayFree",
-      "stars": 87,
-      "forks": 10,
-      "extracted_nodes": 56,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 284,
+      "forks": 25,
+      "extracted_nodes": 72,
       "valid_nodes": 1,
-      "quality_score": 90.0
+      "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 72,
       "forks": 9,
-      "extracted_nodes": 643,
+      "extracted_nodes": 648,
       "valid_nodes": 96,
-      "quality_score": 89.0
-    },
-    {
-      "repository": "kooker/FreeSubsCheck",
-      "stars": 72,
-      "forks": 9,
-      "extracted_nodes": 1066,
-      "valid_nodes": 223,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 331,
+      "extracted_nodes": 332,
       "valid_nodes": 14,
       "quality_score": 88.0
-    },
-    {
-      "repository": "v2raynnodes/v2rayfree",
-      "stars": 63,
-      "forks": 7,
-      "extracted_nodes": 1164,
-      "valid_nodes": 232,
-      "quality_score": 87.0
-    },
-    {
-      "repository": "Leon406/SubCrawler",
-      "stars": 1550,
-      "forks": 219,
-      "extracted_nodes": 8,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "gslege/CloudflareIP",
-      "stars": 539,
-      "forks": 276,
-      "extracted_nodes": 20,
-      "valid_nodes": 0,
-      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
@@ -105,5 +57,5 @@
       "quality_score": 40.8
     }
   ],
-  "updated_at": "2026-07-18 20:44:00"
+  "updated_at": "2026-07-19 01:29:59"
 }
