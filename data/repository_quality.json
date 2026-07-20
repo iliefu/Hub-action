@@ -5,20 +5,28 @@
       "stars": 9131,
       "forks": 669,
       "extracted_nodes": 60,
-      "valid_nodes": 30,
+      "valid_nodes": 49,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1117,
+      "stars": 1121,
       "forks": 155,
       "extracted_nodes": 3000,
-      "valid_nodes": 78,
+      "valid_nodes": 74,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 63,
+      "forks": 64,
+      "extracted_nodes": 1277,
+      "valid_nodes": 17,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 496,
+      "stars": 497,
       "forks": 20,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -28,7 +36,7 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 73,
       "forks": 9,
-      "extracted_nodes": 656,
+      "extracted_nodes": 660,
       "valid_nodes": 104,
       "quality_score": 89.0
     },
@@ -36,28 +44,36 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 333,
-      "valid_nodes": 10,
+      "extracted_nodes": 332,
+      "valid_nodes": 9,
       "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 201,
+      "forks": 26,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 145,
-      "valid_nodes": 142,
+      "valid_nodes": 136,
       "quality_score": 40.8
     },
     {
-      "repository": "imal1/MioBridge",
-      "stars": 2,
+      "repository": "lfmmp531/investment-graph-plugin",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.6
+      "quality_score": 0.8
     },
     {
-      "repository": "Evelynall/SceneNote",
+      "repository": "tizituijian/bestvpn",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -65,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-20 06:39:55"
+  "updated_at": "2026-07-20 10:41:12"
 }
