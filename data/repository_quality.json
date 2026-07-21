@@ -1,11 +1,11 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9133,
-      "forks": 669,
-      "extracted_nodes": 44,
-      "valid_nodes": 31,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 64,
+      "forks": 65,
+      "extracted_nodes": 620,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
@@ -13,15 +13,15 @@
       "stars": 1120,
       "forks": 157,
       "extracted_nodes": 3000,
-      "valid_nodes": 83,
+      "valid_nodes": 79,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1816,
-      "forks": 116,
-      "extracted_nodes": 16,
-      "valid_nodes": 8,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9135,
+      "forks": 669,
+      "extracted_nodes": 44,
+      "valid_nodes": 31,
       "quality_score": 100
     },
     {
@@ -29,22 +29,30 @@
       "stars": 500,
       "forks": 20,
       "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "valid_nodes": 1,
       "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 74,
       "forks": 9,
-      "extracted_nodes": 666,
-      "valid_nodes": 111,
+      "extracted_nodes": 661,
+      "valid_nodes": 103,
       "quality_score": 89.0
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 64,
-      "forks": 64,
-      "extracted_nodes": 62,
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 87,
+      "forks": 8,
+      "extracted_nodes": 341,
+      "valid_nodes": 10,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 202,
+      "forks": 26,
+      "extracted_nodes": 11,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -53,19 +61,11 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 143,
-      "valid_nodes": 139,
+      "valid_nodes": 141,
       "quality_score": 40.8
     },
     {
-      "repository": "mclight-ship-it/cc-translate",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "saberLiuhui/locky-support",
+      "repository": "webmilmind1/nuxt-deskcrew",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,7 +73,23 @@
       "quality_score": 0.0
     },
     {
-      "repository": "joker20020/office-workflow",
+      "repository": "cabbagecabbage/chatgpt-plus-codex-cn-guide",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "sunflowermm/vibe-learn-Core",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "geenroooo/loon-plugins",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-21 06:23:42"
+  "updated_at": "2026-07-21 10:14:56"
 }
