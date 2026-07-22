@@ -5,65 +5,73 @@
       "stars": 9135,
       "forks": 669,
       "extracted_nodes": 42,
-      "valid_nodes": 30,
+      "valid_nodes": 27,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 64,
       "forks": 65,
-      "extracted_nodes": 700,
+      "extracted_nodes": 468,
       "valid_nodes": 15,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1124,
+      "stars": 1126,
       "forks": 157,
       "extracted_nodes": 3000,
       "valid_nodes": 78,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7781,
-      "forks": 1236,
-      "extracted_nodes": 116,
-      "valid_nodes": 16,
+      "repository": "shaoyouvip/free",
+      "stars": 902,
+      "forks": 80,
+      "extracted_nodes": 76,
+      "valid_nodes": 34,
+      "quality_score": 100
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 283,
+      "forks": 25,
+      "extracted_nodes": 14,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 73,
       "forks": 9,
-      "extracted_nodes": 672,
-      "valid_nodes": 104,
+      "extracted_nodes": 680,
+      "valid_nodes": 134,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 87,
       "forks": 8,
-      "extracted_nodes": 341,
-      "valid_nodes": 14,
+      "extracted_nodes": 336,
+      "valid_nodes": 13,
       "quality_score": 88.0
-    },
-    {
-      "repository": "saishun/TyporaTheme",
-      "stars": 4,
-      "forks": 16,
-      "extracted_nodes": 136,
-      "valid_nodes": 63,
-      "quality_score": 59.2
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 143,
-      "valid_nodes": 130,
+      "valid_nodes": 134,
       "quality_score": 40.8
+    },
+    {
+      "repository": "Simon-Cu/AI_aca",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-21 20:58:43"
+  "updated_at": "2026-07-22 01:28:36"
 }
