@@ -2,60 +2,68 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9134,
+      "stars": 9136,
       "forks": 669,
       "extracted_nodes": 41,
-      "valid_nodes": 21,
+      "valid_nodes": 18,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1127,
+      "stars": 1129,
       "forks": 157,
       "extracted_nodes": 3000,
-      "valid_nodes": 68,
+      "valid_nodes": 65,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 64,
       "forks": 65,
-      "extracted_nodes": 589,
-      "valid_nodes": 15,
+      "extracted_nodes": 698,
+      "valid_nodes": 21,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 73,
       "forks": 9,
-      "extracted_nodes": 677,
-      "valid_nodes": 107,
+      "extracted_nodes": 674,
+      "valid_nodes": 102,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 330,
-      "valid_nodes": 11,
+      "extracted_nodes": 338,
+      "valid_nodes": 9,
       "quality_score": 88.0
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 284,
-      "forks": 25,
-      "extracted_nodes": 6,
-      "valid_nodes": 0,
-      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 144,
-      "valid_nodes": 134,
+      "valid_nodes": 139,
       "quality_score": 40.8
+    },
+    {
+      "repository": "Linsars/sub-store-bot",
+      "stars": 4,
+      "forks": 4,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 7.2
+    },
+    {
+      "repository": "mikezupper/lit-web-apps-skill",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-22 13:20:59"
+  "updated_at": "2026-07-22 17:07:38"
 }
