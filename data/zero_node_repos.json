@@ -46,6 +46,7 @@
     "BillBeam/agent-radar",
     "CB-X2-Jun/proxy-lists",
     "CaoMeiYouRen/rss-impact-server",
+    "CashewTeam/Cashew_Nodes",
     "Cat-Ling/sing-box",
     "CatsInJune/tiptap-markdown-react",
     "ChanceYu/front-end-rss",
@@ -421,6 +422,7 @@
     "nellimonix/warp-config-generator-vercel",
     "netptop/siteproxy",
     "newbietan/Vless2Clash",
+    "newemperor221/sub-worker",
     "nezgovorov2013-ux/warp-config-generator-vercel",
     "nieldlr/hanzi",
     "nithitsuki/timetable-generator",
@@ -511,6 +513,7 @@
     "wangyiyuanfive/elevator_mode",
     "wansheng8/adblock",
     "wanwushequ/cfyxip",
+    "wanxiaom/KV_Storage_System",
     "warpcmdr/warpcmdr",
     "wbz93815/clashmeta_subscribe",
     "wclaobai/VPN-jichang-tuijian-2026",
@@ -579,5 +582,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-22 01:28:33"
+  "updated_at": "2026-07-22 06:22:53"
 }
