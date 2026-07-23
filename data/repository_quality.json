@@ -2,10 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9135,
+      "stars": 9134,
       "forks": 669,
-      "extracted_nodes": 43,
-      "valid_nodes": 21,
+      "extracted_nodes": 52,
+      "valid_nodes": 29,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 64,
+      "forks": 65,
+      "extracted_nodes": 621,
+      "valid_nodes": 29,
       "quality_score": 100
     },
     {
@@ -13,47 +21,55 @@
       "stars": 1129,
       "forks": 157,
       "extracted_nodes": 3000,
-      "valid_nodes": 115,
+      "valid_nodes": 93,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 64,
-      "forks": 65,
-      "extracted_nodes": 2955,
-      "valid_nodes": 311,
+      "repository": "shaoyouvip/free",
+      "stars": 906,
+      "forks": 81,
+      "extracted_nodes": 18,
+      "valid_nodes": 8,
       "quality_score": 100
     },
     {
-      "repository": "dongchengjie/airport",
-      "stars": 604,
-      "forks": 51,
-      "extracted_nodes": 3000,
-      "valid_nodes": 1886,
-      "quality_score": 100
+      "repository": "hello-world-1989/cn-news",
+      "stars": 505,
+      "forks": 20,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 73,
       "forks": 9,
-      "extracted_nodes": 692,
-      "valid_nodes": 107,
+      "extracted_nodes": 686,
+      "valid_nodes": 103,
       "quality_score": 89.0
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 88,
-      "forks": 8,
-      "extracted_nodes": 351,
-      "valid_nodes": 9,
-      "quality_score": 88.0
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 285,
+      "forks": 25,
+      "extracted_nodes": 9,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "zzzhhe999/Mihomo-Script-Rules",
+      "stars": 7,
+      "forks": 0,
+      "extracted_nodes": 26,
+      "valid_nodes": 4,
+      "quality_score": 45.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 146,
-      "valid_nodes": 135,
+      "extracted_nodes": 124,
+      "valid_nodes": 112,
       "quality_score": 40.8
     },
     {
@@ -63,15 +79,7 @@
       "extracted_nodes": 1,
       "valid_nodes": 0,
       "quality_score": 5.8
-    },
-    {
-      "repository": "1837620622/free-vpn-cknb",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-23 10:13:05"
+  "updated_at": "2026-07-23 13:22:56"
 }
