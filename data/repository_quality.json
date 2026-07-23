@@ -5,7 +5,15 @@
       "stars": 9135,
       "forks": 669,
       "extracted_nodes": 43,
-      "valid_nodes": 25,
+      "valid_nodes": 23,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 64,
+      "forks": 65,
+      "extracted_nodes": 435,
+      "valid_nodes": 13,
       "quality_score": 100
     },
     {
@@ -13,39 +21,23 @@
       "stars": 1129,
       "forks": 157,
       "extracted_nodes": 3000,
-      "valid_nodes": 62,
+      "valid_nodes": 122,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 64,
-      "forks": 65,
-      "extracted_nodes": 325,
-      "valid_nodes": 15,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 905,
-      "forks": 81,
-      "extracted_nodes": 48,
-      "valid_nodes": 23,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 284,
-      "forks": 25,
-      "extracted_nodes": 22,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 504,
+      "forks": 20,
+      "extracted_nodes": 8,
       "valid_nodes": 2,
-      "quality_score": 100
+      "quality_score": 100.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 73,
       "forks": 9,
-      "extracted_nodes": 686,
-      "valid_nodes": 111,
+      "extracted_nodes": 688,
+      "valid_nodes": 113,
       "quality_score": 89.0
     },
     {
@@ -53,41 +45,49 @@
       "stars": 88,
       "forks": 8,
       "extracted_nodes": 338,
-      "valid_nodes": 12,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
-      "repository": "lanzm/MetaFetch",
-      "stars": 12,
-      "forks": 3,
-      "extracted_nodes": 1140,
-      "valid_nodes": 267,
-      "quality_score": 52.6
-    },
-    {
-      "repository": "zzzhhe999/Mihomo-Script-Rules",
-      "stars": 5,
-      "forks": 0,
-      "extracted_nodes": 26,
-      "valid_nodes": 4,
-      "quality_score": 44.0
+      "repository": "wenxig/dongtai-sub",
+      "stars": 203,
+      "forks": 26,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 146,
-      "valid_nodes": 140,
+      "valid_nodes": 142,
       "quality_score": 40.8
     },
     {
-      "repository": "kubaba2012/blender3d-cockpit",
-      "stars": 0,
+      "repository": "oplopo/Warp-config-ip-Hiddify-",
+      "stars": 6,
+      "forks": 1,
+      "extracted_nodes": 1,
+      "valid_nodes": 0,
+      "quality_score": 5.8
+    },
+    {
+      "repository": "chinaxunmei/Comfyui-Erase-Watermarks",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
+    },
+    {
+      "repository": "fwjwgg56/racknerd-vps-deals",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-07-23 01:47:13"
+  "updated_at": "2026-07-23 06:25:33"
 }
