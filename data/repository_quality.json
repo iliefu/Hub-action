@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9136,
+      "stars": 9135,
       "forks": 669,
-      "extracted_nodes": 41,
-      "valid_nodes": 18,
+      "extracted_nodes": 43,
+      "valid_nodes": 25,
       "quality_score": 100
     },
     {
@@ -13,48 +13,64 @@
       "stars": 1129,
       "forks": 157,
       "extracted_nodes": 3000,
-      "valid_nodes": 67,
+      "valid_nodes": 62,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 64,
       "forks": 65,
-      "extracted_nodes": 515,
-      "valid_nodes": 23,
+      "extracted_nodes": 325,
+      "valid_nodes": 15,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
       "stars": 905,
       "forks": 81,
-      "extracted_nodes": 66,
-      "valid_nodes": 27,
+      "extracted_nodes": 48,
+      "valid_nodes": 23,
       "quality_score": 100
     },
     {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 503,
-      "forks": 20,
-      "extracted_nodes": 8,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 284,
+      "forks": 25,
+      "extracted_nodes": 22,
       "valid_nodes": 2,
-      "quality_score": 100.0
+      "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 73,
       "forks": 9,
-      "extracted_nodes": 667,
-      "valid_nodes": 103,
+      "extracted_nodes": 686,
+      "valid_nodes": 111,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 337,
-      "valid_nodes": 11,
+      "extracted_nodes": 338,
+      "valid_nodes": 12,
       "quality_score": 88.0
+    },
+    {
+      "repository": "lanzm/MetaFetch",
+      "stars": 12,
+      "forks": 3,
+      "extracted_nodes": 1140,
+      "valid_nodes": 267,
+      "quality_score": 52.6
+    },
+    {
+      "repository": "zzzhhe999/Mihomo-Script-Rules",
+      "stars": 5,
+      "forks": 0,
+      "extracted_nodes": 26,
+      "valid_nodes": 4,
+      "quality_score": 44.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
@@ -63,7 +79,15 @@
       "extracted_nodes": 146,
       "valid_nodes": 140,
       "quality_score": 40.8
+    },
+    {
+      "repository": "kubaba2012/blender3d-cockpit",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-22 20:55:29"
+  "updated_at": "2026-07-23 01:47:13"
 }
