@@ -1,35 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1130,
-      "forks": 158,
-      "extracted_nodes": 3000,
-      "valid_nodes": 76,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9134,
+      "forks": 669,
+      "extracted_nodes": 52,
+      "valid_nodes": 34,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 64,
       "forks": 65,
-      "extracted_nodes": 499,
-      "valid_nodes": 18,
+      "extracted_nodes": 296,
+      "valid_nodes": 5,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 907,
-      "forks": 81,
-      "extracted_nodes": 66,
-      "valid_nodes": 32,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1130,
+      "forks": 158,
+      "extracted_nodes": 3000,
+      "valid_nodes": 73,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9134,
-      "forks": 669,
-      "extracted_nodes": 52,
-      "valid_nodes": 28,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 285,
+      "forks": 25,
+      "extracted_nodes": 39,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -41,35 +41,19 @@
       "quality_score": 100.0
     },
     {
-      "repository": "dongchengjie/airport",
-      "stars": 604,
-      "forks": 51,
-      "extracted_nodes": 3000,
-      "valid_nodes": 1869,
-      "quality_score": 100
-    },
-    {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7795,
-      "forks": 1236,
-      "extracted_nodes": 117,
-      "valid_nodes": 17,
-      "quality_score": 100
-    },
-    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 73,
       "forks": 9,
-      "extracted_nodes": 689,
-      "valid_nodes": 105,
+      "extracted_nodes": 633,
+      "valid_nodes": 117,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 346,
-      "valid_nodes": 8,
+      "extracted_nodes": 350,
+      "valid_nodes": 5,
       "quality_score": 88.0
     },
     {
@@ -77,7 +61,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 124,
-      "valid_nodes": 111,
+      "valid_nodes": 112,
       "quality_score": 40.8
     },
     {
@@ -87,7 +71,31 @@
       "extracted_nodes": 1,
       "valid_nodes": 0,
       "quality_score": 5.8
+    },
+    {
+      "repository": "xhixtc1124/SummerLooFuncWars-in-dev-",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "willson369/subscription-nft",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "12365448949845/Enterprise-Plan-and-Results-Management-System",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-23 20:53:31"
+  "updated_at": "2026-07-24 01:44:38"
 }
