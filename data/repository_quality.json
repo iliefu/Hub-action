@@ -4,8 +4,8 @@
       "repository": "ermaozi/get_subscribe",
       "stars": 9135,
       "forks": 669,
-      "extracted_nodes": 52,
-      "valid_nodes": 33,
+      "extracted_nodes": 56,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
@@ -13,65 +13,65 @@
       "stars": 1130,
       "forks": 159,
       "extracted_nodes": 3000,
-      "valid_nodes": 60,
+      "valid_nodes": 69,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 64,
       "forks": 65,
-      "extracted_nodes": 870,
-      "valid_nodes": 9,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 907,
-      "forks": 82,
-      "extracted_nodes": 20,
-      "valid_nodes": 5,
+      "extracted_nodes": 784,
+      "valid_nodes": 12,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 73,
+      "stars": 74,
       "forks": 9,
-      "extracted_nodes": 639,
-      "valid_nodes": 110,
+      "extracted_nodes": 634,
+      "valid_nodes": 108,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 346,
+      "extracted_nodes": 348,
       "valid_nodes": 5,
       "quality_score": 88.0
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 285,
+      "forks": 25,
+      "extracted_nodes": 8,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "hesorchen/muselab",
+      "stars": 47,
+      "forks": 6,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 43.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 124,
-      "valid_nodes": 106,
+      "extracted_nodes": 123,
+      "valid_nodes": 112,
       "quality_score": 40.8
     },
     {
-      "repository": "lingyingaojue/NetSpeedTest",
-      "stars": 6,
+      "repository": "silent-never/Power-Flow",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 4.8
-    },
-    {
-      "repository": "gluttony3/Warp-WireGuard-Config-Generator",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-24 10:07:38"
+  "updated_at": "2026-07-24 13:17:55"
 }
