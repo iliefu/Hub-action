@@ -10,18 +10,34 @@
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1133,
+      "stars": 1134,
       "forks": 159,
       "extracted_nodes": 3000,
-      "valid_nodes": 67,
+      "valid_nodes": 57,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 64,
-      "forks": 65,
-      "extracted_nodes": 1116,
-      "valid_nodes": 15,
+      "repository": "shaoyouvip/free",
+      "stars": 914,
+      "forks": 82,
+      "extracted_nodes": 18,
+      "valid_nodes": 5,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7799,
+      "forks": 1236,
+      "extracted_nodes": 110,
+      "valid_nodes": 13,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1821,
+      "forks": 117,
+      "extracted_nodes": 16,
+      "valid_nodes": 12,
       "quality_score": 100
     },
     {
@@ -36,9 +52,17 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 76,
       "forks": 9,
-      "extracted_nodes": 684,
-      "valid_nodes": 107,
+      "extracted_nodes": 683,
+      "valid_nodes": 104,
       "quality_score": 89.0
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 88,
+      "forks": 8,
+      "extracted_nodes": 346,
+      "valid_nodes": 5,
+      "quality_score": 88.0
     },
     {
       "repository": "zhuhaiuk/free-nodes",
@@ -49,21 +73,13 @@
       "quality_score": 86.0
     },
     {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 1155,
-      "valid_nodes": 46,
-      "quality_score": 47.4
-    },
-    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 132,
-      "valid_nodes": 128,
+      "valid_nodes": 127,
       "quality_score": 40.8
     }
   ],
-  "updated_at": "2026-07-25 06:11:34"
+  "updated_at": "2026-07-25 09:27:32"
 }
