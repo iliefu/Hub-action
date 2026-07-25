@@ -2,7 +2,7 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9141,
+      "stars": 9142,
       "forks": 669,
       "extracted_nodes": 56,
       "valid_nodes": 32,
@@ -11,9 +11,17 @@
     {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1135,
-      "forks": 159,
+      "forks": 160,
       "extracted_nodes": 3000,
-      "valid_nodes": 66,
+      "valid_nodes": 61,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 65,
+      "forks": 65,
+      "extracted_nodes": 797,
+      "valid_nodes": 18,
       "quality_score": 100
     },
     {
@@ -28,34 +36,66 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 77,
       "forks": 9,
-      "extracted_nodes": 680,
-      "valid_nodes": 102,
+      "extracted_nodes": 682,
+      "valid_nodes": 106,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 346,
+      "extracted_nodes": 352,
       "valid_nodes": 4,
       "quality_score": 88.0
+    },
+    {
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 64,
+      "forks": 7,
+      "extracted_nodes": 1161,
+      "valid_nodes": 233,
+      "quality_score": 87.0
+    },
+    {
+      "repository": "Leon406/SubCrawler",
+      "stars": 1555,
+      "forks": 219,
+      "extracted_nodes": 8,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 209,
+      "forks": 26,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 1155,
+      "valid_nodes": 47,
+      "quality_score": 47.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 126,
-      "valid_nodes": 121,
+      "valid_nodes": 117,
       "quality_score": 40.8
     },
     {
-      "repository": "bzfq21/proxy-singbox",
+      "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 16,
-      "valid_nodes": 5,
+      "extracted_nodes": 3000,
+      "valid_nodes": 139,
       "quality_score": 40.0
     }
   ],
-  "updated_at": "2026-07-25 16:45:09"
+  "updated_at": "2026-07-25 20:44:47"
 }
