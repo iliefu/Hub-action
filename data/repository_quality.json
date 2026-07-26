@@ -5,32 +5,56 @@
       "stars": 9144,
       "forks": 669,
       "extracted_nodes": 38,
-      "valid_nodes": 24,
+      "valid_nodes": 19,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1135,
+      "stars": 1138,
       "forks": 161,
       "extracted_nodes": 3000,
-      "valid_nodes": 67,
+      "valid_nodes": 52,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 66,
       "forks": 65,
-      "extracted_nodes": 1158,
-      "valid_nodes": 28,
+      "extracted_nodes": 817,
+      "valid_nodes": 11,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 511,
+      "forks": 21,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1826,
+      "forks": 116,
+      "extracted_nodes": 16,
+      "valid_nodes": 13,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 77,
       "forks": 9,
-      "extracted_nodes": 684,
-      "valid_nodes": 103,
+      "extracted_nodes": 689,
+      "valid_nodes": 98,
       "quality_score": 89.0
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 88,
+      "forks": 8,
+      "extracted_nodes": 355,
+      "valid_nodes": 6,
+      "quality_score": 88.0
     },
     {
       "repository": "wenxig/dongtai-sub",
@@ -41,15 +65,39 @@
       "quality_score": 60
     },
     {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 2381,
+      "valid_nodes": 44,
+      "quality_score": 47.4
+    },
+    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 118,
-      "valid_nodes": 116,
+      "valid_nodes": 113,
       "quality_score": 40.8
     },
     {
-      "repository": "yysviiri/ddos-protected-vps-comparison",
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 146,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "bzfq21/proxy-singbox",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 16,
+      "valid_nodes": 6,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "hbrmod1/go-mami-cn2-routing",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
@@ -57,13 +105,29 @@
       "quality_score": 0.8
     },
     {
-      "repository": "vff822/gomani-routing-comparison",
+      "repository": "MengPng/subscription-manager-android",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.8
+    },
+    {
+      "repository": "907609732/FigamTool",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "wangzifan396-wzf/Graphite",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-26 06:29:19"
+  "updated_at": "2026-07-26 09:53:30"
 }
