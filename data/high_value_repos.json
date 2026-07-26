@@ -12166,55 +12166,55 @@
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 2832,
+      "extracted_nodes": 2378,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "source/0-20250110.txt",
           "node_count": 32,
-          "last_checked": "2026-07-19T20:40:27.822805Z",
+          "last_checked": "2026-07-26T20:48:06.604595Z",
           "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/0-20250110.txt"
         },
         {
           "path": "source/1-20250110.txt",
           "node_count": 263,
-          "last_checked": "2026-07-19T20:40:28.189195Z",
+          "last_checked": "2026-07-26T20:48:06.784849Z",
           "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/1-20250110.txt"
         },
         {
           "path": "source/2-20250110.txt",
           "node_count": 33,
-          "last_checked": "2026-07-19T20:40:28.565175Z",
+          "last_checked": "2026-07-26T20:48:06.942924Z",
           "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/2-20250110.txt"
         },
         {
           "path": "source/3-20250110.txt",
           "node_count": 32,
-          "last_checked": "2026-07-19T20:40:28.949224Z",
+          "last_checked": "2026-07-26T20:48:07.141771Z",
           "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/3-20250110.txt"
         },
         {
           "path": "source/4-20250110.txt",
           "node_count": 126,
-          "last_checked": "2026-07-19T20:40:29.298687Z",
+          "last_checked": "2026-07-26T20:48:07.319128Z",
           "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/4-20250110.txt"
         },
         {
           "path": "source/test.txt",
           "node_count": 486,
-          "last_checked": "2026-07-19T20:40:29.664441Z",
+          "last_checked": "2026-07-26T20:48:07.494372Z",
           "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/test.txt"
         },
         {
           "path": "valid_addresses.txt",
-          "node_count": 2477,
-          "last_checked": "2026-07-19T20:40:30.234404Z",
+          "node_count": 2020,
+          "last_checked": "2026-07-26T20:48:07.765189Z",
           "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/valid_addresses.txt"
         }
       ],
-      "last_full_scan": "2026-07-19T20:40:40.637211Z",
-      "last_nodes_update": "2026-07-19T20:40:40.637236Z"
+      "last_full_scan": "2026-07-26T20:48:18.822614Z",
+      "last_nodes_update": "2026-07-26T20:48:18.822643Z"
     },
     {
       "repository": "cxddgtb/dljdsjq",
@@ -13627,7 +13627,7 @@
       "last_nodes_update": "2026-07-21T20:58:38.314785Z"
     }
   ],
-  "updated_at": "2026-07-26 16:51:17",
+  "updated_at": "2026-07-26 20:48:18",
   "total_whitelisted_repos": 30,
-  "total_cached_nodes": 35302
+  "total_cached_nodes": 34848
 }
