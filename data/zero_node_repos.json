@@ -525,6 +525,7 @@
     "v2raynnodes/v2rayclash",
     "vchan-ui/sublinkY",
     "vdboots/WarpConfigurator",
+    "vff822/gomani-routing-comparison",
     "vibeinging/yiTrace",
     "wangle201210/guateng",
     "wangming1114/Skyway",
@@ -585,6 +586,7 @@
     "yun-ai-base/physics-panorama",
     "yuweitk/astrbot_plugin_rss",
     "yv798an/Tiny_RTGW_RV307",
+    "yysviiri/ddos-protected-vps-comparison",
     "yyyr-otz/iptv-api",
     "zachary9757/3x-abuse-guard",
     "zaofengyue/node-sb",
@@ -604,5 +606,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-26 01:48:57"
+  "updated_at": "2026-07-26 06:29:08"
 }
