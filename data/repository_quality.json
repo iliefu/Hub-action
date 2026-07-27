@@ -2,7 +2,7 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9145,
+      "stars": 9146,
       "forks": 668,
       "extracted_nodes": 40,
       "valid_nodes": 19,
@@ -10,26 +10,26 @@
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1139,
+      "stars": 1140,
       "forks": 161,
       "extracted_nodes": 3000,
-      "valid_nodes": 68,
+      "valid_nodes": 70,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 66,
       "forks": 65,
-      "extracted_nodes": 517,
+      "extracted_nodes": 922,
       "valid_nodes": 20,
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 285,
-      "forks": 25,
-      "extracted_nodes": 53,
-      "valid_nodes": 2,
+      "repository": "shaoyouvip/free",
+      "stars": 916,
+      "forks": 82,
+      "extracted_nodes": 103,
+      "valid_nodes": 49,
       "quality_score": 100
     },
     {
@@ -44,8 +44,8 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 77,
       "forks": 9,
-      "extracted_nodes": 697,
-      "valid_nodes": 104,
+      "extracted_nodes": 698,
+      "valid_nodes": 115,
       "quality_score": 89.0
     },
     {
@@ -60,17 +60,9 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 143,
-      "valid_nodes": 129,
+      "extracted_nodes": 144,
+      "valid_nodes": 138,
       "quality_score": 40.8
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 130,
-      "quality_score": 40.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -81,23 +73,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "TG-NAV/clashnode",
-      "stars": 45,
-      "forks": 3,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 39.0
-    },
-    {
-      "repository": "stepanenko896-blip/warp-config-generator-vercel-52f78",
-      "stars": 0,
+      "repository": "ShJChow26/xhttp-cdn-tuned",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 0,
+      "extracted_nodes": 9,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     },
     {
-      "repository": "stepanenko896-blip/warp-config-generator-vercel",
+      "repository": "userreksai/node_registry_manager",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-27 01:53:57"
+  "updated_at": "2026-07-27 06:56:42"
 }
