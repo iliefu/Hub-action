@@ -2,34 +2,26 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9146,
+      "stars": 9145,
       "forks": 668,
       "extracted_nodes": 40,
       "valid_nodes": 19,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1140,
-      "forks": 161,
-      "extracted_nodes": 3000,
-      "valid_nodes": 70,
-      "quality_score": 100
-    },
-    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 66,
       "forks": 65,
-      "extracted_nodes": 922,
-      "valid_nodes": 20,
+      "extracted_nodes": 1226,
+      "valid_nodes": 50,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 916,
-      "forks": 82,
-      "extracted_nodes": 103,
-      "valid_nodes": 49,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1139,
+      "forks": 160,
+      "extracted_nodes": 3000,
+      "valid_nodes": 56,
       "quality_score": 100
     },
     {
@@ -44,15 +36,15 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 77,
       "forks": 9,
-      "extracted_nodes": 698,
-      "valid_nodes": 115,
+      "extracted_nodes": 697,
+      "valid_nodes": 121,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 349,
+      "extracted_nodes": 351,
       "valid_nodes": 6,
       "quality_score": 88.0
     },
@@ -61,7 +53,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 144,
-      "valid_nodes": 138,
+      "valid_nodes": 129,
       "quality_score": 40.8
     },
     {
@@ -73,15 +65,39 @@
       "quality_score": 40.0
     },
     {
-      "repository": "ShJChow26/xhttp-cdn-tuned",
+      "repository": "imythu/rflush",
+      "stars": 11,
+      "forks": 2,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 10.8
+    },
+    {
+      "repository": "XD06/proxy-pool-manager",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 9,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.8
     },
     {
-      "repository": "userreksai/node_registry_manager",
+      "repository": "Leo0426/subscription-to-strategy-converter",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "1264585648/gpt-converter",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "blueish0930/BIKINI",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-27 06:56:42"
+  "updated_at": "2026-07-27 11:12:00"
 }
