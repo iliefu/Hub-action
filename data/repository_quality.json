@@ -1,6 +1,22 @@
 {
   "repositories": [
     {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 67,
+      "forks": 65,
+      "extracted_nodes": 985,
+      "valid_nodes": 38,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1143,
+      "forks": 161,
+      "extracted_nodes": 3000,
+      "valid_nodes": 60,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9147,
       "forks": 668,
@@ -9,27 +25,11 @@
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1143,
-      "forks": 160,
-      "extracted_nodes": 3000,
-      "valid_nodes": 79,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 67,
-      "forks": 65,
-      "extracted_nodes": 777,
-      "valid_nodes": 46,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 921,
-      "forks": 82,
-      "extracted_nodes": 17,
-      "valid_nodes": 9,
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7820,
+      "forks": 1238,
+      "extracted_nodes": 137,
+      "valid_nodes": 44,
       "quality_score": 100
     },
     {
@@ -44,25 +44,41 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 78,
       "forks": 9,
-      "extracted_nodes": 724,
-      "valid_nodes": 149,
+      "extracted_nodes": 721,
+      "valid_nodes": 162,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 370,
-      "valid_nodes": 6,
+      "extracted_nodes": 367,
+      "valid_nodes": 8,
       "quality_score": 88.0
     },
     {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 2508,
-      "valid_nodes": 43,
-      "quality_score": 47.4
+      "repository": "zhuhaiuk/free-nodes",
+      "stars": 93,
+      "forks": 8,
+      "extracted_nodes": 98,
+      "valid_nodes": 48,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 211,
+      "forks": 26,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 139,
+      "valid_nodes": 125,
+      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -77,33 +93,9 @@
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 166,
+      "valid_nodes": 186,
       "quality_score": 40.0
-    },
-    {
-      "repository": "mhmdxahmd/mafly",
-      "stars": 5,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 5.0
-    },
-    {
-      "repository": "jiaqing77cn/levolink-ai-api",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "gngsulululu/warp-config-generator-vercel",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-28 17:21:53"
+  "updated_at": "2026-07-28 21:00:10"
 }
