@@ -141,6 +141,7 @@
     "Pinocchang/Proxy_Res",
     "PolysaCHride/astrbot_plugin_pixiv",
     "Pretic/SB-cfy-Pre",
+    "ProxyPanel/PingAgent",
     "QMahyar/Cloudflare-Scanner",
     "QXTianPing/vpsbox",
     "QuickQ-Officialdownload/QuickQ-Officialdownload",
@@ -410,6 +411,7 @@
     "lfmmp531/investment-graph-plugin",
     "liangshengyong/LanWan",
     "licheng527/Free-servers",
+    "lifestreamy/xray-ansible-auto-setup",
     "lingyingaojue/NetSpeedTest",
     "linluAA/togo115",
     "linlvyy/litebox-singbox-mini",
@@ -491,6 +493,7 @@
     "ripaojiedian/freenode",
     "rshh-h/FigmaToCodeMcpServer",
     "s450586793/dingyue",
+    "s450586793/makerhub",
     "saberLiuhui/locky-support",
     "saliva101/fanqiang",
     "samnelking/rule",
@@ -629,5 +632,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-07-28 10:25:19"
+  "updated_at": "2026-07-28 13:32:22"
 }
