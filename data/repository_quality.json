@@ -1,27 +1,27 @@
 {
   "repositories": [
     {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 67,
+      "forks": 65,
+      "extracted_nodes": 555,
+      "valid_nodes": 25,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1140,
+      "stars": 1141,
       "forks": 160,
       "extracted_nodes": 3000,
-      "valid_nodes": 68,
+      "valid_nodes": 69,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
-      "stars": 919,
+      "stars": 920,
       "forks": 82,
-      "extracted_nodes": 55,
-      "valid_nodes": 29,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 67,
-      "forks": 65,
-      "extracted_nodes": 941,
-      "valid_nodes": 17,
+      "extracted_nodes": 19,
+      "valid_nodes": 11,
       "quality_score": 100
     },
     {
@@ -29,23 +29,55 @@
       "stars": 9146,
       "forks": 668,
       "extracted_nodes": 58,
-      "valid_nodes": 35,
+      "valid_nodes": 32,
+      "quality_score": 100
+    },
+    {
+      "repository": "dongchengjie/airport",
+      "stars": 608,
+      "forks": 53,
+      "extracted_nodes": 3000,
+      "valid_nodes": 1790,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1829,
+      "forks": 116,
+      "extracted_nodes": 16,
+      "valid_nodes": 13,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 514,
+      "forks": 21,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 78,
       "forks": 9,
-      "extracted_nodes": 726,
-      "valid_nodes": 154,
+      "extracted_nodes": 714,
+      "valid_nodes": 143,
       "quality_score": 89.0
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 88,
+      "forks": 8,
+      "extracted_nodes": 356,
+      "valid_nodes": 7,
+      "quality_score": 88.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 141,
-      "valid_nodes": 130,
+      "valid_nodes": 116,
       "quality_score": 40.8
     },
     {
@@ -57,7 +89,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "digtaalfathir/brd-rfid",
+      "repository": "MoFa08/sub",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -65,7 +97,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "xiaowulang-turbo/liteapp-auto-gray",
+      "repository": "sxhoio/WireMesh",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-28 06:19:48"
+  "updated_at": "2026-07-28 10:25:36"
 }
