@@ -3,66 +3,58 @@
     {
       "repository": "ermaozi/get_subscribe",
       "stars": 9151,
-      "forks": 668,
+      "forks": 669,
       "extracted_nodes": 38,
       "valid_nodes": 26,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1149,
+      "forks": 161,
+      "extracted_nodes": 3000,
+      "valid_nodes": 461,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 67,
       "forks": 66,
-      "extracted_nodes": 523,
-      "valid_nodes": 15,
+      "extracted_nodes": 646,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1148,
-      "forks": 161,
-      "extracted_nodes": 3000,
-      "valid_nodes": 445,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 518,
+      "forks": 21,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 79,
       "forks": 9,
-      "extracted_nodes": 773,
-      "valid_nodes": 182,
+      "extracted_nodes": 772,
+      "valid_nodes": 186,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 357,
-      "valid_nodes": 6,
+      "extracted_nodes": 366,
+      "valid_nodes": 5,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 285,
-      "forks": 25,
+      "repository": "shaoyouvip/free",
+      "stars": 922,
+      "forks": 83,
       "extracted_nodes": 9,
       "valid_nodes": 0,
       "quality_score": 60
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 142,
-      "valid_nodes": 132,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 209,
-      "quality_score": 40.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -73,21 +65,29 @@
       "quality_score": 40.0
     },
     {
-      "repository": "seow20/clash-jichang",
-      "stars": 32,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 26.6
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 186,
+      "quality_score": 40.0
     },
     {
-      "repository": "soursour010/jichangtuijian",
+      "repository": "sakura-lolipop/HotifyNEXT-Server",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.8
+    },
+    {
+      "repository": "ShJChow/xhttp-cdn-tuned",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-29 13:46:06"
+  "updated_at": "2026-07-29 17:04:27"
 }
