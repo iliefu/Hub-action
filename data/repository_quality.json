@@ -1,11 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "shaoyouvip/free",
-      "stars": 921,
-      "forks": 83,
-      "extracted_nodes": 6,
-      "valid_nodes": 3,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9153,
+      "forks": 669,
+      "extracted_nodes": 42,
+      "valid_nodes": 26,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 67,
+      "forks": 66,
+      "extracted_nodes": 512,
+      "valid_nodes": 29,
       "quality_score": 100
     },
     {
@@ -13,47 +21,47 @@
       "stars": 1150,
       "forks": 162,
       "extracted_nodes": 3000,
-      "valid_nodes": 454,
+      "valid_nodes": 475,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 67,
-      "forks": 66,
-      "extracted_nodes": 502,
-      "valid_nodes": 30,
-      "quality_score": 100
-    },
-    {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9153,
-      "forks": 669,
-      "extracted_nodes": 41,
-      "valid_nodes": 19,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 517,
+      "forks": 21,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 79,
       "forks": 9,
-      "extracted_nodes": 815,
-      "valid_nodes": 217,
+      "extracted_nodes": 816,
+      "valid_nodes": 210,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 359,
-      "valid_nodes": 7,
+      "extracted_nodes": 365,
+      "valid_nodes": 12,
       "quality_score": 88.0
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 285,
+      "forks": 25,
+      "extracted_nodes": 4,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 140,
-      "valid_nodes": 124,
+      "extracted_nodes": 141,
+      "valid_nodes": 129,
       "quality_score": 40.8
     },
     {
@@ -65,21 +73,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 175,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "linvva/cf-node-bench",
-      "stars": 0,
-      "forks": 0,
+      "repository": "XziXmn/legado-hub",
+      "stars": 8,
+      "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 7.4
     }
   ],
-  "updated_at": "2026-07-30 10:12:23"
+  "updated_at": "2026-07-30 13:25:41"
 }
