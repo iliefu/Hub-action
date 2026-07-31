@@ -13,15 +13,15 @@
       "stars": 1155,
       "forks": 163,
       "extracted_nodes": 3000,
-      "valid_nodes": 491,
+      "valid_nodes": 537,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 67,
       "forks": 67,
-      "extracted_nodes": 733,
-      "valid_nodes": 29,
+      "extracted_nodes": 371,
+      "valid_nodes": 14,
       "quality_score": 100
     },
     {
@@ -44,25 +44,25 @@
       "repository": "zhuhaiuk/free-nodes",
       "stars": 102,
       "forks": 9,
-      "extracted_nodes": 16,
-      "valid_nodes": 10,
+      "extracted_nodes": 36,
+      "valid_nodes": 19,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 372,
+      "extracted_nodes": 375,
       "valid_nodes": 9,
       "quality_score": 88.0
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 304,
-      "quality_score": 40.0
+      "extracted_nodes": 138,
+      "valid_nodes": 118,
+      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -71,39 +71,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "AllRates-Today/pboc-exchange-rate",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "10000ge10000/clash-config-gen",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "yingjianyue-star/yjmj",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-31 17:19:53"
+  "updated_at": "2026-07-31 20:52:50"
 }
