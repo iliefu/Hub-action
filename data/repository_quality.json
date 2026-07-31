@@ -1,68 +1,60 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9155,
-      "forks": 670,
-      "extracted_nodes": 54,
-      "valid_nodes": 36,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1154,
+      "forks": 163,
+      "extracted_nodes": 3000,
+      "valid_nodes": 506,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1151,
-      "forks": 163,
-      "extracted_nodes": 3000,
-      "valid_nodes": 484,
+      "repository": "shaoyouvip/free",
+      "stars": 922,
+      "forks": 83,
+      "extracted_nodes": 6,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 67,
       "forks": 66,
-      "extracted_nodes": 290,
-      "valid_nodes": 25,
+      "extracted_nodes": 620,
+      "valid_nodes": 38,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9155,
+      "forks": 670,
+      "extracted_nodes": 54,
+      "valid_nodes": 34,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 80,
       "forks": 9,
-      "extracted_nodes": 874,
-      "valid_nodes": 249,
+      "extracted_nodes": 873,
+      "valid_nodes": 229,
       "quality_score": 89.0
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 88,
-      "forks": 8,
-      "extracted_nodes": 372,
-      "valid_nodes": 12,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 286,
-      "forks": 25,
-      "extracted_nodes": 2,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "danmaifu/mianfeijiedian",
+      "stars": 146,
+      "forks": 4,
+      "extracted_nodes": 3000,
+      "valid_nodes": 354,
+      "quality_score": 84.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 143,
-      "valid_nodes": 132,
+      "extracted_nodes": 132,
+      "valid_nodes": 111,
       "quality_score": 40.8
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 209,
-      "quality_score": 40.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -71,7 +63,15 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "zgtanli/comfyui-prompt-organizer",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-07-31 01:48:29"
+  "updated_at": "2026-07-31 06:39:05"
 }
