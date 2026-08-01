@@ -2,18 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9166,
+      "stars": 9167,
       "forks": 671,
-      "extracted_nodes": 52,
-      "valid_nodes": 32,
+      "extracted_nodes": 48,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 67,
       "forks": 67,
-      "extracted_nodes": 643,
-      "valid_nodes": 38,
+      "extracted_nodes": 552,
+      "valid_nodes": 33,
       "quality_score": 100
     },
     {
@@ -21,7 +21,15 @@
       "stars": 1157,
       "forks": 164,
       "extracted_nodes": 3000,
-      "valid_nodes": 508,
+      "valid_nodes": 536,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 923,
+      "forks": 83,
+      "extracted_nodes": 41,
+      "valid_nodes": 21,
       "quality_score": 100
     },
     {
@@ -36,33 +44,33 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 80,
       "forks": 9,
-      "extracted_nodes": 904,
-      "valid_nodes": 254,
+      "extracted_nodes": 898,
+      "valid_nodes": 245,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 370,
-      "valid_nodes": 8,
+      "extracted_nodes": 377,
+      "valid_nodes": 4,
       "quality_score": 88.0
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 287,
+      "forks": 25,
+      "extracted_nodes": 4,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 138,
-      "valid_nodes": 130,
+      "extracted_nodes": 116,
+      "valid_nodes": 100,
       "quality_score": 40.8
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 201,
-      "quality_score": 40.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -81,13 +89,21 @@
       "quality_score": 5.8
     },
     {
-      "repository": "mrxuanz/imgtopixel",
-      "stars": 6,
+      "repository": "Noah-Oliver/proxy-rule",
+      "stars": 2,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 4.8
+      "quality_score": 1.6
+    },
+    {
+      "repository": "dongyu23/ACL4SSR-Luyuyun",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-08-01 09:50:36"
+  "updated_at": "2026-08-01 12:54:21"
 }
