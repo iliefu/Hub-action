@@ -9,52 +9,68 @@
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 67,
-      "forks": 67,
-      "extracted_nodes": 489,
-      "valid_nodes": 28,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1156,
       "forks": 164,
       "extracted_nodes": 3000,
-      "valid_nodes": 484,
+      "valid_nodes": 510,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 68,
+      "forks": 67,
+      "extracted_nodes": 734,
+      "valid_nodes": 26,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 523,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 80,
       "forks": 9,
-      "extracted_nodes": 898,
-      "valid_nodes": 272,
+      "extracted_nodes": 897,
+      "valid_nodes": 263,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 375,
+      "extracted_nodes": 372,
       "valid_nodes": 5,
       "quality_score": 88.0
+    },
+    {
+      "repository": "danmaifu/mianfeijiedian",
+      "stars": 146,
+      "forks": 4,
+      "extracted_nodes": 3000,
+      "valid_nodes": 346,
+      "quality_score": 84.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 211,
+      "forks": 26,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 116,
-      "valid_nodes": 105,
+      "extracted_nodes": 131,
+      "valid_nodes": 109,
       "quality_score": 40.8
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 190,
-      "quality_score": 40.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -71,7 +87,15 @@
       "extracted_nodes": 2,
       "valid_nodes": 0,
       "quality_score": 5.8
+    },
+    {
+      "repository": "tzd3005/ComfyUI-Prompt-Library",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-08-01 16:49:17"
+  "updated_at": "2026-08-01 20:42:31"
 }
