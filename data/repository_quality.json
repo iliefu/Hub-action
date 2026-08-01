@@ -5,31 +5,31 @@
       "stars": 9165,
       "forks": 670,
       "extracted_nodes": 52,
-      "valid_nodes": 34,
+      "valid_nodes": 31,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1157,
+      "forks": 164,
+      "extracted_nodes": 3000,
+      "valid_nodes": 518,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 67,
       "forks": 67,
-      "extracted_nodes": 317,
-      "valid_nodes": 28,
+      "extracted_nodes": 615,
+      "valid_nodes": 53,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 922,
-      "forks": 83,
-      "extracted_nodes": 118,
-      "valid_nodes": 58,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1156,
-      "forks": 163,
-      "extracted_nodes": 3000,
-      "valid_nodes": 567,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 521,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -37,22 +37,14 @@
       "stars": 80,
       "forks": 9,
       "extracted_nodes": 891,
-      "valid_nodes": 269,
+      "valid_nodes": 258,
       "quality_score": 89.0
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 88,
-      "forks": 8,
-      "extracted_nodes": 375,
-      "valid_nodes": 11,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 287,
-      "forks": 25,
-      "extracted_nodes": 2,
+      "repository": "wenxig/dongtai-sub",
+      "stars": 211,
+      "forks": 26,
+      "extracted_nodes": 11,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -61,7 +53,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 138,
-      "valid_nodes": 123,
+      "valid_nodes": 128,
       "quality_score": 40.8
     },
     {
@@ -71,15 +63,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "zhmgczh/GhostWarp",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-01 01:48:40"
+  "updated_at": "2026-08-01 06:20:07"
 }
