@@ -63,6 +63,7 @@
     "ChesionSoft/Sion",
     "CloudTool/proxy_share",
     "ComfyUI-Plugin/UNet-CLIP-VAE",
+    "CreditsPlan/creditsplan-cn",
     "D1-2004/dingtalk-doc-multica-sync",
     "DaBao-Lee/V2RayN-NodeShare",
     "Delta-Kronecker/WARP-Config",
@@ -296,6 +297,7 @@
     "eallion/uBlacklist-subscription-compilation",
     "easykkv/proxy-sub-aggregator",
     "emptysuns/Hi_Hysteria",
+    "ermaozi/ermao.net",
     "ermaozi/pyjichang.com",
     "ertugrulozcan/next-marquee",
     "esmnext/esmx",
@@ -668,5 +670,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-08-02 06:25:58"
+  "updated_at": "2026-08-02 09:48:30"
 }
