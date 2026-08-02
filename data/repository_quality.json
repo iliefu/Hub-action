@@ -2,50 +2,42 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9169,
+      "stars": 9170,
       "forks": 671,
-      "extracted_nodes": 48,
-      "valid_nodes": 29,
+      "extracted_nodes": 52,
+      "valid_nodes": 34,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1156,
-      "forks": 164,
+      "forks": 165,
       "extracted_nodes": 3000,
-      "valid_nodes": 510,
+      "valid_nodes": 504,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 68,
       "forks": 67,
-      "extracted_nodes": 734,
-      "valid_nodes": 26,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 523,
-      "forks": 22,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "extracted_nodes": 367,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 80,
+      "stars": 81,
       "forks": 9,
-      "extracted_nodes": 897,
-      "valid_nodes": 263,
+      "extracted_nodes": 952,
+      "valid_nodes": 283,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 372,
-      "valid_nodes": 5,
+      "extracted_nodes": 367,
+      "valid_nodes": 6,
       "quality_score": 88.0
     },
     {
@@ -53,14 +45,22 @@
       "stars": 146,
       "forks": 4,
       "extracted_nodes": 3000,
-      "valid_nodes": 346,
+      "valid_nodes": 321,
       "quality_score": 84.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 211,
-      "forks": 26,
-      "extracted_nodes": 11,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 523,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 287,
+      "forks": 25,
+      "extracted_nodes": 4,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -69,7 +69,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 131,
-      "valid_nodes": 109,
+      "valid_nodes": 107,
       "quality_score": 40.8
     },
     {
@@ -89,13 +89,13 @@
       "quality_score": 5.8
     },
     {
-      "repository": "tzd3005/ComfyUI-Prompt-Library",
-      "stars": 1,
+      "repository": "Non-existent987/codingplanguide",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-01 20:42:31"
+  "updated_at": "2026-08-02 01:47:11"
 }
