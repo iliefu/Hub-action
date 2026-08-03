@@ -2,58 +2,66 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9173,
+      "stars": 9174,
       "forks": 671,
-      "extracted_nodes": 60,
-      "valid_nodes": 30,
+      "extracted_nodes": 39,
+      "valid_nodes": 23,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 68,
       "forks": 67,
-      "extracted_nodes": 662,
-      "valid_nodes": 26,
+      "extracted_nodes": 434,
+      "valid_nodes": 22,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1159,
+      "stars": 1161,
       "forks": 165,
       "extracted_nodes": 3000,
-      "valid_nodes": 477,
+      "valid_nodes": 528,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 529,
+      "stars": 530,
       "forks": 22,
       "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "valid_nodes": 1,
+      "quality_score": 100
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 287,
+      "forks": 25,
+      "extracted_nodes": 31,
+      "valid_nodes": 1,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7846,
+      "forks": 1240,
+      "extracted_nodes": 424,
+      "valid_nodes": 186,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 81,
       "forks": 9,
-      "extracted_nodes": 962,
-      "valid_nodes": 272,
-      "quality_score": 89.0
-    },
-    {
-      "repository": "zhuhaiuk/free-nodes",
-      "stars": 106,
-      "forks": 9,
-      "extracted_nodes": 32,
-      "valid_nodes": 14,
+      "extracted_nodes": 969,
+      "valid_nodes": 298,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 367,
-      "valid_nodes": 6,
+      "extracted_nodes": 364,
+      "valid_nodes": 7,
       "quality_score": 88.0
     },
     {
@@ -61,7 +69,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 126,
-      "valid_nodes": 112,
+      "valid_nodes": 113,
       "quality_score": 40.8
     },
     {
@@ -73,7 +81,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "zhaocc2333/ComfyUI-AnimaRandomGen",
+      "repository": "Lanlan13-14/Proxym-Easy",
+      "stars": 11,
+      "forks": 0,
+      "extracted_nodes": 1,
+      "valid_nodes": 0,
+      "quality_score": 8.8
+    },
+    {
+      "repository": "Leskur/subconverter-x-server",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "2011169588/Godot-ChineseNodeSelector",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-02 20:42:22"
+  "updated_at": "2026-08-03 01:47:10"
 }
