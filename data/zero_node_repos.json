@@ -52,6 +52,7 @@
     "BannyLon/NPie-Draftstage",
     "Beallenonindustrial63/no-ai-in-nodejs-core",
     "Bemly/china-steam-pricer",
+    "BeterXie/ai_price_radar",
     "BillBeam/agent-radar",
     "CB-X2-Jun/proxy-lists",
     "CaoMeiYouRen/rss-impact-server",
@@ -67,6 +68,7 @@
     "CreditsPlan/creditsplan-cn",
     "D1-2004/dingtalk-doc-multica-sync",
     "DaBao-Lee/V2RayN-NodeShare",
+    "Dbackolds/CodexRenew",
     "Delta-Kronecker/WARP-Config",
     "Delta-Kronecker/WarpGenerator",
     "DeterminantMatrix/ACL4SSR",
@@ -206,6 +208,7 @@
     "XD06/proxy-pool-manager",
     "XKLingYu/kk-vibe-cli",
     "Xeonice/kitty-config",
+    "XhesicaFrost/gamebook-reader",
     "XiaoM-OVO/cvr-config",
     "Xpos587/vless-sub-server",
     "XuelinHu/chinese-vietnamese-railway-term-learning",
@@ -234,6 +237,7 @@
     "andyxu12341/proxy-group-notes",
     "animarkuss-arch/warp-config-generator-vercel",
     "anviod/edgeOS",
+    "api-evangelist/oneapm",
     "apple-fun/Share-SSR-V2ray-network",
     "arenazhong/crypto_all_in_one",
     "arounyf/Headscale-Admin-Pro",
@@ -298,6 +302,7 @@
     "dongyu23/ACL4SSR-Luyuyun",
     "dongyubin/Free-AppleId-Serve",
     "dozendoggy/xiaodongxi",
+    "dqqqqd1/yunxiang-free-node",
     "e13815332/ASNIPtest",
     "eallion/uBlacklist-subscription-compilation",
     "easykkv/proxy-sub-aggregator",
@@ -678,5 +683,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-08-03 11:12:26"
+  "updated_at": "2026-08-03 14:14:15"
 }
