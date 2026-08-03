@@ -2,10 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9174,
+      "stars": 9175,
       "forks": 670,
       "extracted_nodes": 39,
-      "valid_nodes": 23,
+      "valid_nodes": 24,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 68,
+      "forks": 67,
+      "extracted_nodes": 669,
+      "valid_nodes": 35,
       "quality_score": 100
     },
     {
@@ -13,39 +21,55 @@
       "stars": 1161,
       "forks": 165,
       "extracted_nodes": 3000,
-      "valid_nodes": 495,
+      "valid_nodes": 339,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 68,
-      "forks": 67,
-      "extracted_nodes": 677,
-      "valid_nodes": 34,
+      "repository": "PuddinCat/BestClash",
+      "stars": 1838,
+      "forks": 116,
+      "extracted_nodes": 16,
+      "valid_nodes": 9,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 530,
+      "stars": 531,
       "forks": 22,
       "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 81,
+      "stars": 82,
       "forks": 9,
-      "extracted_nodes": 980,
-      "valid_nodes": 295,
+      "extracted_nodes": 988,
+      "valid_nodes": 284,
       "quality_score": 89.0
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 89,
+      "forks": 8,
+      "extracted_nodes": 367,
+      "valid_nodes": 6,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 212,
+      "forks": 26,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 128,
-      "valid_nodes": 118,
+      "valid_nodes": 107,
       "quality_score": 40.8
     },
     {
@@ -55,7 +79,39 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "LightningLion-Studio/Android_WatchRSS",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.6
+    },
+    {
+      "repository": "LightningLion-Studio/Android_WatchRSS_Phone",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "Gu-ZT/MinecraftNexusPanel",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "sunflowermm/vibe-learn",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-03 06:51:28"
+  "updated_at": "2026-08-03 11:12:39"
 }
