@@ -2,7 +2,7 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9176,
+      "stars": 9179,
       "forks": 670,
       "extracted_nodes": 45,
       "valid_nodes": 23,
@@ -13,24 +13,64 @@
       "stars": 1163,
       "forks": 168,
       "extracted_nodes": 3000,
-      "valid_nodes": 528,
+      "valid_nodes": 484,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 70,
+      "forks": 67,
+      "extracted_nodes": 692,
+      "valid_nodes": 39,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1839,
+      "forks": 116,
+      "extracted_nodes": 16,
+      "valid_nodes": 9,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7849,
+      "forks": 1241,
+      "extracted_nodes": 117,
+      "valid_nodes": 21,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 536,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 82,
       "forks": 9,
-      "extracted_nodes": 1000,
-      "valid_nodes": 294,
+      "extracted_nodes": 995,
+      "valid_nodes": 286,
       "quality_score": 89.0
     },
     {
-      "repository": "cirosantilli/cirosantilli",
-      "stars": 295,
-      "forks": 32,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 89,
+      "forks": 8,
+      "extracted_nodes": 355,
+      "valid_nodes": 5,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 211,
+      "quality_score": 40.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -41,14 +81,6 @@
       "quality_score": 40.0
     },
     {
-      "repository": "KaWaIDeSuNe/NekoSpeed",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 3,
-      "valid_nodes": 0,
-      "quality_score": 2.4
-    },
-    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
@@ -57,21 +89,13 @@
       "quality_score": 0.8
     },
     {
-      "repository": "tony3080/MoviePilot-Plugins1",
-      "stars": 0,
+      "repository": "FeministCalculus/Fc-applications",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "jkjk11sd/xiangqing-game-shield",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-08-04 06:19:28"
+  "updated_at": "2026-08-04 10:27:34"
 }
