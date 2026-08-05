@@ -2,50 +2,50 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9181,
-      "forks": 670,
+      "stars": 9182,
+      "forks": 671,
       "extracted_nodes": 51,
       "valid_nodes": 27,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1165,
+      "stars": 1166,
       "forks": 169,
       "extracted_nodes": 3000,
-      "valid_nodes": 480,
+      "valid_nodes": 523,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 69,
       "forks": 67,
-      "extracted_nodes": 704,
-      "valid_nodes": 40,
+      "extracted_nodes": 290,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7851,
-      "forks": 1241,
-      "extracted_nodes": 205,
-      "valid_nodes": 29,
+      "repository": "shaoyouvip/free",
+      "stars": 938,
+      "forks": 84,
+      "extracted_nodes": 58,
+      "valid_nodes": 27,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1838,
-      "forks": 116,
-      "extracted_nodes": 16,
-      "valid_nodes": 9,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 287,
+      "forks": 25,
+      "extracted_nodes": 25,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 82,
+      "stars": 83,
       "forks": 9,
-      "extracted_nodes": 1001,
-      "valid_nodes": 307,
+      "extracted_nodes": 1021,
+      "valid_nodes": 305,
       "quality_score": 89.0
     },
     {
@@ -53,24 +53,8 @@
       "stars": 88,
       "forks": 8,
       "extracted_nodes": 433,
-      "valid_nodes": 12,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "CB-X2-Jun/verified-v2ray-lists",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 192,
       "valid_nodes": 13,
-      "quality_score": 41.6
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 218,
-      "quality_score": 40.0
+      "quality_score": 88.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -89,5 +73,5 @@
       "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-08-04 21:02:14"
+  "updated_at": "2026-08-05 01:28:00"
 }
