@@ -9,52 +9,60 @@
       "quality_score": 100
     },
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1166,
+      "forks": 170,
+      "extracted_nodes": 3000,
+      "valid_nodes": 451,
+      "quality_score": 100
+    },
+    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 69,
       "forks": 67,
-      "extracted_nodes": 537,
-      "valid_nodes": 21,
+      "extracted_nodes": 676,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1166,
-      "forks": 169,
-      "extracted_nodes": 3000,
-      "valid_nodes": 461,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 938,
-      "forks": 84,
-      "extracted_nodes": 131,
-      "valid_nodes": 63,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 537,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 83,
       "forks": 9,
-      "extracted_nodes": 1034,
-      "valid_nodes": 296,
+      "extracted_nodes": 1024,
+      "valid_nodes": 273,
       "quality_score": 89.0
     },
     {
-      "repository": "Ychangqing/IGraph",
-      "stars": 57,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 41.0
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 88,
+      "forks": 8,
+      "extracted_nodes": 440,
+      "valid_nodes": 11,
+      "quality_score": 88.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 134,
-      "valid_nodes": 128,
+      "valid_nodes": 121,
       "quality_score": 40.8
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 255,
+      "quality_score": 40.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -65,20 +73,12 @@
       "quality_score": 40.0
     },
     {
-      "repository": "cijsm8/static-ip-vps",
-      "stars": 1,
+      "repository": "kadragon/streamdeck-plugin",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "tbhc796/wepc-ip-vps",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     },
     {
       "repository": "Krishvijay1234/Heritage",
@@ -87,7 +87,23 @@
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.0
+    },
+    {
+      "repository": "Tianmoy/etxr",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "cpddli/ASNIP",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-05 06:19:25"
+  "updated_at": "2026-08-05 10:25:14"
 }
