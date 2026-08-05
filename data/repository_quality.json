@@ -2,26 +2,26 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9182,
+      "stars": 9183,
       "forks": 671,
       "extracted_nodes": 51,
-      "valid_nodes": 27,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1166,
-      "forks": 170,
-      "extracted_nodes": 3000,
-      "valid_nodes": 451,
+      "valid_nodes": 29,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 69,
       "forks": 67,
-      "extracted_nodes": 676,
-      "valid_nodes": 26,
+      "extracted_nodes": 598,
+      "valid_nodes": 28,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1168,
+      "forks": 170,
+      "extracted_nodes": 3000,
+      "valid_nodes": 446,
       "quality_score": 100
     },
     {
@@ -33,27 +33,43 @@
       "quality_score": 100
     },
     {
+      "repository": "zhangkaiitugithub/passcro",
+      "stars": 113,
+      "forks": 13,
+      "extracted_nodes": 8,
+      "valid_nodes": 4,
+      "quality_score": 93.0
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 83,
       "forks": 9,
-      "extracted_nodes": 1024,
-      "valid_nodes": 273,
+      "extracted_nodes": 1035,
+      "valid_nodes": 298,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 88,
       "forks": 8,
-      "extracted_nodes": 440,
-      "valid_nodes": 11,
+      "extracted_nodes": 444,
+      "valid_nodes": 12,
       "quality_score": 88.0
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 285,
+      "forks": 25,
+      "extracted_nodes": 4,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 134,
-      "valid_nodes": 121,
+      "extracted_nodes": 129,
+      "valid_nodes": 113,
       "quality_score": 40.8
     },
     {
@@ -61,7 +77,7 @@
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 255,
+      "valid_nodes": 218,
       "quality_score": 40.0
     },
     {
@@ -73,12 +89,12 @@
       "quality_score": 40.0
     },
     {
-      "repository": "kadragon/streamdeck-plugin",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
+      "repository": "oplopo/Warp-config-ip-Hiddify-",
+      "stars": 6,
+      "forks": 1,
+      "extracted_nodes": 1,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 5.8
     },
     {
       "repository": "Krishvijay1234/Heritage",
@@ -87,23 +103,7 @@
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.0
-    },
-    {
-      "repository": "Tianmoy/etxr",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "cpddli/ASNIP",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-05 10:25:14"
+  "updated_at": "2026-08-05 13:42:16"
 }
