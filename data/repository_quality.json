@@ -9,52 +9,52 @@
       "quality_score": 100
     },
     {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 69,
+      "forks": 67,
+      "extracted_nodes": 537,
+      "valid_nodes": 21,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1166,
       "forks": 169,
       "extracted_nodes": 3000,
-      "valid_nodes": 523,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 69,
-      "forks": 67,
-      "extracted_nodes": 290,
-      "valid_nodes": 28,
+      "valid_nodes": 461,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
       "stars": 938,
       "forks": 84,
-      "extracted_nodes": 58,
-      "valid_nodes": 27,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 287,
-      "forks": 25,
-      "extracted_nodes": 25,
-      "valid_nodes": 1,
+      "extracted_nodes": 131,
+      "valid_nodes": 63,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 83,
       "forks": 9,
-      "extracted_nodes": 1021,
-      "valid_nodes": 305,
+      "extracted_nodes": 1034,
+      "valid_nodes": 296,
       "quality_score": 89.0
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 88,
-      "forks": 8,
-      "extracted_nodes": 433,
-      "valid_nodes": 13,
-      "quality_score": 88.0
+      "repository": "Ychangqing/IGraph",
+      "stars": 57,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 41.0
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 134,
+      "valid_nodes": 128,
+      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -65,13 +65,29 @@
       "quality_score": 40.0
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
+      "repository": "cijsm8/static-ip-vps",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.8
+    },
+    {
+      "repository": "tbhc796/wepc-ip-vps",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "Krishvijay1234/Heritage",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-05 01:28:00"
+  "updated_at": "2026-08-05 06:19:25"
 }
