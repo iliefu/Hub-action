@@ -2,26 +2,34 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9185,
+      "stars": 9187,
       "forks": 671,
       "extracted_nodes": 41,
-      "valid_nodes": 24,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1169,
-      "forks": 170,
-      "extracted_nodes": 3000,
-      "valid_nodes": 438,
+      "valid_nodes": 25,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 69,
       "forks": 67,
-      "extracted_nodes": 623,
-      "valid_nodes": 20,
+      "extracted_nodes": 3000,
+      "valid_nodes": 407,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1171,
+      "forks": 170,
+      "extracted_nodes": 3000,
+      "valid_nodes": 573,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 942,
+      "forks": 85,
+      "extracted_nodes": 24,
+      "valid_nodes": 7,
       "quality_score": 100
     },
     {
@@ -36,40 +44,40 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 83,
       "forks": 9,
-      "extracted_nodes": 1043,
-      "valid_nodes": 292,
+      "extracted_nodes": 1040,
+      "valid_nodes": 288,
+      "quality_score": 89.0
+    },
+    {
+      "repository": "zhuhaiuk/free-nodes",
+      "stars": 106,
+      "forks": 9,
+      "extracted_nodes": 23,
+      "valid_nodes": 9,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 89,
       "forks": 8,
-      "extracted_nodes": 463,
-      "valid_nodes": 12,
+      "extracted_nodes": 465,
+      "valid_nodes": 13,
       "quality_score": 88.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 212,
-      "forks": 26,
-      "extracted_nodes": 11,
+      "repository": "charleslee8266/cardnav-web",
+      "stars": 126,
+      "forks": 8,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "saishun/TyporaTheme",
-      "stars": 4,
-      "forks": 16,
-      "extracted_nodes": 136,
-      "valid_nodes": 63,
-      "quality_score": 59.2
+      "quality_score": 48.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 134,
-      "valid_nodes": 125,
+      "valid_nodes": 115,
       "quality_score": 40.8
     },
     {
@@ -81,22 +89,6 @@
       "quality_score": 40.0
     },
     {
-      "repository": "1841220388zzzcccxxx-star/modbus-rtu-learning-simulator-Modbus-RTU-",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "lakeart/northwest-ich-platform",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
       "repository": "Krishvijay1234/Heritage",
       "stars": 0,
       "forks": 0,
@@ -105,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-06 06:22:35"
+  "updated_at": "2026-08-06 10:26:49"
 }
