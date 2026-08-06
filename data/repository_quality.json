@@ -1,32 +1,40 @@
 {
   "repositories": [
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9183,
+      "forks": 671,
+      "extracted_nodes": 41,
+      "valid_nodes": 25,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1169,
       "forks": 170,
       "extracted_nodes": 3000,
-      "valid_nodes": 472,
+      "valid_nodes": 451,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 69,
       "forks": 67,
-      "extracted_nodes": 685,
-      "valid_nodes": 30,
+      "extracted_nodes": 476,
+      "valid_nodes": 22,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9183,
-      "forks": 671,
-      "extracted_nodes": 51,
-      "valid_nodes": 29,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 286,
+      "forks": 25,
+      "extracted_nodes": 27,
+      "valid_nodes": 3,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 537,
+      "stars": 538,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -36,33 +44,33 @@
       "repository": "wenxig/free-nodes-sub",
       "stars": 83,
       "forks": 9,
-      "extracted_nodes": 1024,
-      "valid_nodes": 290,
+      "extracted_nodes": 1026,
+      "valid_nodes": 280,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 88,
+      "stars": 89,
       "forks": 8,
-      "extracted_nodes": 460,
-      "valid_nodes": 13,
+      "extracted_nodes": 463,
+      "valid_nodes": 12,
       "quality_score": 88.0
+    },
+    {
+      "repository": "pengchujin/tower",
+      "stars": 60,
+      "forks": 2,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 42.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 139,
-      "valid_nodes": 112,
+      "valid_nodes": 108,
       "quality_score": 40.8
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 225,
-      "quality_score": 40.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -73,6 +81,14 @@
       "quality_score": 40.0
     },
     {
+      "repository": "Leon-PanPan/one-api-pro",
+      "stars": 36,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 28.8
+    },
+    {
       "repository": "oplopo/Warp-config-ip-Hiddify-",
       "stars": 6,
       "forks": 1,
@@ -81,7 +97,23 @@
       "quality_score": 5.8
     },
     {
+      "repository": "Dominic-Atari/novaai-app",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
       "repository": "Krishvijay1234/Heritage",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "wonidie66/Clash-for-Windows-Meta-Core-Patch",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +121,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-05 20:57:20"
+  "updated_at": "2026-08-06 01:25:17"
 }
