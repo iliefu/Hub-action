@@ -2,7 +2,7 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9191,
+      "stars": 9192,
       "forks": 673,
       "extracted_nodes": 52,
       "valid_nodes": 30,
@@ -13,23 +13,39 @@
       "stars": 1179,
       "forks": 170,
       "extracted_nodes": 3000,
-      "valid_nodes": 616,
+      "valid_nodes": 547,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7881,
+      "forks": 1243,
+      "extracted_nodes": 204,
+      "valid_nodes": 30,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 540,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 84,
+      "stars": 85,
       "forks": 9,
       "extracted_nodes": 1035,
-      "valid_nodes": 288,
+      "valid_nodes": 274,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 89,
       "forks": 8,
-      "extracted_nodes": 466,
-      "valid_nodes": 12,
+      "extracted_nodes": 470,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
@@ -37,7 +53,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 142,
-      "valid_nodes": 135,
+      "valid_nodes": 126,
       "quality_score": 40.8
     },
     {
@@ -45,7 +61,7 @@
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 293,
+      "valid_nodes": 296,
       "quality_score": 40.0
     },
     {
@@ -57,15 +73,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "649082922/oceanbase",
-      "stars": 2,
+      "repository": "Krishvijay1234/Heritage",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.6
+      "quality_score": 0.0
     },
     {
-      "repository": "Krishvijay1234/Heritage",
+      "repository": "juntiy/life-skill-tree",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "lemyhello/starrocks-tool",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-07 05:28:54"
+  "updated_at": "2026-08-07 08:46:24"
 }
