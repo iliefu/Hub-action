@@ -1,52 +1,68 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9192,
-      "forks": 674,
-      "extracted_nodes": 43,
-      "valid_nodes": 24,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 71,
+      "forks": 68,
+      "extracted_nodes": 1265,
+      "valid_nodes": 58,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1185,
+      "stars": 1187,
       "forks": 170,
       "extracted_nodes": 3000,
-      "valid_nodes": 574,
+      "valid_nodes": 563,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 71,
-      "forks": 68,
-      "extracted_nodes": 1084,
-      "valid_nodes": 41,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9192,
+      "forks": 674,
+      "extracted_nodes": 43,
+      "valid_nodes": 25,
+      "quality_score": 100
+    },
+    {
+      "repository": "dongchengjie/airport",
+      "stars": 614,
+      "forks": 53,
+      "extracted_nodes": 3000,
+      "valid_nodes": 1781,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1847,
+      "forks": 116,
+      "extracted_nodes": 16,
+      "valid_nodes": 9,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 86,
+      "stars": 87,
       "forks": 9,
-      "extracted_nodes": 1046,
-      "valid_nodes": 263,
+      "extracted_nodes": 1039,
+      "valid_nodes": 249,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 91,
       "forks": 8,
-      "extracted_nodes": 482,
-      "valid_nodes": 15,
+      "extracted_nodes": 473,
+      "valid_nodes": 14,
       "quality_score": 88.0
     },
     {
-      "repository": "v2raynnodes/v2rayfree",
-      "stars": 65,
-      "forks": 7,
-      "extracted_nodes": 1174,
-      "valid_nodes": 231,
-      "quality_score": 87.0
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 146,
+      "valid_nodes": 127,
+      "quality_score": 40.8
     },
     {
       "repository": "bzfq21/proxy-singbox",
@@ -57,13 +73,29 @@
       "quality_score": 40.8
     },
     {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 286,
+      "quality_score": 40.0
+    },
+    {
       "repository": "anonymous99-Rise/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "haowang02/cpa-plugin-key-billing",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-08 16:19:54"
+  "updated_at": "2026-08-08 20:17:59"
 }
