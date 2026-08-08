@@ -5,7 +5,7 @@
       "stars": 9192,
       "forks": 672,
       "extracted_nodes": 51,
-      "valid_nodes": 32,
+      "valid_nodes": 30,
       "quality_score": 100
     },
     {
@@ -13,63 +13,39 @@
       "stars": 1185,
       "forks": 170,
       "extracted_nodes": 3000,
-      "valid_nodes": 534,
+      "valid_nodes": 542,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 71,
       "forks": 68,
-      "extracted_nodes": 733,
-      "valid_nodes": 25,
+      "extracted_nodes": 1100,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 951,
-      "forks": 86,
-      "extracted_nodes": 58,
-      "valid_nodes": 27,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 287,
-      "forks": 25,
-      "extracted_nodes": 33,
-      "valid_nodes": 1,
+      "repository": "free18/v2ray",
+      "stars": 5178,
+      "forks": 238,
+      "extracted_nodes": 413,
+      "valid_nodes": 223,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 86,
       "forks": 9,
-      "extracted_nodes": 1036,
+      "extracted_nodes": 1042,
       "valid_nodes": 275,
       "quality_score": 89.0
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 91,
-      "forks": 8,
-      "extracted_nodes": 477,
-      "valid_nodes": 13,
-      "quality_score": 88.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 146,
-      "valid_nodes": 127,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "bzfq21/proxy-singbox",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 16,
-      "valid_nodes": 6,
+      "extracted_nodes": 140,
+      "valid_nodes": 136,
       "quality_score": 40.8
     },
     {
@@ -87,15 +63,7 @@
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.0
-    },
-    {
-      "repository": "pyonline/xiaomi-news",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-08 00:47:54"
+  "updated_at": "2026-08-08 04:45:29"
 }

@@ -10075,30 +10075,6 @@
       "last_nodes_update": "2026-07-30T17:15:47.578812Z"
     },
     {
-      "repository": "free18/v2ray",
-      "stars": 4947,
-      "forks": 232,
-      "extracted_nodes": 670,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "c.yaml",
-          "node_count": 500,
-          "last_checked": "2026-07-03T10:26:56.954730Z",
-          "url": "https://raw.githubusercontent.com/free18/v2ray/main/c.yaml"
-        },
-        {
-          "path": "v.txt",
-          "node_count": 542,
-          "last_checked": "2026-07-03T10:26:57.039153Z",
-          "url": "https://raw.githubusercontent.com/free18/v2ray/main/v.txt"
-        }
-      ],
-      "last_full_scan": "2026-07-03T10:26:59.912984Z",
-      "last_nodes_update": "2026-07-03T10:26:59.913008Z"
-    },
-    {
       "repository": "kooker/FreeSubsCheck",
       "stars": 68,
       "forks": 9,
@@ -10681,6 +10657,30 @@
       "last_nodes_update": "2026-08-06T13:40:27.651532Z"
     },
     {
+      "repository": "free18/v2ray",
+      "stars": 5178,
+      "forks": 238,
+      "extracted_nodes": 413,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "c.yaml",
+          "node_count": 219,
+          "last_checked": "2026-08-08T04:45:13.786294Z",
+          "url": "https://raw.githubusercontent.com/free18/v2ray/main/c.yaml"
+        },
+        {
+          "path": "v.txt",
+          "node_count": 225,
+          "last_checked": "2026-08-08T04:45:13.866726Z",
+          "url": "https://raw.githubusercontent.com/free18/v2ray/main/v.txt"
+        }
+      ],
+      "last_full_scan": "2026-08-08T04:45:14.637916Z",
+      "last_nodes_update": "2026-08-08T04:45:14.637943Z"
+    },
+    {
       "repository": "dalichuqijiai/DaLiVpn",
       "stars": 0,
       "forks": 0,
@@ -11197,7 +11197,7 @@
       "last_nodes_update": "2026-07-16T09:57:47.066154Z"
     }
   ],
-  "updated_at": "2026-08-08 00:47:41",
+  "updated_at": "2026-08-08 04:45:14",
   "total_whitelisted_repos": 32,
-  "total_cached_nodes": 35595
+  "total_cached_nodes": 35338
 }
