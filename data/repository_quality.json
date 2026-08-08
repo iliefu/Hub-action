@@ -2,18 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9193,
-      "forks": 673,
+      "stars": 9192,
+      "forks": 674,
       "extracted_nodes": 43,
       "valid_nodes": 24,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 71,
-      "forks": 68,
-      "extracted_nodes": 1068,
-      "valid_nodes": 44,
       "quality_score": 100
     },
     {
@@ -21,48 +13,48 @@
       "stars": 1185,
       "forks": 170,
       "extracted_nodes": 3000,
-      "valid_nodes": 567,
+      "valid_nodes": 574,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 71,
+      "forks": 68,
+      "extracted_nodes": 1084,
+      "valid_nodes": 41,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 86,
       "forks": 9,
-      "extracted_nodes": 1049,
-      "valid_nodes": 282,
+      "extracted_nodes": 1046,
+      "valid_nodes": 263,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 91,
       "forks": 8,
-      "extracted_nodes": 475,
-      "valid_nodes": 11,
+      "extracted_nodes": 482,
+      "valid_nodes": 15,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 287,
-      "forks": 25,
-      "extracted_nodes": 13,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 65,
+      "forks": 7,
+      "extracted_nodes": 1174,
+      "valid_nodes": 231,
+      "quality_score": 87.0
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
+      "repository": "bzfq21/proxy-singbox",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 143,
-      "valid_nodes": 132,
+      "extracted_nodes": 16,
+      "valid_nodes": 5,
       "quality_score": 40.8
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 293,
-      "quality_score": 40.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -71,15 +63,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "lyu0805/aura",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-08-08 12:25:29"
+  "updated_at": "2026-08-08 16:19:54"
 }
