@@ -1,42 +1,58 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1183,
-      "forks": 170,
-      "extracted_nodes": 3000,
-      "valid_nodes": 570,
-      "quality_score": 100
-    },
-    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9192,
-      "forks": 673,
-      "extracted_nodes": 38,
-      "valid_nodes": 19,
+      "forks": 672,
+      "extracted_nodes": 51,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7885,
-      "forks": 1243,
-      "extracted_nodes": 206,
-      "valid_nodes": 29,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1185,
+      "forks": 170,
+      "extracted_nodes": 3000,
+      "valid_nodes": 534,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 71,
+      "forks": 68,
+      "extracted_nodes": 733,
+      "valid_nodes": 25,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 951,
+      "forks": 86,
+      "extracted_nodes": 58,
+      "valid_nodes": 27,
+      "quality_score": 100
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 287,
+      "forks": 25,
+      "extracted_nodes": 33,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 86,
       "forks": 9,
-      "extracted_nodes": 1039,
-      "valid_nodes": 285,
+      "extracted_nodes": 1036,
+      "valid_nodes": 275,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 91,
       "forks": 8,
-      "extracted_nodes": 469,
+      "extracted_nodes": 477,
       "valid_nodes": 13,
       "quality_score": 88.0
     },
@@ -45,16 +61,16 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 146,
-      "valid_nodes": 123,
+      "valid_nodes": 127,
       "quality_score": 40.8
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 0,
+      "repository": "bzfq21/proxy-singbox",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 288,
-      "quality_score": 40.0
+      "extracted_nodes": 16,
+      "valid_nodes": 6,
+      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -65,7 +81,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "jmetrikat/dotfiles",
+      "repository": "Krishvijay1234/Heritage",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,7 +89,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "Krishvijay1234/Heritage",
+      "repository": "pyonline/xiaomi-news",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-07 20:29:15"
+  "updated_at": "2026-08-08 00:47:54"
 }
