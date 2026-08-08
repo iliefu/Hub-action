@@ -370,6 +370,7 @@
     "haokejie/clash-tui",
     "haomuch/subconvert",
     "happy-everyday-everyweek/nodevisual-app-builder",
+    "hardhackerlabs/book",
     "harrypapaai/limitless",
     "hbrmod1/go-mami-cn2-routing",
     "hello-world-1989/temp",
@@ -390,6 +391,7 @@
     "hzjanuary/warp-linux-config",
     "i234323/warp-config-generator-vercel",
     "icekale/cms-tg-ingest",
+    "icekale/dav-subscription",
     "idQvvr74PyCF/best-clash-subscribe",
     "idadawn/sing-box-deploy",
     "iiluog/shopify-marketplace-integrations",
@@ -484,6 +486,7 @@
     "luka-n8n-nodes/n8n-nodes-feilian",
     "luka-n8n-nodes/n8n-nodes-kingdee",
     "lv1238/innovationB1",
+    "lynx-gt/IndexTTS2-PauseControl",
     "lzm880880/free-vpn-clash-nodes",
     "macrwfuse/myspeed-cn",
     "mailzwj/ComfyUI-MultiScene-Prompt",
@@ -714,5 +717,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-08-08 04:45:14"
+  "updated_at": "2026-08-08 08:28:42"
 }
