@@ -2,10 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9192,
-      "forks": 672,
-      "extracted_nodes": 51,
-      "valid_nodes": 28,
+      "stars": 9193,
+      "forks": 673,
+      "extracted_nodes": 43,
+      "valid_nodes": 24,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 71,
+      "forks": 68,
+      "extracted_nodes": 1068,
+      "valid_nodes": 44,
       "quality_score": 100
     },
     {
@@ -13,38 +21,30 @@
       "stars": 1185,
       "forks": 170,
       "extracted_nodes": 3000,
-      "valid_nodes": 550,
-      "quality_score": 100
-    },
-    {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7892,
-      "forks": 1243,
-      "extracted_nodes": 210,
-      "valid_nodes": 32,
+      "valid_nodes": 567,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
       "stars": 86,
       "forks": 9,
-      "extracted_nodes": 1040,
-      "valid_nodes": 266,
+      "extracted_nodes": 1049,
+      "valid_nodes": 282,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 91,
       "forks": 8,
-      "extracted_nodes": 476,
-      "valid_nodes": 13,
+      "extracted_nodes": 475,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
-      "repository": "hardhackerlabs/book",
-      "stars": 1371,
-      "forks": 52,
-      "extracted_nodes": 0,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 287,
+      "forks": 25,
+      "extracted_nodes": 13,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -52,8 +52,8 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 140,
-      "valid_nodes": 131,
+      "extracted_nodes": 143,
+      "valid_nodes": 132,
       "quality_score": 40.8
     },
     {
@@ -61,7 +61,7 @@
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 268,
+      "valid_nodes": 293,
       "quality_score": 40.0
     },
     {
@@ -73,21 +73,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "icekale/dav-subscription",
-      "stars": 2,
+      "repository": "lyu0805/aura",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.6
-    },
-    {
-      "repository": "lynx-gt/IndexTTS2-PauseControl",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 1.6
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-08-08 08:28:55"
+  "updated_at": "2026-08-08 12:25:29"
 }
