@@ -10,10 +10,10 @@
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1183,
+      "stars": 1182,
       "forks": 172,
       "extracted_nodes": 3000,
-      "valid_nodes": 571,
+      "valid_nodes": 563,
       "quality_score": 100
     },
     {
@@ -25,11 +25,19 @@
       "quality_score": 100
     },
     {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7899,
+      "forks": 1242,
+      "extracted_nodes": 201,
+      "valid_nodes": 34,
+      "quality_score": 100
+    },
+    {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 91,
       "forks": 8,
-      "extracted_nodes": 476,
-      "valid_nodes": 13,
+      "extracted_nodes": 473,
+      "valid_nodes": 10,
       "quality_score": 88.0
     },
     {
@@ -42,7 +50,7 @@
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 87,
+      "stars": 86,
       "forks": 9,
       "extracted_nodes": 20,
       "valid_nodes": 0,
@@ -52,16 +60,16 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 128,
-      "valid_nodes": 112,
+      "extracted_nodes": 136,
+      "valid_nodes": 117,
       "quality_score": 40.8
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "repository": "bzfq21/proxy-singbox",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 173,
+      "extracted_nodes": 16,
+      "valid_nodes": 3,
       "quality_score": 40.8
     },
     {
@@ -71,7 +79,15 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "ximing/vane",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-10 16:44:20"
+  "updated_at": "2026-08-10 20:30:49"
 }
