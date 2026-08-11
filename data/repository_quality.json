@@ -5,40 +5,24 @@
       "stars": 9199,
       "forks": 673,
       "extracted_nodes": 51,
-      "valid_nodes": 21,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1183,
-      "forks": 172,
+      "stars": 1184,
+      "forks": 173,
       "extracted_nodes": 3000,
-      "valid_nodes": 596,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 959,
-      "forks": 87,
-      "extracted_nodes": 28,
-      "valid_nodes": 17,
+      "valid_nodes": 564,
       "quality_score": 100
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 91,
       "forks": 8,
-      "extracted_nodes": 482,
-      "valid_nodes": 13,
+      "extracted_nodes": 362,
+      "valid_nodes": 9,
       "quality_score": 88.0
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 288,
-      "forks": 25,
-      "extracted_nodes": 5,
-      "valid_nodes": 0,
-      "quality_score": 60
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -53,15 +37,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 142,
-      "valid_nodes": 124,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 173,
+      "valid_nodes": 114,
       "quality_score": 40.8
     },
     {
@@ -71,23 +47,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "Henry-yuan/rss-grab-skill",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "bily1258-design/beimi",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 100,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-11 12:40:28"
+  "updated_at": "2026-08-11 16:45:54"
 }
