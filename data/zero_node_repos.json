@@ -415,6 +415,7 @@
     "imythu/rflush",
     "iran-px-panel/px-panel",
     "islon/goout",
+    "izcw/NodeCanvas",
     "jamebal/xray-kuma-probe",
     "jauyhsuyahaandersiuayha-oss/letsvpn--",
     "jdnei/JiChangTuiJian",
@@ -493,6 +494,7 @@
     "llkongs/desktop-baby",
     "love530love/ComfyUI-FixFlashAttnSchema",
     "lps604/20260119BPBauto",
+    "lqydf/NodePilot",
     "ls125781003/qqctg",
     "luka-n8n-nodes/n8n-nodes-feilian",
     "luka-n8n-nodes/n8n-nodes-kingdee",
@@ -732,5 +734,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-08-11 16:45:42"
+  "updated_at": "2026-08-11 20:32:49"
 }
