@@ -2,31 +2,31 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9198,
+      "stars": 9197,
       "forks": 673,
       "extracted_nodes": 40,
-      "valid_nodes": 26,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1182,
+      "stars": 1183,
       "forks": 172,
       "extracted_nodes": 3000,
-      "valid_nodes": 617,
+      "valid_nodes": 596,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7904,
-      "forks": 1242,
-      "extracted_nodes": 206,
-      "valid_nodes": 41,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 70,
+      "forks": 68,
+      "extracted_nodes": 920,
+      "valid_nodes": 30,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 544,
+      "stars": 545,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -37,12 +37,20 @@
       "stars": 91,
       "forks": 8,
       "extracted_nodes": 478,
-      "valid_nodes": 12,
+      "valid_nodes": 13,
       "quality_score": 88.0
     },
     {
+      "repository": "bin1site1/V2rayFree",
+      "stars": 88,
+      "forks": 10,
+      "extracted_nodes": 86,
+      "valid_nodes": 0,
+      "quality_score": 50.0
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 86,
+      "stars": 87,
       "forks": 9,
       "extracted_nodes": 20,
       "valid_nodes": 0,
@@ -53,15 +61,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 141,
-      "valid_nodes": 138,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 192,
+      "valid_nodes": 133,
       "quality_score": 40.8
     },
     {
@@ -73,13 +73,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Aethersailor/m-ui",
-      "stars": 0,
+      "repository": "Grid2077/VPN",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-08-11 04:58:19"
+  "updated_at": "2026-08-11 08:43:20"
 }
