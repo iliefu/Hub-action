@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9197,
+      "stars": 9199,
       "forks": 673,
-      "extracted_nodes": 40,
-      "valid_nodes": 24,
+      "extracted_nodes": 51,
+      "valid_nodes": 21,
       "quality_score": 100
     },
     {
@@ -17,36 +17,28 @@
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 70,
-      "forks": 68,
-      "extracted_nodes": 920,
-      "valid_nodes": 30,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 545,
-      "forks": 22,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "repository": "shaoyouvip/free",
+      "stars": 959,
+      "forks": 87,
+      "extracted_nodes": 28,
+      "valid_nodes": 17,
       "quality_score": 100
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 91,
       "forks": 8,
-      "extracted_nodes": 478,
+      "extracted_nodes": 482,
       "valid_nodes": 13,
       "quality_score": 88.0
     },
     {
-      "repository": "bin1site1/V2rayFree",
-      "stars": 88,
-      "forks": 10,
-      "extracted_nodes": 86,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 288,
+      "forks": 25,
+      "extracted_nodes": 5,
       "valid_nodes": 0,
-      "quality_score": 50.0
+      "quality_score": 60
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -60,8 +52,16 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 133,
+      "extracted_nodes": 142,
+      "valid_nodes": 124,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 173,
       "quality_score": 40.8
     },
     {
@@ -73,13 +73,21 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Grid2077/VPN",
-      "stars": 1,
+      "repository": "Henry-yuan/rss-grab-skill",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
+    },
+    {
+      "repository": "bily1258-design/beimi",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 100,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-11 08:43:20"
+  "updated_at": "2026-08-11 12:40:28"
 }
