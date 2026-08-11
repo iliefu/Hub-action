@@ -4,8 +4,8 @@
       "repository": "ermaozi/get_subscribe",
       "stars": 9198,
       "forks": 673,
-      "extracted_nodes": 56,
-      "valid_nodes": 29,
+      "extracted_nodes": 40,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
@@ -13,38 +13,38 @@
       "stars": 1182,
       "forks": 172,
       "extracted_nodes": 3000,
-      "valid_nodes": 563,
+      "valid_nodes": 574,
+      "quality_score": 100
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 287,
+      "forks": 25,
+      "extracted_nodes": 30,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 543,
+      "stars": 544,
       "forks": 22,
       "extracted_nodes": 8,
-      "valid_nodes": 2,
-      "quality_score": 100
-    },
-    {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7899,
-      "forks": 1242,
-      "extracted_nodes": 201,
-      "valid_nodes": 34,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 91,
       "forks": 8,
-      "extracted_nodes": 473,
-      "valid_nodes": 10,
+      "extracted_nodes": 478,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 217,
-      "forks": 26,
-      "extracted_nodes": 11,
+      "repository": "free-nodes/clashfree",
+      "stars": 16270,
+      "forks": 1351,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -65,11 +65,11 @@
       "quality_score": 40.8
     },
     {
-      "repository": "bzfq21/proxy-singbox",
+      "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 16,
-      "valid_nodes": 3,
+      "extracted_nodes": 3000,
+      "valid_nodes": 201,
       "quality_score": 40.8
     },
     {
@@ -79,15 +79,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "ximing/vane",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-10 20:30:49"
+  "updated_at": "2026-08-11 00:55:05"
 }
