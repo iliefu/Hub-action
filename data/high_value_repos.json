@@ -11378,7 +11378,7 @@
     },
     {
       "repository": "CB-X2-Jun/verified-v2ray-lists",
-      "stars": 2,
+      "stars": 3,
       "forks": 0,
       "extracted_nodes": 192,
       "valid_nodes": 0,
@@ -11387,24 +11387,24 @@
         {
           "path": "data/history.json",
           "node_count": 203,
-          "last_checked": "2026-08-04T21:01:48.359295Z",
+          "last_checked": "2026-08-12T08:59:45.158214Z",
           "url": "https://raw.githubusercontent.com/CB-X2-Jun/verified-v2ray-lists/main/data/history.json"
         },
         {
           "path": "node.txt",
           "node_count": 198,
-          "last_checked": "2026-08-04T21:01:48.463474Z",
+          "last_checked": "2026-08-12T08:59:45.252445Z",
           "url": "https://raw.githubusercontent.com/CB-X2-Jun/verified-v2ray-lists/main/node.txt"
         },
         {
           "path": "public/proxies.json",
-          "node_count": 12,
-          "last_checked": "2026-08-04T21:01:48.564827Z",
+          "node_count": 7,
+          "last_checked": "2026-08-12T08:59:45.428309Z",
           "url": "https://raw.githubusercontent.com/CB-X2-Jun/verified-v2ray-lists/main/public/proxies.json"
         }
       ],
-      "last_full_scan": "2026-08-04T21:01:58.588331Z",
-      "last_nodes_update": "2026-08-04T21:01:58.588356Z"
+      "last_full_scan": "2026-08-12T08:59:51.346554Z",
+      "last_nodes_update": "2026-08-12T08:59:51.346587Z"
     },
     {
       "repository": "LIUbing-5/my-nomorewalls",
@@ -11605,7 +11605,7 @@
       "last_nodes_update": "2026-08-11T12:40:14.514461Z"
     }
   ],
-  "updated_at": "2026-08-12 05:23:32",
+  "updated_at": "2026-08-12 08:59:51",
   "total_whitelisted_repos": 33,
   "total_cached_nodes": 35796
 }
