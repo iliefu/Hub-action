@@ -11101,6 +11101,42 @@
       "last_nodes_update": "2026-06-23T07:39:46.626363Z"
     },
     {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 346,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/clash/8-12.yaml",
+          "node_count": 274,
+          "last_checked": "2026-08-12T16:46:24.848459Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/8-12.yaml"
+        },
+        {
+          "path": "output/clash/8-13.yaml",
+          "node_count": 269,
+          "last_checked": "2026-08-12T16:46:25.493759Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/8-13.yaml"
+        },
+        {
+          "path": "output/v2ray/8-12.txt",
+          "node_count": 15,
+          "last_checked": "2026-08-12T16:46:25.722881Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/8-12.txt"
+        },
+        {
+          "path": "output/v2ray/8-13.txt",
+          "node_count": 15,
+          "last_checked": "2026-08-12T16:46:25.830827Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/8-13.txt"
+        }
+      ],
+      "last_full_scan": "2026-08-12T16:46:35.718159Z",
+      "last_nodes_update": "2026-08-12T16:46:35.718187Z"
+    },
+    {
       "repository": "LancelotRar/free-subs",
       "stars": 41,
       "forks": 5,
@@ -11605,7 +11641,7 @@
       "last_nodes_update": "2026-08-11T12:40:14.514461Z"
     }
   ],
-  "updated_at": "2026-08-12 12:43:51",
-  "total_whitelisted_repos": 33,
-  "total_cached_nodes": 35796
+  "updated_at": "2026-08-12 16:46:35",
+  "total_whitelisted_repos": 34,
+  "total_cached_nodes": 36142
 }

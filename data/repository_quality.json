@@ -13,15 +13,15 @@
       "stars": 1187,
       "forks": 174,
       "extracted_nodes": 3000,
-      "valid_nodes": 551,
+      "valid_nodes": 590,
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 287,
-      "forks": 25,
-      "extracted_nodes": 3,
-      "valid_nodes": 1,
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7915,
+      "forks": 1244,
+      "extracted_nodes": 245,
+      "valid_nodes": 59,
       "quality_score": 100
     },
     {
@@ -42,11 +42,19 @@
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 91,
+      "stars": 92,
       "forks": 8,
-      "extracted_nodes": 369,
-      "valid_nodes": 13,
+      "extracted_nodes": 366,
+      "valid_nodes": 9,
       "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 220,
+      "forks": 27,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -61,7 +69,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 137,
-      "valid_nodes": 118,
+      "valid_nodes": 117,
       "quality_score": 40.8
     },
     {
@@ -69,7 +77,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 188,
+      "valid_nodes": 173,
       "quality_score": 40.8
     },
     {
@@ -81,23 +89,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "bily1258-design/beimi",
+      "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 35,
-      "valid_nodes": 1,
+      "extracted_nodes": 346,
+      "valid_nodes": 297,
       "quality_score": 40.0
     },
     {
-      "repository": "ANe5s/ComfyUI-MiniMax-H3-Hybrid",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "SIJULY/ZERO-Sijuly",
+      "repository": "jiuyi777/sillytavern-theme-subscriber",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,7 +105,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "zkytech/aistat",
+      "repository": "skystin-tian/ROS2-practice-turtlebot3-multi-goal-navigation",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,5 +113,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-12 12:44:05"
+  "updated_at": "2026-08-12 16:46:48"
 }
