@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9199,
+      "stars": 9198,
       "forks": 672,
       "extracted_nodes": 33,
-      "valid_nodes": 24,
+      "valid_nodes": 23,
       "quality_score": 100
     },
     {
@@ -13,15 +13,23 @@
       "stars": 1190,
       "forks": 173,
       "extracted_nodes": 3000,
-      "valid_nodes": 545,
+      "valid_nodes": 591,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 964,
-      "forks": 87,
-      "extracted_nodes": 56,
-      "valid_nodes": 28,
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7917,
+      "forks": 1244,
+      "extracted_nodes": 226,
+      "valid_nodes": 54,
+      "quality_score": 100
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 286,
+      "forks": 25,
+      "extracted_nodes": 32,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
@@ -41,10 +49,10 @@
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 286,
-      "forks": 25,
-      "extracted_nodes": 1,
+      "repository": "wenxig/dongtai-sub",
+      "stars": 220,
+      "forks": 27,
+      "extracted_nodes": 11,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -61,7 +69,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 143,
-      "valid_nodes": 129,
+      "valid_nodes": 135,
       "quality_score": 40.8
     },
     {
@@ -69,7 +77,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 208,
+      "valid_nodes": 231,
       "quality_score": 40.8
     },
     {
@@ -79,7 +87,23 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 391,
+      "valid_nodes": 336,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "kukumi1/sing-box",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-13 01:02:21"
+  "updated_at": "2026-08-13 05:28:01"
 }
