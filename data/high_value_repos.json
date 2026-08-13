@@ -11077,6 +11077,30 @@
       "last_nodes_update": "2026-08-08T04:45:14.637943Z"
     },
     {
+      "repository": "ShimpleJeaf/v2rayfree",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 374,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "list.txt",
+          "node_count": 271,
+          "last_checked": "2026-08-13T09:02:03.162594Z",
+          "url": "https://raw.githubusercontent.com/ShimpleJeaf/v2rayfree/main/list.txt"
+        },
+        {
+          "path": "mibei.txt",
+          "node_count": 162,
+          "last_checked": "2026-08-13T09:02:03.303179Z",
+          "url": "https://raw.githubusercontent.com/ShimpleJeaf/v2rayfree/main/mibei.txt"
+        }
+      ],
+      "last_full_scan": "2026-08-13T09:02:10.788368Z",
+      "last_nodes_update": "2026-08-13T09:02:10.788432Z"
+    },
+    {
       "repository": "dalichuqijiai/DaLiVpn",
       "stars": 0,
       "forks": 0,
@@ -11641,7 +11665,7 @@
       "last_nodes_update": "2026-08-11T12:40:14.514461Z"
     }
   ],
-  "updated_at": "2026-08-13 05:27:46",
-  "total_whitelisted_repos": 34,
-  "total_cached_nodes": 36142
+  "updated_at": "2026-08-13 09:02:10",
+  "total_whitelisted_repos": 35,
+  "total_cached_nodes": 36516
 }
