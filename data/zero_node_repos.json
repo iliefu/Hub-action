@@ -475,6 +475,7 @@
     "lakeart/northwest-ich-platform",
     "lamblama/stm32F103ZET6-potatoroom",
     "lanrat/wireguard-warp-generator",
+    "lareesahu/asoc-web",
     "laurievermillionqca239/hytz",
     "ldhnet/AntFlow-Designer",
     "leikaiwei/rss",
@@ -750,5 +751,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-08-13 16:44:51"
+  "updated_at": "2026-08-13 20:30:54"
 }
