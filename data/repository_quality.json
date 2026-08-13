@@ -2,34 +2,26 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9200,
+      "stars": 9199,
       "forks": 672,
-      "extracted_nodes": 16,
-      "valid_nodes": 10,
+      "extracted_nodes": 33,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1190,
-      "forks": 174,
+      "forks": 173,
       "extracted_nodes": 3000,
-      "valid_nodes": 624,
+      "valid_nodes": 545,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
       "stars": 964,
       "forks": 87,
-      "extracted_nodes": 34,
-      "valid_nodes": 15,
-      "quality_score": 100
-    },
-    {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1854,
-      "forks": 119,
-      "extracted_nodes": 16,
-      "valid_nodes": 14,
+      "extracted_nodes": 56,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
@@ -44,9 +36,17 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 92,
       "forks": 8,
-      "extracted_nodes": 364,
+      "extracted_nodes": 369,
       "valid_nodes": 9,
       "quality_score": 88.0
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 286,
+      "forks": 25,
+      "extracted_nodes": 1,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -61,7 +61,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 143,
-      "valid_nodes": 128,
+      "valid_nodes": 129,
       "quality_score": 40.8
     },
     {
@@ -69,7 +69,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 226,
+      "valid_nodes": 208,
       "quality_score": 40.8
     },
     {
@@ -79,23 +79,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 384,
-      "valid_nodes": 325,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "lidawei1985/FilmCollector",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-12 20:33:30"
+  "updated_at": "2026-08-13 01:02:21"
 }
