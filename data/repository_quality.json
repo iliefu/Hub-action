@@ -2,49 +2,33 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9197,
+      "stars": 9199,
       "forks": 672,
-      "extracted_nodes": 50,
-      "valid_nodes": 24,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1195,
-      "forks": 173,
-      "extracted_nodes": 3000,
-      "valid_nodes": 628,
+      "extracted_nodes": 44,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 70,
-      "forks": 67,
-      "extracted_nodes": 1126,
-      "valid_nodes": 68,
+      "forks": 68,
+      "extracted_nodes": 472,
+      "valid_nodes": 40,
       "quality_score": 100
     },
     {
-      "repository": "dongchengjie/airport",
-      "stars": 620,
-      "forks": 54,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1195,
+      "forks": 174,
       "extracted_nodes": 3000,
-      "valid_nodes": 1889,
+      "valid_nodes": 661,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1855,
-      "forks": 119,
-      "extracted_nodes": 16,
-      "valid_nodes": 14,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 548,
-      "forks": 22,
-      "extracted_nodes": 8,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 288,
+      "forks": 25,
+      "extracted_nodes": 25,
       "valid_nodes": 2,
       "quality_score": 100
     },
@@ -60,8 +44,8 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 92,
       "forks": 8,
-      "extracted_nodes": 368,
-      "valid_nodes": 7,
+      "extracted_nodes": 370,
+      "valid_nodes": 9,
       "quality_score": 88.0
     },
     {
@@ -69,7 +53,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 144,
-      "valid_nodes": 121,
+      "valid_nodes": 127,
       "quality_score": 40.8
     },
     {
@@ -81,15 +65,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 418,
-      "valid_nodes": 338,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "lareesahu/asoc-web",
+      "repository": "hm4reggggg/jichang",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +73,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-13 20:31:15"
+  "updated_at": "2026-08-14 01:00:26"
 }
