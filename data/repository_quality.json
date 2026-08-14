@@ -2,58 +2,66 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9199,
+      "stars": 9201,
       "forks": 672,
       "extracted_nodes": 44,
-      "valid_nodes": 26,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 70,
-      "forks": 68,
-      "extracted_nodes": 472,
-      "valid_nodes": 40,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1195,
+      "stars": 1196,
       "forks": 174,
       "extracted_nodes": 3000,
-      "valid_nodes": 661,
+      "valid_nodes": 657,
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 288,
-      "forks": 25,
-      "extracted_nodes": 25,
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7921,
+      "forks": 1245,
+      "extracted_nodes": 214,
+      "valid_nodes": 53,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 549,
+      "forks": 22,
+      "extracted_nodes": 8,
       "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 88,
+      "stars": 89,
       "forks": 9,
       "extracted_nodes": 40,
       "valid_nodes": 6,
       "quality_score": 89.0
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 92,
-      "forks": 8,
-      "extracted_nodes": 370,
-      "valid_nodes": 9,
-      "quality_score": 88.0
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 70,
+      "forks": 68,
+      "extracted_nodes": 3000,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 221,
+      "forks": 27,
+      "extracted_nodes": 11,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 144,
-      "valid_nodes": 127,
+      "extracted_nodes": 146,
+      "valid_nodes": 140,
       "quality_score": 40.8
     },
     {
@@ -63,15 +71,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "hm4reggggg/jichang",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-14 01:00:26"
+  "updated_at": "2026-08-14 05:23:59"
 }
