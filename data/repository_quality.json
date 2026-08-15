@@ -2,26 +2,34 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9205,
+      "stars": 9206,
       "forks": 672,
       "extracted_nodes": 40,
-      "valid_nodes": 24,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1203,
-      "forks": 179,
-      "extracted_nodes": 3000,
-      "valid_nodes": 625,
+      "valid_nodes": 25,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 71,
       "forks": 70,
-      "extracted_nodes": 727,
-      "valid_nodes": 40,
+      "extracted_nodes": 502,
+      "valid_nodes": 23,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1204,
+      "forks": 179,
+      "extracted_nodes": 3000,
+      "valid_nodes": 599,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 550,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -29,31 +37,31 @@
       "stars": 88,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 3,
+      "valid_nodes": 5,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 92,
+      "stars": 93,
       "forks": 8,
-      "extracted_nodes": 359,
-      "valid_nodes": 12,
+      "extracted_nodes": 363,
+      "valid_nodes": 8,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 289,
-      "forks": 25,
-      "extracted_nodes": 6,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 65,
+      "forks": 7,
+      "extracted_nodes": 1186,
+      "valid_nodes": 357,
+      "quality_score": 87.0
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 181,
+      "valid_nodes": 199,
       "quality_score": 41.6
     },
     {
@@ -61,7 +69,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 144,
-      "valid_nodes": 127,
+      "valid_nodes": 124,
       "quality_score": 40.8
     },
     {
@@ -73,29 +81,21 @@
       "quality_score": 40.0
     },
     {
-      "repository": "oplopo/Warp-config-ip-Hiddify-",
-      "stars": 6,
-      "forks": 1,
-      "extracted_nodes": 1,
-      "valid_nodes": 0,
-      "quality_score": 5.8
-    },
-    {
-      "repository": "joesbell/meridian",
-      "stars": 4,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 3.2
-    },
-    {
-      "repository": "help660vip/yunjin-plugin",
+      "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 0,
+      "extracted_nodes": 418,
+      "valid_nodes": 336,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "vlln/dsh-navbar",
+      "stars": 24,
+      "forks": 2,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 21.2
     }
   ],
-  "updated_at": "2026-08-15 12:18:01"
+  "updated_at": "2026-08-15 16:13:12"
 }
