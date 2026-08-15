@@ -2,18 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9205,
+      "stars": 9206,
       "forks": 672,
       "extracted_nodes": 55,
-      "valid_nodes": 29,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 71,
-      "forks": 70,
-      "extracted_nodes": 365,
-      "valid_nodes": 29,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
@@ -21,7 +13,23 @@
       "stars": 1202,
       "forks": 179,
       "extracted_nodes": 3000,
-      "valid_nodes": 684,
+      "valid_nodes": 626,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 71,
+      "forks": 70,
+      "extracted_nodes": 804,
+      "valid_nodes": 38,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 549,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
@@ -29,23 +37,39 @@
       "stars": 88,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 5,
+      "valid_nodes": 3,
       "quality_score": 89.0
     },
     {
-      "repository": "v2raynnodes/v2rayfree",
-      "stars": 65,
-      "forks": 7,
-      "extracted_nodes": 1182,
-      "valid_nodes": 357,
-      "quality_score": 87.0
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 92,
+      "forks": 8,
+      "extracted_nodes": 359,
+      "valid_nodes": 13,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 189,
+      "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 145,
-      "valid_nodes": 137,
+      "valid_nodes": 129,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "bzfq21/proxy-singbox",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 16,
+      "valid_nodes": 5,
       "quality_score": 40.8
     },
     {
@@ -57,39 +81,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "OrdoAbChao7/ClashVerge-free-AutoRefresher",
+      "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 100,
-      "valid_nodes": 47,
+      "extracted_nodes": 418,
+      "valid_nodes": 338,
       "quality_score": 40.0
     },
     {
-      "repository": "weed33834/OpenBox",
-      "stars": 3,
+      "repository": "oplopo/Warp-config-ip-Hiddify-",
+      "stars": 6,
       "forks": 1,
-      "extracted_nodes": 0,
+      "extracted_nodes": 1,
       "valid_nodes": 0,
-      "quality_score": 3.4
+      "quality_score": 5.8
     },
     {
-      "repository": "WSL043/dsh-codex-subscription",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "WhiteDNS/WhiteWarpScout",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "WTriumph/DeepSeek-Harness-macOS-Desktop-App",
+      "repository": "beishangye/Production-grade-Redis-stateful-cluster",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-15 04:20:02"
+  "updated_at": "2026-08-15 08:16:09"
 }
