@@ -11687,9 +11687,27 @@
       ],
       "last_full_scan": "2026-08-11T12:40:14.514446Z",
       "last_nodes_update": "2026-08-11T12:40:14.514461Z"
+    },
+    {
+      "repository": "OrdoAbChao7/ClashVerge-free-AutoRefresher",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 100,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/selected-clash20260809.yml",
+          "node_count": 100,
+          "last_checked": "2026-08-15T04:19:37.110459Z",
+          "url": "https://raw.githubusercontent.com/OrdoAbChao7/ClashVerge-free-AutoRefresher/main/output/selected-clash20260809.yml"
+        }
+      ],
+      "last_full_scan": "2026-08-15T04:19:48.979154Z",
+      "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-08-15 00:37:56",
-  "total_whitelisted_repos": 36,
-  "total_cached_nodes": 36950
+  "updated_at": "2026-08-15 04:19:48",
+  "total_whitelisted_repos": 37,
+  "total_cached_nodes": 37050
 }
