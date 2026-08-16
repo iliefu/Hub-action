@@ -2,18 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9207,
+      "stars": 9208,
       "forks": 672,
-      "extracted_nodes": 40,
-      "valid_nodes": 24,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 71,
-      "forks": 69,
-      "extracted_nodes": 575,
-      "valid_nodes": 33,
+      "extracted_nodes": 44,
+      "valid_nodes": 22,
       "quality_score": 100
     },
     {
@@ -21,31 +13,23 @@
       "stars": 1205,
       "forks": 179,
       "extracted_nodes": 3000,
-      "valid_nodes": 613,
+      "valid_nodes": 639,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1862,
-      "forks": 119,
-      "extracted_nodes": 16,
-      "valid_nodes": 15,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 71,
+      "forks": 69,
+      "extracted_nodes": 838,
+      "valid_nodes": 42,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7935,
-      "forks": 1247,
-      "extracted_nodes": 234,
-      "valid_nodes": 38,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 551,
-      "forks": 22,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 290,
+      "forks": 25,
+      "extracted_nodes": 43,
+      "valid_nodes": 4,
       "quality_score": 100
     },
     {
@@ -53,23 +37,31 @@
       "stars": 88,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 5,
+      "valid_nodes": 6,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 360,
-      "valid_nodes": 8,
+      "extracted_nodes": 356,
+      "valid_nodes": 10,
       "quality_score": 88.0
+    },
+    {
+      "repository": "clashv2ray-hub/clashfree",
+      "stars": 280,
+      "forks": 10,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 50.0
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 189,
+      "valid_nodes": 178,
       "quality_score": 41.6
     },
     {
@@ -77,7 +69,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 145,
-      "valid_nodes": 121,
+      "valid_nodes": 125,
       "quality_score": 40.8
     },
     {
@@ -89,13 +81,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "huiwin/NodeCollection",
+      "repository": "slender-prelature73/FireRedTTS3-ComfyUI",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 418,
-      "valid_nodes": 331,
-      "quality_score": 40.0
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-15 20:12:35"
+  "updated_at": "2026-08-16 00:39:37"
 }
