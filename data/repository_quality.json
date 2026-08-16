@@ -2,34 +2,26 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9210,
+      "stars": 9211,
       "forks": 672,
       "extracted_nodes": 44,
-      "valid_nodes": 20,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1205,
-      "forks": 179,
-      "extracted_nodes": 3000,
-      "valid_nodes": 601,
+      "valid_nodes": 19,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 71,
       "forks": 69,
-      "extracted_nodes": 1142,
-      "valid_nodes": 52,
+      "extracted_nodes": 1049,
+      "valid_nodes": 47,
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 290,
-      "forks": 25,
-      "extracted_nodes": 18,
-      "valid_nodes": 3,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 552,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -44,8 +36,8 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 357,
-      "valid_nodes": 11,
+      "extracted_nodes": 358,
+      "valid_nodes": 9,
       "quality_score": 88.0
     },
     {
@@ -53,15 +45,23 @@
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 176,
+      "valid_nodes": 196,
       "quality_score": 41.6
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 418,
+      "valid_nodes": 334,
+      "quality_score": 41.0
+    },
+    {
+      "repository": "bzfq21/proxy-singbox",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 146,
-      "valid_nodes": 135,
+      "extracted_nodes": 16,
+      "valid_nodes": 5,
       "quality_score": 40.8
     },
     {
@@ -73,15 +73,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "bily1258-design/beimi",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 123,
-      "valid_nodes": 4,
-      "quality_score": 40.0
+      "repository": "onlyoyrao999/cfnatddnsgo",
+      "stars": 7,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 6.6
     },
     {
-      "repository": "996059396/dlg-learning",
+      "repository": "celeron633/proxy-subs-backend",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "msem6431/diannao-fanqiang",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-16 12:17:48"
+  "updated_at": "2026-08-16 16:13:07"
 }
