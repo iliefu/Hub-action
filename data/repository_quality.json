@@ -1,6 +1,22 @@
 {
   "repositories": [
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1209,
+      "forks": 179,
+      "extracted_nodes": 3000,
+      "valid_nodes": 511,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 71,
+      "forks": 69,
+      "extracted_nodes": 1208,
+      "valid_nodes": 28,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9211,
       "forks": 672,
@@ -9,32 +25,8 @@
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1208,
-      "forks": 179,
-      "extracted_nodes": 3000,
-      "valid_nodes": 575,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 998,
-      "forks": 87,
-      "extracted_nodes": 152,
-      "valid_nodes": 73,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 71,
-      "forks": 69,
-      "extracted_nodes": 1060,
-      "valid_nodes": 15,
-      "quality_score": 100
-    },
-    {
       "repository": "hello-world-1989/cn-news",
-      "stars": 553,
+      "stars": 554,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -52,17 +44,33 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 365,
-      "valid_nodes": 12,
+      "extracted_nodes": 367,
+      "valid_nodes": 7,
       "quality_score": 88.0
     },
     {
-      "repository": "1000ttank/free-vpn-clash-aggregator",
-      "stars": 1,
-      "forks": 3,
-      "extracted_nodes": 500,
-      "valid_nodes": 459,
-      "quality_score": 43.8
+      "repository": "wenxig/dongtai-sub",
+      "stars": 224,
+      "forks": 27,
+      "extracted_nodes": 9,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "chao921125/document",
+      "stars": 14,
+      "forks": 1,
+      "extracted_nodes": 4,
+      "valid_nodes": 2,
+      "quality_score": 52.2
+    },
+    {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 418,
+      "valid_nodes": 330,
+      "quality_score": 41.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -73,21 +81,37 @@
       "quality_score": 40.0
     },
     {
-      "repository": "lordqyxz/dsh-ark-quota",
-      "stars": 2,
+      "repository": "wangdefoo/clash-subscribe",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 2,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "zqs1qiwan/warp2wireguard",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.6
+      "quality_score": 0.0
     },
     {
-      "repository": "735754647/Free-Nodes",
+      "repository": "bingling360/ComfyUI_H3_SeamlessChain",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "Liyucheng1997/bookshelf-reader",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-17 04:31:31"
+  "updated_at": "2026-08-17 08:31:11"
 }
