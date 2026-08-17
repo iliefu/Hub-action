@@ -1,27 +1,35 @@
 {
   "repositories": [
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9211,
+      "forks": 672,
+      "extracted_nodes": 50,
+      "valid_nodes": 19,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1205,
-      "forks": 179,
+      "stars": 1207,
+      "forks": 180,
       "extracted_nodes": 3000,
-      "valid_nodes": 638,
+      "valid_nodes": 617,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 71,
       "forks": 69,
-      "extracted_nodes": 982,
-      "valid_nodes": 27,
+      "extracted_nodes": 666,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9211,
-      "forks": 672,
-      "extracted_nodes": 44,
-      "valid_nodes": 20,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 290,
+      "forks": 25,
+      "extracted_nodes": 58,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -29,32 +37,16 @@
       "stars": 88,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 5,
+      "valid_nodes": 2,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 374,
-      "valid_nodes": 11,
+      "extracted_nodes": 365,
+      "valid_nodes": 13,
       "quality_score": 88.0
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 177,
-      "quality_score": 41.6
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 145,
-      "valid_nodes": 136,
-      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -65,21 +57,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "nxy1999/cs-calendar",
-      "stars": 4,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 3.2
-    },
-    {
-      "repository": "shapimaomao/advisor-calendar",
+      "repository": "735754647/Free-Nodes",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 0,
+      "extracted_nodes": 1,
       "valid_nodes": 0,
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-16 20:14:22"
+  "updated_at": "2026-08-17 00:36:19"
 }
