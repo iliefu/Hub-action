@@ -11515,6 +11515,36 @@
       "last_nodes_update": "2026-08-12T08:59:51.346587Z"
     },
     {
+      "repository": "shaoyouvip/free",
+      "stars": 998,
+      "forks": 87,
+      "extracted_nodes": 152,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "all.yaml",
+          "node_count": 77,
+          "last_checked": "2026-08-17T04:31:04.559516Z",
+          "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/all.yaml"
+        },
+        {
+          "path": "base64.txt",
+          "node_count": 77,
+          "last_checked": "2026-08-17T04:31:04.828773Z",
+          "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/base64.txt"
+        },
+        {
+          "path": "mihomo.yaml",
+          "node_count": 77,
+          "last_checked": "2026-08-17T04:31:05.163821Z",
+          "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/mihomo.yaml"
+        }
+      ],
+      "last_full_scan": "2026-08-17T04:31:19.139435Z",
+      "last_nodes_update": "2026-08-17T04:31:19.139463Z"
+    },
+    {
       "repository": "LIUbing-5/my-nomorewalls",
       "stars": 0,
       "forks": 0,
@@ -11579,36 +11609,6 @@
       ],
       "last_full_scan": "2026-08-13T12:43:16.322882Z",
       "last_nodes_update": "2026-08-13T12:43:16.322914Z"
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 935,
-      "forks": 83,
-      "extracted_nodes": 140,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "all.yaml",
-          "node_count": 71,
-          "last_checked": "2026-08-03T17:40:47.170114Z",
-          "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/all.yaml"
-        },
-        {
-          "path": "base64.txt",
-          "node_count": 71,
-          "last_checked": "2026-08-03T17:40:47.250880Z",
-          "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/base64.txt"
-        },
-        {
-          "path": "mihomo.yaml",
-          "node_count": 71,
-          "last_checked": "2026-08-03T17:40:47.401825Z",
-          "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/mihomo.yaml"
-        }
-      ],
-      "last_full_scan": "2026-08-03T17:41:11.810107Z",
-      "last_nodes_update": "2026-08-03T17:41:11.810138Z"
     },
     {
       "repository": "saishun/TyporaTheme",
@@ -11731,7 +11731,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-08-17 00:36:08",
+  "updated_at": "2026-08-17 04:31:19",
   "total_whitelisted_repos": 37,
-  "total_cached_nodes": 37050
+  "total_cached_nodes": 37062
 }
