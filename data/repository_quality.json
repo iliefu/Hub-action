@@ -1,11 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9213,
-      "forks": 671,
-      "extracted_nodes": 49,
-      "valid_nodes": 16,
+      "repository": "shaoyouvip/free",
+      "stars": 1009,
+      "forks": 89,
+      "extracted_nodes": 79,
+      "valid_nodes": 37,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 72,
+      "forks": 71,
+      "extracted_nodes": 1244,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
@@ -13,15 +21,15 @@
       "stars": 1216,
       "forks": 181,
       "extracted_nodes": 3000,
-      "valid_nodes": 477,
+      "valid_nodes": 395,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 72,
-      "forks": 71,
-      "extracted_nodes": 1230,
-      "valid_nodes": 33,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9213,
+      "forks": 671,
+      "extracted_nodes": 49,
+      "valid_nodes": 15,
       "quality_score": 100
     },
     {
@@ -29,15 +37,7 @@
       "stars": 555,
       "forks": 22,
       "extracted_nodes": 8,
-      "valid_nodes": 2,
-      "quality_score": 100
-    },
-    {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1881,
-      "forks": 121,
-      "extracted_nodes": 16,
-      "valid_nodes": 12,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
@@ -45,24 +45,24 @@
       "stars": 89,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 3,
+      "valid_nodes": 5,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 363,
+      "extracted_nodes": 370,
       "valid_nodes": 8,
       "quality_score": 88.0
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 173,
-      "quality_score": 41.6
+      "extracted_nodes": 143,
+      "valid_nodes": 128,
+      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -71,31 +71,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "tdn-001/Ai-Gateway",
-      "stars": 9,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 8.2
-    },
-    {
-      "repository": "cheluen/singbox-proxy-manager",
-      "stars": 4,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 4.2
-    },
-    {
-      "repository": "type53/dsh-claude-subscriptions",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-18 16:19:35"
+  "updated_at": "2026-08-18 20:13:29"
 }
