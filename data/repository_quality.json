@@ -5,31 +5,23 @@
       "stars": 9213,
       "forks": 671,
       "extracted_nodes": 52,
-      "valid_nodes": 20,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1211,
-      "forks": 180,
-      "extracted_nodes": 3000,
-      "valid_nodes": 376,
+      "valid_nodes": 17,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
       "stars": 1004,
       "forks": 87,
-      "extracted_nodes": 72,
-      "valid_nodes": 37,
+      "extracted_nodes": 77,
+      "valid_nodes": 40,
       "quality_score": 100
     },
     {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 555,
-      "forks": 22,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1212,
+      "forks": 180,
+      "extracted_nodes": 3000,
+      "valid_nodes": 474,
       "quality_score": 100
     },
     {
@@ -44,25 +36,17 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 371,
-      "valid_nodes": 5,
+      "extracted_nodes": 374,
+      "valid_nodes": 10,
       "quality_score": 88.0
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 190,
-      "quality_score": 41.6
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 418,
-      "valid_nodes": 331,
-      "quality_score": 41.0
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 290,
+      "forks": 25,
+      "extracted_nodes": 1,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
@@ -81,13 +65,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "nkuerlixinyu-coder/IELTS-Vocabulary-Offline",
+      "repository": "735754647/Free-Nodes",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 0,
+      "extracted_nodes": 1,
       "valid_nodes": 0,
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-17 20:16:48"
+  "updated_at": "2026-08-18 00:35:18"
 }
