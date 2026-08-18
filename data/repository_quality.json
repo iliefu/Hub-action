@@ -2,10 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9212,
+      "stars": 9213,
       "forks": 671,
       "extracted_nodes": 43,
       "valid_nodes": 18,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 72,
+      "forks": 71,
+      "extracted_nodes": 2324,
+      "valid_nodes": 501,
       "quality_score": 100
     },
     {
@@ -13,7 +21,7 @@
       "stars": 1213,
       "forks": 181,
       "extracted_nodes": 3000,
-      "valid_nodes": 461,
+      "valid_nodes": 410,
       "quality_score": 100
     },
     {
@@ -36,25 +44,17 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 374,
-      "valid_nodes": 8,
+      "extracted_nodes": 373,
+      "valid_nodes": 10,
       "quality_score": 88.0
     },
     {
-      "repository": "bin1site1/V2rayFree",
-      "stars": 87,
-      "forks": 10,
-      "extracted_nodes": 75,
-      "valid_nodes": 0,
-      "quality_score": 50.0
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 2,
       "forks": 0,
-      "extracted_nodes": 142,
-      "valid_nodes": 136,
-      "quality_score": 40.8
+      "extracted_nodes": 3000,
+      "valid_nodes": 159,
+      "quality_score": 41.6
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -63,7 +63,23 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "huangfanyi8/XNodeEditor",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "bobvane/CF-Workers-SUB-Next",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-18 04:24:44"
+  "updated_at": "2026-08-18 08:24:21"
 }
