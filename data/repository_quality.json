@@ -2,26 +2,26 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9213,
+      "stars": 9212,
       "forks": 671,
-      "extracted_nodes": 52,
-      "valid_nodes": 17,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 1004,
-      "forks": 87,
-      "extracted_nodes": 77,
-      "valid_nodes": 40,
+      "extracted_nodes": 43,
+      "valid_nodes": 18,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1212,
-      "forks": 180,
+      "stars": 1213,
+      "forks": 181,
       "extracted_nodes": 3000,
-      "valid_nodes": 474,
+      "valid_nodes": 461,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 555,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -37,23 +37,23 @@
       "stars": 93,
       "forks": 8,
       "extracted_nodes": 374,
-      "valid_nodes": 10,
+      "valid_nodes": 8,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 290,
-      "forks": 25,
-      "extracted_nodes": 1,
+      "repository": "bin1site1/V2rayFree",
+      "stars": 87,
+      "forks": 10,
+      "extracted_nodes": 75,
       "valid_nodes": 0,
-      "quality_score": 60
+      "quality_score": 50.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 149,
-      "valid_nodes": 137,
+      "extracted_nodes": 142,
+      "valid_nodes": 136,
       "quality_score": 40.8
     },
     {
@@ -63,15 +63,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "735754647/Free-Nodes",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 1,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-18 00:35:18"
+  "updated_at": "2026-08-18 04:24:44"
 }
