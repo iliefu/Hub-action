@@ -10639,6 +10639,36 @@
       "last_nodes_update": "2026-08-17T16:22:40.000144Z"
     },
     {
+      "repository": "TravelLeobai/SCHPD",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 596,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "Clash_Vless.yaml",
+          "node_count": 488,
+          "last_checked": "2026-08-19T20:15:24.326043Z",
+          "url": "https://raw.githubusercontent.com/TravelLeobai/SCHPD/main/Clash_Vless.yaml"
+        },
+        {
+          "path": "clash.yaml",
+          "node_count": 90,
+          "last_checked": "2026-08-19T20:15:24.484601Z",
+          "url": "https://raw.githubusercontent.com/TravelLeobai/SCHPD/main/clash.yaml"
+        },
+        {
+          "path": "\u4e13\u7ebf.yaml",
+          "node_count": 18,
+          "last_checked": "2026-08-19T20:15:24.748999Z",
+          "url": "https://raw.githubusercontent.com/TravelLeobai/SCHPD/main/\u4e13\u7ebf.yaml"
+        }
+      ],
+      "last_full_scan": "2026-08-19T20:15:30.523593Z",
+      "last_nodes_update": "2026-08-19T20:15:30.523597Z"
+    },
+    {
       "repository": "1000ttank/free-vpn-clash-aggregator",
       "stars": 1,
       "forks": 2,
@@ -11648,7 +11678,7 @@
     },
     {
       "repository": "saishun/TyporaTheme",
-      "stars": 4,
+      "stars": 5,
       "forks": 16,
       "extracted_nodes": 136,
       "valid_nodes": 0,
@@ -11657,18 +11687,18 @@
         {
           "path": "sub.txt",
           "node_count": 63,
-          "last_checked": "2026-08-06T06:22:17.749818Z",
+          "last_checked": "2026-08-19T20:15:21.279657Z",
           "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/sub.txt"
         },
         {
           "path": "sub3.txt",
           "node_count": 73,
-          "last_checked": "2026-08-06T06:22:18.000088Z",
+          "last_checked": "2026-08-19T20:15:21.399747Z",
           "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/sub3.txt"
         }
       ],
-      "last_full_scan": "2026-08-06T06:22:22.038307Z",
-      "last_nodes_update": "2026-08-06T06:22:22.038356Z"
+      "last_full_scan": "2026-08-19T20:15:30.523520Z",
+      "last_nodes_update": "2026-08-19T20:15:30.523548Z"
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -11749,7 +11779,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-08-19 16:20:11",
-  "total_whitelisted_repos": 37,
-  "total_cached_nodes": 39264
+  "updated_at": "2026-08-19 20:15:30",
+  "total_whitelisted_repos": 38,
+  "total_cached_nodes": 39860
 }
