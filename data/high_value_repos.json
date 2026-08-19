@@ -10111,6 +10111,42 @@
       "last_nodes_update": "2026-07-05T16:54:34.160284Z"
     },
     {
+      "repository": "bily1258-design/beimi",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 2162,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/clash.yaml",
+          "node_count": 500,
+          "last_checked": "2026-08-19T12:23:16.174643Z",
+          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/clash.yaml"
+        },
+        {
+          "path": "output/subscribe_b64.txt",
+          "node_count": 3186,
+          "last_checked": "2026-08-19T12:23:16.949664Z",
+          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/subscribe_b64.txt"
+        },
+        {
+          "path": "output/subscribe_plain.txt",
+          "node_count": 3186,
+          "last_checked": "2026-08-19T12:23:17.220349Z",
+          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/subscribe_plain.txt"
+        },
+        {
+          "path": "subscription.txt",
+          "node_count": 170,
+          "last_checked": "2026-08-19T12:23:17.487383Z",
+          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/subscription.txt"
+        }
+      ],
+      "last_full_scan": "2026-08-19T12:23:19.205811Z",
+      "last_nodes_update": "2026-08-19T12:23:19.205839Z"
+    },
+    {
       "repository": "v2raynnodes/clashfree",
       "stars": 9,
       "forks": 1,
@@ -11695,24 +11731,6 @@
       "last_nodes_update": "2026-07-16T09:57:47.066154Z"
     },
     {
-      "repository": "bily1258-design/beimi",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 100,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "subscription.txt",
-          "node_count": 186,
-          "last_checked": "2026-08-11T12:40:12.780299Z",
-          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/subscription.txt"
-        }
-      ],
-      "last_full_scan": "2026-08-11T12:40:14.514446Z",
-      "last_nodes_update": "2026-08-11T12:40:14.514461Z"
-    },
-    {
       "repository": "OrdoAbChao7/ClashVerge-free-AutoRefresher",
       "stars": 0,
       "forks": 0,
@@ -11731,7 +11749,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-08-19 08:26:58",
+  "updated_at": "2026-08-19 12:23:19",
   "total_whitelisted_repos": 37,
-  "total_cached_nodes": 37202
+  "total_cached_nodes": 39264
 }
