@@ -75,6 +75,7 @@
     "ChesionSoft/Sion",
     "CloudTool/proxy_share",
     "ComfyUI-Plugin/UNet-CLIP-VAE",
+    "Craftbai/monitoring_node",
     "CreditsPlan/creditsplan-cn",
     "D1-2004/dingtalk-doc-multica-sync",
     "DaBao-Lee/V2RayN-NodeShare",
@@ -763,7 +764,9 @@
     "yuan50697105/digital-employees",
     "yun-ai-base/physics-panorama",
     "yuweitk/astrbot_plugin_rss",
+    "yuzehong16-tech/gpt-5-6-sol-codex-1m-context",
     "yv798an/Tiny_RTGW_RV307",
+    "ywvkz58/bytevirt-greencloudvps-comparison",
     "yysviiri/ddos-protected-vps-comparison",
     "yyyr-otz/iptv-api",
     "zachary9757/3x-abuse-guard",
@@ -793,5 +796,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-08-19 00:35:44"
+  "updated_at": "2026-08-19 04:27:49"
 }
