@@ -1,35 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9216,
-      "forks": 671,
-      "extracted_nodes": 40,
-      "valid_nodes": 5,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 73,
+      "forks": 71,
+      "extracted_nodes": 986,
+      "valid_nodes": 17,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1223,
+      "stars": 1224,
       "forks": 186,
       "extracted_nodes": 3000,
-      "valid_nodes": 361,
+      "valid_nodes": 387,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 73,
-      "forks": 71,
-      "extracted_nodes": 1259,
-      "valid_nodes": 19,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 555,
-      "forks": 22,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9215,
+      "forks": 671,
+      "extracted_nodes": 40,
+      "valid_nodes": 5,
       "quality_score": 100
     },
     {
@@ -49,12 +41,28 @@
       "quality_score": 88.0
     },
     {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 292,
+      "forks": 25,
+      "extracted_nodes": 13,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 150,
+      "valid_nodes": 142,
       "quality_score": 41.6
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 137,
+      "valid_nodes": 111,
+      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -63,23 +71,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "WayneDuan/RelayForge-Release",
-      "stars": 5,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 4.0
-    },
-    {
-      "repository": "fantaskiss/ComfyUI-node-img88",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 1.6
     }
   ],
-  "updated_at": "2026-08-20 08:25:15"
+  "updated_at": "2026-08-20 12:25:09"
 }
