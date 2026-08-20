@@ -1,43 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1219,
-      "forks": 185,
-      "extracted_nodes": 3000,
-      "valid_nodes": 430,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 1016,
-      "forks": 89,
-      "extracted_nodes": 54,
-      "valid_nodes": 27,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9215,
+      "forks": 671,
+      "extracted_nodes": 40,
+      "valid_nodes": 11,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 73,
       "forks": 71,
-      "extracted_nodes": 750,
-      "valid_nodes": 12,
-      "quality_score": 100
-    },
-    {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9215,
-      "forks": 671,
-      "extracted_nodes": 53,
+      "extracted_nodes": 655,
       "valid_nodes": 14,
       "quality_score": 100
     },
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1222,
+      "forks": 186,
+      "extracted_nodes": 3000,
+      "valid_nodes": 456,
+      "quality_score": 100
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 89,
+      "stars": 90,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 3,
+      "valid_nodes": 2,
       "quality_score": 89.0
     },
     {
@@ -49,20 +41,12 @@
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 291,
-      "forks": 25,
-      "extracted_nodes": 43,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 2,
       "forks": 0,
-      "extracted_nodes": 131,
-      "valid_nodes": 114,
-      "quality_score": 40.8
+      "extracted_nodes": 3000,
+      "valid_nodes": 144,
+      "quality_score": 41.6
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -73,5 +57,5 @@
       "quality_score": 40.0
     }
   ],
-  "updated_at": "2026-08-20 00:35:57"
+  "updated_at": "2026-08-20 04:27:51"
 }
