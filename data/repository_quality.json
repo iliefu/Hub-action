@@ -2,26 +2,34 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9215,
+      "stars": 9216,
       "forks": 671,
       "extracted_nodes": 40,
-      "valid_nodes": 11,
+      "valid_nodes": 5,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1223,
+      "forks": 186,
+      "extracted_nodes": 3000,
+      "valid_nodes": 361,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 73,
       "forks": 71,
-      "extracted_nodes": 655,
-      "valid_nodes": 14,
+      "extracted_nodes": 1259,
+      "valid_nodes": 19,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1222,
-      "forks": 186,
-      "extracted_nodes": 3000,
-      "valid_nodes": 456,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 555,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -37,7 +45,7 @@
       "stars": 93,
       "forks": 8,
       "extracted_nodes": 359,
-      "valid_nodes": 7,
+      "valid_nodes": 5,
       "quality_score": 88.0
     },
     {
@@ -45,7 +53,7 @@
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 144,
+      "valid_nodes": 150,
       "quality_score": 41.6
     },
     {
@@ -55,7 +63,23 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "WayneDuan/RelayForge-Release",
+      "stars": 5,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 4.0
+    },
+    {
+      "repository": "fantaskiss/ComfyUI-node-img88",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.6
     }
   ],
-  "updated_at": "2026-08-20 04:27:51"
+  "updated_at": "2026-08-20 08:25:15"
 }
