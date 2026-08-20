@@ -3,49 +3,33 @@
     {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1219,
-      "forks": 184,
+      "forks": 185,
       "extracted_nodes": 3000,
-      "valid_nodes": 421,
+      "valid_nodes": 430,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 1016,
+      "forks": 89,
+      "extracted_nodes": 54,
+      "valid_nodes": 27,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 73,
       "forks": 71,
-      "extracted_nodes": 1066,
-      "valid_nodes": 35,
+      "extracted_nodes": 750,
+      "valid_nodes": 12,
       "quality_score": 100
     },
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9214,
+      "stars": 9215,
       "forks": 671,
       "extracted_nodes": 53,
       "valid_nodes": 14,
-      "quality_score": 100
-    },
-    {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1886,
-      "forks": 121,
-      "extracted_nodes": 16,
-      "valid_nodes": 15,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 1015,
-      "forks": 89,
-      "extracted_nodes": 48,
-      "valid_nodes": 23,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 555,
-      "forks": 22,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -60,40 +44,24 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 362,
-      "valid_nodes": 4,
+      "extracted_nodes": 359,
+      "valid_nodes": 7,
       "quality_score": 88.0
     },
     {
-      "repository": "saishun/TyporaTheme",
-      "stars": 5,
-      "forks": 16,
-      "extracted_nodes": 136,
-      "valid_nodes": 63,
-      "quality_score": 60.0
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 128,
-      "quality_score": 41.6
-    },
-    {
-      "repository": "bzfq21/proxy-singbox",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 16,
-      "valid_nodes": 5,
-      "quality_score": 41.6
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 291,
+      "forks": 25,
+      "extracted_nodes": 43,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 131,
-      "valid_nodes": 118,
+      "valid_nodes": 114,
       "quality_score": 40.8
     },
     {
@@ -103,15 +71,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "TravelLeobai/SCHPD",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 596,
-      "valid_nodes": 421,
-      "quality_score": 40.0
     }
   ],
-  "updated_at": "2026-08-19 20:15:44"
+  "updated_at": "2026-08-20 00:35:57"
 }
