@@ -1,27 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 73,
-      "forks": 71,
-      "extracted_nodes": 986,
-      "valid_nodes": 17,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9218,
+      "forks": 671,
+      "extracted_nodes": 49,
+      "valid_nodes": 20,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1224,
-      "forks": 186,
+      "forks": 187,
       "extracted_nodes": 3000,
-      "valid_nodes": 387,
+      "valid_nodes": 508,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9215,
-      "forks": 671,
-      "extracted_nodes": 40,
-      "valid_nodes": 5,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 73,
+      "forks": 71,
+      "extracted_nodes": 1083,
+      "valid_nodes": 34,
       "quality_score": 100
     },
     {
@@ -29,39 +29,23 @@
       "stars": 90,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 2,
+      "valid_nodes": 8,
       "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 359,
-      "valid_nodes": 5,
+      "extracted_nodes": 363,
+      "valid_nodes": 10,
       "quality_score": 88.0
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 292,
-      "forks": 25,
-      "extracted_nodes": 13,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 142,
-      "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 137,
-      "valid_nodes": 111,
+      "valid_nodes": 109,
       "quality_score": 40.8
     },
     {
@@ -71,7 +55,23 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "ATang007ZH/freenode",
+      "stars": 8,
+      "forks": 2,
+      "extracted_nodes": 3,
+      "valid_nodes": 0,
+      "quality_score": 8.4
+    },
+    {
+      "repository": "RyzeAngler/Pleiad",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-20 12:25:09"
+  "updated_at": "2026-08-20 16:21:27"
 }
