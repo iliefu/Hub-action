@@ -2,10 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9222,
+      "stars": 9224,
       "forks": 671,
       "extracted_nodes": 47,
-      "valid_nodes": 19,
+      "valid_nodes": 17,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 73,
+      "forks": 71,
+      "extracted_nodes": 969,
+      "valid_nodes": 43,
       "quality_score": 100
     },
     {
@@ -13,23 +21,31 @@
       "stars": 1227,
       "forks": 188,
       "extracted_nodes": 3000,
-      "valid_nodes": 528,
+      "valid_nodes": 469,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 73,
-      "forks": 71,
-      "extracted_nodes": 715,
-      "valid_nodes": 53,
+      "repository": "shaoyouvip/free",
+      "stars": 1023,
+      "forks": 89,
+      "extracted_nodes": 66,
+      "valid_nodes": 17,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1892,
-      "forks": 120,
-      "extracted_nodes": 16,
-      "valid_nodes": 16,
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7954,
+      "forks": 1248,
+      "extracted_nodes": 203,
+      "valid_nodes": 33,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 555,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -44,7 +60,7 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 369,
+      "extracted_nodes": 367,
       "valid_nodes": 6,
       "quality_score": 88.0
     },
@@ -53,24 +69,16 @@
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 135,
+      "valid_nodes": 158,
       "quality_score": 41.6
     },
     {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 1179,
-      "valid_nodes": 612,
+      "extracted_nodes": 1224,
+      "valid_nodes": 615,
       "quality_score": 41.0
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 139,
-      "valid_nodes": 123,
-      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -81,15 +89,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "xiaocongyu66/proxypool",
-      "stars": 0,
+      "repository": "Maklith/Kitopia",
+      "stars": 22,
       "forks": 0,
-      "extracted_nodes": 54,
-      "valid_nodes": 36,
-      "quality_score": 40.0
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 17.6
     },
     {
-      "repository": "littleseven2003/Timelet",
+      "repository": "foxitnet/fuxin-batch-undo",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-21 04:29:52"
+  "updated_at": "2026-08-21 08:28:46"
 }
