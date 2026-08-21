@@ -624,6 +624,7 @@
     "qifujie020/new-meta.ini",
     "qijin-3/localRSS",
     "qingchencloud/openclaw-standalone",
+    "radinshahdaei/v2run",
     "raychencrh-cpu/ai-subscription-compare",
     "rico-cell/clash-proxy-sub",
     "ripaojiedian/freenode",
@@ -724,6 +725,7 @@
     "weed33834/OpenBox",
     "wenzhouce/bagu_reader",
     "wichaisw/news-crawler",
+    "william-drakemond/lunisolar-ephemeris",
     "willsonchan89-spec/iptv-api",
     "winds18/FluxGate",
     "wirelouis/komari-traffic-hub",
@@ -810,5 +812,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-08-21 16:23:57"
+  "updated_at": "2026-08-21 20:15:35"
 }
