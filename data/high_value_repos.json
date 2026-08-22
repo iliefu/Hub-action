@@ -10285,6 +10285,60 @@
       "last_nodes_update": "2026-07-08T01:52:37.048344Z"
     },
     {
+      "repository": "ishalumi/proxy-node-collector",
+      "stars": 28,
+      "forks": 1,
+      "extracted_nodes": 1257,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/easy_proxy_asia.txt",
+          "node_count": 448,
+          "last_checked": "2026-08-22T04:21:36.454871Z",
+          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/easy_proxy_asia.txt"
+        },
+        {
+          "path": "output/easy_proxy_chatgpt.txt",
+          "node_count": 1185,
+          "last_checked": "2026-08-22T04:21:36.565096Z",
+          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/easy_proxy_chatgpt.txt"
+        },
+        {
+          "path": "output/easy_proxy_europe.txt",
+          "node_count": 496,
+          "last_checked": "2026-08-22T04:21:36.685673Z",
+          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/easy_proxy_europe.txt"
+        },
+        {
+          "path": "output/easy_proxy_nodes.txt",
+          "node_count": 182,
+          "last_checked": "2026-08-22T04:21:36.788352Z",
+          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/easy_proxy_nodes.txt"
+        },
+        {
+          "path": "output/easy_proxy_us_optimized.txt",
+          "node_count": 528,
+          "last_checked": "2026-08-22T04:21:36.894215Z",
+          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/easy_proxy_us_optimized.txt"
+        },
+        {
+          "path": "output/nodes.txt",
+          "node_count": 1269,
+          "last_checked": "2026-08-22T04:21:37.014108Z",
+          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/nodes.txt"
+        },
+        {
+          "path": "output/nodes_base64.txt",
+          "node_count": 1269,
+          "last_checked": "2026-08-22T04:21:37.200932Z",
+          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/nodes_base64.txt"
+        }
+      ],
+      "last_full_scan": "2026-08-22T04:21:40.729293Z",
+      "last_nodes_update": "2026-08-22T04:21:40.729324Z"
+    },
+    {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
@@ -10655,60 +10709,6 @@
       ],
       "last_full_scan": "2026-08-06T10:26:36.872500Z",
       "last_nodes_update": "2026-08-06T10:26:36.872531Z"
-    },
-    {
-      "repository": "ishalumi/proxy-node-collector",
-      "stars": 23,
-      "forks": 1,
-      "extracted_nodes": 947,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "output/easy_proxy_asia.txt",
-          "node_count": 193,
-          "last_checked": "2026-06-07T13:19:36.250414Z",
-          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/easy_proxy_asia.txt"
-        },
-        {
-          "path": "output/easy_proxy_chatgpt.txt",
-          "node_count": 851,
-          "last_checked": "2026-06-07T13:19:36.364218Z",
-          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/easy_proxy_chatgpt.txt"
-        },
-        {
-          "path": "output/easy_proxy_europe.txt",
-          "node_count": 454,
-          "last_checked": "2026-06-07T13:19:36.517158Z",
-          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/easy_proxy_europe.txt"
-        },
-        {
-          "path": "output/easy_proxy_nodes.txt",
-          "node_count": 175,
-          "last_checked": "2026-06-07T13:19:36.596363Z",
-          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/easy_proxy_nodes.txt"
-        },
-        {
-          "path": "output/easy_proxy_us_optimized.txt",
-          "node_count": 270,
-          "last_checked": "2026-06-07T13:19:36.706910Z",
-          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/easy_proxy_us_optimized.txt"
-        },
-        {
-          "path": "output/nodes.txt",
-          "node_count": 967,
-          "last_checked": "2026-06-07T13:19:36.872858Z",
-          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/nodes.txt"
-        },
-        {
-          "path": "output/nodes_base64.txt",
-          "node_count": 967,
-          "last_checked": "2026-06-07T13:19:37.053728Z",
-          "url": "https://raw.githubusercontent.com/ishalumi/proxy-node-collector/main/output/nodes_base64.txt"
-        }
-      ],
-      "last_full_scan": "2026-06-07T13:19:41.286278Z",
-      "last_nodes_update": "2026-06-07T13:19:41.286327Z"
     },
     {
       "repository": "cbusifabcap/daily_free_vpn",
@@ -11923,7 +11923,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-08-22 00:36:47",
+  "updated_at": "2026-08-22 04:21:40",
   "total_whitelisted_repos": 38,
-  "total_cached_nodes": 41327
+  "total_cached_nodes": 41637
 }

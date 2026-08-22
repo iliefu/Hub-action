@@ -5,31 +5,31 @@
       "stars": 9227,
       "forks": 671,
       "extracted_nodes": 40,
-      "valid_nodes": 20,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1231,
-      "forks": 188,
-      "extracted_nodes": 3000,
-      "valid_nodes": 486,
+      "valid_nodes": 19,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 73,
       "forks": 71,
-      "extracted_nodes": 704,
-      "valid_nodes": 25,
+      "extracted_nodes": 752,
+      "valid_nodes": 33,
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 293,
-      "forks": 25,
-      "extracted_nodes": 18,
-      "valid_nodes": 3,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1231,
+      "forks": 189,
+      "extracted_nodes": 3000,
+      "valid_nodes": 485,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 558,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -49,19 +49,19 @@
       "quality_score": 88.0
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 161,
-      "quality_score": 41.6
+      "repository": "ishalumi/proxy-node-collector",
+      "stars": 28,
+      "forks": 1,
+      "extracted_nodes": 1257,
+      "valid_nodes": 114,
+      "quality_score": 63.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 144,
-      "valid_nodes": 125,
+      "extracted_nodes": 142,
+      "valid_nodes": 93,
       "quality_score": 40.8
     },
     {
@@ -71,7 +71,15 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "liuwanwan1/astrbot_plugin_sub2api_health",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-22 00:36:59"
+  "updated_at": "2026-08-22 04:21:44"
 }
