@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1230,
+      "forks": 191,
+      "extracted_nodes": 3000,
+      "valid_nodes": 533,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9232,
       "forks": 672,
       "extracted_nodes": 49,
       "valid_nodes": 24,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1231,
-      "forks": 191,
-      "extracted_nodes": 3000,
-      "valid_nodes": 577,
       "quality_score": 100
     },
     {
@@ -36,7 +36,7 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 360,
+      "extracted_nodes": 361,
       "valid_nodes": 9,
       "quality_score": 88.0
     },
@@ -44,8 +44,8 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1281,
-      "valid_nodes": 314,
+      "extracted_nodes": 1282,
+      "valid_nodes": 302,
       "quality_score": 53.0
     },
     {
@@ -53,23 +53,7 @@
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 288,
-      "quality_score": 41.6
-    },
-    {
-      "repository": "share-daily/node",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 36,
-      "valid_nodes": 13,
-      "quality_score": 41.6
-    },
-    {
-      "repository": "bzfq21/proxy-singbox",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 16,
-      "valid_nodes": 5,
+      "valid_nodes": 303,
       "quality_score": 41.6
     },
     {
@@ -81,7 +65,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Ccm-Tim/ComfyUI-VideoFrameMark",
+      "repository": "wcpe/JianManager",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +73,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-23 16:13:18"
+  "updated_at": "2026-08-23 20:11:31"
 }
