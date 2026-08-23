@@ -5,31 +5,31 @@
       "stars": 1231,
       "forks": 190,
       "extracted_nodes": 3000,
-      "valid_nodes": 602,
+      "valid_nodes": 519,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 74,
       "forks": 71,
-      "extracted_nodes": 860,
-      "valid_nodes": 41,
+      "extracted_nodes": 1203,
+      "valid_nodes": 49,
       "quality_score": 100
     },
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9230,
+      "stars": 9232,
       "forks": 672,
       "extracted_nodes": 49,
-      "valid_nodes": 27,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1902,
-      "forks": 121,
-      "extracted_nodes": 16,
-      "valid_nodes": 16,
+      "repository": "dongchengjie/airport",
+      "stars": 630,
+      "forks": 55,
+      "extracted_nodes": 3000,
+      "valid_nodes": 1733,
       "quality_score": 100
     },
     {
@@ -37,39 +37,31 @@
       "stars": 91,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 3,
+      "valid_nodes": 4,
       "quality_score": 89.0
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 93,
+      "forks": 8,
+      "extracted_nodes": 367,
+      "valid_nodes": 6,
+      "quality_score": 88.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1279,
-      "valid_nodes": 307,
+      "extracted_nodes": 1281,
+      "valid_nodes": 310,
       "quality_score": 53.0
-    },
-    {
-      "repository": "CB-X2-Jun/verified-v2ray-lists",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 192,
-      "valid_nodes": 9,
-      "quality_score": 42.4
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 308,
-      "quality_score": 41.6
-    },
-    {
-      "repository": "bzfq21/proxy-singbox",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 16,
-      "valid_nodes": 6,
+      "valid_nodes": 296,
       "quality_score": 41.6
     },
     {
@@ -81,7 +73,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "usacpcheung/hk-ollama-rewrite-bridge",
+      "repository": "vdeng-ai/ComfyUI-Prompt-Bookmarks",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-23 04:27:38"
+  "updated_at": "2026-08-23 08:20:07"
 }
