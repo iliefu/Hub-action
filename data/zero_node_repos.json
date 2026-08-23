@@ -702,6 +702,7 @@
     "type53/dsh-claude-subscriptions",
     "tywinlu1988/GateKeeper",
     "tzd3005/ComfyUI-Prompt-Library",
+    "usacpcheung/hk-ollama-rewrite-bridge",
     "usehe/2026-Grok-SuperGrok-Grok",
     "userreksai/node_registry_manager",
     "v2raynnodes/clashnode",
@@ -817,5 +818,5 @@
     "zzhiping1/vibe-coding-blackboard",
     "zzmy1917-svg/cheap-vpn-airport"
   ],
-  "updated_at": "2026-08-23 00:40:18"
+  "updated_at": "2026-08-23 04:27:24"
 }
