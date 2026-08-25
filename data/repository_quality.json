@@ -1,27 +1,19 @@
 {
   "repositories": [
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1231,
+      "forks": 194,
+      "extracted_nodes": 3000,
+      "valid_nodes": 581,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9237,
       "forks": 672,
       "extracted_nodes": 58,
-      "valid_nodes": 31,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1231,
-      "forks": 193,
-      "extracted_nodes": 3000,
-      "valid_nodes": 496,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 295,
-      "forks": 25,
-      "extracted_nodes": 24,
-      "valid_nodes": 4,
+      "valid_nodes": 29,
       "quality_score": 100
     },
     {
@@ -29,55 +21,31 @@
       "stars": 94,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 2,
+      "valid_nodes": 3,
       "quality_score": 89.0
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 93,
-      "forks": 8,
-      "extracted_nodes": 360,
-      "valid_nodes": 2,
-      "quality_score": 88.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1295,
-      "valid_nodes": 309,
+      "extracted_nodes": 1320,
+      "valid_nodes": 315,
       "quality_score": 53.0
-    },
-    {
-      "repository": "nodesfree/v2raynode",
-      "stars": 98,
-      "forks": 11,
-      "extracted_nodes": 10,
-      "valid_nodes": 0,
-      "quality_score": 51.0
-    },
-    {
-      "repository": "nodesfree/clashnode",
-      "stars": 72,
-      "forks": 5,
-      "extracted_nodes": 16,
-      "valid_nodes": 0,
-      "quality_score": 45.0
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 271,
+      "valid_nodes": 291,
       "quality_score": 41.6
     },
     {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 1192,
-      "valid_nodes": 607,
+      "extracted_nodes": 1206,
+      "valid_nodes": 580,
       "quality_score": 41.0
     },
     {
@@ -87,15 +55,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "hbygydvby/Subscribe-link",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-25 00:38:57"
+  "updated_at": "2026-08-25 04:30:20"
 }
