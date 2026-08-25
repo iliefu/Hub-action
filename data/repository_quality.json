@@ -5,7 +5,7 @@
       "stars": 1231,
       "forks": 194,
       "extracted_nodes": 3000,
-      "valid_nodes": 581,
+      "valid_nodes": 498,
       "quality_score": 100
     },
     {
@@ -17,36 +17,60 @@
       "quality_score": 100
     },
     {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7979,
+      "forks": 1249,
+      "extracted_nodes": 242,
+      "valid_nodes": 35,
+      "quality_score": 100
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 94,
+      "stars": 95,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 3,
+      "valid_nodes": 1,
       "quality_score": 89.0
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 93,
+      "forks": 8,
+      "extracted_nodes": 367,
+      "valid_nodes": 4,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 231,
+      "forks": 27,
+      "extracted_nodes": 9,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1320,
-      "valid_nodes": 315,
+      "extracted_nodes": 1322,
+      "valid_nodes": 303,
       "quality_score": 53.0
+    },
+    {
+      "repository": "modelbus/one-api-pro",
+      "stars": 123,
+      "forks": 7,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 47.0
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 291,
+      "valid_nodes": 288,
       "quality_score": 41.6
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 1206,
-      "valid_nodes": 580,
-      "quality_score": 41.0
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -57,5 +81,5 @@
       "quality_score": 40.0
     }
   ],
-  "updated_at": "2026-08-25 04:30:20"
+  "updated_at": "2026-08-25 08:30:28"
 }
