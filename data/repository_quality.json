@@ -2,42 +2,50 @@
   "repositories": [
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1235,
-      "forks": 194,
+      "stars": 1236,
+      "forks": 195,
       "extracted_nodes": 3000,
-      "valid_nodes": 592,
+      "valid_nodes": 505,
       "quality_score": 100
     },
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9236,
+      "stars": 9237,
       "forks": 673,
       "extracted_nodes": 38,
-      "valid_nodes": 18,
+      "valid_nodes": 17,
       "quality_score": 100
     },
     {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 560,
-      "forks": 22,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "repository": "dongchengjie/airport",
+      "stars": 634,
+      "forks": 55,
+      "extracted_nodes": 3000,
+      "valid_nodes": 1786,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1916,
-      "forks": 121,
-      "extracted_nodes": 16,
-      "valid_nodes": 16,
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 7988,
+      "forks": 1249,
+      "extracted_nodes": 225,
+      "valid_nodes": 32,
       "quality_score": 100
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 93,
+      "forks": 8,
+      "extracted_nodes": 360,
+      "valid_nodes": 5,
+      "quality_score": 88.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1339,
-      "valid_nodes": 300,
+      "extracted_nodes": 1346,
+      "valid_nodes": 305,
       "quality_score": 53.0
     },
     {
@@ -53,15 +61,15 @@
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 281,
+      "valid_nodes": 292,
       "quality_score": 41.6
     },
     {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 1151,
-      "valid_nodes": 571,
+      "extracted_nodes": 1106,
+      "valid_nodes": 544,
       "quality_score": 41.0
     },
     {
@@ -69,7 +77,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 141,
-      "valid_nodes": 125,
+      "valid_nodes": 114,
       "quality_score": 40.8
     },
     {
@@ -81,7 +89,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "devnebula2304/qingyunti-entity-guide",
+      "repository": "AbnerSC/NexHome",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-26 04:31:58"
+  "updated_at": "2026-08-26 08:33:48"
 }
