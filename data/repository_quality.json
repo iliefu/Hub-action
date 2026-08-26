@@ -1,52 +1,52 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1236,
-      "forks": 195,
-      "extracted_nodes": 3000,
-      "valid_nodes": 505,
-      "quality_score": 100
-    },
-    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9237,
       "forks": 673,
-      "extracted_nodes": 38,
-      "valid_nodes": 17,
+      "extracted_nodes": 51,
+      "valid_nodes": 28,
       "quality_score": 100
     },
     {
-      "repository": "dongchengjie/airport",
-      "stars": 634,
-      "forks": 55,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1237,
+      "forks": 195,
       "extracted_nodes": 3000,
-      "valid_nodes": 1786,
+      "valid_nodes": 142,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 7988,
-      "forks": 1249,
-      "extracted_nodes": 225,
-      "valid_nodes": 32,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 560,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 93,
       "forks": 8,
-      "extracted_nodes": 360,
-      "valid_nodes": 5,
+      "extracted_nodes": 363,
+      "valid_nodes": 6,
       "quality_score": 88.0
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 15,
-      "forks": 1,
-      "extracted_nodes": 1346,
-      "valid_nodes": 305,
-      "quality_score": 53.0
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 74,
+      "forks": 72,
+      "extracted_nodes": 2268,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 298,
+      "forks": 26,
+      "extracted_nodes": 4,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -61,23 +61,23 @@
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 292,
+      "valid_nodes": 303,
       "quality_score": 41.6
     },
     {
-      "repository": "huiwin/NodeCollection",
+      "repository": "xiaxiamu876-prog/NetPulse",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 1106,
-      "valid_nodes": 544,
+      "extracted_nodes": 14,
+      "valid_nodes": 5,
       "quality_score": 41.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 114,
+      "extracted_nodes": 143,
+      "valid_nodes": 127,
       "quality_score": 40.8
     },
     {
@@ -89,7 +89,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "AbnerSC/NexHome",
+      "repository": "zzzhhe999/Mihomo-Script-Rules",
+      "stars": 18,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 14.4
+    },
+    {
+      "repository": "ShiDai567/NetScope",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-26 08:33:48"
+  "updated_at": "2026-08-26 12:28:44"
 }
