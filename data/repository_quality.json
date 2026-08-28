@@ -2,23 +2,31 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9235,
+      "stars": 9236,
       "forks": 674,
-      "extracted_nodes": 34,
-      "valid_nodes": 20,
+      "extracted_nodes": 58,
+      "valid_nodes": 31,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 1051,
+      "forks": 90,
+      "extracted_nodes": 85,
+      "valid_nodes": 44,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1240,
-      "forks": 194,
+      "stars": 1241,
+      "forks": 195,
       "extracted_nodes": 3000,
-      "valid_nodes": 426,
+      "valid_nodes": 424,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 563,
+      "stars": 564,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
@@ -28,23 +36,15 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 94,
       "forks": 8,
-      "extracted_nodes": 355,
-      "valid_nodes": 8,
+      "extracted_nodes": 353,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 74,
       "forks": 72,
-      "extracted_nodes": 148,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 233,
-      "forks": 28,
-      "extracted_nodes": 9,
+      "extracted_nodes": 145,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -52,8 +52,8 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1354,
-      "valid_nodes": 310,
+      "extracted_nodes": 1362,
+      "valid_nodes": 316,
       "quality_score": 53.0
     },
     {
@@ -73,29 +73,29 @@
       "quality_score": 40.0
     },
     {
-      "repository": "THE-SAZ/WarpMiner",
-      "stars": 3,
+      "repository": "areyoubugcoder/mp2rss-cli",
+      "stars": 5,
       "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 3.4
+      "quality_score": 5.0
     },
     {
-      "repository": "xiaoshanio/MX-Desktop-Sharing-NEXT",
-      "stars": 0,
+      "repository": "Defei-Wang/precision-metronome",
+      "stars": 2,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 1.6
     },
     {
-      "repository": "RukaPrPr/AichanToolbox",
-      "stars": 0,
+      "repository": "EpiphanyLhx/BellSprint",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-08-27 18:29:39"
+  "updated_at": "2026-08-28 03:55:15"
 }
