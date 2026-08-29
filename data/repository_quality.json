@@ -13,7 +13,15 @@
       "stars": 1244,
       "forks": 196,
       "extracted_nodes": 3000,
-      "valid_nodes": 288,
+      "valid_nodes": 403,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 1060,
+      "forks": 91,
+      "extracted_nodes": 48,
+      "valid_nodes": 25,
       "quality_score": 100
     },
     {
@@ -33,35 +41,51 @@
       "quality_score": 89.0
     },
     {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 94,
+      "forks": 8,
+      "extracted_nodes": 370,
+      "valid_nodes": 6,
+      "quality_score": 88.0
+    },
+    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 75,
       "forks": 73,
-      "extracted_nodes": 169,
+      "extracted_nodes": 141,
       "valid_nodes": 0,
       "quality_score": 60
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 300,
-      "forks": 26,
-      "extracted_nodes": 4,
+      "repository": "zhouzhouprogram/Shadowrocket-ADBlock-Rules",
+      "stars": 877,
+      "forks": 74,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 60
+    },
+    {
+      "repository": "bzfq21/proxy-singbox",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 16,
+      "valid_nodes": 5,
+      "quality_score": 42.4
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 300,
+      "valid_nodes": 320,
       "quality_score": 41.6
     },
     {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 1299,
-      "valid_nodes": 605,
+      "extracted_nodes": 1248,
+      "valid_nodes": 574,
       "quality_score": 41.0
     },
     {
@@ -69,7 +93,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 119,
-      "valid_nodes": 99,
+      "valid_nodes": 87,
       "quality_score": 40.8
     },
     {
@@ -79,47 +103,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "LeilaoMi/hot-news-radar",
-      "stars": 2,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 2.6
-    },
-    {
-      "repository": "hanpaopao66/chaojizan",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "wm1634208243/sub-hub",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "meloxxin/ComfyUI-H3-micxin-suite",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Mao-jh/porter",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-08-29 15:55:31"
+  "updated_at": "2026-08-29 19:01:05"
 }
