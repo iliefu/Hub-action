@@ -83,6 +83,7 @@
     "ComfyUI-Plugin/UNet-CLIP-VAE",
     "Craftbai/monitoring_node",
     "CreditsPlan/creditsplan-cn",
+    "Ctrl1CandV/Atlas",
     "D1-2004/dingtalk-doc-multica-sync",
     "DY-tian/patent-disclosure-21-skills",
     "DaBao-Lee/V2RayN-NodeShare",
@@ -853,5 +854,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-08-28 15:46:10"
+  "updated_at": "2026-08-29 00:14:21"
 }
