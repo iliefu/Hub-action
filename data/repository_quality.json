@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1246,
+      "stars": 1247,
       "forks": 197,
       "extracted_nodes": 3000,
-      "valid_nodes": 400,
+      "valid_nodes": 407,
       "quality_score": 100
     },
     {
@@ -13,15 +13,7 @@
       "stars": 9243,
       "forks": 673,
       "extracted_nodes": 44,
-      "valid_nodes": 28,
-      "quality_score": 100
-    },
-    {
-      "repository": "kooker/FreeSubsCheck",
-      "stars": 305,
-      "forks": 41,
-      "extracted_nodes": 516,
-      "valid_nodes": 113,
+      "valid_nodes": 18,
       "quality_score": 100
     },
     {
@@ -29,22 +21,30 @@
       "stars": 95,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 1,
+      "valid_nodes": 2,
       "quality_score": 89.0
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 94,
-      "forks": 8,
-      "extracted_nodes": 376,
-      "valid_nodes": 11,
-      "quality_score": 88.0
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 76,
       "forks": 73,
-      "extracted_nodes": 129,
+      "extracted_nodes": 125,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 238,
+      "forks": 28,
+      "extracted_nodes": 9,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 300,
+      "forks": 26,
+      "extracted_nodes": 1,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -52,24 +52,32 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1253,
-      "valid_nodes": 236,
+      "extracted_nodes": 1265,
+      "valid_nodes": 234,
       "quality_score": 53.0
     },
     {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 1061,
-      "valid_nodes": 551,
+      "extracted_nodes": 1017,
+      "valid_nodes": 638,
+      "quality_score": 41.0
+    },
+    {
+      "repository": "xiaxiamu876-prog/NetPulse",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 11,
+      "valid_nodes": 5,
       "quality_score": 41.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 134,
-      "valid_nodes": 122,
+      "extracted_nodes": 136,
+      "valid_nodes": 126,
       "quality_score": 40.8
     },
     {
@@ -81,53 +89,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "tukeceshi/z3cz",
-      "stars": 11,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 9.8
-    },
-    {
-      "repository": "Rmosser/Clash-Verge-For-LC",
-      "stars": 6,
+      "repository": "jun-1024/airport-recommendation",
+      "stars": 35,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 4.8
-    },
-    {
-      "repository": "liusonwood/SummaRSS",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 2.4
-    },
-    {
-      "repository": "PrajwalKoirala638/cloudflare-warp-to-wireguard-config-generator",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "luyi2008/disaster-alert-web",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "WorldONEPIECE/-webcoding-",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 28.0
     }
   ],
-  "updated_at": "2026-08-31 10:13:57"
+  "updated_at": "2026-08-31 18:23:02"
 }
