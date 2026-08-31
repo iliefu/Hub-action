@@ -195,6 +195,7 @@
     "Pinevu/pine-sub",
     "Pinocchang/Proxy_Res",
     "PolysaCHride/astrbot_plugin_pixiv",
+    "PrajwalKoirala638/cloudflare-warp-to-wireguard-config-generator",
     "Pretic/SB-cfy-Pre",
     "ProxyPanel/PingAgent",
     "QMahyar/Cloudflare-Scanner",
@@ -208,6 +209,7 @@
     "ReighstAI/feishu-bridge",
     "Rf2CaFAtBUUR/mihomo-node-share",
     "RingoCaviar/CainFlow",
+    "Rmosser/Clash-Verge-For-LC",
     "RukaPrPr/AichanToolbox",
     "Rurikobaka/Subscription-conversion-configuration",
     "Ryze-T/Bilibili-SRT-RSS",
@@ -262,6 +264,7 @@
     "Wei-Shaw/sub2api",
     "WhiteDNS/WhiteWarpScout",
     "WillLiang713/Sift",
+    "WorldONEPIECE/-webcoding-",
     "Wuvomi/adtophagy-filters",
     "XD06/proxy-pool-manager",
     "XKLingYu/kk-vibe-cli",
@@ -568,6 +571,7 @@
     "lioneltchami/superwarp-toolkit",
     "littleseven2003/Timelet",
     "liusonwood/OughtGather",
+    "liusonwood/SummaRSS",
     "liusonwood/oughtgather",
     "liuwanwan1/astrbot_plugin_sub2api_health",
     "liuyangyi0/argus",
@@ -581,6 +585,7 @@
     "ls125781003/qqctg",
     "luka-n8n-nodes/n8n-nodes-feilian",
     "luka-n8n-nodes/n8n-nodes-kingdee",
+    "luyi2008/disaster-alert-web",
     "lv1238/innovationB1",
     "lyell0710/Kernel_Optimazation",
     "lynx-gt/IndexTTS2-PauseControl",
@@ -736,6 +741,7 @@
     "tpxcer/oui",
     "tqb4342/Open-Internet",
     "ts-sf/fly",
+    "tukeceshi/z3cz",
     "twj515895394/Ryan_Comfy_Utils",
     "type53/dsh-claude-subscriptions",
     "tywinlu1988/GateKeeper",
@@ -868,5 +874,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-08-31 02:11:00"
+  "updated_at": "2026-08-31 10:13:42"
 }

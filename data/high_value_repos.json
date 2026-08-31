@@ -10663,48 +10663,6 @@
       "last_nodes_update": "2026-07-30T17:15:47.578812Z"
     },
     {
-      "repository": "kooker/FreeSubsCheck",
-      "stars": 113,
-      "forks": 10,
-      "extracted_nodes": 633,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "all.yaml",
-          "node_count": 163,
-          "last_checked": "2026-08-17T16:22:31.946942Z",
-          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml"
-        },
-        {
-          "path": "base64.txt",
-          "node_count": 163,
-          "last_checked": "2026-08-17T16:22:32.079600Z",
-          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt"
-        },
-        {
-          "path": "byxiaoxi.txt",
-          "node_count": 11,
-          "last_checked": "2026-08-17T16:22:32.188744Z",
-          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/byxiaoxi.txt"
-        },
-        {
-          "path": "kooker.jp.txt",
-          "node_count": 317,
-          "last_checked": "2026-08-17T16:22:32.316978Z",
-          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
-        },
-        {
-          "path": "mihomo.yaml",
-          "node_count": 163,
-          "last_checked": "2026-08-17T16:22:32.626741Z",
-          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/mihomo.yaml"
-        }
-      ],
-      "last_full_scan": "2026-08-17T16:22:40.000120Z",
-      "last_nodes_update": "2026-08-17T16:22:40.000144Z"
-    },
-    {
       "repository": "TravelLeobai/SCHPD",
       "stars": 0,
       "forks": 0,
@@ -10733,6 +10691,48 @@
       ],
       "last_full_scan": "2026-08-19T20:15:30.523593Z",
       "last_nodes_update": "2026-08-19T20:15:30.523597Z"
+    },
+    {
+      "repository": "kooker/FreeSubsCheck",
+      "stars": 305,
+      "forks": 41,
+      "extracted_nodes": 516,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "all.yaml",
+          "node_count": 28,
+          "last_checked": "2026-08-31T10:13:34.471430Z",
+          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml"
+        },
+        {
+          "path": "base64.txt",
+          "node_count": 28,
+          "last_checked": "2026-08-31T10:13:34.546278Z",
+          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt"
+        },
+        {
+          "path": "byxiaoxi.txt",
+          "node_count": 11,
+          "last_checked": "2026-08-31T10:13:34.632602Z",
+          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/byxiaoxi.txt"
+        },
+        {
+          "path": "kooker.jp.txt",
+          "node_count": 484,
+          "last_checked": "2026-08-31T10:13:34.749443Z",
+          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
+        },
+        {
+          "path": "mihomo.yaml",
+          "node_count": 28,
+          "last_checked": "2026-08-31T10:13:34.875401Z",
+          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/mihomo.yaml"
+        }
+      ],
+      "last_full_scan": "2026-08-31T10:13:42.713190Z",
+      "last_nodes_update": "2026-08-31T10:13:42.713227Z"
     },
     {
       "repository": "1000ttank/free-vpn-clash-aggregator",
@@ -11857,7 +11857,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-08-31 02:11:00",
+  "updated_at": "2026-08-31 10:13:42",
   "total_whitelisted_repos": 39,
-  "total_cached_nodes": 43218
+  "total_cached_nodes": 43101
 }
