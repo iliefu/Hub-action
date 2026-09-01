@@ -514,6 +514,7 @@
     "jmetrikat/dotfiles",
     "joesbell/meridian",
     "joker20020/office-workflow",
+    "joohw/rssany",
     "josephyin/MediaSync",
     "jsllb1986/gkd-rules",
     "jun-1024/airport-recommendation",
@@ -538,6 +539,7 @@
     "kingflowapi/claude-no-vpn",
     "kinoward/kino-ds-harness-plugin",
     "kkx999/xs5",
+    "klarkxy/opencode-go-mgr",
     "kremeshnoi/dotfiles",
     "kubaba2012/blender3d-cockpit",
     "kukumi1/sing-box",
@@ -869,6 +871,7 @@
     "zhufx/iptv-api",
     "zidimoxu89/fjt",
     "zinan92/daily-newsletter",
+    "zjfandroid/free",
     "zkytech/aistat",
     "zming-huang/Pure_Vector_Studio_Pro",
     "zqs1qiwan/warp2wireguard",
@@ -878,5 +881,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-08-31 23:29:26"
+  "updated_at": "2026-09-01 02:29:45"
 }

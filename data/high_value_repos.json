@@ -10525,30 +10525,6 @@
       "last_nodes_update": "2026-08-30T18:56:40.060451Z"
     },
     {
-      "repository": "lanzm/MetaFetch",
-      "stars": 12,
-      "forks": 3,
-      "extracted_nodes": 1140,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "list.meta.yml",
-          "node_count": 454,
-          "last_checked": "2026-07-23T01:47:06.474732Z",
-          "url": "https://raw.githubusercontent.com/lanzm/MetaFetch/master/list.meta.yml"
-        },
-        {
-          "path": "list.txt",
-          "node_count": 995,
-          "last_checked": "2026-07-23T01:47:06.748328Z",
-          "url": "https://raw.githubusercontent.com/lanzm/MetaFetch/master/list.txt"
-        }
-      ],
-      "last_full_scan": "2026-07-23T01:47:09.361421Z",
-      "last_nodes_update": "2026-07-23T01:47:09.361446Z"
-    },
-    {
       "repository": "bily1258-design/beimi",
       "stars": 0,
       "forks": 0,
@@ -10601,6 +10577,30 @@
       ],
       "last_full_scan": "2026-08-06T10:26:36.872500Z",
       "last_nodes_update": "2026-08-06T10:26:36.872531Z"
+    },
+    {
+      "repository": "lanzm/MetaFetch",
+      "stars": 22,
+      "forks": 6,
+      "extracted_nodes": 967,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "list.meta.yml",
+          "node_count": 368,
+          "last_checked": "2026-09-01T02:29:41.908587Z",
+          "url": "https://raw.githubusercontent.com/lanzm/MetaFetch/master/list.meta.yml"
+        },
+        {
+          "path": "list.txt",
+          "node_count": 682,
+          "last_checked": "2026-09-01T02:29:42.327219Z",
+          "url": "https://raw.githubusercontent.com/lanzm/MetaFetch/master/list.txt"
+        }
+      ],
+      "last_full_scan": "2026-09-01T02:29:45.587388Z",
+      "last_nodes_update": "2026-09-01T02:29:45.587406Z"
     },
     {
       "repository": "cbusifabcap/daily_free_vpn",
@@ -11857,7 +11857,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-08-31 23:29:26",
+  "updated_at": "2026-09-01 02:29:45",
   "total_whitelisted_repos": 39,
-  "total_cached_nodes": 43101
+  "total_cached_nodes": 42928
 }
