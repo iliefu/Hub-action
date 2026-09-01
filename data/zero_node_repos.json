@@ -70,6 +70,7 @@
     "Bemly/china-steam-pricer",
     "BeterXie/ai_price_radar",
     "BillBeam/agent-radar",
+    "C6Lactide/godot-chinese-pinyin-completion",
     "CB-X2-Jun/proxy-lists",
     "CaoMeiYouRen/rss-impact-server",
     "CashewTeam/Cashew_Nodes",
@@ -126,6 +127,7 @@
     "HelloThreeLiu/ResearchWorkbench",
     "HsMirage/AIPlanHub",
     "HsuanZhao/Criminal-Procedure-Timeline-Calculator",
+    "IVan666888/SteamEYA-Client",
     "IceTears1/subforge",
     "InfernusIntraMe/ComfyUI-Local-Ollama-Translator",
     "Irfandii/Go_wg-warp_generator",
@@ -146,6 +148,7 @@
     "L134283/Alife-Comfyui",
     "LGYT-KTPD/atuo-singbox",
     "LI-PG1/interview-tracker-assistant",
+    "LancelotRar/free-subs",
     "LankstonAnderson/WorkerVless2sub",
     "LeilaoMi/hot-news-radar",
     "Leo0426/subscription-to-strategy-converter",
@@ -887,5 +890,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-01 15:43:06"
+  "updated_at": "2026-09-01 18:59:10"
 }

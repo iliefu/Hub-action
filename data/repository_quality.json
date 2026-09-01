@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1249,
+      "forks": 198,
+      "extracted_nodes": 3000,
+      "valid_nodes": 426,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9245,
       "forks": 672,
       "extracted_nodes": 48,
-      "valid_nodes": 25,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1248,
-      "forks": 198,
-      "extracted_nodes": 3000,
-      "valid_nodes": 453,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
@@ -25,12 +25,44 @@
       "quality_score": 100
     },
     {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 8018,
+      "forks": 1253,
+      "extracted_nodes": 384,
+      "valid_nodes": 69,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 1069,
+      "forks": 91,
+      "extracted_nodes": 94,
+      "valid_nodes": 8,
+      "quality_score": 100
+    },
+    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 76,
       "forks": 73,
-      "extracted_nodes": 129,
+      "extracted_nodes": 125,
       "valid_nodes": 0,
       "quality_score": 60
+    },
+    {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 15,
+      "forks": 1,
+      "extracted_nodes": 1228,
+      "valid_nodes": 233,
+      "quality_score": 53.0
+    },
+    {
+      "repository": "LancelotRar/free-subs",
+      "stars": 64,
+      "forks": 10,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 50.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -41,20 +73,28 @@
       "quality_score": 49.0
     },
     {
+      "repository": "zhulinghuanyu/Subscribe",
+      "stars": 6,
+      "forks": 0,
+      "extracted_nodes": 47,
+      "valid_nodes": 16,
+      "quality_score": 44.8
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 270,
+      "quality_score": 41.6
+    },
+    {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 1018,
-      "valid_nodes": 639,
+      "extracted_nodes": 995,
+      "valid_nodes": 623,
       "quality_score": 41.0
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 136,
-      "valid_nodes": 126,
-      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -65,23 +105,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "SuperWJ062/ComfyUI-ares_gpu_manager",
-      "stars": 6,
-      "forks": 0,
+      "repository": "C6Lactide/godot-chinese-pinyin-completion",
+      "stars": 2,
+      "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 4.8
+      "quality_score": 2.6
     },
     {
-      "repository": "Irfandii/Go_wg-warp_generator",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Mao-70R7/invest-edgeone",
+      "repository": "IVan666888/SteamEYA-Client",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +121,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-01 15:43:19"
+  "updated_at": "2026-09-01 18:59:24"
 }
