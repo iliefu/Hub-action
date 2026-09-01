@@ -10603,6 +10603,30 @@
       "last_nodes_update": "2026-09-01T02:29:45.587406Z"
     },
     {
+      "repository": "maimengmeng/mysub",
+      "stars": 13,
+      "forks": 6,
+      "extracted_nodes": 961,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "valid_content.txt",
+          "node_count": 898,
+          "last_checked": "2026-09-01T08:59:08.443030Z",
+          "url": "https://raw.githubusercontent.com/maimengmeng/mysub/main/valid_content.txt"
+        },
+        {
+          "path": "valid_content_all.txt",
+          "node_count": 1942,
+          "last_checked": "2026-09-01T08:59:08.707075Z",
+          "url": "https://raw.githubusercontent.com/maimengmeng/mysub/main/valid_content_all.txt"
+        }
+      ],
+      "last_full_scan": "2026-09-01T08:59:20.454720Z",
+      "last_nodes_update": "2026-09-01T08:59:20.454749Z"
+    },
+    {
       "repository": "cbusifabcap/daily_free_vpn",
       "stars": 25,
       "forks": 2,
@@ -10643,24 +10667,6 @@
       ],
       "last_full_scan": "2026-06-30T17:48:46.673410Z",
       "last_nodes_update": "2026-06-30T17:48:46.673434Z"
-    },
-    {
-      "repository": "maimengmeng/mysub",
-      "stars": 13,
-      "forks": 6,
-      "extracted_nodes": 701,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "valid_content.txt",
-          "node_count": 1440,
-          "last_checked": "2026-07-30T17:13:58.753219Z",
-          "url": "https://raw.githubusercontent.com/maimengmeng/mysub/main/valid_content.txt"
-        }
-      ],
-      "last_full_scan": "2026-07-30T17:15:47.578784Z",
-      "last_nodes_update": "2026-07-30T17:15:47.578812Z"
     },
     {
       "repository": "TravelLeobai/SCHPD",
@@ -11857,7 +11863,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-01 02:29:45",
+  "updated_at": "2026-09-01 08:59:20",
   "total_whitelisted_repos": 39,
-  "total_cached_nodes": 42928
+  "total_cached_nodes": 43188
 }
