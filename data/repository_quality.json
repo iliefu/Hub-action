@@ -1,52 +1,52 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1250,
-      "forks": 198,
-      "extracted_nodes": 3000,
-      "valid_nodes": 410,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9249,
+      "forks": 672,
+      "extracted_nodes": 46,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
-      "stars": 1070,
+      "stars": 1073,
       "forks": 91,
-      "extracted_nodes": 50,
-      "valid_nodes": 23,
+      "extracted_nodes": 32,
+      "valid_nodes": 16,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9248,
-      "forks": 672,
-      "extracted_nodes": 52,
-      "valid_nodes": 27,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 566,
-      "forks": 22,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1250,
+      "forks": 198,
+      "extracted_nodes": 3000,
+      "valid_nodes": 409,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 77,
       "forks": 73,
-      "extracted_nodes": 119,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "extracted_nodes": 879,
+      "valid_nodes": 23,
+      "quality_score": 100
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 15,
-      "forks": 1,
-      "extracted_nodes": 1294,
-      "valid_nodes": 243,
-      "quality_score": 53.0
+      "repository": "PuddinCat/BestClash",
+      "stars": 1933,
+      "forks": 122,
+      "extracted_nodes": 16,
+      "valid_nodes": 15,
+      "quality_score": 100
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 94,
+      "forks": 8,
+      "extracted_nodes": 365,
+      "valid_nodes": 9,
+      "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -57,11 +57,35 @@
       "quality_score": 49.0
     },
     {
+      "repository": "bzfq21/proxy-singbox",
+      "stars": 4,
+      "forks": 0,
+      "extracted_nodes": 16,
+      "valid_nodes": 6,
+      "quality_score": 43.2
+    },
+    {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 990,
+      "valid_nodes": 615,
+      "quality_score": 41.0
+    },
+    {
+      "repository": "xiaxiamu876-prog/NetPulse",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 14,
+      "valid_nodes": 5,
+      "quality_score": 41.0
+    },
+    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 148,
-      "valid_nodes": 138,
+      "extracted_nodes": 137,
+      "valid_nodes": 125,
       "quality_score": 40.8
     },
     {
@@ -73,23 +97,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "HYGON-AI/k8s-hcu-dra-driver",
-      "stars": 2,
-      "forks": 3,
+      "repository": "822807097/codex-multi-model-router",
+      "stars": 4,
+      "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 4.6
+      "quality_score": 4.2
     },
     {
-      "repository": "xiong-yf/campus_auto_connect",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "kyson-dev/proxy-builder",
+      "repository": "MoewSama/node",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +113,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-02 08:13:02"
+  "updated_at": "2026-09-02 15:33:03"
 }
