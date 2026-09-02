@@ -10709,24 +10709,24 @@
         {
           "path": "Clash_Vless.yaml",
           "node_count": 488,
-          "last_checked": "2026-08-19T20:15:24.326043Z",
+          "last_checked": "2026-09-02T19:03:56.245953Z",
           "url": "https://raw.githubusercontent.com/TravelLeobai/SCHPD/main/Clash_Vless.yaml"
         },
         {
           "path": "clash.yaml",
           "node_count": 90,
-          "last_checked": "2026-08-19T20:15:24.484601Z",
+          "last_checked": "2026-09-02T19:03:56.446556Z",
           "url": "https://raw.githubusercontent.com/TravelLeobai/SCHPD/main/clash.yaml"
         },
         {
           "path": "\u4e13\u7ebf.yaml",
           "node_count": 18,
-          "last_checked": "2026-08-19T20:15:24.748999Z",
+          "last_checked": "2026-09-02T19:03:56.760031Z",
           "url": "https://raw.githubusercontent.com/TravelLeobai/SCHPD/main/\u4e13\u7ebf.yaml"
         }
       ],
-      "last_full_scan": "2026-08-19T20:15:30.523593Z",
-      "last_nodes_update": "2026-08-19T20:15:30.523597Z"
+      "last_full_scan": "2026-09-02T19:04:01.001223Z",
+      "last_nodes_update": "2026-09-02T19:04:01.001243Z"
     },
     {
       "repository": "kooker/FreeSubsCheck",
@@ -11893,7 +11893,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-02 15:32:53",
+  "updated_at": "2026-09-02 19:04:01",
   "total_whitelisted_repos": 39,
   "total_cached_nodes": 41799
 }
