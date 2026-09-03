@@ -1,11 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "shaoyouvip/free",
-      "stars": 1074,
-      "forks": 91,
-      "extracted_nodes": 60,
-      "valid_nodes": 30,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9249,
+      "forks": 672,
+      "extracted_nodes": 53,
+      "valid_nodes": 33,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 77,
+      "forks": 73,
+      "extracted_nodes": 308,
+      "valid_nodes": 10,
       "quality_score": 100
     },
     {
@@ -17,35 +25,27 @@
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 77,
-      "forks": 73,
-      "extracted_nodes": 590,
-      "valid_nodes": 24,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 300,
+      "forks": 26,
+      "extracted_nodes": 31,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9249,
-      "forks": 672,
-      "extracted_nodes": 46,
-      "valid_nodes": 27,
-      "quality_score": 100
-    },
-    {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1933,
-      "forks": 122,
-      "extracted_nodes": 16,
-      "valid_nodes": 9,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 566,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 94,
       "forks": 8,
-      "extracted_nodes": 369,
-      "valid_nodes": 7,
+      "extracted_nodes": 365,
+      "valid_nodes": 6,
       "quality_score": 88.0
     },
     {
@@ -53,7 +53,7 @@
       "stars": 15,
       "forks": 1,
       "extracted_nodes": 1296,
-      "valid_nodes": 248,
+      "valid_nodes": 228,
       "quality_score": 53.0
     },
     {
@@ -69,24 +69,8 @@
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 306,
+      "valid_nodes": 321,
       "quality_score": 41.6
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 995,
-      "valid_nodes": 610,
-      "quality_score": 41.0
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 127,
-      "valid_nodes": 124,
-      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -95,7 +79,23 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "ssfun/surge-external-bridge",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 3,
+      "valid_nodes": 0,
+      "quality_score": 2.4
+    },
+    {
+      "repository": "1164448/tool-wear-prediction",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-02 22:08:16"
+  "updated_at": "2026-09-03 01:58:39"
 }
