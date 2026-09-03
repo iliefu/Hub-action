@@ -23,6 +23,7 @@
     "25175/dinyue",
     "252201/wukong-panel",
     "28998306/MagicalCanvas",
+    "3ALLBUY14/ComfyUI-Majordomo",
     "411A/V2RayDAR",
     "52mpzw-gif/fanqiang-jichang",
     "644646497/kindle-news-nyt",
@@ -590,6 +591,7 @@
     "liominsb/LangGraph_ReflexGraph",
     "lioneltchami/superwarp-toolkit",
     "littleseven2003/Timelet",
+    "liubaicai/ai-usage-board",
     "liusonwood/OughtGather",
     "liusonwood/SummaRSS",
     "liusonwood/oughtgather",
@@ -756,6 +758,7 @@
     "thomast8/warp-claude-workflow",
     "thsrite/configflow",
     "tianchuanwarm/chess_tree",
+    "tidelink88/tidelink-opensource",
     "tizituijian/PCtizi",
     "tizituijian/bestvpn",
     "toml66l/fanqiang",
@@ -902,5 +905,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-03 08:22:04"
+  "updated_at": "2026-09-03 15:25:48"
 }
