@@ -1,59 +1,35 @@
 {
   "repositories": [
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1251,
+      "forks": 199,
+      "extracted_nodes": 3000,
+      "valid_nodes": 421,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9249,
+      "stars": 9250,
       "forks": 672,
       "extracted_nodes": 53,
-      "valid_nodes": 33,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 77,
-      "forks": 73,
-      "extracted_nodes": 308,
-      "valid_nodes": 10,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1250,
-      "forks": 198,
-      "extracted_nodes": 3000,
-      "valid_nodes": 429,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 300,
-      "forks": 26,
-      "extracted_nodes": 31,
-      "valid_nodes": 2,
+      "valid_nodes": 30,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 566,
+      "stars": 567,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 94,
-      "forks": 8,
-      "extracted_nodes": 365,
-      "valid_nodes": 6,
-      "quality_score": 88.0
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1296,
-      "valid_nodes": 228,
+      "extracted_nodes": 1304,
+      "valid_nodes": 238,
       "quality_score": 53.0
     },
     {
@@ -65,12 +41,12 @@
       "quality_score": 49.0
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 321,
-      "quality_score": 41.6
+      "extracted_nodes": 137,
+      "valid_nodes": 133,
+      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -81,15 +57,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "ssfun/surge-external-bridge",
-      "stars": 3,
+      "repository": "besthot-vpn/share-vpn",
+      "stars": 0,
       "forks": 0,
-      "extracted_nodes": 3,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 2.4
+      "quality_score": 0.0
     },
     {
-      "repository": "1164448/tool-wear-prediction",
+      "repository": "9Kun/bilibili-media-hub",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +73,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-03 01:58:39"
+  "updated_at": "2026-09-03 08:22:15"
 }
