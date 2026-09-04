@@ -140,6 +140,7 @@
     "JegoVPN/HelpCenter",
     "JiahangRen/surge-ip-labeler",
     "JiexiaoZhang1/humanizer-workbench",
+    "JoeXLins/parkpay-android-printer",
     "John19187/The-40-Best-VPNs",
     "JokerMan-Max/Threat-Intelligence-Blocklist",
     "Josia-doit/ComfyUI_JosiaNodes",
@@ -227,6 +228,8 @@
     "RukaPrPr/AichanToolbox",
     "Rurikobaka/Subscription-conversion-configuration",
     "Ryze-T/Bilibili-SRT-RSS",
+    "S1rryNut/certificate-storage-web",
+    "S1rryNut/distributed-certificate-storage",
     "SANTOSHPATIL2004/Telegram-Proxy",
     "SIJULY/ZERO-Sijuly",
     "SakuraPuare/Hive",
@@ -386,6 +389,7 @@
     "cocca883/vpn-node-tool",
     "codelabhq/clash-warp-config",
     "codex416/freevpn",
+    "coy10000/clash-subscribe-merge-server",
     "cpddli/ASNIP",
     "crashgfw/free-airport-nodes",
     "crazypeace/my-dream-proxy-client",
@@ -910,5 +914,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-04 01:53:06"
+  "updated_at": "2026-09-04 08:19:44"
 }
