@@ -1,36 +1,36 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9257,
-      "forks": 672,
-      "extracted_nodes": 30,
-      "valid_nodes": 14,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1256,
       "forks": 200,
       "extracted_nodes": 3000,
-      "valid_nodes": 425,
+      "valid_nodes": 438,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 1081,
-      "forks": 91,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9258,
+      "forks": 672,
       "extracted_nodes": 30,
-      "valid_nodes": 13,
+      "valid_nodes": 12,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 570,
+      "stars": 571,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
       "quality_score": 100
+    },
+    {
+      "repository": "wenxig/free-nodes-sub",
+      "stars": 95,
+      "forks": 9,
+      "extracted_nodes": 40,
+      "valid_nodes": 1,
+      "quality_score": 89.0
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
@@ -41,27 +41,43 @@
       "quality_score": 88.0
     },
     {
-      "repository": "wenxig/free-nodes-sub",
-      "stars": 95,
-      "forks": 9,
-      "extracted_nodes": 40,
+      "repository": "xinyitang3/cfnb",
+      "stars": 782,
+      "forks": 294,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 49.0
+      "quality_score": 60
+    },
+    {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 15,
+      "forks": 1,
+      "extracted_nodes": 1317,
+      "valid_nodes": 211,
+      "quality_score": 53.0
+    },
+    {
+      "repository": "bzfq21/proxy-singbox",
+      "stars": 5,
+      "forks": 0,
+      "extracted_nodes": 16,
+      "valid_nodes": 7,
+      "quality_score": 44.0
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 320,
+      "valid_nodes": 292,
       "quality_score": 41.6
     },
     {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 457,
-      "valid_nodes": 195,
+      "extracted_nodes": 333,
+      "valid_nodes": 136,
       "quality_score": 41.0
     },
     {
@@ -69,15 +85,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 134,
-      "valid_nodes": 128,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "xiaocongyu66/proxypool",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 4,
-      "valid_nodes": 3,
+      "valid_nodes": 124,
       "quality_score": 40.8
     },
     {
@@ -89,15 +97,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "bily1258-design/beimi",
-      "stars": 0,
+      "repository": "vladislav-pavlikov/bind-keyboard",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 1228,
-      "valid_nodes": 407,
-      "quality_score": 40.0
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
     },
     {
-      "repository": "dlwlrma-a/ecommerce-product-image-cn",
+      "repository": "Iman/caspian",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "avigiget/mining-public",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +121,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-04 15:24:31"
+  "updated_at": "2026-09-04 18:42:52"
 }

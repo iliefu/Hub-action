@@ -11797,24 +11797,6 @@
       "last_nodes_update": "2026-07-10T17:41:12.116620Z"
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 143,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "clash.yaml",
-          "node_count": 143,
-          "last_checked": "2026-08-28T15:45:42.833028Z",
-          "url": "https://raw.githubusercontent.com/g-star1024/my-clash-subscribe/main/clash.yaml"
-        }
-      ],
-      "last_full_scan": "2026-08-28T15:46:10.468643Z",
-      "last_nodes_update": "2026-08-28T15:46:10.468677Z"
-    },
-    {
       "repository": "WLget/V2Ray_configs_64",
       "stars": 284,
       "forks": 25,
@@ -11881,6 +11863,24 @@
       "last_nodes_update": "2026-08-30T18:56:40.060494Z"
     },
     {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 134,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "clash.yaml",
+          "node_count": 134,
+          "last_checked": "2026-09-04T18:40:28.635200Z",
+          "url": "https://raw.githubusercontent.com/g-star1024/my-clash-subscribe/main/clash.yaml"
+        }
+      ],
+      "last_full_scan": "2026-09-04T18:42:36.209193Z",
+      "last_nodes_update": "2026-09-04T18:42:36.209214Z"
+    },
+    {
       "repository": "thoot-235/Sub-Store",
       "stars": 0,
       "forks": 0,
@@ -11923,7 +11923,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-04 15:24:15",
+  "updated_at": "2026-09-04 18:42:36",
   "total_whitelisted_repos": 39,
-  "total_cached_nodes": 41814
+  "total_cached_nodes": 41805
 }
