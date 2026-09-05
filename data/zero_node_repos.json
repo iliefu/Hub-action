@@ -76,6 +76,7 @@
     "BillBeam/agent-radar",
     "C6Lactide/godot-chinese-pinyin-completion",
     "CB-X2-Jun/proxy-lists",
+    "CMMUU/routedeck",
     "CaoMeiYouRen/rss-impact-server",
     "CashewTeam/Cashew_Nodes",
     "Cat-Ling/sing-box",
@@ -94,6 +95,7 @@
     "DY-tian/patent-disclosure-21-skills",
     "DaBao-Lee/V2RayN-NodeShare",
     "Dbackolds/CodexRenew",
+    "DeezLikerStudio/warp-config-generator-vercel",
     "Defei-Wang/precision-metronome",
     "Delta-Kronecker/WARP-Config",
     "Delta-Kronecker/WarpGenerator",
@@ -177,6 +179,7 @@
     "Lucas-vdr-a11y/verve-ui",
     "LuoPoJunZi/hysteria2-luopo",
     "LynnixZ/GTool",
+    "MAXLYEN/Openclash-Config",
     "MMMsystem/MMMAS",
     "MMortise/Sub2Proxy",
     "MYTPONS/zen-hub-node",
@@ -517,6 +520,7 @@
     "imal1/MioBridge",
     "imkysou/tinyadmin",
     "imrsp/SSLmanualCHN",
+    "imythu/kirara",
     "imythu/rflush",
     "int2t05/rss-feed",
     "iran-px-panel/px-panel",
@@ -929,5 +933,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-05 11:29:28"
+  "updated_at": "2026-09-05 14:09:48"
 }
