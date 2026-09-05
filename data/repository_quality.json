@@ -10,10 +10,10 @@
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1265,
+      "stars": 1264,
       "forks": 202,
       "extracted_nodes": 3000,
-      "valid_nodes": 432,
+      "valid_nodes": 465,
       "quality_score": 100
     },
     {
@@ -21,22 +21,22 @@
       "stars": 574,
       "forks": 22,
       "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 95,
       "forks": 8,
-      "extracted_nodes": 372,
-      "valid_nodes": 8,
+      "extracted_nodes": 366,
+      "valid_nodes": 13,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 301,
-      "forks": 26,
-      "extracted_nodes": 3,
+      "repository": "wenxig/dongtai-sub",
+      "stars": 242,
+      "forks": 29,
+      "extracted_nodes": 9,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -44,9 +44,17 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1336,
-      "valid_nodes": 260,
+      "extracted_nodes": 1337,
+      "valid_nodes": 273,
       "quality_score": 53.0
+    },
+    {
+      "repository": "1000ttank/free-vpn-clash-aggregator",
+      "stars": 4,
+      "forks": 8,
+      "extracted_nodes": 500,
+      "valid_nodes": 405,
+      "quality_score": 51.2
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -57,6 +65,14 @@
       "quality_score": 49.0
     },
     {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 137,
+      "valid_nodes": 117,
+      "quality_score": 40.8
+    },
+    {
       "repository": "anonymous99-Rise/get_subscribe",
       "stars": 0,
       "forks": 0,
@@ -65,7 +81,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Haitang-Hub/Canvas-Director",
+      "repository": "yuyuyu124/live-sub-app",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "Juan-nikola/anywhere-profile-nouse",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-05 17:47:59"
+  "updated_at": "2026-09-05 21:46:42"
 }
