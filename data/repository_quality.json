@@ -2,50 +2,34 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9258,
+      "stars": 9259,
       "forks": 672,
       "extracted_nodes": 48,
-      "valid_nodes": 22,
+      "valid_nodes": 21,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1257,
+      "stars": 1260,
       "forks": 200,
       "extracted_nodes": 3000,
-      "valid_nodes": 461,
+      "valid_nodes": 407,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 571,
+      "stars": 573,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 301,
-      "forks": 26,
-      "extracted_nodes": 31,
-      "valid_nodes": 3,
-      "quality_score": 100
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 95,
-      "forks": 8,
-      "extracted_nodes": 363,
-      "valid_nodes": 10,
-      "quality_score": 88.0
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1317,
-      "valid_nodes": 217,
+      "extracted_nodes": 1330,
+      "valid_nodes": 237,
       "quality_score": 53.0
     },
     {
@@ -57,19 +41,11 @@
       "quality_score": 49.0
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 270,
-      "quality_score": 41.6
-    },
-    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 148,
-      "valid_nodes": 124,
+      "extracted_nodes": 140,
+      "valid_nodes": 133,
       "quality_score": 40.8
     },
     {
@@ -81,7 +57,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "gfyydh06/heng-hk-cloud-server",
+      "repository": "Plamwt/2025tizi",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 2.4
+    },
+    {
+      "repository": "Plamwt/Netflix_VPN",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,7 +73,15 @@
       "quality_score": 0.8
     },
     {
-      "repository": "yaodao0yaodao/proxylens",
+      "repository": "Plamwt/jichangtuijian",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "itsshiva78/freeviralkit",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,7 +89,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "WAADRI/node-proxy",
+      "repository": "Everett406/PaperLens",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "Vvv1940905115/mihomo-desktop",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-05 01:52:53"
+  "updated_at": "2026-09-05 07:55:11"
 }
