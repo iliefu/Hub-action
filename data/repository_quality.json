@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1256,
-      "forks": 200,
-      "extracted_nodes": 3000,
-      "valid_nodes": 445,
-      "quality_score": 100
-    },
-    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9258,
       "forks": 672,
-      "extracted_nodes": 30,
-      "valid_nodes": 12,
+      "extracted_nodes": 48,
+      "valid_nodes": 22,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1257,
+      "forks": 200,
+      "extracted_nodes": 3000,
+      "valid_nodes": 461,
       "quality_score": 100
     },
     {
@@ -25,35 +25,27 @@
       "quality_score": 100
     },
     {
-      "repository": "zhuhaiuk/free-nodes",
-      "stars": 205,
-      "forks": 18,
-      "extracted_nodes": 28,
-      "valid_nodes": 15,
-      "quality_score": 98.0
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 301,
+      "forks": 26,
+      "extracted_nodes": 31,
+      "valid_nodes": 3,
+      "quality_score": 100
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 95,
       "forks": 8,
-      "extracted_nodes": 367,
+      "extracted_nodes": 363,
       "valid_nodes": 10,
       "quality_score": 88.0
-    },
-    {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 241,
-      "forks": 29,
-      "extracted_nodes": 9,
-      "valid_nodes": 0,
-      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
       "extracted_nodes": 1317,
-      "valid_nodes": 246,
+      "valid_nodes": 217,
       "quality_score": 53.0
     },
     {
@@ -69,23 +61,15 @@
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 786,
+      "valid_nodes": 270,
       "quality_score": 41.6
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 345,
-      "valid_nodes": 136,
-      "quality_score": 41.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 148,
-      "valid_nodes": 132,
+      "valid_nodes": 124,
       "quality_score": 40.8
     },
     {
@@ -95,7 +79,31 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "gfyydh06/heng-hk-cloud-server",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "yaodao0yaodao/proxylens",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "WAADRI/node-proxy",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-04 21:57:53"
+  "updated_at": "2026-09-05 01:52:53"
 }

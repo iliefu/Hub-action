@@ -276,6 +276,7 @@
     "VoroninaYanina/free-nodes",
     "VpnNetwork01/vpn-net",
     "WAADRI/ChaoXing_node_signin",
+    "WAADRI/node-proxy",
     "WLget/V2ray_free",
     "WSL043/dsh-codex-subscription",
     "WTest1518/MyLending",
@@ -456,6 +457,7 @@
     "geenroooo/loon-plugins",
     "georgio-ghamchoul/chines-pocker",
     "gfpcom/free-proxy-list",
+    "gfyydh06/heng-hk-cloud-server",
     "gg1429234186-cmyk/Ikun-clash",
     "ghassenelkamel/nixos-config",
     "gitfox-enter/RSSForge",
@@ -870,6 +872,7 @@
     "yanmuq/muqi_gkd",
     "yanshaoqwq/Ariadne",
     "yanxi123-com/route-warden",
+    "yaodao0yaodao/proxylens",
     "yatori-dev/yatori-free",
     "ycx666994/gpu-k8s-scheduler",
     "yemao-dev/claude-china-direct",
@@ -919,5 +922,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-04 21:57:37"
+  "updated_at": "2026-09-05 01:52:39"
 }
