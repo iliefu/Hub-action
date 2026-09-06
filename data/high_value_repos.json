@@ -10795,6 +10795,24 @@
       "last_nodes_update": "2026-08-31T23:29:26.148416Z"
     },
     {
+      "repository": "LalatinaHub/LatinaSub",
+      "stars": 11,
+      "forks": 3,
+      "extracted_nodes": 500,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "result/clash.yaml",
+          "node_count": 500,
+          "last_checked": "2026-09-06T21:49:48.386420Z",
+          "url": "https://raw.githubusercontent.com/LalatinaHub/LatinaSub/main/result/clash.yaml"
+        }
+      ],
+      "last_full_scan": "2026-09-06T21:49:59.795372Z",
+      "last_nodes_update": "2026-09-06T21:49:59.795400Z"
+    },
+    {
       "repository": "free18/v2ray",
       "stars": 5178,
       "forks": 238,
@@ -11911,7 +11929,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-06 17:51:50",
-  "total_whitelisted_repos": 39,
-  "total_cached_nodes": 41615
+  "updated_at": "2026-09-06 21:49:59",
+  "total_whitelisted_repos": 40,
+  "total_cached_nodes": 42115
 }
