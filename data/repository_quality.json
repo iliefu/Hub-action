@@ -1,6 +1,22 @@
 {
   "repositories": [
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1265,
+      "forks": 202,
+      "extracted_nodes": 3000,
+      "valid_nodes": 444,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 1088,
+      "forks": 91,
+      "extracted_nodes": 34,
+      "valid_nodes": 13,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9261,
       "forks": 672,
@@ -9,60 +25,44 @@
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1265,
-      "forks": 202,
-      "extracted_nodes": 3000,
-      "valid_nodes": 460,
-      "quality_score": 100
-    },
-    {
       "repository": "hello-world-1989/cn-news",
-      "stars": 574,
+      "stars": 575,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
       "quality_score": 100
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 242,
-      "forks": 29,
-      "extracted_nodes": 9,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 301,
-      "forks": 26,
-      "extracted_nodes": 16,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1337,
-      "valid_nodes": 269,
+      "extracted_nodes": 1341,
+      "valid_nodes": 252,
       "quality_score": 53.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 95,
+      "stars": 96,
       "forks": 9,
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
+      "repository": "lack-jpg/gov_AP",
+      "stars": 120,
+      "forks": 7,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 47.0
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 298,
-      "quality_score": 41.6
+      "extracted_nodes": 139,
+      "valid_nodes": 132,
+      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -73,7 +73,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "sanyadol/warp-config-generator-vercel",
+      "repository": "Elegying/SSRVPN",
+      "stars": 17,
+      "forks": 3,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 16.6
+    },
+    {
+      "repository": "qiujingfengqi/-",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,7 +89,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "JoshuaMaoJH/lattice",
+      "repository": "yanghheda/forge-ai",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "TianLSama/ComfyUI-OpenAI-API-Image-Generator",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-06 01:47:17"
+  "updated_at": "2026-09-06 08:12:01"
 }
