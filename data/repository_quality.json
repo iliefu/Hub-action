@@ -1,36 +1,68 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9267,
-      "forks": 672,
-      "extracted_nodes": 48,
-      "valid_nodes": 24,
+      "repository": "shaoyouvip/free",
+      "stars": 1091,
+      "forks": 91,
+      "extracted_nodes": 67,
+      "valid_nodes": 30,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1267,
-      "forks": 203,
+      "stars": 1268,
+      "forks": 204,
       "extracted_nodes": 3000,
-      "valid_nodes": 391,
+      "valid_nodes": 415,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9267,
+      "forks": 672,
+      "extracted_nodes": 48,
+      "valid_nodes": 26,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 578,
+      "stars": 579,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
       "quality_score": 100
     },
     {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1941,
+      "forks": 125,
+      "extracted_nodes": 16,
+      "valid_nodes": 8,
+      "quality_score": 100
+    },
+    {
+      "repository": "bin1site1/V2rayFree",
+      "stars": 92,
+      "forks": 12,
+      "extracted_nodes": 55,
+      "valid_nodes": 2,
+      "quality_score": 92.0
+    },
+    {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 96,
       "forks": 8,
-      "extracted_nodes": 370,
+      "extracted_nodes": 365,
       "valid_nodes": 11,
       "quality_score": 88.0
+    },
+    {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 15,
+      "forks": 1,
+      "extracted_nodes": 1375,
+      "valid_nodes": 250,
+      "quality_score": 53.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -44,25 +76,9 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 143,
-      "valid_nodes": 114,
+      "extracted_nodes": 142,
+      "valid_nodes": 131,
       "quality_score": 41.6
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 1286,
-      "valid_nodes": 710,
-      "quality_score": 41.0
-    },
-    {
-      "repository": "xiaocongyu66/proxypool",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 4,
-      "valid_nodes": 2,
-      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -71,31 +87,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "bily1258-design/beimi",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 1276,
-      "valid_nodes": 442,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "Stoner-Jiao/iptv-api",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "jetfan-xin/data-driven-dynamical-system-identification",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-07 16:48:57"
+  "updated_at": "2026-09-07 22:22:52"
 }
