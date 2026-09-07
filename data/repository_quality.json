@@ -1,27 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1266,
-      "forks": 202,
-      "extracted_nodes": 3000,
-      "valid_nodes": 491,
-      "quality_score": 100
-    },
-    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9266,
       "forks": 672,
-      "extracted_nodes": 44,
+      "extracted_nodes": 42,
       "valid_nodes": 21,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1942,
-      "forks": 123,
-      "extracted_nodes": 16,
-      "valid_nodes": 11,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1266,
+      "forks": 202,
+      "extracted_nodes": 3000,
+      "valid_nodes": 453,
       "quality_score": 100
     },
     {
@@ -44,15 +36,15 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 95,
       "forks": 8,
-      "extracted_nodes": 374,
+      "extracted_nodes": 372,
       "valid_nodes": 12,
       "quality_score": 88.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 243,
-      "forks": 29,
-      "extracted_nodes": 9,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 301,
+      "forks": 26,
+      "extracted_nodes": 21,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -61,23 +53,23 @@
       "stars": 15,
       "forks": 1,
       "extracted_nodes": 1351,
-      "valid_nodes": 271,
+      "valid_nodes": 268,
       "quality_score": 53.0
     },
     {
-      "repository": "LalatinaHub/LatinaSub",
-      "stars": 11,
-      "forks": 3,
-      "extracted_nodes": 500,
-      "valid_nodes": 492,
-      "quality_score": 51.8
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 306,
+      "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 145,
-      "valid_nodes": 135,
+      "valid_nodes": 132,
       "quality_score": 40.8
     },
     {
@@ -89,15 +81,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "zhulinghuanyu/Node",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 12,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "khuchinque-app/herme-khuchinque",
+      "repository": "qiujingfengqi/-",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,7 +89,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "qiujingfengqi/-",
+      "repository": "liuhuig/Sing-box-Argo-Python",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "xionries63/degyax_",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-06 21:50:12"
+  "updated_at": "2026-09-07 01:44:33"
 }
