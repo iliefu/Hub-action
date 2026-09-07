@@ -4,16 +4,16 @@
       "repository": "ermaozi/get_subscribe",
       "stars": 9267,
       "forks": 672,
-      "extracted_nodes": 42,
-      "valid_nodes": 18,
+      "extracted_nodes": 48,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1266,
-      "forks": 202,
+      "stars": 1267,
+      "forks": 203,
       "extracted_nodes": 3000,
-      "valid_nodes": 451,
+      "valid_nodes": 391,
       "quality_score": 100
     },
     {
@@ -25,12 +25,12 @@
       "quality_score": 100
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 15,
-      "forks": 1,
-      "extracted_nodes": 1369,
-      "valid_nodes": 272,
-      "quality_score": 53.0
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 96,
+      "forks": 8,
+      "extracted_nodes": 370,
+      "valid_nodes": 11,
+      "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -44,9 +44,25 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 145,
-      "valid_nodes": 130,
+      "extracted_nodes": 143,
+      "valid_nodes": 114,
       "quality_score": 41.6
+    },
+    {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 1286,
+      "valid_nodes": 710,
+      "quality_score": 41.0
+    },
+    {
+      "repository": "xiaocongyu66/proxypool",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 4,
+      "valid_nodes": 2,
+      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -57,7 +73,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "qiujingfengqi/-",
+      "repository": "bily1258-design/beimi",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 1276,
+      "valid_nodes": 442,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "Stoner-Jiao/iptv-api",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -65,23 +89,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "BULUTEMAN/bank-marketing-prediction-web",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Tony7012/zhipu_-api",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "jidanpirate/jmind",
+      "repository": "jetfan-xin/data-driven-dynamical-system-identification",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-07 08:43:42"
+  "updated_at": "2026-09-07 16:48:57"
 }
