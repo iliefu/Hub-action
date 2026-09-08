@@ -2,26 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9268,
+      "stars": 9269,
       "forks": 673,
       "extracted_nodes": 493,
-      "valid_nodes": 131,
+      "valid_nodes": 122,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1268,
+      "stars": 1269,
       "forks": 204,
       "extracted_nodes": 3000,
-      "valid_nodes": 434,
-      "quality_score": 100
-    },
-    {
-      "repository": "shaoyouvip/free",
-      "stars": 1091,
-      "forks": 91,
-      "extracted_nodes": 81,
-      "valid_nodes": 41,
+      "valid_nodes": 454,
       "quality_score": 100
     },
     {
@@ -33,27 +25,11 @@
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 96,
-      "forks": 8,
-      "extracted_nodes": 367,
-      "valid_nodes": 13,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 301,
-      "forks": 26,
-      "extracted_nodes": 18,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1375,
-      "valid_nodes": 221,
+      "extracted_nodes": 1377,
+      "valid_nodes": 250,
       "quality_score": 53.0
     },
     {
@@ -68,16 +44,8 @@
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 142,
-      "valid_nodes": 128,
-      "quality_score": 41.6
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 278,
+      "extracted_nodes": 143,
+      "valid_nodes": 121,
       "quality_score": 41.6
     },
     {
@@ -89,7 +57,31 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Bet5521/onecloud-cluster-workbuddy",
+      "repository": "jichang2026/zuipianyijichang",
+      "stars": 6,
+      "forks": 2,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 6.8
+    },
+    {
+      "repository": "QingXu51820/youtube-to-bilibili",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "kopp0510/ansible",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "Colasaiko/Jichangmao",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-08 01:57:16"
+  "updated_at": "2026-09-08 08:25:19"
 }

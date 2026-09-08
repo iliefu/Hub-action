@@ -89,6 +89,7 @@
     "ChaselDutt/VPN-Deep-Test",
     "ChesionSoft/Sion",
     "CloudTool/proxy_share",
+    "Colasaiko/Jichangmao",
     "ComfyUI-Plugin/UNet-CLIP-VAE",
     "Craftbai/monitoring_node",
     "CreditsPlan/creditsplan-cn",
@@ -232,6 +233,7 @@
     "ProxyPanel/PingAgent",
     "QMahyar/Cloudflare-Scanner",
     "QXTianPing/vpsbox",
+    "QingXu51820/youtube-to-bilibili",
     "QuickQ-Officialdownload/QuickQ-Officialdownload",
     "R0smontis/comfyui_anime_character_selector",
     "Ram-Nayak-16/Chinese-Express-Food-App",
@@ -551,6 +553,7 @@
     "jiaqing77cn/levolink-ai-api",
     "jichang2026/haojichang",
     "jichang2026/nofanqiang",
+    "jichang2026/zuipianyijichang",
     "jichangohub/jichangtizi",
     "jichangtuijian-cheap/cheap-airports",
     "jichangx/free-nodes",
@@ -591,6 +594,7 @@
     "kinoward/kino-ds-harness-plugin",
     "kkx999/xs5",
     "klarkxy/opencode-go-mgr",
+    "kopp0510/ansible",
     "kremeshnoi/dotfiles",
     "kubaba2012/blender3d-cockpit",
     "kukumi1/sing-box",
@@ -956,5 +960,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-08 01:57:00"
+  "updated_at": "2026-09-08 08:25:07"
 }
