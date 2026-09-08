@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1269,
-      "forks": 204,
-      "extracted_nodes": 3000,
-      "valid_nodes": 489,
-      "quality_score": 100
-    },
-    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 77,
       "forks": 72,
-      "extracted_nodes": 478,
-      "valid_nodes": 25,
+      "extracted_nodes": 939,
+      "valid_nodes": 40,
+      "quality_score": 100
+    },
+    {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1271,
+      "forks": 204,
+      "extracted_nodes": 3000,
+      "valid_nodes": 462,
       "quality_score": 100
     },
     {
@@ -21,16 +21,24 @@
       "stars": 9269,
       "forks": 673,
       "extracted_nodes": 468,
-      "valid_nodes": 103,
+      "valid_nodes": 106,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 579,
+      "stars": 580,
       "forks": 22,
       "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "valid_nodes": 1,
       "quality_score": 100
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 95,
+      "forks": 8,
+      "extracted_nodes": 356,
+      "valid_nodes": 11,
+      "quality_score": 88.0
     },
     {
       "repository": "wenxig/dongtai-sub",
@@ -44,8 +52,8 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1385,
-      "valid_nodes": 264,
+      "extracted_nodes": 1380,
+      "valid_nodes": 232,
       "quality_score": 53.0
     },
     {
@@ -57,19 +65,35 @@
       "quality_score": 49.0
     },
     {
+      "repository": "share-daily/node",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 25,
+      "valid_nodes": 24,
+      "quality_score": 42.4
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 278,
+      "quality_score": 41.6
+    },
+    {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 1307,
-      "valid_nodes": 722,
+      "extracted_nodes": 1297,
+      "valid_nodes": 662,
       "quality_score": 41.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 140,
-      "valid_nodes": 121,
+      "extracted_nodes": 139,
+      "valid_nodes": 127,
       "quality_score": 40.8
     },
     {
@@ -81,21 +105,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "TravelLeobai/SCHPD",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 596,
-      "valid_nodes": 406,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "lilyco-42/ghboost",
-      "stars": 2,
+      "repository": "Amirmahdavi2022/Panther-VPN",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.6
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-09-08 19:06:53"
+  "updated_at": "2026-09-08 22:10:46"
 }
