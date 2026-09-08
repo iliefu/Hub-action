@@ -1,44 +1,36 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9270,
-      "forks": 673,
-      "extracted_nodes": 468,
-      "valid_nodes": 100,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1270,
+      "stars": 1269,
       "forks": 204,
       "extracted_nodes": 3000,
-      "valid_nodes": 450,
+      "valid_nodes": 489,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 78,
+      "stars": 77,
       "forks": 72,
-      "extracted_nodes": 675,
-      "valid_nodes": 29,
+      "extracted_nodes": 478,
+      "valid_nodes": 25,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9269,
+      "forks": 673,
+      "extracted_nodes": 468,
+      "valid_nodes": 103,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 580,
+      "stars": 579,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
       "quality_score": 100
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 96,
-      "forks": 8,
-      "extracted_nodes": 363,
-      "valid_nodes": 11,
-      "quality_score": 88.0
     },
     {
       "repository": "wenxig/dongtai-sub",
@@ -49,6 +41,14 @@
       "quality_score": 60
     },
     {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 15,
+      "forks": 1,
+      "extracted_nodes": 1385,
+      "valid_nodes": 264,
+      "quality_score": 53.0
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 96,
       "forks": 9,
@@ -57,27 +57,19 @@
       "quality_score": 49.0
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 140,
-      "valid_nodes": 119,
-      "quality_score": 41.6
-    },
-    {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 1392,
-      "valid_nodes": 612,
+      "extracted_nodes": 1307,
+      "valid_nodes": 722,
       "quality_score": 41.0
     },
     {
-      "repository": "xiaocongyu66/proxypool",
+      "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 10,
-      "valid_nodes": 6,
+      "extracted_nodes": 140,
+      "valid_nodes": 121,
       "quality_score": 40.8
     },
     {
@@ -89,61 +81,21 @@
       "quality_score": 40.0
     },
     {
-      "repository": "mahdi-sheibak/omarchy-v2ray-manager",
+      "repository": "TravelLeobai/SCHPD",
       "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 596,
+      "valid_nodes": 406,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "lilyco-42/ghboost",
+      "stars": 2,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Vogadero/ThreeD",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "GGX355/node-audit",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "killertop/Vialen",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 1077,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "luxuoo/greenhouse-system",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "agentgeleven-lab/sillytavern-dynamic-map",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "2187536047-beep/ascend",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 1.6
     }
   ],
-  "updated_at": "2026-09-08 15:36:48"
+  "updated_at": "2026-09-08 19:06:53"
 }
