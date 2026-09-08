@@ -10525,6 +10525,42 @@
       "last_nodes_update": "2026-09-06T17:51:50.669363Z"
     },
     {
+      "repository": "killertop/Vialen",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 1077,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "qa/fixtures/subscriptions/clash_1000_nodes.yaml",
+          "node_count": 376,
+          "last_checked": "2026-09-08T15:36:26.032413Z",
+          "url": "https://raw.githubusercontent.com/killertop/Vialen/main/qa/fixtures/subscriptions/clash_1000_nodes.yaml"
+        },
+        {
+          "path": "qa/fixtures/subscriptions/clash_100_nodes.yaml",
+          "node_count": 76,
+          "last_checked": "2026-09-08T15:36:26.216722Z",
+          "url": "https://raw.githubusercontent.com/killertop/Vialen/main/qa/fixtures/subscriptions/clash_100_nodes.yaml"
+        },
+        {
+          "path": "qa/fixtures/subscriptions/sub_1000_nodes.txt",
+          "node_count": 625,
+          "last_checked": "2026-09-08T15:36:26.460127Z",
+          "url": "https://raw.githubusercontent.com/killertop/Vialen/main/qa/fixtures/subscriptions/sub_1000_nodes.txt"
+        },
+        {
+          "path": "qa/fixtures/subscriptions/sub_100_nodes.txt",
+          "node_count": 64,
+          "last_checked": "2026-09-08T15:36:26.611372Z",
+          "url": "https://raw.githubusercontent.com/killertop/Vialen/main/qa/fixtures/subscriptions/sub_100_nodes.txt"
+        }
+      ],
+      "last_full_scan": "2026-09-08T15:36:36.850940Z",
+      "last_nodes_update": "2026-09-08T15:36:36.850956Z"
+    },
+    {
       "repository": "wenxig/free-nodes-sub",
       "stars": 83,
       "forks": 9,
@@ -11983,7 +12019,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-08 08:25:07",
-  "total_whitelisted_repos": 41,
-  "total_cached_nodes": 42803
+  "updated_at": "2026-09-08 15:36:36",
+  "total_whitelisted_repos": 42,
+  "total_cached_nodes": 43880
 }
