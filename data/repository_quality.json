@@ -1,35 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9269,
-      "forks": 673,
-      "extracted_nodes": 480,
-      "valid_nodes": 130,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 77,
+      "forks": 72,
+      "extracted_nodes": 527,
+      "valid_nodes": 13,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1272,
+      "stars": 1273,
       "forks": 204,
       "extracted_nodes": 3000,
-      "valid_nodes": 450,
+      "valid_nodes": 471,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 77,
-      "forks": 72,
-      "extracted_nodes": 372,
-      "valid_nodes": 25,
-      "quality_score": 100
-    },
-    {
-      "repository": "kooker/FreeSubsCheck",
-      "stars": 317,
-      "forks": 43,
-      "extracted_nodes": 555,
-      "valid_nodes": 167,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9273,
+      "forks": 674,
+      "extracted_nodes": 480,
+      "valid_nodes": 125,
       "quality_score": 100
     },
     {
@@ -41,27 +33,11 @@
       "quality_score": 100
     },
     {
-      "repository": "cubezhao/ai-tools-mng",
-      "stars": 1177,
-      "forks": 210,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 301,
-      "forks": 26,
-      "extracted_nodes": 16,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1380,
-      "valid_nodes": 225,
+      "extracted_nodes": 1391,
+      "valid_nodes": 265,
       "quality_score": 53.0
     },
     {
@@ -73,12 +49,12 @@
       "quality_score": 49.0
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 296,
-      "quality_score": 41.6
+      "extracted_nodes": 141,
+      "valid_nodes": 132,
+      "quality_score": 40.8
     },
     {
       "repository": "anonymous99-Rise/get_subscribe",
@@ -89,13 +65,61 @@
       "quality_score": 40.0
     },
     {
-      "repository": "bluelovers/ws-segment",
-      "stars": 12,
-      "forks": 1,
+      "repository": "AidanRao/BUAA-ClassHopper",
+      "stars": 3,
+      "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 10.6
+      "quality_score": 2.4
+    },
+    {
+      "repository": "upinggo/TrendRadar",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "StevenzUltra/sbb",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "rasindope/sub2api",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "wstimin/syjdmb",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 7,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "ccAzy/vpnmax",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "yhone1/codex-wechat",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-09 02:01:53"
+  "updated_at": "2026-09-09 08:27:31"
 }
