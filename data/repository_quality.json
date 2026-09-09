@@ -2,10 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9275,
+      "stars": 9276,
       "forks": 674,
       "extracted_nodes": 475,
-      "valid_nodes": 123,
+      "valid_nodes": 125,
       "quality_score": 100
     },
     {
@@ -13,22 +13,22 @@
       "stars": 1273,
       "forks": 204,
       "extracted_nodes": 3000,
-      "valid_nodes": 480,
+      "valid_nodes": 505,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 77,
       "forks": 72,
-      "extracted_nodes": 789,
-      "valid_nodes": 38,
+      "extracted_nodes": 664,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 1096,
-      "forks": 91,
-      "extracted_nodes": 16,
+      "repository": "zhuhaiuk/free-nodes",
+      "stars": 218,
+      "forks": 21,
+      "extracted_nodes": 12,
       "valid_nodes": 8,
       "quality_score": 100
     },
@@ -41,12 +41,28 @@
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 95,
-      "forks": 8,
-      "extracted_nodes": 363,
-      "valid_nodes": 11,
-      "quality_score": 88.0
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 65,
+      "forks": 7,
+      "extracted_nodes": 1158,
+      "valid_nodes": 348,
+      "quality_score": 87.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 244,
+      "forks": 30,
+      "extracted_nodes": 9,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "Aethersailor/Custom_OpenClash_Rules",
+      "stars": 6502,
+      "forks": 1381,
+      "extracted_nodes": 1,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -57,19 +73,11 @@
       "quality_score": 49.0
     },
     {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 1351,
-      "valid_nodes": 513,
-      "quality_score": 41.0
-    },
-    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 144,
-      "valid_nodes": 128,
+      "valid_nodes": 132,
       "quality_score": 40.8
     },
     {
@@ -81,23 +89,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Ayuilos/Miffan",
-      "stars": 112,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "profullstack/upvotocracy-ui-ssr",
-      "stars": 14,
+      "repository": "zeno528/CGswitch",
+      "stars": 2,
       "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 12.2
+      "quality_score": 2.6
     },
     {
-      "repository": "txtsamu/home-nixos",
+      "repository": "Cute-Neko/arkrecode-guide",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,61 +105,13 @@
       "quality_score": 0.0
     },
     {
-      "repository": "Einzieg/ComfyUI-custom-api",
+      "repository": "wstimin/syjdmb",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "AristraHatsuyu/PlaudCli",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Jaaayden/feedlantern",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "PENG-7777/seafood-trace-front",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "XDC-666/miniflow",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "l9metapod/sd_dualgrid_preview",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "we-do-stuff-TW/11-up-and-down",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
+      "extracted_nodes": 7,
       "valid_nodes": 0,
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-09 15:31:30"
+  "updated_at": "2026-09-09 18:56:04"
 }
