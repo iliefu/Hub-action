@@ -1,35 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9276,
-      "forks": 674,
-      "extracted_nodes": 475,
-      "valid_nodes": 125,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1273,
       "forks": 204,
       "extracted_nodes": 3000,
-      "valid_nodes": 505,
+      "valid_nodes": 442,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 77,
       "forks": 72,
-      "extracted_nodes": 664,
-      "valid_nodes": 24,
+      "extracted_nodes": 629,
+      "valid_nodes": 9,
       "quality_score": 100
     },
     {
-      "repository": "zhuhaiuk/free-nodes",
-      "stars": 218,
-      "forks": 21,
-      "extracted_nodes": 12,
-      "valid_nodes": 8,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9274,
+      "forks": 674,
+      "extracted_nodes": 475,
+      "valid_nodes": 123,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1943,
+      "forks": 125,
+      "extracted_nodes": 16,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -41,12 +41,12 @@
       "quality_score": 100
     },
     {
-      "repository": "v2raynnodes/v2rayfree",
-      "stars": 65,
-      "forks": 7,
-      "extracted_nodes": 1158,
-      "valid_nodes": 348,
-      "quality_score": 87.0
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 95,
+      "forks": 8,
+      "extracted_nodes": 362,
+      "valid_nodes": 9,
+      "quality_score": 88.0
     },
     {
       "repository": "wenxig/dongtai-sub",
@@ -57,12 +57,12 @@
       "quality_score": 60
     },
     {
-      "repository": "Aethersailor/Custom_OpenClash_Rules",
-      "stars": 6502,
-      "forks": 1381,
-      "extracted_nodes": 1,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 15,
+      "forks": 1,
+      "extracted_nodes": 1386,
+      "valid_nodes": 211,
+      "quality_score": 53.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -73,11 +73,19 @@
       "quality_score": 49.0
     },
     {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 1080,
+      "valid_nodes": 502,
+      "quality_score": 41.0
+    },
+    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 144,
-      "valid_nodes": 132,
+      "extracted_nodes": 141,
+      "valid_nodes": 135,
       "quality_score": 40.8
     },
     {
@@ -89,29 +97,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "zeno528/CGswitch",
-      "stars": 2,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 2.6
-    },
-    {
-      "repository": "Cute-Neko/arkrecode-guide",
-      "stars": 0,
+      "repository": "OwainGlyndwr1400/geographic-role-expansion-emanation-cosmologies-wp1-6",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "wstimin/syjdmb",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 7,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-09-09 18:56:04"
+  "updated_at": "2026-09-09 22:05:55"
 }
