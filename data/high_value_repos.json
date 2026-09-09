@@ -10766,45 +10766,45 @@
     },
     {
       "repository": "kooker/FreeSubsCheck",
-      "stars": 305,
-      "forks": 41,
-      "extracted_nodes": 516,
+      "stars": 317,
+      "forks": 43,
+      "extracted_nodes": 555,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "all.yaml",
-          "node_count": 28,
-          "last_checked": "2026-08-31T10:13:34.471430Z",
+          "node_count": 76,
+          "last_checked": "2026-09-09T02:01:32.887827Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml"
         },
         {
           "path": "base64.txt",
-          "node_count": 28,
-          "last_checked": "2026-08-31T10:13:34.546278Z",
+          "node_count": 76,
+          "last_checked": "2026-09-09T02:01:32.994120Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt"
         },
         {
           "path": "byxiaoxi.txt",
-          "node_count": 11,
-          "last_checked": "2026-08-31T10:13:34.632602Z",
+          "node_count": 53,
+          "last_checked": "2026-09-09T02:01:33.560132Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/byxiaoxi.txt"
         },
         {
           "path": "kooker.jp.txt",
-          "node_count": 484,
-          "last_checked": "2026-08-31T10:13:34.749443Z",
+          "node_count": 434,
+          "last_checked": "2026-09-09T02:01:33.716720Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
         },
         {
           "path": "mihomo.yaml",
-          "node_count": 28,
-          "last_checked": "2026-08-31T10:13:34.875401Z",
+          "node_count": 76,
+          "last_checked": "2026-09-09T02:01:33.927785Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/mihomo.yaml"
         }
       ],
-      "last_full_scan": "2026-08-31T10:13:42.713190Z",
-      "last_nodes_update": "2026-08-31T10:13:42.713227Z"
+      "last_full_scan": "2026-09-09T02:01:37.423328Z",
+      "last_nodes_update": "2026-09-09T02:01:37.423348Z"
     },
     {
       "repository": "1000ttank/free-vpn-clash-aggregator",
@@ -12019,7 +12019,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-08 22:10:29",
+  "updated_at": "2026-09-09 02:01:37",
   "total_whitelisted_repos": 42,
-  "total_cached_nodes": 43880
+  "total_cached_nodes": 43919
 }
