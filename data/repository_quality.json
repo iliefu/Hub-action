@@ -1,35 +1,27 @@
 {
   "repositories": [
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9274,
+      "forks": 674,
+      "extracted_nodes": 485,
+      "valid_nodes": 142,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1273,
       "forks": 204,
       "extracted_nodes": 3000,
-      "valid_nodes": 442,
+      "valid_nodes": 456,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 77,
       "forks": 72,
-      "extracted_nodes": 629,
-      "valid_nodes": 9,
-      "quality_score": 100
-    },
-    {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9274,
-      "forks": 674,
-      "extracted_nodes": 475,
-      "valid_nodes": 123,
-      "quality_score": 100
-    },
-    {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1943,
-      "forks": 125,
-      "extracted_nodes": 16,
-      "valid_nodes": 2,
+      "extracted_nodes": 111,
+      "valid_nodes": 8,
       "quality_score": 100
     },
     {
@@ -37,22 +29,22 @@
       "stars": 581,
       "forks": 22,
       "extracted_nodes": 8,
-      "valid_nodes": 1,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 95,
       "forks": 8,
-      "extracted_nodes": 362,
-      "valid_nodes": 9,
+      "extracted_nodes": 361,
+      "valid_nodes": 10,
       "quality_score": 88.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 244,
-      "forks": 30,
-      "extracted_nodes": 9,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 303,
+      "forks": 26,
+      "extracted_nodes": 19,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -73,22 +65,6 @@
       "quality_score": 49.0
     },
     {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 1080,
-      "valid_nodes": 502,
-      "quality_score": 41.0
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 135,
-      "quality_score": 40.8
-    },
-    {
       "repository": "anonymous99-Rise/get_subscribe",
       "stars": 0,
       "forks": 0,
@@ -97,13 +73,45 @@
       "quality_score": 40.0
     },
     {
-      "repository": "OwainGlyndwr1400/geographic-role-expansion-emanation-cosmologies-wp1-6",
+      "repository": "xxx-888/super_gen",
+      "stars": 9,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 7.2
+    },
+    {
+      "repository": "freenodess/freenode",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.8
+    },
+    {
+      "repository": "D3Dream/cursor2api",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "shirleyang990928-lgtm/jichang-tuijian-2026",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "SilveryFlow/GLBForge",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-09 22:05:55"
+  "updated_at": "2026-09-10 01:58:05"
 }
