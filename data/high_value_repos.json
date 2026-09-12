@@ -9997,6 +9997,318 @@
       "last_nodes_update": "2026-08-21T00:44:59.507983Z"
     },
     {
+      "repository": "laoxinwu/SUB001",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/by-country/clash-AE.yaml",
+          "node_count": 5,
+          "last_checked": "2026-09-12T17:57:53.187051Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-AE.yaml"
+        },
+        {
+          "path": "output/by-country/clash-AM.yaml",
+          "node_count": 1,
+          "last_checked": "2026-09-12T17:57:53.295489Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-AM.yaml"
+        },
+        {
+          "path": "output/by-country/clash-AT.yaml",
+          "node_count": 4,
+          "last_checked": "2026-09-12T17:57:53.418346Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-AT.yaml"
+        },
+        {
+          "path": "output/by-country/clash-AU.yaml",
+          "node_count": 2,
+          "last_checked": "2026-09-12T17:57:53.541242Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-AU.yaml"
+        },
+        {
+          "path": "output/by-country/clash-BG.yaml",
+          "node_count": 6,
+          "last_checked": "2026-09-12T17:57:53.667857Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-BG.yaml"
+        },
+        {
+          "path": "output/by-country/clash-BR.yaml",
+          "node_count": 1,
+          "last_checked": "2026-09-12T17:57:53.800038Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-BR.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CA.yaml",
+          "node_count": 21,
+          "last_checked": "2026-09-12T17:57:53.912687Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-CA.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CH.yaml",
+          "node_count": 4,
+          "last_checked": "2026-09-12T17:57:54.020814Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-CH.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CL.yaml",
+          "node_count": 1,
+          "last_checked": "2026-09-12T17:57:54.134772Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-CL.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CO.yaml",
+          "node_count": 1,
+          "last_checked": "2026-09-12T17:57:54.244920Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-CO.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CY.yaml",
+          "node_count": 13,
+          "last_checked": "2026-09-12T17:57:54.410175Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-CY.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CZ.yaml",
+          "node_count": 10,
+          "last_checked": "2026-09-12T17:57:54.520661Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-CZ.yaml"
+        },
+        {
+          "path": "output/by-country/clash-DE.yaml",
+          "node_count": 178,
+          "last_checked": "2026-09-12T17:57:54.780822Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-DE.yaml"
+        },
+        {
+          "path": "output/by-country/clash-DK.yaml",
+          "node_count": 1,
+          "last_checked": "2026-09-12T17:57:54.886693Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-DK.yaml"
+        },
+        {
+          "path": "output/by-country/clash-EE.yaml",
+          "node_count": 4,
+          "last_checked": "2026-09-12T17:57:54.996590Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-EE.yaml"
+        },
+        {
+          "path": "output/by-country/clash-ES.yaml",
+          "node_count": 3,
+          "last_checked": "2026-09-12T17:57:55.123935Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-ES.yaml"
+        },
+        {
+          "path": "output/by-country/clash-FI.yaml",
+          "node_count": 39,
+          "last_checked": "2026-09-12T17:57:55.283035Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-FI.yaml"
+        },
+        {
+          "path": "output/by-country/clash-FR.yaml",
+          "node_count": 25,
+          "last_checked": "2026-09-12T17:57:55.436711Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-FR.yaml"
+        },
+        {
+          "path": "output/by-country/clash-GB.yaml",
+          "node_count": 97,
+          "last_checked": "2026-09-12T17:57:55.640856Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-GB.yaml"
+        },
+        {
+          "path": "output/by-country/clash-GR.yaml",
+          "node_count": 5,
+          "last_checked": "2026-09-12T17:57:55.836567Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-GR.yaml"
+        },
+        {
+          "path": "output/by-country/clash-HK.yaml",
+          "node_count": 185,
+          "last_checked": "2026-09-12T17:57:56.124379Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-HK.yaml"
+        },
+        {
+          "path": "output/by-country/clash-ID.yaml",
+          "node_count": 2,
+          "last_checked": "2026-09-12T17:57:56.223624Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-ID.yaml"
+        },
+        {
+          "path": "output/by-country/clash-IN.yaml",
+          "node_count": 2,
+          "last_checked": "2026-09-12T17:57:56.375977Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-IN.yaml"
+        },
+        {
+          "path": "output/by-country/clash-IT.yaml",
+          "node_count": 11,
+          "last_checked": "2026-09-12T17:57:56.489838Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-IT.yaml"
+        },
+        {
+          "path": "output/by-country/clash-JP.yaml",
+          "node_count": 203,
+          "last_checked": "2026-09-12T17:57:56.771003Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-JP.yaml"
+        },
+        {
+          "path": "output/by-country/clash-KR.yaml",
+          "node_count": 88,
+          "last_checked": "2026-09-12T17:57:56.972961Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-KR.yaml"
+        },
+        {
+          "path": "output/by-country/clash-KZ.yaml",
+          "node_count": 1,
+          "last_checked": "2026-09-12T17:57:57.085880Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-KZ.yaml"
+        },
+        {
+          "path": "output/by-country/clash-MY.yaml",
+          "node_count": 3,
+          "last_checked": "2026-09-12T17:57:57.213184Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-MY.yaml"
+        },
+        {
+          "path": "output/by-country/clash-NL.yaml",
+          "node_count": 225,
+          "last_checked": "2026-09-12T17:57:57.629159Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-NL.yaml"
+        },
+        {
+          "path": "output/by-country/clash-NO.yaml",
+          "node_count": 13,
+          "last_checked": "2026-09-12T17:57:57.747801Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-NO.yaml"
+        },
+        {
+          "path": "output/by-country/clash-OTHER.yaml",
+          "node_count": 314,
+          "last_checked": "2026-09-12T17:57:58.159225Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-OTHER.yaml"
+        },
+        {
+          "path": "output/by-country/clash-PL.yaml",
+          "node_count": 12,
+          "last_checked": "2026-09-12T17:57:58.272657Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-PL.yaml"
+        },
+        {
+          "path": "output/by-country/clash-RO.yaml",
+          "node_count": 1,
+          "last_checked": "2026-09-12T17:57:58.378948Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-RO.yaml"
+        },
+        {
+          "path": "output/by-country/clash-RU.yaml",
+          "node_count": 7,
+          "last_checked": "2026-09-12T17:57:58.489125Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-RU.yaml"
+        },
+        {
+          "path": "output/by-country/clash-SA.yaml",
+          "node_count": 3,
+          "last_checked": "2026-09-12T17:57:58.661846Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-SA.yaml"
+        },
+        {
+          "path": "output/by-country/clash-SC.yaml",
+          "node_count": 3,
+          "last_checked": "2026-09-12T17:57:58.777675Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-SC.yaml"
+        },
+        {
+          "path": "output/by-country/clash-SE.yaml",
+          "node_count": 106,
+          "last_checked": "2026-09-12T17:57:58.977383Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-SE.yaml"
+        },
+        {
+          "path": "output/by-country/clash-SG.yaml",
+          "node_count": 218,
+          "last_checked": "2026-09-12T17:57:59.285530Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-SG.yaml"
+        },
+        {
+          "path": "output/by-country/clash-TH.yaml",
+          "node_count": 2,
+          "last_checked": "2026-09-12T17:57:59.383048Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-TH.yaml"
+        },
+        {
+          "path": "output/by-country/clash-TW.yaml",
+          "node_count": 72,
+          "last_checked": "2026-09-12T17:57:59.553207Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-TW.yaml"
+        },
+        {
+          "path": "output/by-country/clash-UA.yaml",
+          "node_count": 1,
+          "last_checked": "2026-09-12T17:57:59.663528Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-UA.yaml"
+        },
+        {
+          "path": "output/by-country/clash-US.yaml",
+          "node_count": 500,
+          "last_checked": "2026-09-12T17:58:00.542179Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-US.yaml"
+        },
+        {
+          "path": "output/by-country/clash-UZ.yaml",
+          "node_count": 1,
+          "last_checked": "2026-09-12T17:58:00.672627Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-UZ.yaml"
+        },
+        {
+          "path": "output/by-country/clash-ZA.yaml",
+          "node_count": 3,
+          "last_checked": "2026-09-12T17:58:00.788159Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/by-country/clash-ZA.yaml"
+        },
+        {
+          "path": "output/residential-by-country/clash-HK.yaml",
+          "node_count": 1,
+          "last_checked": "2026-09-12T17:58:00.897145Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/residential-by-country/clash-HK.yaml"
+        },
+        {
+          "path": "output/residential-by-country/clash-KR.yaml",
+          "node_count": 5,
+          "last_checked": "2026-09-12T17:58:01.024956Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/residential-by-country/clash-KR.yaml"
+        },
+        {
+          "path": "output/residential-by-country/clash-TW.yaml",
+          "node_count": 3,
+          "last_checked": "2026-09-12T17:58:01.131887Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/residential-by-country/clash-TW.yaml"
+        },
+        {
+          "path": "output/residential-clash.yaml",
+          "node_count": 9,
+          "last_checked": "2026-09-12T17:58:01.237615Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/residential-clash.yaml"
+        },
+        {
+          "path": "output/residential.txt",
+          "node_count": 9,
+          "last_checked": "2026-09-12T17:58:01.466864Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/residential.txt"
+        },
+        {
+          "path": "output/v2ray.txt",
+          "node_count": 2703,
+          "last_checked": "2026-09-12T17:58:02.043913Z",
+          "url": "https://raw.githubusercontent.com/laoxinwu/SUB001/main/output/v2ray.txt"
+        }
+      ],
+      "last_full_scan": "2026-09-12T17:58:10.772553Z",
+      "last_nodes_update": "2026-09-12T17:58:10.772578Z"
+    },
+    {
       "repository": "cxddgtb/dljdsjq",
       "stars": 13,
       "forks": 1,
@@ -12019,7 +12331,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-12 14:35:45",
-  "total_whitelisted_repos": 42,
-  "total_cached_nodes": 43672
+  "updated_at": "2026-09-12 17:58:10",
+  "total_whitelisted_repos": 43,
+  "total_cached_nodes": 46672
 }
