@@ -1,59 +1,59 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 80,
-      "forks": 74,
-      "extracted_nodes": 677,
-      "valid_nodes": 9,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9275,
+      "forks": 673,
+      "extracted_nodes": 444,
+      "valid_nodes": 120,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1283,
+      "stars": 1284,
       "forks": 207,
       "extracted_nodes": 3000,
-      "valid_nodes": 451,
+      "valid_nodes": 468,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9277,
-      "forks": 673,
-      "extracted_nodes": 481,
-      "valid_nodes": 118,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 80,
+      "forks": 74,
+      "extracted_nodes": 485,
+      "valid_nodes": 27,
       "quality_score": 100
     },
     {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 586,
-      "forks": 22,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
-      "quality_score": 100
-    },
-    {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 15,
-      "forks": 1,
-      "extracted_nodes": 1402,
-      "valid_nodes": 211,
-      "quality_score": 53.0
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 95,
+      "forks": 8,
+      "extracted_nodes": 367,
+      "valid_nodes": 15,
+      "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 97,
+      "stars": 98,
       "forks": 9,
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
     },
     {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 469,
+      "valid_nodes": 148,
+      "quality_score": 41.0
+    },
+    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 143,
-      "valid_nodes": 128,
+      "extracted_nodes": 139,
+      "valid_nodes": 127,
       "quality_score": 40.8
     },
     {
@@ -73,31 +73,31 @@
       "quality_score": 40.0
     },
     {
-      "repository": "mumu-140/BioPlant-literature-skills",
-      "stars": 2,
+      "repository": "dqtx760/Proxyfree",
+      "stars": 21,
+      "forks": 3,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 19.8
+    },
+    {
+      "repository": "illria/gatevpn",
+      "stars": 8,
+      "forks": 9,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 15.4
+    },
+    {
+      "repository": "wang739696/free-v2ray",
+      "stars": 1,
       "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 2.6
+      "quality_score": 1.8
     },
     {
-      "repository": "Boby1123123/qunxiong-geju",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "billionsheep/r76s-robot-node",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "xjb1337/kaoyan-checkin",
+      "repository": "lxy5128537/warp-masque-actions",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-12 08:12:52"
+  "updated_at": "2026-09-12 14:35:50"
 }
