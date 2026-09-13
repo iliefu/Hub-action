@@ -1,44 +1,44 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1287,
-      "forks": 209,
-      "extracted_nodes": 3000,
-      "valid_nodes": 468,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 80,
-      "forks": 74,
-      "extracted_nodes": 571,
-      "valid_nodes": 9,
-      "quality_score": 100
-    },
-    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9278,
       "forks": 673,
-      "extracted_nodes": 476,
-      "valid_nodes": 127,
+      "extracted_nodes": 424,
+      "valid_nodes": 96,
       "quality_score": 100
     },
     {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 8089,
-      "forks": 1256,
-      "extracted_nodes": 319,
-      "valid_nodes": 22,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1289,
+      "forks": 209,
+      "extracted_nodes": 3000,
+      "valid_nodes": 479,
       "quality_score": 100
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 15,
-      "forks": 1,
-      "extracted_nodes": 1411,
-      "valid_nodes": 187,
-      "quality_score": 53.0
+      "repository": "shaoyouvip/free",
+      "stars": 1114,
+      "forks": 92,
+      "extracted_nodes": 9,
+      "valid_nodes": 2,
+      "quality_score": 100
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 95,
+      "forks": 8,
+      "extracted_nodes": 364,
+      "valid_nodes": 11,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 245,
+      "forks": 31,
+      "extracted_nodes": 9,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -49,11 +49,27 @@
       "quality_score": 49.0
     },
     {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 315,
+      "quality_score": 41.6
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 140,
+      "valid_nodes": 125,
+      "quality_score": 40.8
+    },
+    {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 12,
+      "valid_nodes": 13,
       "quality_score": 40.0
     },
     {
@@ -65,31 +81,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "JiPengLin/piliplus-sidestore-source",
+      "repository": "bily1258-design/beimi",
       "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 1177,
+      "valid_nodes": 459,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "xiaocongyu66/proxypool",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     },
     {
-      "repository": "LerkoX/flowx-pixelforge",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "docenxx1/clash",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "qiiuzr/daixiaoka-adventure",
+      "repository": "qwert344343/Visualization-of-Typhoon-Prediction",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-13 08:36:56"
+  "updated_at": "2026-09-13 15:16:19"
 }
