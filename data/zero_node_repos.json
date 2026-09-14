@@ -114,6 +114,8 @@
     "DeterminantMatrix/ACL4SSR",
     "Devtahas/CG_BPB",
     "DikozImpact/warp-config-generator-vercel",
+    "Diman-tech/warp-config-generator-vercel",
+    "Diman-tech/warp-config-generator-vercel-9a722",
     "DiningFactory/panda-vpn-pro",
     "Dominic-Atari/novaai-app",
     "Dyeink02/javflow",
@@ -751,6 +753,7 @@
     "myikuns/jichangtz-tuijian",
     "myikuns/vpnproxy",
     "mylovecoop-ux/iphonet",
+    "mzverse/rust2genshin",
     "narinishi/platypus-vortex",
     "narinishi/platypus-warp",
     "nellimonix/warp-config-generator-vercel",
@@ -892,6 +895,7 @@
     "type53/dsh-claude-subscriptions",
     "tywinlu1988/GateKeeper",
     "tzd3005/ComfyUI-Prompt-Library",
+    "uky15498/ArborInversa",
     "upinggo/TrendRadar",
     "usacpcheung/hk-ollama-rewrite-bridge",
     "usehe/2026-Grok-SuperGrok-Grok",
@@ -1051,5 +1055,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-14 09:21:41"
+  "updated_at": "2026-09-14 17:12:13"
 }
