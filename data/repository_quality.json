@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1292,
+      "forks": 211,
+      "extracted_nodes": 3000,
+      "valid_nodes": 459,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9284,
       "forks": 673,
       "extracted_nodes": 437,
-      "valid_nodes": 106,
-      "quality_score": 100
-    },
-    {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1291,
-      "forks": 211,
-      "extracted_nodes": 3000,
-      "valid_nodes": 470,
+      "valid_nodes": 108,
       "quality_score": 100
     },
     {
@@ -25,12 +25,44 @@
       "quality_score": 100
     },
     {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1949,
+      "forks": 127,
+      "extracted_nodes": 16,
+      "valid_nodes": 1,
+      "quality_score": 100
+    },
+    {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 95,
       "forks": 8,
-      "extracted_nodes": 363,
-      "valid_nodes": 11,
+      "extracted_nodes": 362,
+      "valid_nodes": 14,
       "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 245,
+      "forks": 31,
+      "extracted_nodes": 9,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "gslege/CloudflareIP",
+      "stars": 622,
+      "forks": 311,
+      "extracted_nodes": 20,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 15,
+      "forks": 1,
+      "extracted_nodes": 1420,
+      "valid_nodes": 206,
+      "quality_score": 53.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -41,19 +73,19 @@
       "quality_score": 49.0
     },
     {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 1322,
-      "valid_nodes": 578,
-      "quality_score": 41.0
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 324,
+      "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 135,
-      "valid_nodes": 124,
+      "extracted_nodes": 141,
+      "valid_nodes": 129,
       "quality_score": 40.8
     },
     {
@@ -71,47 +103,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "bily1258-design/beimi",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 1209,
-      "valid_nodes": 441,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "mzverse/rust2genshin",
-      "stars": 7,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 5.6
-    },
-    {
-      "repository": "Diman-tech/warp-config-generator-vercel-9a722",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Diman-tech/warp-config-generator-vercel",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "uky15498/ArborInversa",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-14 17:12:20"
+  "updated_at": "2026-09-14 22:51:48"
 }
