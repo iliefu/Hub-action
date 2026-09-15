@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1294,
-      "forks": 211,
-      "extracted_nodes": 3000,
-      "valid_nodes": 485,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9286,
+      "forks": 673,
+      "extracted_nodes": 463,
+      "valid_nodes": 126,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9285,
-      "forks": 673,
-      "extracted_nodes": 456,
-      "valid_nodes": 126,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1295,
+      "forks": 211,
+      "extracted_nodes": 3000,
+      "valid_nodes": 453,
       "quality_score": 100
     },
     {
@@ -25,12 +25,12 @@
       "quality_score": 100
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 15,
-      "forks": 1,
-      "extracted_nodes": 1420,
-      "valid_nodes": 258,
-      "quality_score": 53.0
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 95,
+      "forks": 8,
+      "extracted_nodes": 352,
+      "valid_nodes": 12,
+      "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -39,6 +39,30 @@
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 310,
+      "quality_score": 41.6
+    },
+    {
+      "repository": "xiaxiamu876-prog/FreeProxyHub",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 485,
+      "valid_nodes": 104,
+      "quality_score": 41.0
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 144,
+      "valid_nodes": 123,
+      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -57,29 +81,21 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Sunhaiy/hysteria2",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 2.4
-    },
-    {
-      "repository": "pigqig/CoolE-AI-KeyFactor",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "Yuhuanhuan59/node-update-helper",
+      "repository": "skyzizhu/sky-agent-mvp-stu",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "ATLCNND/ATL-MCPanel-V1",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-15 09:02:43"
+  "updated_at": "2026-09-15 15:55:52"
 }
