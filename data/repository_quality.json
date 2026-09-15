@@ -1,51 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9284,
-      "forks": 673,
-      "extracted_nodes": 456,
-      "valid_nodes": 125,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1292,
+      "stars": 1294,
       "forks": 211,
       "extracted_nodes": 3000,
-      "valid_nodes": 438,
+      "valid_nodes": 485,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 95,
-      "forks": 8,
-      "extracted_nodes": 364,
-      "valid_nodes": 13,
-      "quality_score": 88.0
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9285,
+      "forks": 673,
+      "extracted_nodes": 456,
+      "valid_nodes": 126,
+      "quality_score": 100
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 245,
-      "forks": 31,
-      "extracted_nodes": 9,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 303,
-      "forks": 26,
-      "extracted_nodes": 6,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "hello-world-1989/cn-news",
+      "stars": 587,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 1,
+      "quality_score": 100
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
       "extracted_nodes": 1420,
-      "valid_nodes": 193,
+      "valid_nodes": 258,
       "quality_score": 53.0
     },
     {
@@ -55,14 +39,6 @@
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
-    },
-    {
-      "repository": "freenodess/freenodess",
-      "stars": 1,
-      "forks": 1,
-      "extracted_nodes": 1417,
-      "valid_nodes": 673,
-      "quality_score": 41.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -81,21 +57,29 @@
       "quality_score": 40.0
     },
     {
-      "repository": "WilliamQXZ/free-nodes-sr",
-      "stars": 0,
+      "repository": "Sunhaiy/hysteria2",
+      "stars": 3,
       "forks": 0,
-      "extracted_nodes": 7,
-      "valid_nodes": 7,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "supElement/ComfyUI_Element_easy",
-      "stars": 11,
-      "forks": 2,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 10.8
+      "quality_score": 2.4
+    },
+    {
+      "repository": "pigqig/CoolE-AI-KeyFactor",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "Yuhuanhuan59/node-update-helper",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 1,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-15 02:18:37"
+  "updated_at": "2026-09-15 09:02:43"
 }
