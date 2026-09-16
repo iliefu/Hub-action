@@ -1,19 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9286,
-      "forks": 673,
-      "extracted_nodes": 420,
-      "valid_nodes": 118,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1298,
+      "forks": 211,
+      "extracted_nodes": 3000,
+      "valid_nodes": 514,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1297,
-      "forks": 211,
-      "extracted_nodes": 3000,
-      "valid_nodes": 497,
+      "repository": "shaoyouvip/free",
+      "stars": 1128,
+      "forks": 92,
+      "extracted_nodes": 12,
+      "valid_nodes": 6,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9288,
+      "forks": 673,
+      "extracted_nodes": 420,
+      "valid_nodes": 114,
       "quality_score": 100
     },
     {
@@ -25,24 +33,16 @@
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 303,
-      "forks": 26,
-      "extracted_nodes": 8,
-      "valid_nodes": 1,
-      "quality_score": 100
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 15,
       "forks": 1,
-      "extracted_nodes": 1430,
-      "valid_nodes": 207,
+      "extracted_nodes": 1434,
+      "valid_nodes": 255,
       "quality_score": 53.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
-      "stars": 98,
+      "stars": 99,
       "forks": 9,
       "extracted_nodes": 40,
       "valid_nodes": 0,
@@ -65,7 +65,39 @@
       "quality_score": 40.0
     },
     {
-      "repository": "yongyaoduan/doc-search-lite",
+      "repository": "guanxi660-crypto/nezha-aurora",
+      "stars": 1,
+      "forks": 2,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 2.8
+    },
+    {
+      "repository": "worcds207/dmit-cn2-gia-speeds",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "TincoNomad/wezterm-config",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "dofastted/vm2api",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "HFAKER730/Intelligent-Control-and-Intelligent-Information-Processing-Laboratory",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-16 02:11:50"
+  "updated_at": "2026-09-16 08:55:22"
 }
