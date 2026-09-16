@@ -1,19 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9287,
-      "forks": 673,
-      "extracted_nodes": 391,
-      "valid_nodes": 95,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1300,
       "forks": 211,
       "extracted_nodes": 3000,
-      "valid_nodes": 459,
+      "valid_nodes": 499,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9287,
+      "forks": 673,
+      "extracted_nodes": 391,
+      "valid_nodes": 92,
+      "quality_score": 100
+    },
+    {
+      "repository": "zhuhaiuk/free-nodes",
+      "stars": 236,
+      "forks": 21,
+      "extracted_nodes": 14,
+      "valid_nodes": 4,
       "quality_score": 100
     },
     {
@@ -29,16 +37,32 @@
       "stars": 96,
       "forks": 8,
       "extracted_nodes": 362,
-      "valid_nodes": 15,
+      "valid_nodes": 16,
       "quality_score": 88.0
     },
     {
-      "repository": "amclubs/am-cf-tunnel",
-      "stars": 3144,
-      "forks": 2250,
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 68,
+      "forks": 7,
+      "extracted_nodes": 1161,
+      "valid_nodes": 343,
+      "quality_score": 87.0
+    },
+    {
+      "repository": "wenyi401/ikik-api",
+      "stars": 235,
+      "forks": 20,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 60
+      "quality_score": 60.0
+    },
+    {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 15,
+      "forks": 1,
+      "extracted_nodes": 1441,
+      "valid_nodes": 207,
+      "quality_score": 53.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -49,19 +73,27 @@
       "quality_score": 49.0
     },
     {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 1734,
+      "valid_nodes": 112,
+      "quality_score": 47.4
+    },
+    {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 300,
+      "valid_nodes": 283,
       "quality_score": 41.6
     },
     {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 1215,
-      "valid_nodes": 696,
+      "extracted_nodes": 971,
+      "valid_nodes": 555,
       "quality_score": 41.0
     },
     {
@@ -69,7 +101,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 138,
-      "valid_nodes": 117,
+      "valid_nodes": 119,
       "quality_score": 40.8
     },
     {
@@ -89,39 +121,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "keiraee/hy2-allin-one",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 1.6
-    },
-    {
-      "repository": "dannyc87/embertide",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "yjitiu/ComfyUI-Binyuan-Sampler-EN",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Joylin2000/bandkey-site",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "jichangx/jichang-kepu-kuaixun",
+      "repository": "maplesky/subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -129,5 +129,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-16 15:44:56"
+  "updated_at": "2026-09-16 19:15:53"
 }
