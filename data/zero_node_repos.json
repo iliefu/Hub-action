@@ -175,6 +175,7 @@
     "JoshuaMaoJH/lattice",
     "Josia-doit/ComfyUI_JosiaNodes",
     "JoySec123/openwrt-passwall2",
+    "Joylin2000/bandkey-site",
     "Jsnzkpg/Jsnzkpg",
     "Juan-nikola/anywhere-profile-nouse",
     "Jump-Internet/ClashSSV2RaySSRTrojanShare",
@@ -380,6 +381,7 @@
     "akiralereal/iptv",
     "alibaba/canal",
     "alsolisa/digital-tools-guide",
+    "amclubs/am-cf-tunnel",
     "andy-wzy/gkd_dy",
     "andyxu12341/proxy-group-notes",
     "animarkuss-arch/warp-config-generator-vercel",
@@ -472,6 +474,7 @@
     "cyfain/chatgpt",
     "czl-dev-pub/math-atlas",
     "daka-agent/RiverLantern",
+    "dannyc87/embertide",
     "davoo233/Godfe2ray",
     "deezertidal/fee-based",
     "deezertidal/freevpn",
@@ -618,6 +621,7 @@
     "jichangohub/jichangtizi",
     "jichangtuijian-cheap/cheap-airports",
     "jichangx/free-nodes",
+    "jichangx/jichang-kepu-kuaixun",
     "jidanpirate/jmind",
     "jik00000q-sys/warp-config-generator-vercel",
     "jingfeng21211-lab/exam-review",
@@ -643,6 +647,7 @@
     "kael-aiur/clash-subscriber",
     "kagura-ririku/subconverter-mihomo",
     "kamuxiy/CanvasNotes",
+    "keiraee/hy2-allin-one",
     "ken-jo/agent-connector",
     "keqi119/subscription-Saas",
     "kerzjz/bbg",
@@ -1018,6 +1023,7 @@
     "yhone1/codex-wechat",
     "yimian-521/kotlin-head",
     "yingxiaomo/Mihomo-Personal-Rules",
+    "yjitiu/ComfyUI-Binyuan-Sampler-EN",
     "ylyhyue/Std-Practice",
     "yongyaoduan/doc-search-lite",
     "yourhoneypomelo-cell/scholar-fulltext-fetcher",
@@ -1068,5 +1074,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-16 08:55:10"
+  "updated_at": "2026-09-16 15:44:41"
 }
