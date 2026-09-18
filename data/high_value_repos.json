@@ -11023,48 +11023,6 @@
       "last_nodes_update": "2026-09-02T19:04:01.001243Z"
     },
     {
-      "repository": "kooker/FreeSubsCheck",
-      "stars": 317,
-      "forks": 43,
-      "extracted_nodes": 555,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "all.yaml",
-          "node_count": 76,
-          "last_checked": "2026-09-09T02:01:32.887827Z",
-          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml"
-        },
-        {
-          "path": "base64.txt",
-          "node_count": 76,
-          "last_checked": "2026-09-09T02:01:32.994120Z",
-          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt"
-        },
-        {
-          "path": "byxiaoxi.txt",
-          "node_count": 53,
-          "last_checked": "2026-09-09T02:01:33.560132Z",
-          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/byxiaoxi.txt"
-        },
-        {
-          "path": "kooker.jp.txt",
-          "node_count": 434,
-          "last_checked": "2026-09-09T02:01:33.716720Z",
-          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
-        },
-        {
-          "path": "mihomo.yaml",
-          "node_count": 76,
-          "last_checked": "2026-09-09T02:01:33.927785Z",
-          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/mihomo.yaml"
-        }
-      ],
-      "last_full_scan": "2026-09-09T02:01:37.423328Z",
-      "last_nodes_update": "2026-09-09T02:01:37.423348Z"
-    },
-    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 81,
       "forks": 74,
@@ -11279,6 +11237,36 @@
       ],
       "last_full_scan": "2026-08-08T04:45:14.637916Z",
       "last_nodes_update": "2026-08-08T04:45:14.637943Z"
+    },
+    {
+      "repository": "kooker/FreeSubsCheck",
+      "stars": 327,
+      "forks": 46,
+      "extracted_nodes": 401,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "base64.txt",
+          "node_count": 9,
+          "last_checked": "2026-09-18T02:02:08.645401Z",
+          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt"
+        },
+        {
+          "path": "byxiaoxi.txt",
+          "node_count": 10,
+          "last_checked": "2026-09-18T02:02:08.811155Z",
+          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/byxiaoxi.txt"
+        },
+        {
+          "path": "kooker.jp.txt",
+          "node_count": 401,
+          "last_checked": "2026-09-18T02:02:08.994863Z",
+          "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
+        }
+      ],
+      "last_full_scan": "2026-09-18T02:02:13.230089Z",
+      "last_nodes_update": "2026-09-18T02:02:13.230108Z"
     },
     {
       "repository": "ShimpleJeaf/v2rayfree",
@@ -12367,7 +12355,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-17 22:32:44",
+  "updated_at": "2026-09-18 02:02:13",
   "total_whitelisted_repos": 45,
-  "total_cached_nodes": 47347
+  "total_cached_nodes": 47193
 }
