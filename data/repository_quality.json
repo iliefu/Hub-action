@@ -1,27 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1301,
-      "forks": 213,
-      "extracted_nodes": 3000,
-      "valid_nodes": 466,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9292,
+      "forks": 673,
+      "extracted_nodes": 348,
+      "valid_nodes": 85,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 81,
       "forks": 74,
-      "extracted_nodes": 680,
-      "valid_nodes": 19,
+      "extracted_nodes": 531,
+      "valid_nodes": 5,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9291,
-      "forks": 673,
-      "extracted_nodes": 385,
-      "valid_nodes": 117,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1301,
+      "forks": 213,
+      "extracted_nodes": 3000,
+      "valid_nodes": 478,
       "quality_score": 100
     },
     {
@@ -33,12 +33,12 @@
       "quality_score": 100
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 17,
-      "forks": 1,
-      "extracted_nodes": 1400,
-      "valid_nodes": 268,
-      "quality_score": 54.6
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 96,
+      "forks": 8,
+      "extracted_nodes": 358,
+      "valid_nodes": 12,
+      "quality_score": 88.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -49,11 +49,27 @@
       "quality_score": 49.0
     },
     {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 605,
+      "valid_nodes": 387,
+      "quality_score": 41.0
+    },
+    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 131,
-      "valid_nodes": 116,
+      "extracted_nodes": 117,
+      "valid_nodes": 108,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "meroseem/acaesub",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 1398,
+      "valid_nodes": 900,
       "quality_score": 40.8
     },
     {
@@ -73,23 +89,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Xuqing0415/OxideDB",
-      "stars": 1,
+      "repository": "bily1258-design/beimi",
+      "stars": 0,
       "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
+      "extracted_nodes": 941,
+      "valid_nodes": 364,
+      "quality_score": 40.0
     },
     {
-      "repository": "giantlucy/latest_jichang",
-      "stars": 1,
-      "forks": 0,
+      "repository": "MouckIS/dusk-module-auth",
+      "stars": 0,
+      "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 1.0
     },
     {
-      "repository": "alymovp-hub/warp-config-generator-vercel",
+      "repository": "levelbuxs/freemoney",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,7 +113,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "yys9253462-gif/hysteria2-installer",
+      "repository": "Domage00/warp-config-generator-vercel",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,15 +121,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "kukumi1/sing-box-v6",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "lyell0710/Kernel_Optimazation-public",
+      "repository": "StardawnAI/youtube-transcript-mcp",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -121,5 +129,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-18 08:35:07"
+  "updated_at": "2026-09-18 15:24:07"
 }
