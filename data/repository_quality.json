@@ -2,18 +2,18 @@
   "repositories": [
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1301,
+      "stars": 1302,
       "forks": 213,
       "extracted_nodes": 3000,
-      "valid_nodes": 494,
+      "valid_nodes": 459,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 81,
       "forks": 74,
-      "extracted_nodes": 607,
-      "valid_nodes": 9,
+      "extracted_nodes": 528,
+      "valid_nodes": 11,
       "quality_score": 100
     },
     {
@@ -21,7 +21,15 @@
       "stars": 9292,
       "forks": 673,
       "extracted_nodes": 348,
-      "valid_nodes": 81,
+      "valid_nodes": 78,
+      "quality_score": 100
+    },
+    {
+      "repository": "kooker/FreeSubsCheck",
+      "stars": 327,
+      "forks": 46,
+      "extracted_nodes": 425,
+      "valid_nodes": 99,
       "quality_score": 100
     },
     {
@@ -33,6 +41,14 @@
       "quality_score": 100
     },
     {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 96,
+      "forks": 8,
+      "extracted_nodes": 358,
+      "valid_nodes": 14,
+      "quality_score": 88.0
+    },
+    {
       "repository": "wenxig/dongtai-sub",
       "stars": 247,
       "forks": 31,
@@ -41,11 +57,19 @@
       "quality_score": 60
     },
     {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1956,
+      "forks": 126,
+      "extracted_nodes": 16,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 17,
       "forks": 1,
-      "extracted_nodes": 1402,
-      "valid_nodes": 207,
+      "extracted_nodes": 1409,
+      "valid_nodes": 205,
       "quality_score": 54.6
     },
     {
@@ -57,12 +81,12 @@
       "quality_score": 49.0
     },
     {
-      "repository": "share-daily/node",
-      "stars": 4,
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 70,
-      "valid_nodes": 69,
-      "quality_score": 43.2
+      "extracted_nodes": 132,
+      "valid_nodes": 106,
+      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -79,31 +103,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "TapeOutProtocol/TapeKit",
-      "stars": 9,
-      "forks": 2,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 9.2
-    },
-    {
-      "repository": "M1ntPillow/warp-config-generator-vercel",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "NetaJuutilainen/maibot_immersive_control_plugin",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-18 18:44:19"
+  "updated_at": "2026-09-18 22:02:15"
 }
