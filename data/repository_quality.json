@@ -1,27 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9300,
-      "forks": 673,
-      "extracted_nodes": 376,
-      "valid_nodes": 119,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 83,
+      "forks": 74,
+      "extracted_nodes": 56,
+      "valid_nodes": 3,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1307,
-      "forks": 216,
+      "forks": 217,
       "extracted_nodes": 3000,
-      "valid_nodes": 467,
+      "valid_nodes": 521,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 83,
-      "forks": 74,
-      "extracted_nodes": 422,
-      "valid_nodes": 2,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9301,
+      "forks": 673,
+      "extracted_nodes": 376,
+      "valid_nodes": 116,
       "quality_score": 100
     },
     {
@@ -36,48 +36,48 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 96,
       "forks": 8,
-      "extracted_nodes": 368,
-      "valid_nodes": 20,
+      "extracted_nodes": 378,
+      "valid_nodes": 18,
       "quality_score": 88.0
     },
     {
-      "repository": "gslege/CloudflareIP",
-      "stars": 630,
-      "forks": 312,
-      "extracted_nodes": 20,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "5VNetwork/VX",
-      "stars": 243,
-      "forks": 23,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 18,
       "forks": 1,
-      "extracted_nodes": 1418,
-      "valid_nodes": 1060,
-      "quality_score": 41.0
+      "extracted_nodes": 1451,
+      "valid_nodes": 192,
+      "quality_score": 55.4
+    },
+    {
+      "repository": "wenxig/free-nodes-sub",
+      "stars": 102,
+      "forks": 9,
+      "extracted_nodes": 40,
+      "valid_nodes": 0,
+      "quality_score": 49.0
+    },
+    {
+      "repository": "bzfq21/proxy-singbox",
+      "stars": 6,
+      "forks": 0,
+      "extracted_nodes": 16,
+      "valid_nodes": 4,
+      "quality_score": 44.8
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 278,
+      "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 122,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "bily1258-design/beimi",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 1182,
-      "valid_nodes": 443,
+      "extracted_nodes": 142,
+      "valid_nodes": 124,
       "quality_score": 40.8
     },
     {
@@ -97,37 +97,21 @@
       "quality_score": 40.0
     },
     {
-      "repository": "loss-and-quick/Kasumi-Proxy",
-      "stars": 3,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 3.4
-    },
-    {
-      "repository": "manoftec-ai/tutorfinder-bd",
-      "stars": 0,
+      "repository": "BedtimeNewsStudio/BedtimeNews-Agent",
+      "stars": 14,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 11.2
     },
     {
-      "repository": "c114/fanout-controller",
-      "stars": 0,
+      "repository": "zhulinghuanyu/Node",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 0,
+      "extracted_nodes": 12,
       "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "IchenDEV/model-watch",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-09-21 17:22:04"
+  "updated_at": "2026-09-21 22:57:23"
 }
