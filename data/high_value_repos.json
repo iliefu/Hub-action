@@ -10952,39 +10952,39 @@
     },
     {
       "repository": "bily1258-design/beimi",
-      "stars": 0,
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 1209,
+      "extracted_nodes": 1182,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "output/clash.yaml",
           "node_count": 500,
-          "last_checked": "2026-09-14T17:12:10.013328Z",
+          "last_checked": "2026-09-21T17:21:43.345324Z",
           "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/clash.yaml"
         },
         {
           "path": "output/subscribe_b64.txt",
-          "node_count": 694,
-          "last_checked": "2026-09-14T17:12:10.357326Z",
+          "node_count": 659,
+          "last_checked": "2026-09-21T17:21:43.891760Z",
           "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/subscribe_b64.txt"
         },
         {
           "path": "output/subscribe_plain.txt",
-          "node_count": 694,
-          "last_checked": "2026-09-14T17:12:10.503213Z",
+          "node_count": 659,
+          "last_checked": "2026-09-21T17:21:44.144953Z",
           "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/subscribe_plain.txt"
         },
         {
           "path": "subscription.txt",
-          "node_count": 245,
-          "last_checked": "2026-09-14T17:12:10.764781Z",
+          "node_count": 279,
+          "last_checked": "2026-09-21T17:21:44.537241Z",
           "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/subscription.txt"
         }
       ],
-      "last_full_scan": "2026-09-14T17:12:13.576046Z",
-      "last_nodes_update": "2026-09-14T17:12:13.576068Z"
+      "last_full_scan": "2026-09-21T17:21:53.235897Z",
+      "last_nodes_update": "2026-09-21T17:21:53.235926Z"
     },
     {
       "repository": "v2raynnodes/v2rayfree",
@@ -12619,7 +12619,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-21 09:24:08",
+  "updated_at": "2026-09-21 17:21:53",
   "total_whitelisted_repos": 46,
-  "total_cached_nodes": 48911
+  "total_cached_nodes": 48884
 }
