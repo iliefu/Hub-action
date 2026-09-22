@@ -641,6 +641,8 @@
     "izcw/NodeCanvas",
     "jamebal/xray-kuma-probe",
     "jauyhsuyahaandersiuayha-oss/letsvpn--",
+    "jcsift/LadderCloud",
+    "jcsift/airport-summary",
     "jdnei/JiChangTuiJian",
     "jeffzc24-cmyk/clash-chain-proxy",
     "jerryshell/hono-upload",
@@ -734,6 +736,7 @@
     "licorxj/VideoLingoFlow",
     "lidawei1985/FilmCollector",
     "lifestreamy/xray-ansible-auto-setup",
+    "lifestreamy/xrayvpn",
     "lilyco-42/ghboost",
     "lingyingaojue/NetSpeedTest",
     "link9916/subone",
@@ -1110,6 +1113,7 @@
     "zhenzi0322/comfyui-koukoutu",
     "zhewang448/astrbot_plugin_ark_calendar",
     "zhh293/SimplePlanePlatform",
+    "zhiangzq126/mail-invoice-pipeline",
     "zhmgczh/GhostWarp",
     "zhnkk6/Practical-118-Node-Distribution-System-Dataset",
     "zhoujun0601/rss",
@@ -1130,5 +1134,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-22 02:18:24"
+  "updated_at": "2026-09-22 08:52:57"
 }
