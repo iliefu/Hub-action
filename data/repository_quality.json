@@ -1,35 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9303,
-      "forks": 673,
-      "extracted_nodes": 296,
-      "valid_nodes": 82,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1312,
+      "forks": 218,
+      "extracted_nodes": 3000,
+      "valid_nodes": 549,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 83,
       "forks": 74,
-      "extracted_nodes": 822,
-      "valid_nodes": 24,
+      "extracted_nodes": 565,
+      "valid_nodes": 16,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1313,
-      "forks": 218,
-      "extracted_nodes": 3000,
-      "valid_nodes": 491,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9304,
+      "forks": 673,
+      "extracted_nodes": 296,
+      "valid_nodes": 82,
       "quality_score": 100
     },
     {
-      "repository": "shaoyouvip/free",
-      "stars": 1155,
-      "forks": 93,
-      "extracted_nodes": 12,
-      "valid_nodes": 3,
+      "repository": "PuddinCat/BestClash",
+      "stars": 1965,
+      "forks": 127,
+      "extracted_nodes": 15,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
@@ -45,7 +45,7 @@
       "stars": 102,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 13,
+      "valid_nodes": 12,
       "quality_score": 89.0
     },
     {
@@ -53,47 +53,39 @@
       "stars": 96,
       "forks": 8,
       "extracted_nodes": 374,
-      "valid_nodes": 17,
+      "valid_nodes": 16,
       "quality_score": 88.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 247,
-      "forks": 31,
-      "extracted_nodes": 9,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "v2raynnodes/v2rayfree",
+      "stars": 70,
+      "forks": 7,
+      "extracted_nodes": 1164,
+      "valid_nodes": 338,
+      "quality_score": 87.0
     },
     {
-      "repository": "xiaxiamu876-prog/NetPulse",
-      "stars": 0,
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 18,
       "forks": 1,
-      "extracted_nodes": 11,
-      "valid_nodes": 1,
-      "quality_score": 41.0
+      "extracted_nodes": 197,
+      "valid_nodes": 39,
+      "quality_score": 55.4
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
+      "repository": "bzfq21/proxy-singbox",
+      "stars": 6,
       "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 116,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "bily1258-design/beimi",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 1270,
-      "valid_nodes": 403,
-      "quality_score": 40.8
+      "extracted_nodes": 16,
+      "valid_nodes": 4,
+      "quality_score": 44.8
     },
     {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 11,
+      "valid_nodes": 13,
       "quality_score": 40.0
     },
     {
@@ -105,31 +97,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "zhujiuyi/ccgui-plugin-balance-meter",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "xiaolinbenben/netx",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "lambret-1/new-vpn",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "jianchengli926-coder/kailion-super-workbench",
+      "repository": "h185085/ComfyUI-TishiciSuijiCuiquqi",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -137,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-23 15:44:03"
+  "updated_at": "2026-09-23 19:19:02"
 }
