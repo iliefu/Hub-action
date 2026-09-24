@@ -1,27 +1,43 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9306,
-      "forks": 673,
-      "extracted_nodes": 336,
-      "valid_nodes": 98,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1312,
       "forks": 218,
       "extracted_nodes": 3000,
-      "valid_nodes": 537,
+      "valid_nodes": 505,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 83,
       "forks": 74,
-      "extracted_nodes": 324,
-      "valid_nodes": 15,
+      "extracted_nodes": 594,
+      "valid_nodes": 10,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 1160,
+      "forks": 93,
+      "extracted_nodes": 20,
+      "valid_nodes": 9,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9307,
+      "forks": 673,
+      "extracted_nodes": 336,
+      "valid_nodes": 94,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 597,
+      "forks": 22,
+      "extracted_nodes": 8,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -29,63 +45,31 @@
       "stars": 102,
       "forks": 9,
       "extracted_nodes": 40,
-      "valid_nodes": 5,
+      "valid_nodes": 2,
       "quality_score": 89.0
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 96,
-      "forks": 8,
-      "extracted_nodes": 365,
-      "valid_nodes": 18,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 305,
-      "forks": 26,
-      "extracted_nodes": 27,
+      "repository": "Aethersailor/Custom_OpenClash_Rules",
+      "stars": 6545,
+      "forks": 1390,
+      "extracted_nodes": 1,
       "valid_nodes": 0,
       "quality_score": 60
-    },
-    {
-      "repository": "ganlinte/GKD-subscription",
-      "stars": 861,
-      "forks": 19,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 59.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 18,
       "forks": 1,
-      "extracted_nodes": 198,
-      "valid_nodes": 47,
+      "extracted_nodes": 218,
+      "valid_nodes": 44,
       "quality_score": 55.4
-    },
-    {
-      "repository": "share-daily/node",
-      "stars": 7,
-      "forks": 0,
-      "extracted_nodes": 4,
-      "valid_nodes": 4,
-      "quality_score": 45.6
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 301,
-      "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 119,
+      "extracted_nodes": 140,
+      "valid_nodes": 125,
       "quality_score": 40.8
     },
     {
@@ -103,7 +87,47 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "kaixin88/proxypilot-mobile",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 12,
+      "valid_nodes": 1,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "ethancaldwell760-create/free-nodes-subscribe",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "Eason4869/quota-board",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "leehaohaohao/flowops-executor",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "hm4reg/jichangtuijian",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-24 02:04:51"
+  "updated_at": "2026-09-24 08:50:34"
 }
