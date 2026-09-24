@@ -50,6 +50,8 @@
     "Aaalice233/ComfyUI-Aaalice-Nodes",
     "Abao135/jc-tizi-tj",
     "AbnerSC/NexHome",
+    "AeternaDataSources/cloudflare_zero_trust_tunnel_warp_connector_config",
+    "AeternaModules/cloudflare_zero_trust_tunnel_warp_connector_config",
     "Aethersailor/SubConverter-Extended",
     "Aethersailor/m-ui",
     "Aethersailor/subconverter",
@@ -266,6 +268,7 @@
     "OxAbyss/yonghu",
     "PAICNI/CFBox",
     "PENG-7777/seafood-trace-front",
+    "ParsaAzari/wirepro",
     "Pawdroid/Free-servers",
     "PhilipJohnBasile/philjs",
     "Pinevu/pine-sub",
@@ -331,6 +334,7 @@
     "TG-NAV/clashnode",
     "TG-NAV/nodeshare",
     "THE-SAZ/WarpMiner",
+    "TYSJY/ai-subscription-prices",
     "Taolei0719/rap-lyric-lab",
     "TapeOutProtocol/TapeKit",
     "Teletz/warp-config-generator-vercel",
@@ -790,6 +794,7 @@
     "lxy5128537/warp-masque-actions",
     "lyell0710/Kernel_Optimazation",
     "lyell0710/Kernel_Optimazation-public",
+    "lynclee/comfyui_modal_bridge",
     "lynx-gt/IndexTTS2-PauseControl",
     "lyu0805/aura",
     "lzm880880/free-vpn-clash-nodes",
@@ -1155,5 +1160,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-24 08:50:29"
+  "updated_at": "2026-09-24 16:05:36"
 }

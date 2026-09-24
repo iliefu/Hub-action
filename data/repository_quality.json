@@ -1,43 +1,43 @@
 {
   "repositories": [
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9310,
+      "forks": 673,
+      "extracted_nodes": 301,
+      "valid_nodes": 86,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1312,
-      "forks": 218,
+      "forks": 220,
       "extracted_nodes": 3000,
-      "valid_nodes": 505,
+      "valid_nodes": 488,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 83,
+      "stars": 84,
       "forks": 74,
-      "extracted_nodes": 594,
-      "valid_nodes": 10,
+      "extracted_nodes": 539,
+      "valid_nodes": 11,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
       "stars": 1160,
       "forks": 93,
-      "extracted_nodes": 20,
-      "valid_nodes": 9,
+      "extracted_nodes": 4,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9307,
-      "forks": 673,
-      "extracted_nodes": 336,
-      "valid_nodes": 94,
-      "quality_score": 100
-    },
-    {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 597,
-      "forks": 22,
-      "extracted_nodes": 8,
-      "valid_nodes": 2,
+      "repository": "PuddinCat/BestClash",
+      "stars": 1966,
+      "forks": 127,
+      "extracted_nodes": 16,
+      "valid_nodes": 5,
       "quality_score": 100
     },
     {
@@ -49,27 +49,43 @@
       "quality_score": 89.0
     },
     {
-      "repository": "Aethersailor/Custom_OpenClash_Rules",
-      "stars": 6545,
-      "forks": 1390,
-      "extracted_nodes": 1,
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 96,
+      "forks": 8,
+      "extracted_nodes": 371,
+      "valid_nodes": 18,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 597,
+      "forks": 22,
+      "extracted_nodes": 8,
       "valid_nodes": 0,
       "quality_score": 60
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 18,
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
       "forks": 1,
-      "extracted_nodes": 218,
-      "valid_nodes": 44,
-      "quality_score": 55.4
+      "extracted_nodes": 678,
+      "valid_nodes": 427,
+      "quality_score": 41.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 140,
-      "valid_nodes": 125,
+      "extracted_nodes": 142,
+      "valid_nodes": 122,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "bily1258-design/beimi",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 1227,
+      "valid_nodes": 372,
       "quality_score": 40.8
     },
     {
@@ -77,7 +93,7 @@
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 13,
+      "valid_nodes": 11,
       "quality_score": 40.0
     },
     {
@@ -89,15 +105,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "kaixin88/proxypilot-mobile",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 12,
-      "valid_nodes": 1,
-      "quality_score": 40.0
+      "repository": "lynclee/comfyui_modal_bridge",
+      "stars": 6,
+      "forks": 2,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 6.8
     },
     {
-      "repository": "ethancaldwell760-create/free-nodes-subscribe",
+      "repository": "ParsaAzari/wirepro",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,7 +121,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "Eason4869/quota-board",
+      "repository": "VeilVulp/wirepro",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,7 +129,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "leehaohaohao/flowops-executor",
+      "repository": "AeternaDataSources/cloudflare_zero_trust_tunnel_warp_connector_config",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -121,7 +137,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "hm4reg/jichangtuijian",
+      "repository": "AeternaModules/cloudflare_zero_trust_tunnel_warp_connector_config",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "TYSJY/ai-subscription-prices",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -129,5 +153,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-24 08:50:34"
+  "updated_at": "2026-09-24 16:05:45"
 }
