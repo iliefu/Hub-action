@@ -1,75 +1,99 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9311,
-      "forks": 673,
-      "extracted_nodes": 298,
-      "valid_nodes": 92,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1316,
+      "stars": 1317,
       "forks": 221,
       "extracted_nodes": 3000,
-      "valid_nodes": 518,
+      "valid_nodes": 538,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 74,
-      "extracted_nodes": 356,
-      "valid_nodes": 16,
+      "extracted_nodes": 259,
+      "valid_nodes": 10,
       "quality_score": 100
     },
     {
-      "repository": "wenxig/free-nodes-sub",
-      "stars": 102,
-      "forks": 9,
-      "extracted_nodes": 40,
-      "valid_nodes": 2,
-      "quality_score": 89.0
+      "repository": "shaoyouvip/free",
+      "stars": 1159,
+      "forks": 93,
+      "extracted_nodes": 51,
+      "valid_nodes": 27,
+      "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 96,
-      "forks": 8,
-      "extracted_nodes": 366,
-      "valid_nodes": 17,
-      "quality_score": 88.0
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9311,
+      "forks": 673,
+      "extracted_nodes": 298,
+      "valid_nodes": 91,
+      "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
       "stars": 598,
       "forks": 22,
       "extracted_nodes": 8,
+      "valid_nodes": 2,
+      "quality_score": 100
+    },
+    {
+      "repository": "bin1site1/V2rayFree",
+      "stars": 94,
+      "forks": 12,
+      "extracted_nodes": 55,
+      "valid_nodes": 1,
+      "quality_score": 92.0
+    },
+    {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 96,
+      "forks": 8,
+      "extracted_nodes": 369,
+      "valid_nodes": 18,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 248,
+      "forks": 32,
+      "extracted_nodes": 9,
       "valid_nodes": 0,
       "quality_score": 60
+    },
+    {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 19,
+      "forks": 1,
+      "extracted_nodes": 248,
+      "valid_nodes": 59,
+      "quality_score": 56.2
+    },
+    {
+      "repository": "wenxig/free-nodes-sub",
+      "stars": 102,
+      "forks": 9,
+      "extracted_nodes": 40,
+      "valid_nodes": 0,
+      "quality_score": 49.0
     },
     {
       "repository": "huiwin/NodeCollection",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 365,
-      "valid_nodes": 256,
+      "extracted_nodes": 318,
+      "valid_nodes": 239,
       "quality_score": 41.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 124,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "bily1258-design/beimi",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 1240,
-      "valid_nodes": 369,
+      "extracted_nodes": 140,
+      "valid_nodes": 125,
       "quality_score": 40.8
     },
     {
@@ -89,31 +113,15 @@
       "quality_score": 40.0
     },
     {
+      "repository": "Hak78/Haa-VPN",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
       "repository": "VeilVulp/wirepro",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "hellojx852872210-cmyk/clash-ai-homebb",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "liangyuR/lyFlow",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "kurumiZafkiel12/nat-vps-sub-guide",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -121,5 +129,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-25 16:06:03"
+  "updated_at": "2026-09-25 22:56:46"
 }
