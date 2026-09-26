@@ -852,6 +852,7 @@
     "mzverse/rust2genshin",
     "narinishi/platypus-vortex",
     "narinishi/platypus-warp",
+    "nasalvtapki-sys/warp-config-generator-vercel",
     "nellimonix/warp-config-generator-vercel",
     "netptop/siteproxy",
     "newbietan/Vless2Clash",
@@ -1180,5 +1181,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-26 18:49:10"
+  "updated_at": "2026-09-26 22:15:41"
 }
