@@ -1,43 +1,51 @@
 {
   "repositories": [
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9314,
+      "forks": 673,
+      "extracted_nodes": 315,
+      "valid_nodes": 122,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1318,
+      "stars": 1317,
       "forks": 221,
       "extracted_nodes": 3000,
-      "valid_nodes": 552,
+      "valid_nodes": 537,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9313,
-      "forks": 673,
-      "extracted_nodes": 282,
-      "valid_nodes": 93,
-      "quality_score": 100
-    },
-    {
-      "repository": "zhuhaiuk/free-nodes",
-      "stars": 277,
-      "forks": 22,
-      "extracted_nodes": 16,
-      "valid_nodes": 9,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 84,
+      "forks": 74,
+      "extracted_nodes": 240,
+      "valid_nodes": 18,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 597,
+      "stars": 598,
       "forks": 22,
       "extracted_nodes": 8,
       "valid_nodes": 2,
       "quality_score": 100
     },
     {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 306,
+      "forks": 26,
+      "extracted_nodes": 24,
+      "valid_nodes": 1,
+      "quality_score": 100
+    },
+    {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 96,
       "forks": 8,
-      "extracted_nodes": 372,
-      "valid_nodes": 17,
+      "extracted_nodes": 373,
+      "valid_nodes": 19,
       "quality_score": 88.0
     },
     {
@@ -45,7 +53,7 @@
       "stars": 19,
       "forks": 1,
       "extracted_nodes": 261,
-      "valid_nodes": 73,
+      "valid_nodes": 66,
       "quality_score": 56.2
     },
     {
@@ -57,19 +65,11 @@
       "quality_score": 49.0
     },
     {
-      "repository": "bzfq21/proxy-singbox",
-      "stars": 6,
-      "forks": 1,
-      "extracted_nodes": 16,
-      "valid_nodes": 4,
-      "quality_score": 45.8
-    },
-    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 139,
-      "valid_nodes": 133,
+      "valid_nodes": 132,
       "quality_score": 40.8
     },
     {
@@ -89,7 +89,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "nasalvtapki-sys/warp-config-generator-vercel",
+      "repository": "Zenith-Mings/personal-center",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "qiao-chief/qiao-content-radar",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-26 22:15:47"
+  "updated_at": "2026-09-27 02:21:57"
 }
