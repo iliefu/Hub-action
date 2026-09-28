@@ -1,27 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9318,
-      "forks": 672,
-      "extracted_nodes": 332,
-      "valid_nodes": 125,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 84,
-      "forks": 73,
-      "extracted_nodes": 499,
-      "valid_nodes": 30,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1318,
       "forks": 222,
       "extracted_nodes": 3000,
-      "valid_nodes": 525,
+      "valid_nodes": 553,
+      "quality_score": 100
+    },
+    {
+      "repository": "shaoyouvip/free",
+      "stars": 1173,
+      "forks": 93,
+      "extracted_nodes": 18,
+      "valid_nodes": 8,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9319,
+      "forks": 672,
+      "extracted_nodes": 332,
+      "valid_nodes": 118,
+      "quality_score": 100
+    },
+    {
+      "repository": "snakem982/proxypool",
+      "stars": 2121,
+      "forks": 148,
+      "extracted_nodes": 124,
+      "valid_nodes": 54,
       "quality_score": 100
     },
     {
@@ -49,27 +57,27 @@
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 306,
-      "forks": 26,
-      "extracted_nodes": 41,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 19,
       "forks": 1,
-      "extracted_nodes": 260,
-      "valid_nodes": 67,
+      "extracted_nodes": 265,
+      "valid_nodes": 74,
       "quality_score": 56.2
+    },
+    {
+      "repository": "share-daily/node",
+      "stars": 8,
+      "forks": 0,
+      "extracted_nodes": 23,
+      "valid_nodes": 22,
+      "quality_score": 46.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 143,
-      "valid_nodes": 135,
+      "extracted_nodes": 139,
+      "valid_nodes": 121,
       "quality_score": 40.8
     },
     {
@@ -89,7 +97,47 @@
       "quality_score": 40.0
     },
     {
-      "repository": "2guan/IPTVWeb",
+      "repository": "735754647/Free-Nodes",
+      "stars": 18,
+      "forks": 2,
+      "extracted_nodes": 1,
+      "valid_nodes": 0,
+      "quality_score": 16.4
+    },
+    {
+      "repository": "HeartHurt-code-y/infinite-canvas",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "theworker02/warppath",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "theworker02/warptext",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "WPH666-py/ChinaClaude",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "NicolePuella/TE-Speed-VOSR2-linux-compat",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +145,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-28 02:26:06"
+  "updated_at": "2026-09-28 10:17:18"
 }

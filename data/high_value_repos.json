@@ -12589,6 +12589,30 @@
       "last_nodes_update": "2026-07-16T09:57:47.066154Z"
     },
     {
+      "repository": "snakem982/proxypool",
+      "stars": 2121,
+      "forks": 148,
+      "extracted_nodes": 124,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "source/clash-meta-2.yaml",
+          "node_count": 62,
+          "last_checked": "2026-09-28T10:16:58.746398Z",
+          "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml"
+        },
+        {
+          "path": "source/v2ray-2.txt",
+          "node_count": 62,
+          "last_checked": "2026-09-28T10:16:59.001014Z",
+          "url": "https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray-2.txt"
+        }
+      ],
+      "last_full_scan": "2026-09-28T10:17:06.397359Z",
+      "last_nodes_update": "2026-09-28T10:17:06.397383Z"
+    },
+    {
       "repository": "OrdoAbChao7/ClashVerge-free-AutoRefresher",
       "stars": 0,
       "forks": 0,
@@ -12607,7 +12631,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-28 02:26:01",
-  "total_whitelisted_repos": 46,
-  "total_cached_nodes": 47617
+  "updated_at": "2026-09-28 10:17:06",
+  "total_whitelisted_repos": 47,
+  "total_cached_nodes": 47741
 }
