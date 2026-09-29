@@ -11321,12 +11321,12 @@
         {
           "path": "result/clash.yaml",
           "node_count": 500,
-          "last_checked": "2026-09-06T21:49:48.386420Z",
+          "last_checked": "2026-09-29T23:16:09.302879Z",
           "url": "https://raw.githubusercontent.com/LalatinaHub/LatinaSub/main/result/clash.yaml"
         }
       ],
-      "last_full_scan": "2026-09-06T21:49:59.795372Z",
-      "last_nodes_update": "2026-09-06T21:49:59.795400Z"
+      "last_full_scan": "2026-09-29T23:16:22.859939Z",
+      "last_nodes_update": "2026-09-29T23:16:22.859960Z"
     },
     {
       "repository": "xiaxiamu876-prog/FreeProxyHub",
@@ -12631,7 +12631,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-09-29 17:14:02",
+  "updated_at": "2026-09-29 23:16:22",
   "total_whitelisted_repos": 47,
   "total_cached_nodes": 47714
 }

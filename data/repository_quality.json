@@ -1,19 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9323,
-      "forks": 672,
-      "extracted_nodes": 289,
-      "valid_nodes": 97,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1322,
+      "forks": 223,
+      "extracted_nodes": 3000,
+      "valid_nodes": 536,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1320,
-      "forks": 222,
-      "extracted_nodes": 3000,
-      "valid_nodes": 529,
+      "repository": "shaoyouvip/free",
+      "stars": 1181,
+      "forks": 93,
+      "extracted_nodes": 82,
+      "valid_nodes": 35,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9324,
+      "forks": 672,
+      "extracted_nodes": 289,
+      "valid_nodes": 93,
       "quality_score": 100
     },
     {
@@ -33,35 +41,43 @@
       "quality_score": 89.0
     },
     {
-      "repository": "gslege/CloudflareIP",
-      "stars": 643,
-      "forks": 314,
-      "extracted_nodes": 20,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 96,
+      "forks": 8,
+      "extracted_nodes": 372,
+      "valid_nodes": 17,
+      "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 306,
-      "forks": 26,
-      "extracted_nodes": 7,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 20,
+      "forks": 1,
+      "extracted_nodes": 324,
+      "valid_nodes": 78,
+      "quality_score": 57.0
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 323,
-      "quality_score": 42.4
+      "repository": "LalatinaHub/LatinaSub",
+      "stars": 11,
+      "forks": 3,
+      "extracted_nodes": 500,
+      "valid_nodes": 497,
+      "quality_score": 51.8
+    },
+    {
+      "repository": "bzfq21/proxy-singbox",
+      "stars": 6,
+      "forks": 1,
+      "extracted_nodes": 16,
+      "valid_nodes": 4,
+      "quality_score": 45.8
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 138,
-      "valid_nodes": 110,
+      "extracted_nodes": 140,
+      "valid_nodes": 126,
       "quality_score": 40.8
     },
     {
@@ -79,47 +95,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "xzb177/Aetrix-Portal",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 1.6
-    },
-    {
-      "repository": "a6462886/my-warp-config",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "obinexus/obix-core-ssr",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "dullassistan/WarpGenerator",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "warpusTOM/warpusTOM",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-09-29 17:14:14"
+  "updated_at": "2026-09-29 23:16:28"
 }
