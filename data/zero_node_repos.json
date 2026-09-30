@@ -76,6 +76,7 @@
     "ArasTey/ArasClient",
     "AristraHatsuyu/PlaudCli",
     "Arkkaz/agent-skill-hub",
+    "Arthur97172/luci-app-substore",
     "AweekJyz/Nolio",
     "Ayuilos/Miffan",
     "BULUTEMAN/bank-marketing-prediction-web",
@@ -781,6 +782,7 @@
     "leikaiwei/rss",
     "leizhenfacai/nezhagate-api-examples",
     "lemyhello/starrocks-tool",
+    "leon4z/shadowrocket-config",
     "leotang315/FlowNode",
     "leoyb1010/tide-learning",
     "lerity-yao/czt-contrib",
@@ -1228,5 +1230,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-09-30 17:10:37"
+  "updated_at": "2026-09-30 23:19:21"
 }
