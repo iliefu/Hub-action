@@ -14686,31 +14686,37 @@
       "repository": "xiaxiamu876-prog/FreeProxyHub",
       "stars": 0,
       "forks": 1,
-      "extracted_nodes": 485,
+      "extracted_nodes": 484,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "data/clash.yaml",
           "node_count": 300,
-          "last_checked": "2026-09-15T15:55:30.213960Z",
+          "last_checked": "2026-10-02T17:02:17.119865Z",
           "url": "https://raw.githubusercontent.com/xiaxiamu876-prog/FreeProxyHub/main/data/clash.yaml"
+        },
+        {
+          "path": "data/proxies.json",
+          "node_count": 2,
+          "last_checked": "2026-10-02T17:02:17.652247Z",
+          "url": "https://raw.githubusercontent.com/xiaxiamu876-prog/FreeProxyHub/main/data/proxies.json"
         },
         {
           "path": "data/subscribe.txt",
           "node_count": 200,
-          "last_checked": "2026-09-15T15:55:30.735597Z",
+          "last_checked": "2026-10-02T17:02:18.026805Z",
           "url": "https://raw.githubusercontent.com/xiaxiamu876-prog/FreeProxyHub/main/data/subscribe.txt"
         },
         {
           "path": "data/subscribe_base64.txt",
           "node_count": 200,
-          "last_checked": "2026-09-15T15:55:30.910097Z",
+          "last_checked": "2026-10-02T17:02:18.220667Z",
           "url": "https://raw.githubusercontent.com/xiaxiamu876-prog/FreeProxyHub/main/data/subscribe_base64.txt"
         }
       ],
-      "last_full_scan": "2026-09-15T15:55:37.206541Z",
-      "last_nodes_update": "2026-09-15T15:55:37.206547Z"
+      "last_full_scan": "2026-10-02T17:02:26.060072Z",
+      "last_nodes_update": "2026-10-02T17:02:26.060095Z"
     },
     {
       "repository": "free18/v2ray",
@@ -15853,7 +15859,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-02 10:11:22",
+  "updated_at": "2026-10-02 17:02:26",
   "total_whitelisted_repos": 48,
-  "total_cached_nodes": 50825
+  "total_cached_nodes": 50824
 }
