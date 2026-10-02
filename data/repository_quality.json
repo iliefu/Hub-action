@@ -1,34 +1,26 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1331,
-      "forks": 226,
-      "extracted_nodes": 3000,
-      "valid_nodes": 464,
-      "quality_score": 100
-    },
-    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9326,
       "forks": 673,
-      "extracted_nodes": 399,
-      "valid_nodes": 270,
+      "extracted_nodes": 726,
+      "valid_nodes": 264,
       "quality_score": 100
     },
     {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 603,
-      "forks": 22,
-      "extracted_nodes": 14,
-      "valid_nodes": 8,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1331,
+      "forks": 227,
+      "extracted_nodes": 3000,
+      "valid_nodes": 489,
       "quality_score": 100
     },
     {
       "repository": "WLget/V2Ray_configs_64",
       "stars": 307,
       "forks": 26,
-      "extracted_nodes": 17,
+      "extracted_nodes": 36,
       "valid_nodes": 1,
       "quality_score": 100
     },
@@ -44,7 +36,7 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 74,
-      "extracted_nodes": 462,
+      "extracted_nodes": 789,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -53,7 +45,7 @@
       "stars": 20,
       "forks": 1,
       "extracted_nodes": 420,
-      "valid_nodes": 120,
+      "valid_nodes": 121,
       "quality_score": 57.0
     },
     {
@@ -65,28 +57,12 @@
       "quality_score": 49.0
     },
     {
-      "repository": "share-daily/node",
-      "stars": 9,
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 3,
       "forks": 0,
-      "extracted_nodes": 43,
-      "valid_nodes": 34,
-      "quality_score": 47.2
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 1262,
-      "valid_nodes": 741,
-      "quality_score": 41.0
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 131,
-      "valid_nodes": 124,
-      "quality_score": 40.8
+      "extracted_nodes": 3000,
+      "valid_nodes": 375,
+      "quality_score": 42.4
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -103,23 +79,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "wa3duck/freenodes",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 2241,
-      "valid_nodes": 1427,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "xinvxueyuan/nonebot-plugin-pixiv-novel",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-01 23:35:03"
+  "updated_at": "2026-10-02 03:01:42"
 }
