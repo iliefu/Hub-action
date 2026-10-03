@@ -13711,6 +13711,318 @@
       "last_nodes_update": "2026-09-27T22:40:43.959567Z"
     },
     {
+      "repository": "meroseem/acaesub",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 1559,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/by-country/clash-AE.yaml",
+          "node_count": 3,
+          "last_checked": "2026-10-03T09:30:44.690225Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-AE.yaml"
+        },
+        {
+          "path": "output/by-country/clash-AT.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:44.782105Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-AT.yaml"
+        },
+        {
+          "path": "output/by-country/clash-AU.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:44.872765Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-AU.yaml"
+        },
+        {
+          "path": "output/by-country/clash-BG.yaml",
+          "node_count": 4,
+          "last_checked": "2026-10-03T09:30:44.957910Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-BG.yaml"
+        },
+        {
+          "path": "output/by-country/clash-BR.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:45.045415Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-BR.yaml"
+        },
+        {
+          "path": "output/by-country/clash-BY.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:45.118327Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-BY.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CA.yaml",
+          "node_count": 23,
+          "last_checked": "2026-10-03T09:30:45.217874Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-CA.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CH.yaml",
+          "node_count": 2,
+          "last_checked": "2026-10-03T09:30:45.304131Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-CH.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CL.yaml",
+          "node_count": 8,
+          "last_checked": "2026-10-03T09:30:45.390249Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-CL.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CO.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:45.480149Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-CO.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CY.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:45.568339Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-CY.yaml"
+        },
+        {
+          "path": "output/by-country/clash-CZ.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:45.649835Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-CZ.yaml"
+        },
+        {
+          "path": "output/by-country/clash-DE.yaml",
+          "node_count": 29,
+          "last_checked": "2026-10-03T09:30:45.775603Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-DE.yaml"
+        },
+        {
+          "path": "output/by-country/clash-EE.yaml",
+          "node_count": 3,
+          "last_checked": "2026-10-03T09:30:45.863904Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-EE.yaml"
+        },
+        {
+          "path": "output/by-country/clash-ES.yaml",
+          "node_count": 7,
+          "last_checked": "2026-10-03T09:30:45.947224Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-ES.yaml"
+        },
+        {
+          "path": "output/by-country/clash-FI.yaml",
+          "node_count": 3,
+          "last_checked": "2026-10-03T09:30:46.033572Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-FI.yaml"
+        },
+        {
+          "path": "output/by-country/clash-FR.yaml",
+          "node_count": 17,
+          "last_checked": "2026-10-03T09:30:46.138527Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-FR.yaml"
+        },
+        {
+          "path": "output/by-country/clash-GB.yaml",
+          "node_count": 17,
+          "last_checked": "2026-10-03T09:30:46.232067Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-GB.yaml"
+        },
+        {
+          "path": "output/by-country/clash-GR.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:46.319000Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-GR.yaml"
+        },
+        {
+          "path": "output/by-country/clash-HK.yaml",
+          "node_count": 11,
+          "last_checked": "2026-10-03T09:30:46.402667Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-HK.yaml"
+        },
+        {
+          "path": "output/by-country/clash-ID.yaml",
+          "node_count": 3,
+          "last_checked": "2026-10-03T09:30:46.484556Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-ID.yaml"
+        },
+        {
+          "path": "output/by-country/clash-IL.yaml",
+          "node_count": 2,
+          "last_checked": "2026-10-03T09:30:46.565493Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-IL.yaml"
+        },
+        {
+          "path": "output/by-country/clash-IN.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:46.657543Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-IN.yaml"
+        },
+        {
+          "path": "output/by-country/clash-IQ.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:46.745059Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-IQ.yaml"
+        },
+        {
+          "path": "output/by-country/clash-IT.yaml",
+          "node_count": 8,
+          "last_checked": "2026-10-03T09:30:46.822488Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-IT.yaml"
+        },
+        {
+          "path": "output/by-country/clash-JP.yaml",
+          "node_count": 23,
+          "last_checked": "2026-10-03T09:30:46.926640Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-JP.yaml"
+        },
+        {
+          "path": "output/by-country/clash-KR.yaml",
+          "node_count": 14,
+          "last_checked": "2026-10-03T09:30:47.019036Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-KR.yaml"
+        },
+        {
+          "path": "output/by-country/clash-LK.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:47.093210Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-LK.yaml"
+        },
+        {
+          "path": "output/by-country/clash-LU.yaml",
+          "node_count": 2,
+          "last_checked": "2026-10-03T09:30:47.182797Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-LU.yaml"
+        },
+        {
+          "path": "output/by-country/clash-MY.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:47.255898Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-MY.yaml"
+        },
+        {
+          "path": "output/by-country/clash-NL.yaml",
+          "node_count": 63,
+          "last_checked": "2026-10-03T09:30:47.386731Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-NL.yaml"
+        },
+        {
+          "path": "output/by-country/clash-PH.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:47.464223Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-PH.yaml"
+        },
+        {
+          "path": "output/by-country/clash-PL.yaml",
+          "node_count": 10,
+          "last_checked": "2026-10-03T09:30:47.541220Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-PL.yaml"
+        },
+        {
+          "path": "output/by-country/clash-RO.yaml",
+          "node_count": 3,
+          "last_checked": "2026-10-03T09:30:47.618033Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-RO.yaml"
+        },
+        {
+          "path": "output/by-country/clash-RS.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:47.700996Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-RS.yaml"
+        },
+        {
+          "path": "output/by-country/clash-RU.yaml",
+          "node_count": 3,
+          "last_checked": "2026-10-03T09:30:47.783246Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-RU.yaml"
+        },
+        {
+          "path": "output/by-country/clash-SE.yaml",
+          "node_count": 6,
+          "last_checked": "2026-10-03T09:30:47.860626Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-SE.yaml"
+        },
+        {
+          "path": "output/by-country/clash-SG.yaml",
+          "node_count": 24,
+          "last_checked": "2026-10-03T09:30:47.965062Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-SG.yaml"
+        },
+        {
+          "path": "output/by-country/clash-TH.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:48.051933Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-TH.yaml"
+        },
+        {
+          "path": "output/by-country/clash-TW.yaml",
+          "node_count": 3,
+          "last_checked": "2026-10-03T09:30:48.135112Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-TW.yaml"
+        },
+        {
+          "path": "output/by-country/clash-US.yaml",
+          "node_count": 267,
+          "last_checked": "2026-10-03T09:30:48.421392Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-US.yaml"
+        },
+        {
+          "path": "output/by-country/clash-ZA.yaml",
+          "node_count": 3,
+          "last_checked": "2026-10-03T09:30:48.507221Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-ZA.yaml"
+        },
+        {
+          "path": "output/clash.yaml",
+          "node_count": 500,
+          "last_checked": "2026-10-03T09:30:49.041025Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/clash.yaml"
+        },
+        {
+          "path": "output/residential-by-country/clash-TR.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:49.111997Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/residential-by-country/clash-TR.yaml"
+        },
+        {
+          "path": "output/residential-by-country/clash-TW.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:49.192410Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/residential-by-country/clash-TW.yaml"
+        },
+        {
+          "path": "output/residential-by-country/clash-US.yaml",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:49.276626Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/residential-by-country/clash-US.yaml"
+        },
+        {
+          "path": "output/residential-clash.yaml",
+          "node_count": 3,
+          "last_checked": "2026-10-03T09:30:49.357197Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/residential-clash.yaml"
+        },
+        {
+          "path": "output/residential.txt",
+          "node_count": 3,
+          "last_checked": "2026-10-03T09:30:49.524039Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/residential.txt"
+        },
+        {
+          "path": "output/singbox.json",
+          "node_count": 1,
+          "last_checked": "2026-10-03T09:30:49.637925Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/singbox.json"
+        },
+        {
+          "path": "output/v2ray.txt",
+          "node_count": 579,
+          "last_checked": "2026-10-03T09:30:49.750619Z",
+          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/v2ray.txt"
+        }
+      ],
+      "last_full_scan": "2026-10-03T09:30:53.358674Z",
+      "last_nodes_update": "2026-10-03T09:30:53.358703Z"
+    },
+    {
       "repository": "freenodess/freenodess",
       "stars": 1,
       "forks": 1,
@@ -13751,264 +14063,6 @@
       ],
       "last_full_scan": "2026-09-15T02:18:26.756219Z",
       "last_nodes_update": "2026-09-15T02:18:26.756223Z"
-    },
-    {
-      "repository": "meroseem/acaesub",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 1398,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "output/by-country/clash-AE.yaml",
-          "node_count": 5,
-          "last_checked": "2026-09-18T15:23:42.823360Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-AE.yaml"
-        },
-        {
-          "path": "output/by-country/clash-AT.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:42.980230Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-AT.yaml"
-        },
-        {
-          "path": "output/by-country/clash-AU.yaml",
-          "node_count": 4,
-          "last_checked": "2026-09-18T15:23:43.150141Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-AU.yaml"
-        },
-        {
-          "path": "output/by-country/clash-BG.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:43.298257Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-BG.yaml"
-        },
-        {
-          "path": "output/by-country/clash-CA.yaml",
-          "node_count": 16,
-          "last_checked": "2026-09-18T15:23:43.461150Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-CA.yaml"
-        },
-        {
-          "path": "output/by-country/clash-CH.yaml",
-          "node_count": 2,
-          "last_checked": "2026-09-18T15:23:43.607925Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-CH.yaml"
-        },
-        {
-          "path": "output/by-country/clash-CY.yaml",
-          "node_count": 5,
-          "last_checked": "2026-09-18T15:23:43.760204Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-CY.yaml"
-        },
-        {
-          "path": "output/by-country/clash-CZ.yaml",
-          "node_count": 2,
-          "last_checked": "2026-09-18T15:23:43.920663Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-CZ.yaml"
-        },
-        {
-          "path": "output/by-country/clash-DE.yaml",
-          "node_count": 42,
-          "last_checked": "2026-09-18T15:23:44.114321Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-DE.yaml"
-        },
-        {
-          "path": "output/by-country/clash-DK.yaml",
-          "node_count": 2,
-          "last_checked": "2026-09-18T15:23:44.275012Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-DK.yaml"
-        },
-        {
-          "path": "output/by-country/clash-EE.yaml",
-          "node_count": 5,
-          "last_checked": "2026-09-18T15:23:44.430197Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-EE.yaml"
-        },
-        {
-          "path": "output/by-country/clash-ES.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:44.579023Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-ES.yaml"
-        },
-        {
-          "path": "output/by-country/clash-FR.yaml",
-          "node_count": 13,
-          "last_checked": "2026-09-18T15:23:44.735323Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-FR.yaml"
-        },
-        {
-          "path": "output/by-country/clash-GB.yaml",
-          "node_count": 13,
-          "last_checked": "2026-09-18T15:23:44.909378Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-GB.yaml"
-        },
-        {
-          "path": "output/by-country/clash-GR.yaml",
-          "node_count": 2,
-          "last_checked": "2026-09-18T15:23:45.060003Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-GR.yaml"
-        },
-        {
-          "path": "output/by-country/clash-HK.yaml",
-          "node_count": 12,
-          "last_checked": "2026-09-18T15:23:45.218610Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-HK.yaml"
-        },
-        {
-          "path": "output/by-country/clash-IL.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:45.371942Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-IL.yaml"
-        },
-        {
-          "path": "output/by-country/clash-IN.yaml",
-          "node_count": 3,
-          "last_checked": "2026-09-18T15:23:45.521594Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-IN.yaml"
-        },
-        {
-          "path": "output/by-country/clash-IT.yaml",
-          "node_count": 4,
-          "last_checked": "2026-09-18T15:23:45.691616Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-IT.yaml"
-        },
-        {
-          "path": "output/by-country/clash-JP.yaml",
-          "node_count": 22,
-          "last_checked": "2026-09-18T15:23:45.865934Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-JP.yaml"
-        },
-        {
-          "path": "output/by-country/clash-KR.yaml",
-          "node_count": 14,
-          "last_checked": "2026-09-18T15:23:46.030469Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-KR.yaml"
-        },
-        {
-          "path": "output/by-country/clash-LT.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:46.174882Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-LT.yaml"
-        },
-        {
-          "path": "output/by-country/clash-NL.yaml",
-          "node_count": 73,
-          "last_checked": "2026-09-18T15:23:46.390345Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-NL.yaml"
-        },
-        {
-          "path": "output/by-country/clash-NO.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:46.560609Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-NO.yaml"
-        },
-        {
-          "path": "output/by-country/clash-PL.yaml",
-          "node_count": 11,
-          "last_checked": "2026-09-18T15:23:46.722214Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-PL.yaml"
-        },
-        {
-          "path": "output/by-country/clash-RO.yaml",
-          "node_count": 2,
-          "last_checked": "2026-09-18T15:23:46.888239Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-RO.yaml"
-        },
-        {
-          "path": "output/by-country/clash-RU.yaml",
-          "node_count": 6,
-          "last_checked": "2026-09-18T15:23:47.077817Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-RU.yaml"
-        },
-        {
-          "path": "output/by-country/clash-SC.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:47.240165Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-SC.yaml"
-        },
-        {
-          "path": "output/by-country/clash-SG.yaml",
-          "node_count": 17,
-          "last_checked": "2026-09-18T15:23:47.393651Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-SG.yaml"
-        },
-        {
-          "path": "output/by-country/clash-TH.yaml",
-          "node_count": 3,
-          "last_checked": "2026-09-18T15:23:47.556546Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-TH.yaml"
-        },
-        {
-          "path": "output/by-country/clash-TW.yaml",
-          "node_count": 7,
-          "last_checked": "2026-09-18T15:23:47.723929Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-TW.yaml"
-        },
-        {
-          "path": "output/by-country/clash-US.yaml",
-          "node_count": 193,
-          "last_checked": "2026-09-18T15:23:48.015257Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-US.yaml"
-        },
-        {
-          "path": "output/by-country/clash-UZ.yaml",
-          "node_count": 2,
-          "last_checked": "2026-09-18T15:23:48.184473Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-UZ.yaml"
-        },
-        {
-          "path": "output/by-country/clash-ZA.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:48.340687Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/by-country/clash-ZA.yaml"
-        },
-        {
-          "path": "output/clash.yaml",
-          "node_count": 491,
-          "last_checked": "2026-09-18T15:23:48.827299Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/clash.yaml"
-        },
-        {
-          "path": "output/residential-by-country/clash-CA.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:48.980276Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/residential-by-country/clash-CA.yaml"
-        },
-        {
-          "path": "output/residential-by-country/clash-TW.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:49.118249Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/residential-by-country/clash-TW.yaml"
-        },
-        {
-          "path": "output/residential-by-country/clash-US.yaml",
-          "node_count": 1,
-          "last_checked": "2026-09-18T15:23:49.278293Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/residential-by-country/clash-US.yaml"
-        },
-        {
-          "path": "output/residential-clash.yaml",
-          "node_count": 3,
-          "last_checked": "2026-09-18T15:23:49.426967Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/residential-clash.yaml"
-        },
-        {
-          "path": "output/residential.txt",
-          "node_count": 3,
-          "last_checked": "2026-09-18T15:23:49.746069Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/residential.txt"
-        },
-        {
-          "path": "output/v2ray.txt",
-          "node_count": 491,
-          "last_checked": "2026-09-18T15:23:50.162150Z",
-          "url": "https://raw.githubusercontent.com/meroseem/acaesub/main/output/v2ray.txt"
-        }
-      ],
-      "last_full_scan": "2026-09-18T15:23:59.867776Z",
-      "last_nodes_update": "2026-09-18T15:23:59.867797Z"
     },
     {
       "repository": "ishalumi/proxy-node-collector",
@@ -15871,7 +15925,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-03 02:46:24",
+  "updated_at": "2026-10-03 09:30:53",
   "total_whitelisted_repos": 48,
-  "total_cached_nodes": 50824
+  "total_cached_nodes": 50985
 }

@@ -1,51 +1,43 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9331,
-      "forks": 673,
-      "extracted_nodes": 835,
-      "valid_nodes": 299,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1333,
+      "stars": 1334,
       "forks": 227,
       "extracted_nodes": 3000,
-      "valid_nodes": 566,
+      "valid_nodes": 578,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 74,
-      "extracted_nodes": 744,
-      "valid_nodes": 27,
+      "extracted_nodes": 1027,
+      "valid_nodes": 65,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 97,
-      "forks": 8,
-      "extracted_nodes": 375,
-      "valid_nodes": 14,
-      "quality_score": 88.0
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9331,
+      "forks": 673,
+      "extracted_nodes": 835,
+      "valid_nodes": 297,
+      "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 307,
-      "forks": 26,
-      "extracted_nodes": 21,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "hello-world-1989/cn-news",
+      "stars": 608,
+      "forks": 22,
+      "extracted_nodes": 14,
+      "valid_nodes": 6,
+      "quality_score": 100
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 21,
       "forks": 1,
       "extracted_nodes": 412,
-      "valid_nodes": 127,
+      "valid_nodes": 121,
       "quality_score": 57.8
     },
     {
@@ -55,6 +47,14 @@
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
+    },
+    {
+      "repository": "meroseem/acaesub",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 1559,
+      "valid_nodes": 1000,
+      "quality_score": 42.4
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -73,15 +73,39 @@
       "quality_score": 40.0
     },
     {
-      "repository": "kkupl4/supergrok-subscription-plans",
-      "stars": 1,
+      "repository": "quanta-js/quanta",
+      "stars": 11,
+      "forks": 10,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 18.8
+    },
+    {
+      "repository": "yijiezhong/dsh-output-setting",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     },
     {
-      "repository": "caihaodong44chd-gif/claude-quota-pet",
+      "repository": "Meekoriela/Storyloom",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "lebrew-tech/RoastSee-NEXT-Console",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "wulier-arch/axon",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +113,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-03 02:46:30"
+  "updated_at": "2026-10-03 09:31:05"
 }
