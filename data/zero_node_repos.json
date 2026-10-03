@@ -292,6 +292,7 @@
     "Plamwt/Netflix_VPN",
     "Plamwt/jichangtuijian",
     "PolysaCHride/astrbot_plugin_pixiv",
+    "PowerTokens/typescript-examples",
     "PrajwalKoirala638/cloudflare-warp-to-wireguard-config-generator",
     "Pretic/SB-cfy-Pre",
     "ProxyPanel/PingAgent",
@@ -387,6 +388,7 @@
     "WTriumph/DeepSeek-Harness-macOS-Desktop-App",
     "WayneDuan/RelayForge-Release",
     "Wei-Shaw/sub2api",
+    "Wenaixi/dsh-ponytail",
     "WhiteDNS/WhiteWarpScout",
     "Whys8182/ACL4SSR",
     "WillLiang713/Sift",
@@ -678,6 +680,7 @@
     "icekale/cms-tg-ingest",
     "icekale/dav-subscription",
     "icekale/vpush",
+    "icenfn/astrbot-plugin-KBridge",
     "idQvvr74PyCF/best-clash-subscribe",
     "idadawn/sing-box-deploy",
     "iiluog/shopify-marketplace-integrations",
@@ -1085,12 +1088,14 @@
     "vmrey/node-hub",
     "wang739696/free-v2ray",
     "wangdefoo/clash-subscribe",
+    "wangguo0/tvbox-sub",
     "wangle201210/guateng",
     "wangming1114/Skyway",
     "wangsy1007/MediaSync115",
     "wangxun111/citegraph",
     "wangyiyuanfive/elevator_mode",
     "wangzifan396-wzf/Graphite",
+    "wansheng8/LJGZ",
     "wansheng8/adblock",
     "wanwushequ/cfyxip",
     "wanxiaom/KV_Storage_System",
@@ -1239,6 +1244,7 @@
     "zhufx/iptv-api",
     "zhujiuyi/ccgui-plugin-balance-meter",
     "zidimoxu89/fjt",
+    "zieang88888/coding-interview-university-zh",
     "zinan92/daily-newsletter",
     "zjfandroid/free",
     "zkytech/aistat",
@@ -1252,5 +1258,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-03 09:30:53"
+  "updated_at": "2026-10-03 15:26:42"
 }
