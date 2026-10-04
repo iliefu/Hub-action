@@ -1,27 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9336,
-      "forks": 674,
-      "extracted_nodes": 820,
-      "valid_nodes": 301,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1340,
-      "forks": 227,
+      "forks": 228,
       "extracted_nodes": 3000,
-      "valid_nodes": 551,
+      "valid_nodes": 570,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 74,
-      "extracted_nodes": 843,
-      "valid_nodes": 75,
+      "extracted_nodes": 518,
+      "valid_nodes": 51,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9336,
+      "forks": 674,
+      "extracted_nodes": 820,
+      "valid_nodes": 299,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 1992,
+      "forks": 127,
+      "extracted_nodes": 16,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -36,17 +44,17 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 97,
       "forks": 8,
-      "extracted_nodes": 372,
+      "extracted_nodes": 366,
       "valid_nodes": 18,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 307,
-      "forks": 26,
-      "extracted_nodes": 5,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 21,
+      "forks": 1,
+      "extracted_nodes": 447,
+      "valid_nodes": 114,
+      "quality_score": 57.8
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -57,27 +65,11 @@
       "quality_score": 49.0
     },
     {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 754,
-      "valid_nodes": 665,
-      "quality_score": 41.0
-    },
-    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 146,
-      "valid_nodes": 142,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "bily1258-design/beimi",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 1507,
-      "valid_nodes": 312,
+      "extracted_nodes": 137,
+      "valid_nodes": 131,
       "quality_score": 40.8
     },
     {
@@ -97,13 +89,21 @@
       "quality_score": 40.0
     },
     {
-      "repository": "piecuzwhynot/dsh-external-workers",
-      "stars": 1,
+      "repository": "singgeoi/personal-tvbox",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
+    },
+    {
+      "repository": "XWIDE/comfyui-xwide-prompt-input-helper",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-04 16:07:56"
+  "updated_at": "2026-10-04 22:36:42"
 }
