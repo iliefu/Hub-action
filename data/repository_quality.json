@@ -1,35 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1338,
-      "forks": 227,
-      "extracted_nodes": 3000,
-      "valid_nodes": 542,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9334,
+      "forks": 673,
+      "extracted_nodes": 823,
+      "valid_nodes": 304,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 74,
-      "extracted_nodes": 539,
-      "valid_nodes": 62,
+      "extracted_nodes": 699,
+      "valid_nodes": 61,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9333,
-      "forks": 673,
-      "extracted_nodes": 777,
-      "valid_nodes": 285,
-      "quality_score": 100
-    },
-    {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1991,
-      "forks": 127,
-      "extracted_nodes": 16,
-      "valid_nodes": 1,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1339,
+      "forks": 227,
+      "extracted_nodes": 3000,
+      "valid_nodes": 552,
       "quality_score": 100
     },
     {
@@ -44,16 +36,24 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 97,
       "forks": 8,
-      "extracted_nodes": 374,
-      "valid_nodes": 15,
+      "extracted_nodes": 369,
+      "valid_nodes": 17,
       "quality_score": 88.0
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 307,
+      "forks": 26,
+      "extracted_nodes": 26,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 21,
       "forks": 1,
       "extracted_nodes": 419,
-      "valid_nodes": 111,
+      "valid_nodes": 114,
       "quality_score": 57.8
     },
     {
@@ -63,22 +63,6 @@
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 515,
-      "valid_nodes": 448,
-      "quality_score": 41.0
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 138,
-      "valid_nodes": 129,
-      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -97,13 +81,29 @@
       "quality_score": 40.0
     },
     {
-      "repository": "AntoineGou/SSRS2",
+      "repository": "ddh69900-cyber/ComfyUI_MarkNote",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.8
+    },
+    {
+      "repository": "i-zrhe2016/ai-routing-panel",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 1,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "fuzhusi/Hydra-Multipath-Proxy",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-03 22:32:35"
+  "updated_at": "2026-10-04 03:18:01"
 }
