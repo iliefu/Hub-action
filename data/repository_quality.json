@@ -1,35 +1,27 @@
 {
   "repositories": [
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9336,
+      "forks": 674,
+      "extracted_nodes": 820,
+      "valid_nodes": 301,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1340,
       "forks": 227,
       "extracted_nodes": 3000,
-      "valid_nodes": 570,
+      "valid_nodes": 551,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 74,
-      "extracted_nodes": 784,
-      "valid_nodes": 65,
-      "quality_score": 100
-    },
-    {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9334,
-      "forks": 674,
-      "extracted_nodes": 823,
-      "valid_nodes": 298,
-      "quality_score": 100
-    },
-    {
-      "repository": "snakem982/proxypool",
-      "stars": 2144,
-      "forks": 152,
-      "extracted_nodes": 113,
-      "valid_nodes": 40,
+      "extracted_nodes": 843,
+      "valid_nodes": 75,
       "quality_score": 100
     },
     {
@@ -41,12 +33,20 @@
       "quality_score": 100
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 21,
-      "forks": 1,
-      "extracted_nodes": 424,
-      "valid_nodes": 96,
-      "quality_score": 57.8
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 97,
+      "forks": 8,
+      "extracted_nodes": 372,
+      "valid_nodes": 18,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 307,
+      "forks": 26,
+      "extracted_nodes": 5,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -57,11 +57,27 @@
       "quality_score": 49.0
     },
     {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 754,
+      "valid_nodes": 665,
+      "quality_score": 41.0
+    },
+    {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 134,
+      "extracted_nodes": 146,
+      "valid_nodes": 142,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "bily1258-design/beimi",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 1507,
+      "valid_nodes": 312,
       "quality_score": 40.8
     },
     {
@@ -81,21 +97,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Shawns-Portfolio/Part-Final-Project-Emotion-Detection-AI-System-",
-      "stars": 0,
+      "repository": "piecuzwhynot/dsh-external-workers",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "zzk203/geo-workflow",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-10-04 10:17:46"
+  "updated_at": "2026-10-04 16:07:56"
 }
