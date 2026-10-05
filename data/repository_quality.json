@@ -1,19 +1,11 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9338,
-      "forks": 674,
-      "extracted_nodes": 863,
-      "valid_nodes": 332,
-      "quality_score": 100
-    },
-    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 74,
-      "extracted_nodes": 720,
-      "valid_nodes": 56,
+      "extracted_nodes": 1092,
+      "valid_nodes": 47,
       "quality_score": 100
     },
     {
@@ -21,47 +13,31 @@
       "stars": 1341,
       "forks": 228,
       "extracted_nodes": 3000,
-      "valid_nodes": 574,
+      "valid_nodes": 599,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 97,
-      "forks": 8,
-      "extracted_nodes": 366,
-      "valid_nodes": 18,
-      "quality_score": 88.0
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9342,
+      "forks": 674,
+      "extracted_nodes": 863,
+      "valid_nodes": 319,
+      "quality_score": 100
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 249,
-      "forks": 32,
-      "extracted_nodes": 9,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "chubbyguan/chubbyskills",
-      "stars": 1172,
-      "forks": 147,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 307,
-      "forks": 26,
-      "extracted_nodes": 41,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "hello-world-1989/cn-news",
+      "stars": 608,
+      "forks": 22,
+      "extracted_nodes": 14,
+      "valid_nodes": 6,
+      "quality_score": 100
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 21,
       "forks": 1,
-      "extracted_nodes": 447,
-      "valid_nodes": 115,
+      "extracted_nodes": 462,
+      "valid_nodes": 134,
       "quality_score": 57.8
     },
     {
@@ -89,13 +65,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "do1linux/tvbox-hub",
-      "stars": 1,
+      "repository": "Hi1helloReal/warp-config-generator-vercel",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-05 02:54:08"
+  "updated_at": "2026-10-05 10:58:02"
 }
