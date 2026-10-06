@@ -1,44 +1,52 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 84,
-      "forks": 74,
-      "extracted_nodes": 1092,
-      "valid_nodes": 47,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9343,
+      "forks": 674,
+      "extracted_nodes": 860,
+      "valid_nodes": 339,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1341,
+      "stars": 1342,
       "forks": 228,
       "extracted_nodes": 3000,
-      "valid_nodes": 599,
+      "valid_nodes": 565,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9342,
-      "forks": 674,
-      "extracted_nodes": 863,
-      "valid_nodes": 319,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 84,
+      "forks": 75,
+      "extracted_nodes": 660,
+      "valid_nodes": 15,
       "quality_score": 100
     },
     {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 608,
-      "forks": 22,
-      "extracted_nodes": 14,
-      "valid_nodes": 6,
-      "quality_score": 100
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 97,
+      "forks": 8,
+      "extracted_nodes": 376,
+      "valid_nodes": 17,
+      "quality_score": 88.0
+    },
+    {
+      "repository": "wenxig/dongtai-sub",
+      "stars": 250,
+      "forks": 32,
+      "extracted_nodes": 9,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
-      "stars": 21,
+      "stars": 22,
       "forks": 1,
-      "extracted_nodes": 462,
-      "valid_nodes": 134,
-      "quality_score": 57.8
+      "extracted_nodes": 470,
+      "valid_nodes": 129,
+      "quality_score": 58.6
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -65,7 +73,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Hi1helloReal/warp-config-generator-vercel",
+      "repository": "weixunkkkkk/fabuhuizixun",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.6
+    },
+    {
+      "repository": "justinyang13/sdca",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-05 10:58:02"
+  "updated_at": "2026-10-06 01:02:54"
 }
