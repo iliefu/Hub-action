@@ -1005,6 +1005,7 @@
     "sensoel/warp-config-generator-vercel",
     "seow20/clash-jichang",
     "sertay1/WarpZeroTrustConfigure",
+    "seventhrainyday/Yu-proxy",
     "shandianchengzi/cut-player",
     "shanshulin/owl-codex-monitor",
     "shapimaomao/advisor-calendar",
@@ -1096,6 +1097,7 @@
     "usacpcheung/hk-ollama-rewrite-bridge",
     "usehe/2026-Grok-SuperGrok-Grok",
     "userreksai/node_registry_manager",
+    "v-vadim/warpscout-mikrotik",
     "v2raynnodes/clashnode",
     "v2raynnodes/v2rayclash",
     "vaeann/sub-store-scripts",
@@ -1286,5 +1288,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-07 18:06:52"
+  "updated_at": "2026-10-07 23:56:02"
 }
