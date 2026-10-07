@@ -14065,6 +14065,42 @@
       "last_nodes_update": "2026-09-15T02:18:26.756223Z"
     },
     {
+      "repository": "bily1258-design/beimi",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 1336,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/clash.yaml",
+          "node_count": 500,
+          "last_checked": "2026-10-07T18:06:47.330913Z",
+          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/clash.yaml"
+        },
+        {
+          "path": "output/subscribe_b64.txt",
+          "node_count": 835,
+          "last_checked": "2026-10-07T18:06:47.809927Z",
+          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/subscribe_b64.txt"
+        },
+        {
+          "path": "output/subscribe_plain.txt",
+          "node_count": 835,
+          "last_checked": "2026-10-07T18:06:47.997707Z",
+          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/subscribe_plain.txt"
+        },
+        {
+          "path": "subscription.txt",
+          "node_count": 283,
+          "last_checked": "2026-10-07T18:06:48.337256Z",
+          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/subscription.txt"
+        }
+      ],
+      "last_full_scan": "2026-10-07T18:06:52.343253Z",
+      "last_nodes_update": "2026-10-07T18:06:52.343288Z"
+    },
+    {
       "repository": "ishalumi/proxy-node-collector",
       "stars": 28,
       "forks": 1,
@@ -14117,42 +14153,6 @@
       ],
       "last_full_scan": "2026-08-22T04:21:40.729293Z",
       "last_nodes_update": "2026-08-22T04:21:40.729324Z"
-    },
-    {
-      "repository": "bily1258-design/beimi",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 1192,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "output/clash.yaml",
-          "node_count": 500,
-          "last_checked": "2026-09-28T18:56:44.758854Z",
-          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/clash.yaml"
-        },
-        {
-          "path": "output/subscribe_b64.txt",
-          "node_count": 674,
-          "last_checked": "2026-09-28T18:56:45.231448Z",
-          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/subscribe_b64.txt"
-        },
-        {
-          "path": "output/subscribe_plain.txt",
-          "node_count": 674,
-          "last_checked": "2026-09-28T18:56:45.493455Z",
-          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/output/subscribe_plain.txt"
-        },
-        {
-          "path": "subscription.txt",
-          "node_count": 276,
-          "last_checked": "2026-09-28T18:56:45.960503Z",
-          "url": "https://raw.githubusercontent.com/bily1258-design/beimi/main/subscription.txt"
-        }
-      ],
-      "last_full_scan": "2026-09-28T18:56:50.941452Z",
-      "last_nodes_update": "2026-09-28T18:56:50.941476Z"
     },
     {
       "repository": "v2raynnodes/v2rayfree",
@@ -15943,7 +15943,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-07 10:42:04",
+  "updated_at": "2026-10-07 18:06:52",
   "total_whitelisted_repos": 49,
-  "total_cached_nodes": 53547
+  "total_cached_nodes": 53691
 }
