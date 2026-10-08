@@ -1,67 +1,43 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9345,
-      "forks": 674,
-      "extracted_nodes": 860,
-      "valid_nodes": 323,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1353,
+      "stars": 1355,
       "forks": 229,
       "extracted_nodes": 3000,
-      "valid_nodes": 943,
+      "valid_nodes": 914,
       "quality_score": 100
     },
     {
       "repository": "shaoyouvip/free",
-      "stars": 1205,
+      "stars": 1207,
       "forks": 94,
-      "extracted_nodes": 36,
-      "valid_nodes": 14,
+      "extracted_nodes": 12,
+      "valid_nodes": 5,
       "quality_score": 100
     },
     {
-      "repository": "hello-world-1989/cn-news",
-      "stars": 610,
-      "forks": 22,
-      "extracted_nodes": 14,
-      "valid_nodes": 6,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9348,
+      "forks": 674,
+      "extracted_nodes": 860,
+      "valid_nodes": 315,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 97,
-      "forks": 8,
-      "extracted_nodes": 382,
-      "valid_nodes": 15,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "makers-hub/share-vpn-clash",
-      "stars": 348,
-      "forks": 34,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "wall-flipping/SSV2RayTrojanClashSSR",
-      "stars": 1799,
-      "forks": 105,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 8187,
+      "forks": 1258,
+      "extracted_nodes": 763,
+      "valid_nodes": 99,
+      "quality_score": 100
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 23,
       "forks": 1,
       "extracted_nodes": 501,
-      "valid_nodes": 146,
+      "valid_nodes": 143,
       "quality_score": 59.4
     },
     {
@@ -71,6 +47,14 @@
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 144,
+      "valid_nodes": 132,
+      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -89,15 +73,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "eastmonsoon2000-debug/medical-qa-agent",
-      "stars": 0,
+      "repository": "oOStanOo/dian115-plugins",
+      "stars": 2,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 1.6
     },
     {
-      "repository": "astemo6/gantt-tool",
+      "repository": "Wangsc1/ai-usage",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-08 03:27:08"
+  "updated_at": "2026-10-08 11:02:09"
 }
