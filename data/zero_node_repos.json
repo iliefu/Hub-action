@@ -25,6 +25,7 @@
     "252201/wukong-panel",
     "28998306/MagicalCanvas",
     "2guan/IPTVWeb",
+    "3338320742zh-collab/wb-trae-checkin",
     "3ALLBUY14/ComfyUI-Majordomo",
     "411A/V2RayDAR",
     "52mpzw-gif/fanqiang-jichang",
@@ -46,6 +47,7 @@
     "AIWaveAPI/aiwave-sdk-node",
     "AIsouler/MyClash",
     "ALLCAPS-Droid/xin-wen-lian-bo",
+    "ANRCM0/TXBoard",
     "ANe5s/ComfyUI-MiniMax-H3-Hybrid",
     "ATLCNND/ATL-MCPanel-V1",
     "Aaalice233/ComfyUI-Aaalice-Nodes",
@@ -90,6 +92,7 @@
     "BedtimeNewsStudio/BedtimeNews-Agent",
     "Beicho/arkadia-sub",
     "Bemly/china-steam-pricer",
+    "BernardBen/clash-rules",
     "Bet5521/onecloud-cluster-workbuddy",
     "BeterXie/ai_price_radar",
     "BillBeam/agent-radar",
@@ -137,6 +140,7 @@
     "Dominic-Atari/novaai-app",
     "Dyeink02/javflow",
     "Eason4869/quota-board",
+    "EastWolf666/comfyui-atlas",
     "EastonSun/ProxyRules",
     "Einck0/clash-sub-parser",
     "Einzieg/ComfyUI-custom-api",
@@ -271,6 +275,7 @@
     "N0va6/TailorProxy",
     "NANG-SAN-KHAM/indie-avalon",
     "Nana7mi0721/dsh-comfyui-agent",
+    "Naz-Ovh/wezterm-conf",
     "Neocvsu-commits/asset-exporter-tool",
     "NetaJuutilainen/maibot_immersive_control_plugin",
     "NeuralNode-Dev/vpn",
@@ -526,6 +531,7 @@
     "chinaxunmei/Comfyui-Erase-Watermarks",
     "chouniu666/vpn",
     "chubbyguan/chubbyskills",
+    "cijiezhi/dsh-proxy-auto",
     "cijsm8/static-ip-vps",
     "cindy1995up/crypto_master",
     "cirosantilli/cirosantilli",
@@ -746,6 +752,7 @@
     "jidanpirate/jmind",
     "jik00000q-sys/warp-config-generator-vercel",
     "jingfeng21211-lab/exam-review",
+    "jinshengchan/cf-ips",
     "jiuyaozhuce/MoviePilot-Plugins",
     "jiuyi777/sillytavern-theme-subscriber",
     "jkjk11sd/xiangqing-game-shield",
@@ -1296,5 +1303,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-09 00:02:37"
+  "updated_at": "2026-10-09 11:00:10"
 }
