@@ -1,35 +1,43 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 84,
-      "forks": 75,
-      "extracted_nodes": 478,
-      "valid_nodes": 31,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9351,
+      "forks": 674,
+      "extracted_nodes": 495,
+      "valid_nodes": 330,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1362,
+      "stars": 1363,
       "forks": 231,
       "extracted_nodes": 3000,
-      "valid_nodes": 987,
+      "valid_nodes": 905,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9351,
-      "forks": 674,
-      "extracted_nodes": 469,
-      "valid_nodes": 325,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 84,
+      "forks": 75,
+      "extracted_nodes": 640,
+      "valid_nodes": 17,
       "quality_score": 100
     },
     {
-      "repository": "PuddinCat/BestClash",
-      "stars": 1995,
-      "forks": 129,
-      "extracted_nodes": 16,
-      "valid_nodes": 2,
+      "repository": "shaoyouvip/free",
+      "stars": 1215,
+      "forks": 94,
+      "extracted_nodes": 53,
+      "valid_nodes": 23,
+      "quality_score": 100
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 307,
+      "forks": 26,
+      "extracted_nodes": 14,
+      "valid_nodes": 1,
       "quality_score": 100
     },
     {
@@ -57,52 +65,28 @@
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 307,
-      "forks": 26,
-      "extracted_nodes": 11,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 23,
       "forks": 1,
       "extracted_nodes": 545,
-      "valid_nodes": 170,
+      "valid_nodes": 132,
       "quality_score": 59.4
     },
     {
-      "repository": "spiritLHLS/speedtest.cn-CN-ID",
-      "stars": 56,
-      "forks": 7,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 47.0
+      "repository": "v2raynnodes/clashfree",
+      "stars": 11,
+      "forks": 1,
+      "extracted_nodes": 1608,
+      "valid_nodes": 645,
+      "quality_score": 49.8
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 3,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 316,
+      "valid_nodes": 304,
       "quality_score": 42.4
-    },
-    {
-      "repository": "CB-X2-Jun/verified-v2ray-lists",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 192,
-      "valid_nodes": 8,
-      "quality_score": 41.6
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 127,
-      "valid_nodes": 125,
-      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -121,7 +105,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "saymer-alt/link-generators",
+      "repository": "dodo258/sing-box-reality-manager",
+      "stars": 10,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 9.0
+    },
+    {
+      "repository": "xcgtb/StrimKeep",
       "stars": 2,
       "forks": 0,
       "extracted_nodes": 0,
@@ -129,7 +121,15 @@
       "quality_score": 1.6
     },
     {
-      "repository": "shehuiwenwu/shehuiwenwu-open-sdk",
+      "repository": "Franktan060414/aureli-context-graph",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.6
+    },
+    {
+      "repository": "chenyiyao/TrendRadar",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -137,5 +137,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-09 23:41:23"
+  "updated_at": "2026-10-10 03:13:32"
 }
