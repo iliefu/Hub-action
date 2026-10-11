@@ -55,6 +55,8 @@
     "Abao135/jc-tizi-tj",
     "AbnerSC/NexHome",
     "AeternaDataSources/cloudflare_zero_trust_tunnel_warp_connector_config",
+    "AeternaFoundry/lookup_cloudflare_zero_trust_tunnel_warp_connector_config",
+    "AeternaFoundry/module_cloudflare_zero_trust_tunnel_warp_connector_config",
     "AeternaModules/cloudflare_zero_trust_tunnel_warp_connector_config",
     "Aethersailor/SubConverter-Extended",
     "Aethersailor/m-ui",
@@ -624,6 +626,7 @@
     "fight-lf/graphrag-tcm-qa-system",
     "find-xposed-magisk/cloudflare-reverse-proxy",
     "findnr/findnr-feeds",
+    "firefelixfu026/CC98AI-PLUS",
     "fonyaxd/WARP-Configuration-for-AmneziaVPN-WG-",
     "forestslin/mosaic-screensaver-windows",
     "fouc3-mirror/RelayOps",
@@ -909,6 +912,7 @@
     "maomao533/jichangtizi-tuijian",
     "maplesky/subscribe",
     "mario03690/n8n-nodes-netcafe",
+    "marvinli001/edgeweir-node",
     "mclight-ship-it/cc-translate",
     "meeggee79-netizen/warp-config-generator-vercel",
     "meloxxin/ComfyUI-H3-micxin-suite",
@@ -1320,5 +1324,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-10 23:04:12"
+  "updated_at": "2026-10-11 02:45:23"
 }
