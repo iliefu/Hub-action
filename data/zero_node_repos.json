@@ -263,6 +263,9 @@
     "Mao-jh/porter",
     "Maoyangui/godusevpn",
     "Maplewhite-net/vpnsknow.review",
+    "MarshHarte/shanshuiyun-guide",
+    "MarshHarte/ssrdog-guide",
+    "MarshHarte/vikinglinks-guide",
     "Mayorov79997/warp-config-generator",
     "Meekoriela/Storyloom",
     "MengPng/subscription-manager-android",
@@ -829,6 +832,7 @@
     "lamblama/stm32F103ZET6-potatoroom",
     "lambret-1/new-vpn",
     "lanrat/wireguard-warp-generator",
+    "laoliu6-laoliu/gate",
     "lareesahu/asoc-web",
     "laurievermillionqca239/hytz",
     "lawyerrr/warp-config-generator-vercel",
@@ -899,6 +903,7 @@
     "lynclee/comfyui_modal_bridge",
     "lynx-gt/IndexTTS2-PauseControl",
     "lyu0805/aura",
+    "lyzbcy/nettools",
     "lzm880880/free-vpn-clash-nodes",
     "macrwfuse/myspeed-cn",
     "mahcamara999/dnsj",
@@ -932,6 +937,7 @@
     "modelbus/one-api-pro",
     "moqingquan/kpl-summer-playoffs-calendar",
     "moustakalis/responsive-state",
+    "mr-ask-chay/PDF_Password_Remover_Angular",
     "mrxuanz/imgtopixel",
     "msem6431/diannao-fanqiang",
     "mudtools/MudFeishu",
@@ -1238,6 +1244,7 @@
     "xvirobotics/metabot",
     "xxww0098/SkillStar",
     "xxx-888/super_gen",
+    "xyw823171794/freeVPN",
     "xyy2580/iptv-api",
     "xyzphp/codexMeter",
     "xzb177/Aetrix-Portal",
@@ -1324,5 +1331,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-11 02:45:23"
+  "updated_at": "2026-10-11 10:24:36"
 }

@@ -11869,6 +11869,42 @@
       "last_nodes_update": "2026-09-02T19:04:01.001243Z"
     },
     {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 23,
+      "forks": 1,
+      "extracted_nodes": 570,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "source/clash-meta-2.yaml",
+          "node_count": 597,
+          "last_checked": "2026-10-11T10:24:13.621409Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta-2.yaml"
+        },
+        {
+          "path": "source/clash-meta.yaml",
+          "node_count": 16,
+          "last_checked": "2026-10-11T10:24:14.294640Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta.yaml"
+        },
+        {
+          "path": "subscribe/clash.yml",
+          "node_count": 3,
+          "last_checked": "2026-10-11T10:24:14.377862Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/clash.yml"
+        },
+        {
+          "path": "subscribe/v2ray.txt",
+          "node_count": 26,
+          "last_checked": "2026-10-11T10:24:14.441288Z",
+          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/v2ray.txt"
+        }
+      ],
+      "last_full_scan": "2026-10-11T10:24:36.253092Z",
+      "last_nodes_update": "2026-10-11T10:24:36.253132Z"
+    },
+    {
       "repository": "1000ttank/free-vpn-clash-aggregator",
       "stars": 4,
       "forks": 11,
@@ -11957,42 +11993,6 @@
       ],
       "last_full_scan": "2026-10-07T23:56:02.845907Z",
       "last_nodes_update": "2026-10-07T23:56:02.845935Z"
-    },
-    {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 21,
-      "forks": 1,
-      "extracted_nodes": 424,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "source/clash-meta-2.yaml",
-          "node_count": 423,
-          "last_checked": "2026-10-04T10:16:54.308156Z",
-          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta-2.yaml"
-        },
-        {
-          "path": "source/clash-meta.yaml",
-          "node_count": 16,
-          "last_checked": "2026-10-04T10:16:55.113451Z",
-          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta.yaml"
-        },
-        {
-          "path": "subscribe/clash.yml",
-          "node_count": 3,
-          "last_checked": "2026-10-04T10:16:55.218705Z",
-          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/clash.yml"
-        },
-        {
-          "path": "subscribe/v2ray.txt",
-          "node_count": 26,
-          "last_checked": "2026-10-04T10:16:55.427963Z",
-          "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/v2ray.txt"
-        }
-      ],
-      "last_full_scan": "2026-10-04T10:17:40.416960Z",
-      "last_nodes_update": "2026-10-04T10:17:40.416980Z"
     },
     {
       "repository": "free18/v2ray",
@@ -13051,7 +13051,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-11 02:45:23",
+  "updated_at": "2026-10-11 10:24:36",
   "total_whitelisted_repos": 50,
-  "total_cached_nodes": 55354
+  "total_cached_nodes": 55500
 }
