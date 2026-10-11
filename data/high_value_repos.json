@@ -12685,6 +12685,36 @@
       "last_nodes_update": "2026-07-08T10:08:31.161661Z"
     },
     {
+      "repository": "Marlin-Phone/free-tunnel",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 301,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "sub/mihomo.yaml",
+          "node_count": 120,
+          "last_checked": "2026-10-11T23:18:05.313747Z",
+          "url": "https://raw.githubusercontent.com/Marlin-Phone/free-tunnel/main/sub/mihomo.yaml"
+        },
+        {
+          "path": "sub/nodes-fast.yaml",
+          "node_count": 80,
+          "last_checked": "2026-10-11T23:18:05.486031Z",
+          "url": "https://raw.githubusercontent.com/Marlin-Phone/free-tunnel/main/sub/nodes-fast.yaml"
+        },
+        {
+          "path": "sub/nodes.yaml",
+          "node_count": 300,
+          "last_checked": "2026-10-11T23:18:05.768602Z",
+          "url": "https://raw.githubusercontent.com/Marlin-Phone/free-tunnel/main/sub/nodes.yaml"
+        }
+      ],
+      "last_full_scan": "2026-10-11T23:18:08.514978Z",
+      "last_nodes_update": "2026-10-11T23:18:08.515002Z"
+    },
+    {
       "repository": "peasoft/NoMoreWalls",
       "stars": 3353,
       "forks": 534,
@@ -13051,7 +13081,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-11 16:57:36",
-  "total_whitelisted_repos": 50,
-  "total_cached_nodes": 55500
+  "updated_at": "2026-10-11 23:18:08",
+  "total_whitelisted_repos": 51,
+  "total_cached_nodes": 55801
 }
