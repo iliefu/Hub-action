@@ -1,40 +1,24 @@
 {
   "repositories": [
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9358,
+      "forks": 674,
+      "extracted_nodes": 835,
+      "valid_nodes": 331,
+      "quality_score": 100
+    },
+    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1371,
+      "stars": 1372,
       "forks": 234,
       "extracted_nodes": 3000,
-      "valid_nodes": 972,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 84,
-      "forks": 75,
-      "extracted_nodes": 621,
-      "valid_nodes": 28,
-      "quality_score": 100
-    },
-    {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9357,
-      "forks": 674,
-      "extracted_nodes": 780,
-      "valid_nodes": 315,
-      "quality_score": 100
-    },
-    {
-      "repository": "PuddinCat/BestClash",
-      "stars": 2002,
-      "forks": 129,
-      "extracted_nodes": 16,
-      "valid_nodes": 1,
+      "valid_nodes": 915,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 610,
+      "stars": 611,
       "forks": 23,
       "extracted_nodes": 14,
       "valid_nodes": 6,
@@ -49,11 +33,19 @@
       "quality_score": 88.0
     },
     {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 310,
+      "forks": 26,
+      "extracted_nodes": 5,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 23,
       "forks": 1,
       "extracted_nodes": 567,
-      "valid_nodes": 170,
+      "valid_nodes": 164,
       "quality_score": 59.4
     },
     {
@@ -63,14 +55,6 @@
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
-    },
-    {
-      "repository": "bzfq21/proxy-singbox",
-      "stars": 7,
-      "forks": 1,
-      "extracted_nodes": 16,
-      "valid_nodes": 5,
-      "quality_score": 46.6
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -89,23 +73,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Marlin-Phone/free-tunnel",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 301,
-      "valid_nodes": 297,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "bubu629/-free-clash-v2ray-singbox-meta-nodes-share-sub",
-      "stars": 0,
+      "repository": "dukangalex/AngelaBox",
+      "stars": 7,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 5.6
     },
     {
-      "repository": "LouisT/alpine-component-loader",
+      "repository": "rdai7196/server-recommendation-overseas",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "seacid/The-Rainbow",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-11 23:18:15"
+  "updated_at": "2026-10-12 03:07:49"
 }
