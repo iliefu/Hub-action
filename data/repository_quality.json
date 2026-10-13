@@ -2,41 +2,41 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9358,
+      "stars": 9359,
       "forks": 672,
-      "extracted_nodes": 872,
-      "valid_nodes": 359,
+      "extracted_nodes": 434,
+      "valid_nodes": 306,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 76,
-      "extracted_nodes": 572,
-      "valid_nodes": 23,
+      "extracted_nodes": 872,
+      "valid_nodes": 36,
       "quality_score": 100
     },
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1375,
+      "stars": 1376,
       "forks": 234,
       "extracted_nodes": 3000,
-      "valid_nodes": 948,
+      "valid_nodes": 961,
       "quality_score": 100
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 97,
       "forks": 8,
-      "extracted_nodes": 365,
-      "valid_nodes": 12,
+      "extracted_nodes": 354,
+      "valid_nodes": 13,
       "quality_score": 88.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 310,
-      "forks": 26,
-      "extracted_nodes": 14,
+      "repository": "Qwejay/Qflow",
+      "stars": 390,
+      "forks": 78,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -44,17 +44,9 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 23,
       "forks": 1,
-      "extracted_nodes": 569,
-      "valid_nodes": 172,
+      "extracted_nodes": 593,
+      "valid_nodes": 191,
       "quality_score": 59.4
-    },
-    {
-      "repository": "sdise/vpngate",
-      "stars": 5,
-      "forks": 6,
-      "extracted_nodes": 501,
-      "valid_nodes": 500,
-      "quality_score": 50.0
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -65,11 +57,19 @@
       "quality_score": 49.0
     },
     {
+      "repository": "halekkirton/fanqiang",
+      "stars": 62,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 41.0
+    },
+    {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 9,
+      "valid_nodes": 7,
       "quality_score": 40.0
     },
     {
@@ -81,15 +81,31 @@
       "quality_score": 40.0
     },
     {
-      "repository": "firekula/mcp-inspector-bridge",
-      "stars": 22,
-      "forks": 13,
+      "repository": "fiamitaa/jichangtuijian",
+      "stars": 1,
+      "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 30.6
+      "quality_score": 0.8
     },
     {
-      "repository": "bubu629/free-vpn-affiliate-nodes-poo-share-nodes-earn-cash",
+      "repository": "steve66555/nodesub",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "Ethereal-09/rules-hub",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "JackBean2134/simple-blockchain-go",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +113,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-13 04:23:54"
+  "updated_at": "2026-10-13 15:23:32"
 }
