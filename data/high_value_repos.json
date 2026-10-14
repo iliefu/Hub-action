@@ -13105,6 +13105,36 @@
       "last_nodes_update": "2026-09-28T10:17:06.397383Z"
     },
     {
+      "repository": "SHUNZI88/proxysub",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 120,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "clean_clash.yaml",
+          "node_count": 60,
+          "last_checked": "2026-10-14T16:09:25.226599Z",
+          "url": "https://raw.githubusercontent.com/SHUNZI88/proxysub/main/clean_clash.yaml"
+        },
+        {
+          "path": "clean_proxies_only.yaml",
+          "node_count": 60,
+          "last_checked": "2026-10-14T16:09:25.417753Z",
+          "url": "https://raw.githubusercontent.com/SHUNZI88/proxysub/main/clean_proxies_only.yaml"
+        },
+        {
+          "path": "clean_v2ray.txt",
+          "node_count": 60,
+          "last_checked": "2026-10-14T16:09:25.740252Z",
+          "url": "https://raw.githubusercontent.com/SHUNZI88/proxysub/main/clean_v2ray.txt"
+        }
+      ],
+      "last_full_scan": "2026-10-14T16:09:36.342869Z",
+      "last_nodes_update": "2026-10-14T16:09:36.342885Z"
+    },
+    {
       "repository": "OrdoAbChao7/ClashVerge-free-AutoRefresher",
       "stars": 0,
       "forks": 0,
@@ -13123,7 +13153,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-14 09:07:26",
-  "total_whitelisted_repos": 52,
-  "total_cached_nodes": 56511
+  "updated_at": "2026-10-14 16:09:36",
+  "total_whitelisted_repos": 53,
+  "total_cached_nodes": 56631
 }
