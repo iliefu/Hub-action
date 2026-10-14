@@ -1,43 +1,43 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9360,
-      "forks": 672,
-      "extracted_nodes": 441,
-      "valid_nodes": 319,
-      "quality_score": 100
-    },
-    {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1380,
+      "stars": 1381,
       "forks": 234,
       "extracted_nodes": 3000,
-      "valid_nodes": 952,
+      "valid_nodes": 885,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 76,
-      "extracted_nodes": 651,
-      "valid_nodes": 26,
+      "extracted_nodes": 1185,
+      "valid_nodes": 78,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 97,
-      "forks": 8,
-      "extracted_nodes": 355,
-      "valid_nodes": 13,
-      "quality_score": 88.0
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9360,
+      "forks": 673,
+      "extracted_nodes": 441,
+      "valid_nodes": 312,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 617,
+      "forks": 24,
+      "extracted_nodes": 14,
+      "valid_nodes": 6,
+      "quality_score": 100
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 23,
       "forks": 1,
-      "extracted_nodes": 581,
-      "valid_nodes": 186,
+      "extracted_nodes": 596,
+      "valid_nodes": 175,
       "quality_score": 59.4
     },
     {
@@ -47,6 +47,14 @@
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 144,
+      "valid_nodes": 132,
+      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -65,21 +73,29 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Sparky983/warp-config",
-      "stars": 12,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 10.6
-    },
-    {
-      "repository": "klwru349/claude-subscription-virtual-card",
+      "repository": "jktantan/sm-crypto-wasm",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 0.8
+    },
+    {
+      "repository": "cyczz/ComfyUI-ClipSequencePreview",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "theincrediblewwz/readingbook",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-14 02:34:17"
+  "updated_at": "2026-10-14 09:07:35"
 }
