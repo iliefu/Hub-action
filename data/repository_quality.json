@@ -1,11 +1,11 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9363,
-      "forks": 673,
-      "extracted_nodes": 820,
-      "valid_nodes": 344,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 84,
+      "forks": 77,
+      "extracted_nodes": 631,
+      "valid_nodes": 25,
       "quality_score": 100
     },
     {
@@ -13,56 +13,40 @@
       "stars": 1385,
       "forks": 234,
       "extracted_nodes": 3000,
-      "valid_nodes": 978,
+      "valid_nodes": 946,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 84,
-      "forks": 77,
-      "extracted_nodes": 661,
-      "valid_nodes": 42,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9365,
+      "forks": 673,
+      "extracted_nodes": 820,
+      "valid_nodes": 337,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 618,
+      "stars": 619,
       "forks": 24,
       "extracted_nodes": 14,
-      "valid_nodes": 6,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 310,
-      "forks": 26,
-      "extracted_nodes": 13,
-      "valid_nodes": 6,
-      "quality_score": 100
-    },
-    {
-      "repository": "lanzm/MetaFetch",
-      "stars": 41,
-      "forks": 9,
-      "extracted_nodes": 1157,
-      "valid_nodes": 267,
-      "quality_score": 81.8
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 97,
+      "forks": 8,
+      "extracted_nodes": 358,
+      "valid_nodes": 15,
+      "quality_score": 88.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 23,
       "forks": 1,
-      "extracted_nodes": 603,
-      "valid_nodes": 205,
+      "extracted_nodes": 617,
+      "valid_nodes": 200,
       "quality_score": 59.4
-    },
-    {
-      "repository": "v2raynnodes/clashfree",
-      "stars": 11,
-      "forks": 1,
-      "extracted_nodes": 1608,
-      "valid_nodes": 653,
-      "quality_score": 49.8
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -71,14 +55,6 @@
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 333,
-      "quality_score": 42.4
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -95,7 +71,71 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "wusong315/stm32-edge-ai-node",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "lectorkoba-git/tiktok-shop-product-scraper",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "lectorkoba-git/tiktok-shop-search-scraper",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "lectorkoba-git/ebay-seller-contact-scraper",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "llaassmail-ui/aws-storage-tool",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "braum-me/aboutexport.com",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "RaganaBloodedge/read-video-skill",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "coobi7/TIAworkspaceBridge",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-15 02:15:46"
+  "updated_at": "2026-10-15 08:40:34"
 }

@@ -331,6 +331,7 @@
     "Qwejay/Qflow",
     "Qyn77/langchainjs-learn",
     "R0smontis/comfyui_anime_character_selector",
+    "RaganaBloodedge/read-video-skill",
     "Ram-Nayak-16/Chinese-Express-Food-App",
     "RanKaze/kolid-comfy",
     "Rander-fe/Dynamic-Alpha-",
@@ -523,6 +524,7 @@
     "bobvane/CF-Workers-SUB-Next",
     "bocmiao/ComputerTools",
     "bq2015/FreeProxies",
+    "braum-me/aboutexport.com",
     "brianhliou/misty-banqi",
     "brumaire1799/case-timeline-generator",
     "bubu629/-free-clash-v2ray-singbox-meta-nodes-share-sub",
@@ -571,6 +573,7 @@
     "cocca883/vpn-node-tool",
     "codelabhq/clash-warp-config",
     "codex416/freevpn",
+    "coobi7/TIAworkspaceBridge",
     "coy10000/clash-subscribe-merge-server",
     "cpddli/ASNIP",
     "crashgfw/free-airport-nodes",
@@ -864,6 +867,9 @@
     "lcmovie/YYB-GO-Script-i",
     "ldhnet/AntFlow-Designer",
     "lebrew-tech/RoastSee-NEXT-Console",
+    "lectorkoba-git/ebay-seller-contact-scraper",
+    "lectorkoba-git/tiktok-shop-product-scraper",
+    "lectorkoba-git/tiktok-shop-search-scraper",
     "leehaohaohao/flowops-executor",
     "leikaiwei/rss",
     "leizhenfacai/nezhagate-api-examples",
@@ -906,6 +912,7 @@
     "liuyubing233/zhihu-custom",
     "lizy0327/fio-bench",
     "lje02/probe-bot",
+    "llaassmail-ui/aws-storage-tool",
     "llkongs/desktop-baby",
     "lll33lll/mihomo-rule",
     "lmcc-dev/mult-fetch-mcp-server",
@@ -1236,6 +1243,7 @@
     "wudi000888-svg/guangyue-panel",
     "wulier-arch/axon",
     "wushuo894/ani-rss",
+    "wusong315/stm32-edge-ai-node",
     "wuyou0016/xtizi",
     "wyhc7/ai-gateway",
     "xcbbdg1-maker/x-feed",
@@ -1369,5 +1377,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-15 02:15:24"
+  "updated_at": "2026-10-15 08:40:26"
 }
