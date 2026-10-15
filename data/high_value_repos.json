@@ -11359,6 +11359,30 @@
       "last_nodes_update": "2026-10-13T20:53:37.173572Z"
     },
     {
+      "repository": "lanzm/MetaFetch",
+      "stars": 41,
+      "forks": 9,
+      "extracted_nodes": 1157,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "list.meta.yml",
+          "node_count": 500,
+          "last_checked": "2026-10-15T02:15:18.257664Z",
+          "url": "https://raw.githubusercontent.com/lanzm/MetaFetch/master/list.meta.yml"
+        },
+        {
+          "path": "list.txt",
+          "node_count": 737,
+          "last_checked": "2026-10-15T02:15:18.422313Z",
+          "url": "https://raw.githubusercontent.com/lanzm/MetaFetch/master/list.txt"
+        }
+      ],
+      "last_full_scan": "2026-10-15T02:15:24.679863Z",
+      "last_nodes_update": "2026-10-15T02:15:24.679890Z"
+    },
+    {
       "repository": "killertop/Vialen",
       "stars": 0,
       "forks": 0,
@@ -11483,30 +11507,6 @@
       ],
       "last_full_scan": "2026-10-08T18:09:34.271831Z",
       "last_nodes_update": "2026-10-08T18:09:34.271853Z"
-    },
-    {
-      "repository": "lanzm/MetaFetch",
-      "stars": 22,
-      "forks": 6,
-      "extracted_nodes": 967,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "list.meta.yml",
-          "node_count": 368,
-          "last_checked": "2026-09-01T02:29:41.908587Z",
-          "url": "https://raw.githubusercontent.com/lanzm/MetaFetch/master/list.meta.yml"
-        },
-        {
-          "path": "list.txt",
-          "node_count": 682,
-          "last_checked": "2026-09-01T02:29:42.327219Z",
-          "url": "https://raw.githubusercontent.com/lanzm/MetaFetch/master/list.txt"
-        }
-      ],
-      "last_full_scan": "2026-09-01T02:29:45.587388Z",
-      "last_nodes_update": "2026-09-01T02:29:45.587406Z"
     },
     {
       "repository": "maimengmeng/mysub",
@@ -13153,7 +13153,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-14 22:48:44",
+  "updated_at": "2026-10-15 02:15:24",
   "total_whitelisted_repos": 53,
-  "total_cached_nodes": 56631
+  "total_cached_nodes": 56821
 }
