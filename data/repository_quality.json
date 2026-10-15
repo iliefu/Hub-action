@@ -3,17 +3,17 @@
     {
       "repository": "ebrasha/free-v2ray-public-list",
       "stars": 1389,
-      "forks": 234,
+      "forks": 235,
       "extracted_nodes": 3000,
-      "valid_nodes": 996,
+      "valid_nodes": 923,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 77,
-      "extracted_nodes": 982,
-      "valid_nodes": 50,
+      "extracted_nodes": 453,
+      "valid_nodes": 24,
       "quality_score": 100
     },
     {
@@ -21,23 +21,23 @@
       "stars": 9367,
       "forks": 673,
       "extracted_nodes": 740,
-      "valid_nodes": 274,
+      "valid_nodes": 270,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 620,
+      "stars": 621,
       "forks": 24,
       "extracted_nodes": 14,
-      "valid_nodes": 5,
+      "valid_nodes": 6,
       "quality_score": 100
     },
     {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 97,
       "forks": 8,
-      "extracted_nodes": 359,
-      "valid_nodes": 12,
+      "extracted_nodes": 362,
+      "valid_nodes": 15,
       "quality_score": 88.0
     },
     {
@@ -52,7 +52,7 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 23,
       "forks": 1,
-      "extracted_nodes": 606,
+      "extracted_nodes": 616,
       "valid_nodes": 211,
       "quality_score": 59.4
     },
@@ -73,6 +73,22 @@
       "quality_score": 47.4
     },
     {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 135,
+      "valid_nodes": 124,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "mehdeh/v2ray-cli-linux",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 3,
+      "valid_nodes": 1,
+      "quality_score": 40.0
+    },
+    {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
@@ -89,15 +105,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "BedtimeNewsStudio/BedtimeNews-Transcripts",
-      "stars": 2,
-      "forks": 1,
+      "repository": "Naz-Ovh/alacritty-conf",
+      "stars": 0,
+      "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 2.6
+      "quality_score": 0.0
     },
     {
-      "repository": "pigeonbox/p2p",
+      "repository": "Naz-Ovh/rio-conf",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "WaneDay/VerPinG",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +129,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-15 19:33:15"
+  "updated_at": "2026-10-15 22:45:56"
 }
