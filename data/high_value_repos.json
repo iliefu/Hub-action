@@ -2,333 +2,345 @@
   "high_value_repos": [
     {
       "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1360,
-      "forks": 229,
+      "stars": 1389,
+      "forks": 235,
       "extracted_nodes": 3000,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "V2Ray-Config-By-EbraSha.txt",
-          "node_count": 585,
-          "last_checked": "2026-10-09T00:02:11.071884Z",
+          "node_count": 693,
+          "last_checked": "2026-10-16T02:05:18.860046Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-001.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:11.341108Z",
+          "last_checked": "2026-10-16T02:05:19.104037Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-001.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-002.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:11.483216Z",
+          "last_checked": "2026-10-16T02:05:19.326263Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-002.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-003.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:11.647966Z",
+          "last_checked": "2026-10-16T02:05:19.472082Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-003.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-004.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:11.862137Z",
+          "last_checked": "2026-10-16T02:05:19.622642Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-004.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-005.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:12.087588Z",
+          "last_checked": "2026-10-16T02:05:19.749473Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-005.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-006.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:12.275255Z",
+          "last_checked": "2026-10-16T02:05:19.894080Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-006.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-007.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:12.513046Z",
+          "last_checked": "2026-10-16T02:05:20.080233Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-007.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-008.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:12.750210Z",
+          "last_checked": "2026-10-16T02:05:20.250729Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-008.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-009.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:13.152656Z",
+          "last_checked": "2026-10-16T02:05:20.417379Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-009.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-010.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:13.350182Z",
+          "last_checked": "2026-10-16T02:05:20.555143Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-010.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-011.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:13.499615Z",
+          "last_checked": "2026-10-16T02:05:20.731696Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-011.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-012.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:13.677847Z",
+          "last_checked": "2026-10-16T02:05:20.856977Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-012.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-013.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:13.820608Z",
+          "last_checked": "2026-10-16T02:05:21.006299Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-013.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-014.txt",
-          "node_count": 749,
-          "last_checked": "2026-10-09T00:02:14.006653Z",
+          "node_count": 903,
+          "last_checked": "2026-10-16T02:05:21.150916Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-014.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-015.txt",
-          "node_count": 653,
-          "last_checked": "2026-10-09T00:02:14.224626Z",
+          "node_count": 796,
+          "last_checked": "2026-10-16T02:05:21.263534Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-015.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-016.txt",
-          "node_count": 693,
-          "last_checked": "2026-10-09T00:02:14.350798Z",
+          "node_count": 636,
+          "last_checked": "2026-10-16T02:05:21.364072Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-016.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-017.txt",
-          "node_count": 833,
-          "last_checked": "2026-10-09T00:02:14.504074Z",
+          "node_count": 812,
+          "last_checked": "2026-10-16T02:05:21.515729Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-017.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-018.txt",
-          "node_count": 479,
-          "last_checked": "2026-10-09T00:02:14.654890Z",
+          "node_count": 467,
+          "last_checked": "2026-10-16T02:05:21.666586Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-018.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-019.txt",
-          "node_count": 777,
-          "last_checked": "2026-10-09T00:02:14.807641Z",
+          "node_count": 975,
+          "last_checked": "2026-10-16T02:05:21.817967Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-019.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-020.txt",
-          "node_count": 776,
-          "last_checked": "2026-10-09T00:02:15.023948Z",
+          "node_count": 763,
+          "last_checked": "2026-10-16T02:05:21.927358Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-020.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-021.txt",
-          "node_count": 897,
-          "last_checked": "2026-10-09T00:02:15.202709Z",
+          "node_count": 935,
+          "last_checked": "2026-10-16T02:05:22.065673Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-021.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-022.txt",
-          "node_count": 768,
-          "last_checked": "2026-10-09T00:02:15.412161Z",
+          "node_count": 797,
+          "last_checked": "2026-10-16T02:05:22.183657Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-022.txt"
         },
         {
           "path": "mixed-protocol-chunks/EbraSha-Mixed-Config-023.txt",
-          "node_count": 317,
-          "last_checked": "2026-10-09T00:02:15.517495Z",
+          "node_count": 407,
+          "last_checked": "2026-10-16T02:05:22.288855Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/mixed-protocol-chunks/EbraSha-Mixed-Config-023.txt"
         },
         {
           "path": "separated-protocols-chunks/ssr/EbraSha-Protocol-Chunks-ssr-001.txt",
-          "node_count": 25,
-          "last_checked": "2026-10-09T00:02:15.651158Z",
+          "node_count": 26,
+          "last_checked": "2026-10-16T02:05:22.396281Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/ssr/EbraSha-Protocol-Chunks-ssr-001.txt"
         },
         {
           "path": "separated-protocols-chunks/trojan/EbraSha-Protocol-Chunks-trojan-001.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:15.843153Z",
+          "last_checked": "2026-10-16T02:05:22.511557Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/trojan/EbraSha-Protocol-Chunks-trojan-001.txt"
         },
         {
           "path": "separated-protocols-chunks/trojan/EbraSha-Protocol-Chunks-trojan-002.txt",
-          "node_count": 865,
-          "last_checked": "2026-10-09T00:02:16.085020Z",
+          "node_count": 1000,
+          "last_checked": "2026-10-16T02:05:22.658165Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/trojan/EbraSha-Protocol-Chunks-trojan-002.txt"
+        },
+        {
+          "path": "separated-protocols-chunks/trojan/EbraSha-Protocol-Chunks-trojan-003.txt",
+          "node_count": 20,
+          "last_checked": "2026-10-16T02:05:22.754752Z",
+          "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/trojan/EbraSha-Protocol-Chunks-trojan-003.txt"
         },
         {
           "path": "separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-001.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:16.271594Z",
+          "last_checked": "2026-10-16T02:05:22.878921Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-001.txt"
         },
         {
           "path": "separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-002.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:16.478952Z",
+          "last_checked": "2026-10-16T02:05:23.028932Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-002.txt"
         },
         {
           "path": "separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-003.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:16.657457Z",
+          "last_checked": "2026-10-16T02:05:23.154568Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-003.txt"
         },
         {
           "path": "separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-004.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:17.377210Z",
+          "last_checked": "2026-10-16T02:05:23.281478Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-004.txt"
         },
         {
           "path": "separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-005.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:17.684482Z",
+          "last_checked": "2026-10-16T02:05:23.427989Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-005.txt"
         },
         {
           "path": "separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-006.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:17.886664Z",
+          "last_checked": "2026-10-16T02:05:23.572239Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-006.txt"
         },
         {
           "path": "separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-007.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:18.094437Z",
+          "last_checked": "2026-10-16T02:05:23.788236Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-007.txt"
         },
         {
           "path": "separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-008.txt",
           "node_count": 1000,
-          "last_checked": "2026-10-09T00:02:18.320023Z",
+          "last_checked": "2026-10-16T02:05:23.957829Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-008.txt"
         },
         {
           "path": "separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-009.txt",
-          "node_count": 505,
-          "last_checked": "2026-10-09T00:02:18.465816Z",
+          "node_count": 296,
+          "last_checked": "2026-10-16T02:05:24.076517Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vless/EbraSha-Protocol-Chunks-vless-009.txt"
         },
         {
           "path": "separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-001.txt",
-          "node_count": 640,
-          "last_checked": "2026-10-09T00:02:18.764431Z",
+          "node_count": 836,
+          "last_checked": "2026-10-16T02:05:24.199725Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-001.txt"
         },
         {
           "path": "separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-002.txt",
-          "node_count": 756,
-          "last_checked": "2026-10-09T00:02:18.910146Z",
+          "node_count": 726,
+          "last_checked": "2026-10-16T02:05:24.323187Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-002.txt"
         },
         {
           "path": "separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-003.txt",
-          "node_count": 541,
-          "last_checked": "2026-10-09T00:02:19.142669Z",
+          "node_count": 770,
+          "last_checked": "2026-10-16T02:05:24.451231Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-003.txt"
         },
         {
           "path": "separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-004.txt",
-          "node_count": 865,
-          "last_checked": "2026-10-09T00:02:19.461333Z",
+          "node_count": 661,
+          "last_checked": "2026-10-16T02:05:24.576038Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-004.txt"
         },
         {
           "path": "separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-005.txt",
-          "node_count": 425,
-          "last_checked": "2026-10-09T00:02:19.643549Z",
+          "node_count": 597,
+          "last_checked": "2026-10-16T02:05:24.684500Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-005.txt"
         },
         {
           "path": "separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-006.txt",
-          "node_count": 941,
-          "last_checked": "2026-10-09T00:02:19.818076Z",
+          "node_count": 955,
+          "last_checked": "2026-10-16T02:05:24.800834Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-006.txt"
         },
         {
           "path": "separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-007.txt",
-          "node_count": 765,
-          "last_checked": "2026-10-09T00:02:20.867473Z",
+          "node_count": 821,
+          "last_checked": "2026-10-16T02:05:24.942571Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-007.txt"
         },
         {
           "path": "separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-008.txt",
-          "node_count": 862,
-          "last_checked": "2026-10-09T00:02:21.147280Z",
+          "node_count": 866,
+          "last_checked": "2026-10-16T02:05:25.073834Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-008.txt"
         },
         {
           "path": "separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-009.txt",
-          "node_count": 794,
-          "last_checked": "2026-10-09T00:02:21.398326Z",
+          "node_count": 789,
+          "last_checked": "2026-10-16T02:05:25.217225Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-009.txt"
         },
         {
           "path": "separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-010.txt",
-          "node_count": 51,
-          "last_checked": "2026-10-09T00:02:21.560549Z",
+          "node_count": 185,
+          "last_checked": "2026-10-16T02:05:25.305253Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols-chunks/vmess/EbraSha-Protocol-Chunks-vmess-010.txt"
         },
         {
           "path": "separated-protocols/hysteria2_configs.txt",
-          "node_count": 191,
-          "last_checked": "2026-10-09T00:02:21.898891Z",
+          "node_count": 294,
+          "last_checked": "2026-10-16T02:05:25.396567Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols/hysteria2_configs.txt"
         },
         {
           "path": "separated-protocols/ss_configs.txt",
-          "node_count": 2701,
-          "last_checked": "2026-10-09T00:02:22.092077Z",
+          "node_count": 2651,
+          "last_checked": "2026-10-16T02:05:25.544585Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols/ss_configs.txt"
         },
         {
           "path": "separated-protocols/ssr_configs.txt",
-          "node_count": 25,
-          "last_checked": "2026-10-09T00:02:22.244558Z",
+          "node_count": 26,
+          "last_checked": "2026-10-16T02:05:25.656202Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols/ssr_configs.txt"
         },
         {
           "path": "separated-protocols/trojan_configs.txt",
-          "node_count": 1865,
-          "last_checked": "2026-10-09T00:02:22.407086Z",
+          "node_count": 2020,
+          "last_checked": "2026-10-16T02:05:25.788687Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols/trojan_configs.txt"
         },
         {
+          "path": "separated-protocols/tuic_configs.txt",
+          "node_count": 1,
+          "last_checked": "2026-10-16T02:05:25.899303Z",
+          "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/separated-protocols/tuic_configs.txt"
+        },
+        {
           "path": "ss_configs.txt",
-          "node_count": 2701,
-          "last_checked": "2026-10-09T00:02:22.773970Z",
+          "node_count": 2651,
+          "last_checked": "2026-10-16T02:05:25.995281Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/ss_configs.txt"
         },
         {
           "path": "ssr_configs.txt",
-          "node_count": 25,
-          "last_checked": "2026-10-09T00:02:22.907893Z",
+          "node_count": 26,
+          "last_checked": "2026-10-16T02:05:26.072507Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/ssr_configs.txt"
         },
         {
           "path": "trojan_configs.txt",
-          "node_count": 1865,
-          "last_checked": "2026-10-09T00:02:23.081930Z",
+          "node_count": 2020,
+          "last_checked": "2026-10-16T02:05:26.180011Z",
           "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/trojan_configs.txt"
         }
       ],
-      "last_full_scan": "2026-10-09T00:02:37.823080Z",
-      "last_nodes_update": "2026-10-09T00:02:37.823097Z"
+      "last_full_scan": "2026-10-16T02:05:36.909728Z",
+      "last_nodes_update": "2026-10-16T02:05:36.909755Z"
     },
     {
       "repository": "danmaifu/mianfeijiedian",
@@ -13147,7 +13159,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-15 22:45:44",
+  "updated_at": "2026-10-16 02:05:36",
   "total_whitelisted_repos": 53,
   "total_cached_nodes": 56752
 }
