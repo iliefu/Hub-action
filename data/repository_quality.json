@@ -1,60 +1,36 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9367,
-      "forks": 673,
-      "extracted_nodes": 790,
-      "valid_nodes": 296,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1389,
+      "forks": 235,
+      "extracted_nodes": 3000,
+      "valid_nodes": 947,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 84,
       "forks": 77,
-      "extracted_nodes": 404,
-      "valid_nodes": 25,
+      "extracted_nodes": 624,
+      "valid_nodes": 29,
       "quality_score": 100
     },
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1389,
-      "forks": 235,
-      "extracted_nodes": 3000,
-      "valid_nodes": 998,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9366,
+      "forks": 673,
+      "extracted_nodes": 790,
+      "valid_nodes": 291,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 621,
+      "stars": 622,
       "forks": 24,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 309,
-      "forks": 26,
-      "extracted_nodes": 19,
-      "valid_nodes": 1,
-      "quality_score": 100
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 97,
-      "forks": 8,
-      "extracted_nodes": 357,
-      "valid_nodes": 15,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 23,
-      "forks": 1,
-      "extracted_nodes": 616,
-      "valid_nodes": 210,
-      "quality_score": 59.4
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -65,19 +41,19 @@
       "quality_score": 49.0
     },
     {
-      "repository": "mehdeh/v2ray-cli-linux",
-      "stars": 0,
+      "repository": "shuoce/sub",
+      "stars": 2,
       "forks": 0,
-      "extracted_nodes": 3,
-      "valid_nodes": 1,
-      "quality_score": 40.0
+      "extracted_nodes": 35,
+      "valid_nodes": 15,
+      "quality_score": 41.6
     },
     {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 9,
+      "valid_nodes": 8,
       "quality_score": 40.0
     },
     {
@@ -89,7 +65,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "diwer/dsh-codex-adapter",
+      "repository": "changzhi777/NanoAiCanvas_workflow",
+      "stars": 7,
+      "forks": 3,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 8.6
+    },
+    {
+      "repository": "alxy1018-ctrl/xiangqi-pikafish",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,7 +81,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "keepcalmx/subhub",
+      "repository": "BoBo-v/antigravity_token_dashboard",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-16 02:05:52"
+  "updated_at": "2026-10-16 08:35:07"
 }
