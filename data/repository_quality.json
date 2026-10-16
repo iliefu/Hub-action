@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "ebrasha/free-v2ray-public-list",
-      "stars": 1392,
-      "forks": 236,
-      "extracted_nodes": 3000,
-      "valid_nodes": 930,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 85,
+      "forks": 78,
+      "extracted_nodes": 764,
+      "valid_nodes": 43,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 85,
-      "forks": 77,
-      "extracted_nodes": 786,
-      "valid_nodes": 45,
+      "repository": "ebrasha/free-v2ray-public-list",
+      "stars": 1393,
+      "forks": 236,
+      "extracted_nodes": 3000,
+      "valid_nodes": 960,
       "quality_score": 100
     },
     {
@@ -21,7 +21,15 @@
       "stars": 9367,
       "forks": 673,
       "extracted_nodes": 679,
-      "valid_nodes": 257,
+      "valid_nodes": 251,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 2017,
+      "forks": 129,
+      "extracted_nodes": 16,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
@@ -36,7 +44,7 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 97,
       "forks": 8,
-      "extracted_nodes": 352,
+      "extracted_nodes": 354,
       "valid_nodes": 13,
       "quality_score": 88.0
     },
@@ -44,8 +52,8 @@
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 1,
-      "extracted_nodes": 615,
-      "valid_nodes": 189,
+      "extracted_nodes": 611,
+      "valid_nodes": 218,
       "quality_score": 60.2
     },
     {
@@ -60,8 +68,8 @@
       "repository": "spincat/SmartProxyPipeline",
       "stars": 8,
       "forks": 1,
-      "extracted_nodes": 1292,
-      "valid_nodes": 66,
+      "extracted_nodes": 1291,
+      "valid_nodes": 84,
       "quality_score": 47.4
     },
     {
@@ -69,15 +77,23 @@
       "stars": 3,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 340,
+      "valid_nodes": 354,
       "quality_score": 42.4
+    },
+    {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 2710,
+      "valid_nodes": 2238,
+      "quality_score": 41.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 132,
-      "valid_nodes": 111,
+      "extracted_nodes": 136,
+      "valid_nodes": 116,
       "quality_score": 40.8
     },
     {
@@ -85,7 +101,7 @@
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 6,
+      "valid_nodes": 7,
       "quality_score": 40.0
     },
     {
@@ -97,13 +113,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "HiJaychou/free-vpn-china",
-      "stars": 2,
+      "repository": "suimi8/opencode-free-gateway",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.6
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-16 19:09:03"
+  "updated_at": "2026-10-16 22:21:12"
 }
