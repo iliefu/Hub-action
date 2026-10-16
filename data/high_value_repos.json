@@ -10621,60 +10621,6 @@
       "last_nodes_update": "2026-10-01T23:34:46.534914Z"
     },
     {
-      "repository": "spincat/SmartProxyPipeline",
-      "stars": 8,
-      "forks": 1,
-      "extracted_nodes": 2128,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "source/0-20250110.txt",
-          "node_count": 32,
-          "last_checked": "2026-10-02T10:10:56.056994Z",
-          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/0-20250110.txt"
-        },
-        {
-          "path": "source/1-20250110.txt",
-          "node_count": 263,
-          "last_checked": "2026-10-02T10:10:56.340660Z",
-          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/1-20250110.txt"
-        },
-        {
-          "path": "source/2-20250110.txt",
-          "node_count": 33,
-          "last_checked": "2026-10-02T10:10:56.515104Z",
-          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/2-20250110.txt"
-        },
-        {
-          "path": "source/3-20250110.txt",
-          "node_count": 32,
-          "last_checked": "2026-10-02T10:10:56.687287Z",
-          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/3-20250110.txt"
-        },
-        {
-          "path": "source/4-20250110.txt",
-          "node_count": 126,
-          "last_checked": "2026-10-02T10:10:56.861674Z",
-          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/4-20250110.txt"
-        },
-        {
-          "path": "source/test.txt",
-          "node_count": 486,
-          "last_checked": "2026-10-02T10:10:57.147863Z",
-          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/test.txt"
-        },
-        {
-          "path": "valid_addresses.txt",
-          "node_count": 1783,
-          "last_checked": "2026-10-02T10:10:57.439270Z",
-          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/valid_addresses.txt"
-        }
-      ],
-      "last_full_scan": "2026-10-02T10:11:22.336746Z",
-      "last_nodes_update": "2026-10-02T10:11:22.336767Z"
-    },
-    {
       "repository": "v2raynnodes/clashfree",
       "stars": 11,
       "forks": 1,
@@ -11141,6 +11087,60 @@
       ],
       "last_full_scan": "2026-09-15T02:18:26.756219Z",
       "last_nodes_update": "2026-09-15T02:18:26.756223Z"
+    },
+    {
+      "repository": "spincat/SmartProxyPipeline",
+      "stars": 8,
+      "forks": 1,
+      "extracted_nodes": 1292,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "source/0-20250110.txt",
+          "node_count": 32,
+          "last_checked": "2026-10-16T19:08:43.521149Z",
+          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/0-20250110.txt"
+        },
+        {
+          "path": "source/1-20250110.txt",
+          "node_count": 263,
+          "last_checked": "2026-10-16T19:08:43.712384Z",
+          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/1-20250110.txt"
+        },
+        {
+          "path": "source/2-20250110.txt",
+          "node_count": 33,
+          "last_checked": "2026-10-16T19:08:43.846503Z",
+          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/2-20250110.txt"
+        },
+        {
+          "path": "source/3-20250110.txt",
+          "node_count": 32,
+          "last_checked": "2026-10-16T19:08:43.999376Z",
+          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/3-20250110.txt"
+        },
+        {
+          "path": "source/4-20250110.txt",
+          "node_count": 126,
+          "last_checked": "2026-10-16T19:08:44.144459Z",
+          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/4-20250110.txt"
+        },
+        {
+          "path": "source/test.txt",
+          "node_count": 486,
+          "last_checked": "2026-10-16T19:08:44.355775Z",
+          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/source/test.txt"
+        },
+        {
+          "path": "valid_addresses.txt",
+          "node_count": 947,
+          "last_checked": "2026-10-16T19:08:44.740219Z",
+          "url": "https://raw.githubusercontent.com/spincat/SmartProxyPipeline/main/valid_addresses.txt"
+        }
+      ],
+      "last_full_scan": "2026-10-16T19:08:50.105650Z",
+      "last_nodes_update": "2026-10-16T19:08:50.105674Z"
     },
     {
       "repository": "bily1258-design/beimi",
@@ -13159,7 +13159,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-16 15:44:12",
+  "updated_at": "2026-10-16 19:08:50",
   "total_whitelisted_repos": 53,
-  "total_cached_nodes": 56752
+  "total_cached_nodes": 55916
 }
