@@ -1,11 +1,11 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9367,
-      "forks": 673,
-      "extracted_nodes": 802,
-      "valid_nodes": 320,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 85,
+      "forks": 77,
+      "extracted_nodes": 935,
+      "valid_nodes": 46,
       "quality_score": 100
     },
     {
@@ -13,56 +13,32 @@
       "stars": 1393,
       "forks": 236,
       "extracted_nodes": 3000,
-      "valid_nodes": 996,
+      "valid_nodes": 1003,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 85,
-      "forks": 77,
-      "extracted_nodes": 532,
-      "valid_nodes": 21,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9368,
+      "forks": 673,
+      "extracted_nodes": 802,
+      "valid_nodes": 310,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 623,
+      "stars": 624,
       "forks": 24,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 97,
-      "forks": 8,
-      "extracted_nodes": 355,
-      "valid_nodes": 11,
-      "quality_score": 88.0
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 1,
-      "extracted_nodes": 611,
-      "valid_nodes": 217,
+      "extracted_nodes": 631,
+      "valid_nodes": 213,
       "quality_score": 60.2
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 311,
-      "forks": 26,
-      "extracted_nodes": 16,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "v2raynnodes/clashfree",
-      "stars": 11,
-      "forks": 1,
-      "extracted_nodes": 1608,
-      "valid_nodes": 634,
-      "quality_score": 49.8
     },
     {
       "repository": "wenxig/free-nodes-sub",
@@ -73,11 +49,19 @@
       "quality_score": 49.0
     },
     {
+      "repository": "cmd343/cf-subscribe",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 8,
+      "valid_nodes": 8,
+      "quality_score": 40.0
+    },
+    {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 6,
+      "valid_nodes": 5,
       "quality_score": 40.0
     },
     {
@@ -87,23 +71,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "qiancheng817/worktrae",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "shepherd-chenxs/bandi",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-17 02:00:08"
+  "updated_at": "2026-10-17 08:07:04"
 }
