@@ -1,11 +1,19 @@
 {
   "repositories": [
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9369,
+      "forks": 674,
+      "extracted_nodes": 815,
+      "valid_nodes": 319,
+      "quality_score": 100
+    },
+    {
       "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 85,
+      "stars": 86,
       "forks": 77,
-      "extracted_nodes": 635,
-      "valid_nodes": 46,
+      "extracted_nodes": 634,
+      "valid_nodes": 16,
       "quality_score": 100
     },
     {
@@ -13,23 +21,7 @@
       "stars": 1395,
       "forks": 236,
       "extracted_nodes": 3000,
-      "valid_nodes": 974,
-      "quality_score": 100
-    },
-    {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9369,
-      "forks": 674,
-      "extracted_nodes": 779,
-      "valid_nodes": 301,
-      "quality_score": 100
-    },
-    {
-      "repository": "PuddinCat/BestClash",
-      "stars": 2021,
-      "forks": 129,
-      "extracted_nodes": 16,
-      "valid_nodes": 1,
+      "valid_nodes": 643,
       "quality_score": 100
     },
     {
@@ -41,26 +33,18 @@
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 97,
-      "forks": 8,
-      "extracted_nodes": 347,
-      "valid_nodes": 9,
-      "quality_score": 88.0
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 1,
       "extracted_nodes": 612,
-      "valid_nodes": 222,
+      "valid_nodes": 234,
       "quality_score": 60.2
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 261,
-      "forks": 33,
-      "extracted_nodes": 3,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 311,
+      "forks": 26,
+      "extracted_nodes": 16,
       "valid_nodes": 0,
       "quality_score": 60
     },
@@ -71,14 +55,6 @@
       "extracted_nodes": 40,
       "valid_nodes": 0,
       "quality_score": 49.0
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 137,
-      "valid_nodes": 131,
-      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -97,13 +73,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "petem379-cmd/ysp",
-      "stars": 7,
-      "forks": 6,
+      "repository": "caiyepeng/inkflow",
+      "stars": 0,
+      "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 11.6
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-17 21:51:10"
+  "updated_at": "2026-10-18 01:58:53"
 }
