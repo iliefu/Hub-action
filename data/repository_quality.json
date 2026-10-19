@@ -1,27 +1,27 @@
 {
   "repositories": [
     {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 86,
+      "forks": 77,
+      "extracted_nodes": 667,
+      "valid_nodes": 28,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9369,
       "forks": 674,
       "extracted_nodes": 781,
-      "valid_nodes": 305,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 86,
-      "forks": 77,
-      "extracted_nodes": 304,
-      "valid_nodes": 3,
+      "valid_nodes": 290,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 629,
+      "stars": 630,
       "forks": 24,
       "extracted_nodes": 14,
-      "valid_nodes": 4,
+      "valid_nodes": 6,
       "quality_score": 100
     },
     {
@@ -37,7 +37,7 @@
       "stars": 97,
       "forks": 8,
       "extracted_nodes": 349,
-      "valid_nodes": 13,
+      "valid_nodes": 12,
       "quality_score": 88.0
     },
     {
@@ -45,39 +45,31 @@
       "stars": 24,
       "forks": 1,
       "extracted_nodes": 109,
-      "valid_nodes": 4,
+      "valid_nodes": 5,
       "quality_score": 60.2
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 311,
-      "forks": 26,
-      "extracted_nodes": 18,
+      "repository": "201206030/novel-plus",
+      "stars": 4756,
+      "forks": 1497,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
       "quality_score": 60
     },
     {
-      "repository": "share-daily/node",
-      "stars": 14,
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 1,
-      "valid_nodes": 1,
-      "quality_score": 51.2
-    },
-    {
-      "repository": "v2raynnodes/clashfree",
-      "stars": 11,
-      "forks": 1,
-      "extracted_nodes": 1189,
-      "valid_nodes": 374,
-      "quality_score": 49.8
+      "extracted_nodes": 135,
+      "valid_nodes": 124,
+      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 8,
+      "valid_nodes": 6,
       "quality_score": 40.0
     },
     {
@@ -87,7 +79,47 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
+    },
+    {
+      "repository": "vpnjichangdaquan/sanmaojichang",
+      "stars": 5,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 4.0
+    },
+    {
+      "repository": "bobvane/SUB-Aggregation",
+      "stars": 1,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.8
+    },
+    {
+      "repository": "cf3901646/wechat-rss-solution",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "hechuxielianli/chem-vision-aic2026",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "buildify-bundles/buildify-workflow-dev-skill",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-19 02:16:17"
+  "updated_at": "2026-10-19 09:24:22"
 }
