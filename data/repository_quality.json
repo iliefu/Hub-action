@@ -1,19 +1,27 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 86,
-      "forks": 77,
-      "extracted_nodes": 667,
-      "valid_nodes": 28,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9368,
+      "forks": 674,
+      "extracted_nodes": 358,
+      "valid_nodes": 245,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9369,
-      "forks": 674,
-      "extracted_nodes": 781,
-      "valid_nodes": 290,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 86,
+      "forks": 77,
+      "extracted_nodes": 1109,
+      "valid_nodes": 54,
+      "quality_score": 100
+    },
+    {
+      "repository": "PuddinCat/BestClash",
+      "stars": 2029,
+      "forks": 130,
+      "extracted_nodes": 16,
+      "valid_nodes": 6,
       "quality_score": 100
     },
     {
@@ -25,43 +33,51 @@
       "quality_score": 100
     },
     {
-      "repository": "wenxig/free-nodes-sub",
-      "stars": 105,
-      "forks": 9,
-      "extracted_nodes": 36,
-      "valid_nodes": 6,
-      "quality_score": 89.0
-    },
-    {
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 97,
       "forks": 8,
-      "extracted_nodes": 349,
-      "valid_nodes": 12,
+      "extracted_nodes": 354,
+      "valid_nodes": 11,
       "quality_score": 88.0
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 24,
-      "forks": 1,
-      "extracted_nodes": 109,
-      "valid_nodes": 5,
-      "quality_score": 60.2
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 209,
+      "quality_score": 42.4
     },
     {
-      "repository": "201206030/novel-plus",
-      "stars": 4756,
-      "forks": 1497,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "xiaxiamu876-prog/FreeProxyHub",
+      "stars": 1,
+      "forks": 1,
+      "extracted_nodes": 485,
+      "valid_nodes": 159,
+      "quality_score": 41.8
+    },
+    {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 480,
+      "valid_nodes": 320,
+      "quality_score": 41.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 135,
-      "valid_nodes": 124,
+      "extracted_nodes": 147,
+      "valid_nodes": 136,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "bily1258-design/beimi",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 1412,
+      "valid_nodes": 315,
       "quality_score": 40.8
     },
     {
@@ -81,23 +97,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "vpnjichangdaquan/sanmaojichang",
-      "stars": 5,
+      "repository": "txrx13/meduzavpn",
+      "stars": 3,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 4.0
+      "quality_score": 2.4
     },
     {
-      "repository": "bobvane/SUB-Aggregation",
-      "stars": 1,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 1.8
-    },
-    {
-      "repository": "cf3901646/wechat-rss-solution",
+      "repository": "xlp567/singbox-manager",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,15 +113,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "hechuxielianli/chem-vision-aic2026",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "buildify-bundles/buildify-workflow-dev-skill",
+      "repository": "hhubb22/baton",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -121,5 +121,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-19 09:24:22"
+  "updated_at": "2026-10-19 17:57:57"
 }
