@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 86,
-      "forks": 77,
-      "extracted_nodes": 505,
-      "valid_nodes": 22,
-      "quality_score": 100
-    },
-    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9368,
       "forks": 674,
-      "extracted_nodes": 358,
-      "valid_nodes": 246,
+      "extracted_nodes": 462,
+      "valid_nodes": 316,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 86,
+      "forks": 77,
+      "extracted_nodes": 458,
+      "valid_nodes": 18,
       "quality_score": 100
     },
     {
@@ -25,27 +25,27 @@
       "quality_score": 89.0
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 97,
-      "forks": 8,
-      "extracted_nodes": 343,
-      "valid_nodes": 12,
-      "quality_score": 88.0
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 311,
+      "forks": 26,
+      "extracted_nodes": 9,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 24,
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
       "forks": 1,
-      "extracted_nodes": 109,
-      "valid_nodes": 6,
-      "quality_score": 60.2
+      "extracted_nodes": 472,
+      "valid_nodes": 382,
+      "quality_score": 41.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 147,
-      "valid_nodes": 142,
+      "valid_nodes": 136,
       "quality_score": 40.8
     },
     {
@@ -65,7 +65,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "cai55667788/songloft-ximalaya",
+      "repository": "AlinJiang/flclash-return-to-china",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "lixi333/ai-rules",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "toyrxt/Streamlit-t",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-19 23:12:20"
+  "updated_at": "2026-10-20 02:30:01"
 }
