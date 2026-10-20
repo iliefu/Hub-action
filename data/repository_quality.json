@@ -1,19 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9368,
-      "forks": 674,
-      "extracted_nodes": 462,
-      "valid_nodes": 316,
-      "quality_score": 100
-    },
-    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 86,
       "forks": 77,
-      "extracted_nodes": 458,
-      "valid_nodes": 18,
+      "extracted_nodes": 580,
+      "valid_nodes": 37,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9367,
+      "forks": 674,
+      "extracted_nodes": 462,
+      "valid_nodes": 305,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 8243,
+      "forks": 1260,
+      "extracted_nodes": 691,
+      "valid_nodes": 146,
+      "quality_score": 100
+    },
+    {
+      "repository": "hello-world-1989/cn-news",
+      "stars": 631,
+      "forks": 24,
+      "extracted_nodes": 14,
+      "valid_nodes": 6,
       "quality_score": 100
     },
     {
@@ -25,27 +41,27 @@
       "quality_score": 89.0
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 311,
-      "forks": 26,
-      "extracted_nodes": 9,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 23,
+      "forks": 1,
+      "extracted_nodes": 109,
+      "valid_nodes": 6,
+      "quality_score": 59.4
     },
     {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 472,
-      "valid_nodes": 382,
-      "quality_score": 41.0
+      "repository": "BigStrongSun/ccswitchmulti",
+      "stars": 123,
+      "forks": 12,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 52.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 147,
-      "valid_nodes": 136,
+      "extracted_nodes": 142,
+      "valid_nodes": 129,
       "quality_score": 40.8
     },
     {
@@ -65,23 +81,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "AlinJiang/flclash-return-to-china",
-      "stars": 0,
+      "repository": "SoloDevCool/ComMun",
+      "stars": 3,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 2.4
     },
     {
-      "repository": "lixi333/ai-rules",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "toyrxt/Streamlit-t",
+      "repository": "ivan51769/blues19-clash-codex-skill",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-20 02:30:01"
+  "updated_at": "2026-10-20 08:59:22"
 }
