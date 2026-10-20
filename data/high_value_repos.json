@@ -10279,6 +10279,48 @@
       "last_nodes_update": "2026-10-13T20:53:37.173551Z"
     },
     {
+      "repository": "qjlxg/one",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 2670,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "latest_nodes.txt",
+          "node_count": 20,
+          "last_checked": "2026-10-20T19:50:19.222976Z",
+          "url": "https://raw.githubusercontent.com/qjlxg/one/main/latest_nodes.txt"
+        },
+        {
+          "path": "nodes.txt",
+          "node_count": 2132,
+          "last_checked": "2026-10-20T19:50:19.551367Z",
+          "url": "https://raw.githubusercontent.com/qjlxg/one/main/nodes.txt"
+        },
+        {
+          "path": "nodes.yaml",
+          "node_count": 62,
+          "last_checked": "2026-10-20T19:50:19.683942Z",
+          "url": "https://raw.githubusercontent.com/qjlxg/one/main/nodes.yaml"
+        },
+        {
+          "path": "nodes_list_fast.txt",
+          "node_count": 500,
+          "last_checked": "2026-10-20T19:50:19.840071Z",
+          "url": "https://raw.githubusercontent.com/qjlxg/one/main/nodes_list_fast.txt"
+        },
+        {
+          "path": "trojan_links.txt",
+          "node_count": 743,
+          "last_checked": "2026-10-20T19:50:20.110234Z",
+          "url": "https://raw.githubusercontent.com/qjlxg/one/main/trojan_links.txt"
+        }
+      ],
+      "last_full_scan": "2026-10-20T19:50:31.246604Z",
+      "last_nodes_update": "2026-10-20T19:50:31.246631Z"
+    },
+    {
       "repository": "wa3duck/freenodes",
       "stars": 0,
       "forks": 0,
@@ -13207,7 +13249,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-20 15:59:57",
-  "total_whitelisted_repos": 53,
-  "total_cached_nodes": 55174
+  "updated_at": "2026-10-20 19:50:31",
+  "total_whitelisted_repos": 54,
+  "total_cached_nodes": 57844
 }
