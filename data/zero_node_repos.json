@@ -125,6 +125,7 @@
     "CloudTool/proxy_share",
     "Colasaiko/Jichangmao",
     "ComfyUI-Plugin/UNet-CLIP-VAE",
+    "Coore309/ComfyUI_Coore_Tool_Nodes",
     "Craftbai/monitoring_node",
     "CreditsPlan/creditsplan-cn",
     "Ctrl1CandV/Atlas",
@@ -1439,5 +1440,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-21 08:57:42"
+  "updated_at": "2026-10-21 16:15:57"
 }

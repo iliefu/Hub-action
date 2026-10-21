@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 86,
-      "forks": 77,
-      "extracted_nodes": 564,
-      "valid_nodes": 24,
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9372,
+      "forks": 674,
+      "extracted_nodes": 408,
+      "valid_nodes": 273,
       "quality_score": 100
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9372,
-      "forks": 673,
-      "extracted_nodes": 481,
-      "valid_nodes": 311,
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 86,
+      "forks": 77,
+      "extracted_nodes": 625,
+      "valid_nodes": 25,
       "quality_score": 100
     },
     {
@@ -25,19 +25,27 @@
       "quality_score": 100
     },
     {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 23,
-      "forks": 1,
-      "extracted_nodes": 109,
-      "valid_nodes": 6,
-      "quality_score": 59.4
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 97,
+      "forks": 8,
+      "extracted_nodes": 348,
+      "valid_nodes": 13,
+      "quality_score": 88.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 147,
-      "valid_nodes": 124,
+      "valid_nodes": 135,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "bily1258-design/beimi",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 1358,
+      "valid_nodes": 328,
       "quality_score": 40.8
     },
     {
@@ -57,23 +65,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "chatgptguide/ChatGPT-CN",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "muge233/starisle-vpn-download",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "lisong2003-lgtm/zhuangshi-suanliang",
+      "repository": "Coore309/ComfyUI_Coore_Tool_Nodes",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +73,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-21 08:57:45"
+  "updated_at": "2026-10-21 16:16:02"
 }
