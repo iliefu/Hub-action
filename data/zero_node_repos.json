@@ -54,6 +54,7 @@
     "ANe5s/ComfyUI-MiniMax-H3-Hybrid",
     "ATLCNND/ATL-MCPanel-V1",
     "Aaalice233/ComfyUI-Aaalice-Nodes",
+    "Abao130/xingjiabijichang",
     "Abao135/jc-tizi-tj",
     "AbnerSC/NexHome",
     "AeternaDataSources/cloudflare_zero_trust_tunnel_warp_connector_config",
@@ -441,6 +442,7 @@
     "WTriumph/DeepSeek-Harness-macOS-Desktop-App",
     "WaneDay/VerPinG",
     "Wangsc1/ai-usage",
+    "Wangsc1/dashboard",
     "WayneDuan/RelayForge-Release",
     "Wei-Shaw/sub2api",
     "Wenaixi/dsh-ponytail",
@@ -956,6 +958,7 @@
     "liuyangyi0/argus",
     "liuyubing233/zhihu-custom",
     "lixi333/ai-rules",
+    "lixi333/muse-rules",
     "lizy0327/fio-bench",
     "lje02/probe-bot",
     "llaassmail-ui/aws-storage-tool",
@@ -1425,6 +1428,7 @@
     "zhouzhouprogram/Shadowrocket-ADBlock-Rules",
     "zhufx/iptv-api",
     "zhujiuyi/ccgui-plugin-balance-meter",
+    "zhuweiyou/codearts2api",
     "zidimoxu89/fjt",
     "zieang88888/coding-interview-university-zh",
     "zinan92/daily-newsletter",
@@ -1442,5 +1446,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-21 22:52:49"
+  "updated_at": "2026-10-22 02:21:15"
 }
