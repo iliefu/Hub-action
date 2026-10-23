@@ -10093,156 +10093,6 @@
       "last_nodes_update": "2026-09-12T17:58:10.772578Z"
     },
     {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 3000,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "output/clash/10-12.yaml",
-          "node_count": 355,
-          "last_checked": "2026-10-15T15:56:50.674669Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/10-12.yaml"
-        },
-        {
-          "path": "output/clash/10-13.yaml",
-          "node_count": 483,
-          "last_checked": "2026-10-15T15:56:51.250598Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/10-13.yaml"
-        },
-        {
-          "path": "output/clash/10-14.yaml",
-          "node_count": 480,
-          "last_checked": "2026-10-15T15:56:51.823131Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/10-14.yaml"
-        },
-        {
-          "path": "output/clash/10-15.yaml",
-          "node_count": 460,
-          "last_checked": "2026-10-15T15:56:52.345008Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/10-15.yaml"
-        },
-        {
-          "path": "output/clash/latest.yaml",
-          "node_count": 460,
-          "last_checked": "2026-10-15T15:56:52.858112Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/latest.yaml"
-        },
-        {
-          "path": "output/merged/10-11.clash.yaml",
-          "node_count": 150,
-          "last_checked": "2026-10-15T15:56:53.233085Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-11.clash.yaml"
-        },
-        {
-          "path": "output/merged/10-11.v2ray.txt",
-          "node_count": 23,
-          "last_checked": "2026-10-15T15:56:53.375959Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-11.v2ray.txt"
-        },
-        {
-          "path": "output/merged/10-12.clash.yaml",
-          "node_count": 132,
-          "last_checked": "2026-10-15T15:56:53.687685Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-12.clash.yaml"
-        },
-        {
-          "path": "output/merged/10-12.v2ray.txt",
-          "node_count": 28,
-          "last_checked": "2026-10-15T15:56:53.839431Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-12.v2ray.txt"
-        },
-        {
-          "path": "output/merged/10-13.clash.yaml",
-          "node_count": 135,
-          "last_checked": "2026-10-15T15:56:54.169882Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-13.clash.yaml"
-        },
-        {
-          "path": "output/merged/10-13.v2ray.txt",
-          "node_count": 29,
-          "last_checked": "2026-10-15T15:56:54.318696Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-13.v2ray.txt"
-        },
-        {
-          "path": "output/merged/10-14.clash.yaml",
-          "node_count": 131,
-          "last_checked": "2026-10-15T15:56:54.641168Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-14.clash.yaml"
-        },
-        {
-          "path": "output/merged/10-14.v2ray.txt",
-          "node_count": 33,
-          "last_checked": "2026-10-15T15:56:54.802312Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-14.v2ray.txt"
-        },
-        {
-          "path": "output/merged/10-15.clash.yaml",
-          "node_count": 129,
-          "last_checked": "2026-10-15T15:56:55.108500Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-15.clash.yaml"
-        },
-        {
-          "path": "output/merged/10-15.v2ray.txt",
-          "node_count": 24,
-          "last_checked": "2026-10-15T15:56:55.236110Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-15.v2ray.txt"
-        },
-        {
-          "path": "output/merged/latest.clash.yaml",
-          "node_count": 129,
-          "last_checked": "2026-10-15T15:56:55.535321Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/latest.clash.yaml"
-        },
-        {
-          "path": "output/merged/latest.v2ray.txt",
-          "node_count": 24,
-          "last_checked": "2026-10-15T15:56:55.677151Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/latest.v2ray.txt"
-        },
-        {
-          "path": "output/v2ray/10-11.txt",
-          "node_count": 773,
-          "last_checked": "2026-10-15T15:56:55.874908Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/10-11.txt"
-        },
-        {
-          "path": "output/v2ray/10-12.txt",
-          "node_count": 96,
-          "last_checked": "2026-10-15T15:56:56.004014Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/10-12.txt"
-        },
-        {
-          "path": "output/v2ray/10-13.txt",
-          "node_count": 137,
-          "last_checked": "2026-10-15T15:56:56.151328Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/10-13.txt"
-        },
-        {
-          "path": "output/v2ray/10-14.txt",
-          "node_count": 128,
-          "last_checked": "2026-10-15T15:56:56.276168Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/10-14.txt"
-        },
-        {
-          "path": "output/v2ray/10-15.txt",
-          "node_count": 114,
-          "last_checked": "2026-10-15T15:56:56.419199Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/10-15.txt"
-        },
-        {
-          "path": "output/v2ray/latest.txt",
-          "node_count": 114,
-          "last_checked": "2026-10-15T15:56:56.577087Z",
-          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/latest.txt"
-        }
-      ],
-      "last_full_scan": "2026-10-15T15:57:04.788750Z",
-      "last_nodes_update": "2026-10-15T15:57:04.788773Z"
-    },
-    {
       "repository": "cxddgtb/dljdsjq",
       "stars": 24,
       "forks": 5,
@@ -10277,6 +10127,156 @@
       ],
       "last_full_scan": "2026-10-13T20:53:37.173535Z",
       "last_nodes_update": "2026-10-13T20:53:37.173551Z"
+    },
+    {
+      "repository": "huiwin/NodeCollection",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 2808,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "output/clash/10-20.yaml",
+          "node_count": 305,
+          "last_checked": "2026-10-23T16:04:31.246669Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/10-20.yaml"
+        },
+        {
+          "path": "output/clash/10-21.yaml",
+          "node_count": 283,
+          "last_checked": "2026-10-23T16:04:31.811268Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/10-21.yaml"
+        },
+        {
+          "path": "output/clash/10-23.yaml",
+          "node_count": 314,
+          "last_checked": "2026-10-23T16:04:32.269222Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/10-23.yaml"
+        },
+        {
+          "path": "output/clash/10-24.yaml",
+          "node_count": 313,
+          "last_checked": "2026-10-23T16:04:32.726712Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/10-24.yaml"
+        },
+        {
+          "path": "output/clash/latest.yaml",
+          "node_count": 313,
+          "last_checked": "2026-10-23T16:04:33.325903Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/clash/latest.yaml"
+        },
+        {
+          "path": "output/merged/10-20.clash.yaml",
+          "node_count": 117,
+          "last_checked": "2026-10-23T16:04:33.683065Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-20.clash.yaml"
+        },
+        {
+          "path": "output/merged/10-20.v2ray.txt",
+          "node_count": 1,
+          "last_checked": "2026-10-23T16:04:33.830270Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-20.v2ray.txt"
+        },
+        {
+          "path": "output/merged/10-21.clash.yaml",
+          "node_count": 130,
+          "last_checked": "2026-10-23T16:04:34.186035Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-21.clash.yaml"
+        },
+        {
+          "path": "output/merged/10-21.v2ray.txt",
+          "node_count": 24,
+          "last_checked": "2026-10-23T16:04:34.348976Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-21.v2ray.txt"
+        },
+        {
+          "path": "output/merged/10-22.clash.yaml",
+          "node_count": 150,
+          "last_checked": "2026-10-23T16:04:34.736339Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-22.clash.yaml"
+        },
+        {
+          "path": "output/merged/10-22.v2ray.txt",
+          "node_count": 35,
+          "last_checked": "2026-10-23T16:04:34.906907Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-22.v2ray.txt"
+        },
+        {
+          "path": "output/merged/10-23.clash.yaml",
+          "node_count": 128,
+          "last_checked": "2026-10-23T16:04:35.225524Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-23.clash.yaml"
+        },
+        {
+          "path": "output/merged/10-23.v2ray.txt",
+          "node_count": 2,
+          "last_checked": "2026-10-23T16:04:35.372542Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-23.v2ray.txt"
+        },
+        {
+          "path": "output/merged/10-24.clash.yaml",
+          "node_count": 127,
+          "last_checked": "2026-10-23T16:04:35.774527Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-24.clash.yaml"
+        },
+        {
+          "path": "output/merged/10-24.v2ray.txt",
+          "node_count": 7,
+          "last_checked": "2026-10-23T16:04:35.936558Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/10-24.v2ray.txt"
+        },
+        {
+          "path": "output/merged/latest.clash.yaml",
+          "node_count": 127,
+          "last_checked": "2026-10-23T16:04:36.364428Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/latest.clash.yaml"
+        },
+        {
+          "path": "output/merged/latest.v2ray.txt",
+          "node_count": 7,
+          "last_checked": "2026-10-23T16:04:36.525053Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/merged/latest.v2ray.txt"
+        },
+        {
+          "path": "output/v2ray/10-20.txt",
+          "node_count": 82,
+          "last_checked": "2026-10-23T16:04:36.745634Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/10-20.txt"
+        },
+        {
+          "path": "output/v2ray/10-21.txt",
+          "node_count": 88,
+          "last_checked": "2026-10-23T16:04:36.901681Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/10-21.txt"
+        },
+        {
+          "path": "output/v2ray/10-22.txt",
+          "node_count": 823,
+          "last_checked": "2026-10-23T16:04:37.190572Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/10-22.txt"
+        },
+        {
+          "path": "output/v2ray/10-23.txt",
+          "node_count": 83,
+          "last_checked": "2026-10-23T16:04:37.340846Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/10-23.txt"
+        },
+        {
+          "path": "output/v2ray/10-24.txt",
+          "node_count": 82,
+          "last_checked": "2026-10-23T16:04:37.513463Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/10-24.txt"
+        },
+        {
+          "path": "output/v2ray/latest.txt",
+          "node_count": 82,
+          "last_checked": "2026-10-23T16:04:37.660879Z",
+          "url": "https://raw.githubusercontent.com/huiwin/NodeCollection/main/output/v2ray/latest.txt"
+        }
+      ],
+      "last_full_scan": "2026-10-23T16:04:49.840135Z",
+      "last_nodes_update": "2026-10-23T16:04:49.840141Z"
     },
     {
       "repository": "qjlxg/one",
@@ -11585,6 +11585,90 @@
       ],
       "last_full_scan": "2026-06-30T17:48:46.673410Z",
       "last_nodes_update": "2026-06-30T17:48:46.673434Z"
+    },
+    {
+      "repository": "alireza786786/Free-V2ray-Configs",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 726,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "all_servers.txt",
+          "node_count": 592,
+          "last_checked": "2026-10-23T16:04:14.716718Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/all_servers.txt"
+        },
+        {
+          "path": "servers/hysteria2.txt",
+          "node_count": 119,
+          "last_checked": "2026-10-23T16:04:17.586362Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/hysteria2.txt"
+        },
+        {
+          "path": "servers/hysteria2_servers.txt",
+          "node_count": 4,
+          "last_checked": "2026-10-23T16:04:17.742078Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/hysteria2_servers.txt"
+        },
+        {
+          "path": "servers/hysteria_servers.txt",
+          "node_count": 1,
+          "last_checked": "2026-10-23T16:04:17.893329Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/hysteria_servers.txt"
+        },
+        {
+          "path": "servers/lite.txt",
+          "node_count": 70,
+          "last_checked": "2026-10-23T16:04:18.148440Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/lite.txt"
+        },
+        {
+          "path": "servers/ss_servers.txt",
+          "node_count": 91,
+          "last_checked": "2026-10-23T16:04:18.937054Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/ss_servers.txt"
+        },
+        {
+          "path": "servers/ssr_servers.txt",
+          "node_count": 1,
+          "last_checked": "2026-10-23T16:04:19.102820Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/ssr_servers.txt"
+        },
+        {
+          "path": "servers/trojan_servers.txt",
+          "node_count": 51,
+          "last_checked": "2026-10-23T16:04:19.335448Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/trojan_servers.txt"
+        },
+        {
+          "path": "servers/tuic.txt",
+          "node_count": 22,
+          "last_checked": "2026-10-23T16:04:19.728748Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/tuic.txt"
+        },
+        {
+          "path": "servers/tuic_servers.txt",
+          "node_count": 11,
+          "last_checked": "2026-10-23T16:04:19.884258Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/tuic_servers.txt"
+        },
+        {
+          "path": "servers/vless_servers.txt",
+          "node_count": 386,
+          "last_checked": "2026-10-23T16:04:20.059278Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/vless_servers.txt"
+        },
+        {
+          "path": "servers/vmess_servers.txt",
+          "node_count": 60,
+          "last_checked": "2026-10-23T16:04:20.273953Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/vmess_servers.txt"
+        }
+      ],
+      "last_full_scan": "2026-10-23T16:04:49.840073Z",
+      "last_nodes_update": "2026-10-23T16:04:49.840091Z"
     },
     {
       "repository": "chengaopan/AutoMergePublicNodes",
@@ -13249,7 +13333,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-23 08:55:24",
-  "total_whitelisted_repos": 54,
-  "total_cached_nodes": 57600
+  "updated_at": "2026-10-23 16:04:49",
+  "total_whitelisted_repos": 55,
+  "total_cached_nodes": 58134
 }
