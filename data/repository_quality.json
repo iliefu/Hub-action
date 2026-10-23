@@ -1,6 +1,14 @@
 {
   "repositories": [
     {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 86,
+      "forks": 78,
+      "extracted_nodes": 3000,
+      "valid_nodes": 2,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9376,
       "forks": 672,
@@ -9,11 +17,11 @@
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 86,
-      "forks": 78,
-      "extracted_nodes": 356,
-      "valid_nodes": 40,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 630,
+      "forks": 24,
+      "extracted_nodes": 14,
+      "valid_nodes": 6,
       "quality_score": 100
     },
     {
@@ -25,55 +33,47 @@
       "quality_score": 88.0
     },
     {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 264,
-      "forks": 33,
-      "extracted_nodes": 3,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 312,
-      "forks": 26,
-      "extracted_nodes": 50,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "v2raynnodes/clashfree",
-      "stars": 11,
-      "forks": 1,
-      "extracted_nodes": 1189,
-      "valid_nodes": 369,
-      "quality_score": 49.8
-    },
-    {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 5,
+      "valid_nodes": 6,
       "quality_score": 40.0
     },
     {
-      "repository": "anonymous99-Rise/get_subscribe",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 51,
-      "valid_nodes": 5,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "mphzm397/linux-vps-pricing-nodes",
-      "stars": 0,
+      "repository": "XXXfatiao/2026-vpn-jichangtuijian",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     },
     {
-      "repository": "zheng0625/Clash-Studio",
+      "repository": "XXXfatiao/tizicpj",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "jzjx242/gomami-nvme-pricing",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "zs350235495-ui/zhinanzhen",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "learnLi/free-nodes",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-23 02:25:24"
+  "updated_at": "2026-10-23 08:55:27"
 }
