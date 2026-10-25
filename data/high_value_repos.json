@@ -13191,7 +13191,7 @@
     {
       "repository": "saishun/TyporaTheme",
       "stars": 5,
-      "forks": 16,
+      "forks": 17,
       "extracted_nodes": 136,
       "valid_nodes": 0,
       "quality_score": 0.0,
@@ -13199,18 +13199,18 @@
         {
           "path": "sub.txt",
           "node_count": 63,
-          "last_checked": "2026-08-19T20:15:21.279657Z",
+          "last_checked": "2026-10-25T22:09:35.572058Z",
           "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/sub.txt"
         },
         {
           "path": "sub3.txt",
           "node_count": 73,
-          "last_checked": "2026-08-19T20:15:21.399747Z",
+          "last_checked": "2026-10-25T22:09:35.702645Z",
           "url": "https://raw.githubusercontent.com/saishun/TyporaTheme/main/sub3.txt"
         }
       ],
-      "last_full_scan": "2026-08-19T20:15:30.523520Z",
-      "last_nodes_update": "2026-08-19T20:15:30.523548Z"
+      "last_full_scan": "2026-10-25T22:09:39.016740Z",
+      "last_nodes_update": "2026-10-25T22:09:39.016764Z"
     },
     {
       "repository": "Acheirial/openit",
@@ -13369,7 +13369,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-25 18:36:45",
+  "updated_at": "2026-10-25 22:09:39",
   "total_whitelisted_repos": 56,
   "total_cached_nodes": 59487
 }
