@@ -1,68 +1,36 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9383,
-      "forks": 673,
-      "extracted_nodes": 878,
-      "valid_nodes": 326,
-      "quality_score": 100
-    },
-    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 86,
       "forks": 79,
-      "extracted_nodes": 876,
-      "valid_nodes": 58,
+      "extracted_nodes": 935,
+      "valid_nodes": 40,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 97,
-      "forks": 8,
-      "extracted_nodes": 353,
-      "valid_nodes": 10,
-      "quality_score": 88.0
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9385,
+      "forks": 674,
+      "extracted_nodes": 878,
+      "valid_nodes": 310,
+      "quality_score": 100
     },
     {
-      "repository": "pornnewbee/free-vless-VPN",
-      "stars": 70,
-      "forks": 6,
-      "extracted_nodes": 77,
-      "valid_nodes": 54,
-      "quality_score": 86.0
-    },
-    {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 263,
-      "forks": 34,
-      "extracted_nodes": 3,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 313,
-      "forks": 26,
-      "extracted_nodes": 17,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "hello-world-1989/cn-news",
+      "stars": 631,
+      "forks": 24,
+      "extracted_nodes": 14,
+      "valid_nodes": 6,
+      "quality_score": 100
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 23,
       "forks": 1,
       "extracted_nodes": 109,
-      "valid_nodes": 2,
+      "valid_nodes": 4,
       "quality_score": 59.4
-    },
-    {
-      "repository": "alireza786786/Free-V2ray-Configs",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 403,
-      "valid_nodes": 20,
-      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -81,7 +49,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "zxsla/tvboxlaqu",
+      "repository": "YohakuSama/loonkit",
+      "stars": 34,
+      "forks": 2,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 29.2
+    },
+    {
+      "repository": "Xi-Mu12/CHMLFrp-SpeedTest",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,7 +65,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "wwfalcon/ai-data-digest",
+      "repository": "lensiao/lvpn-jichang",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "lensiao/shenlong-jichang",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-25 02:10:08"
+  "updated_at": "2026-10-25 08:48:01"
 }
