@@ -13316,7 +13316,7 @@
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
-      "stars": 24,
+      "stars": 23,
       "forks": 1,
       "extracted_nodes": 109,
       "valid_nodes": 0,
@@ -13325,30 +13325,30 @@
         {
           "path": "source/clash-meta-2.yaml",
           "node_count": 85,
-          "last_checked": "2026-10-18T18:20:51.395394Z",
+          "last_checked": "2026-10-25T18:36:24.721305Z",
           "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta-2.yaml"
         },
         {
           "path": "source/clash-meta.yaml",
           "node_count": 16,
-          "last_checked": "2026-10-18T18:20:51.972968Z",
+          "last_checked": "2026-10-25T18:36:25.365254Z",
           "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/source/clash-meta.yaml"
         },
         {
           "path": "subscribe/clash.yml",
           "node_count": 3,
-          "last_checked": "2026-10-18T18:20:52.079023Z",
+          "last_checked": "2026-10-25T18:36:25.518712Z",
           "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/clash.yml"
         },
         {
           "path": "subscribe/v2ray.txt",
           "node_count": 26,
-          "last_checked": "2026-10-18T18:20:52.175587Z",
+          "last_checked": "2026-10-25T18:36:25.661137Z",
           "url": "https://raw.githubusercontent.com/marshall888666/free_clash_subscribe/main/subscribe/v2ray.txt"
         }
       ],
-      "last_full_scan": "2026-10-18T18:22:14.299182Z",
-      "last_nodes_update": "2026-10-18T18:22:14.299200Z"
+      "last_full_scan": "2026-10-25T18:36:45.666756Z",
+      "last_nodes_update": "2026-10-25T18:36:45.666775Z"
     },
     {
       "repository": "OrdoAbChao7/ClashVerge-free-AutoRefresher",
@@ -13369,7 +13369,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-25 15:12:52",
+  "updated_at": "2026-10-25 18:36:45",
   "total_whitelisted_repos": 56,
   "total_cached_nodes": 59487
 }
