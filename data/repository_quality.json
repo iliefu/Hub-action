@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9393,
-      "forks": 674,
-      "extracted_nodes": 806,
-      "valid_nodes": 290,
-      "quality_score": 100
-    },
-    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 86,
       "forks": 80,
-      "extracted_nodes": 649,
-      "valid_nodes": 15,
+      "extracted_nodes": 615,
+      "valid_nodes": 29,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9395,
+      "forks": 674,
+      "extracted_nodes": 806,
+      "valid_nodes": 288,
       "quality_score": 100
     },
     {
@@ -28,48 +28,16 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 98,
       "forks": 8,
-      "extracted_nodes": 359,
-      "valid_nodes": 11,
+      "extracted_nodes": 351,
+      "valid_nodes": 9,
       "quality_score": 88.0
-    },
-    {
-      "repository": "jingyu000/ComfyUI-MiniMaxH3-WhaleTrans-Director",
-      "stars": 50,
-      "forks": 4,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 44.0
-    },
-    {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 401,
-      "quality_score": 42.4
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 0,
-      "forks": 1,
-      "extracted_nodes": 1456,
-      "valid_nodes": 1134,
-      "quality_score": 41.0
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 146,
-      "valid_nodes": 136,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "bily1258-design/beimi",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 1261,
-      "valid_nodes": 351,
+      "extracted_nodes": 145,
+      "valid_nodes": 137,
       "quality_score": 40.8
     },
     {
@@ -87,31 +55,7 @@
       "extracted_nodes": 51,
       "valid_nodes": 5,
       "quality_score": 40.0
-    },
-    {
-      "repository": "duckandduck23/duck-scanner-warp",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "kylo1989/ch-subscribe",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "wpcwzy/echoic",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-26 17:52:18"
+  "updated_at": "2026-10-26 23:26:41"
 }
