@@ -2,50 +2,42 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9389,
+      "stars": 9392,
       "forks": 674,
       "extracted_nodes": 869,
-      "valid_nodes": 328,
+      "valid_nodes": 331,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 86,
-      "forks": 80,
-      "extracted_nodes": 565,
-      "valid_nodes": 29,
-      "quality_score": 100
-    },
-    {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 314,
+      "repository": "hello-world-1989/cn-news",
+      "stars": 632,
       "forks": 26,
-      "extracted_nodes": 30,
-      "valid_nodes": 2,
+      "extracted_nodes": 14,
+      "valid_nodes": 5,
       "quality_score": 100
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 97,
-      "forks": 8,
-      "extracted_nodes": 357,
-      "valid_nodes": 11,
-      "quality_score": 88.0
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 529,
-      "valid_nodes": 16,
+      "extracted_nodes": 716,
+      "valid_nodes": 33,
       "quality_score": 41.6
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 149,
+      "valid_nodes": 144,
+      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 6,
+      "valid_nodes": 7,
       "quality_score": 40.0
     },
     {
@@ -57,15 +49,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "lainbo/scriptable-glance",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "tunnel-syndrome/awg-config-validator",
+      "repository": "YT24/t-flow",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,7 +57,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "qwq-wny/dsh-eta-forecast",
+      "repository": "HlONGlin/MieruPilot",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,7 +65,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "antioxi1/my-sub-nodes",
+      "repository": "zs350235495-ui/shequ",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "YJVIst/DNSDOH",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-26 02:10:32"
+  "updated_at": "2026-10-26 09:27:52"
 }
