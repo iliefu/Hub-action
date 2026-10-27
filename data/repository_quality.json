@@ -2,18 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9396,
+      "stars": 9395,
       "forks": 674,
       "extracted_nodes": 792,
-      "valid_nodes": 292,
+      "valid_nodes": 279,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 86,
       "forks": 80,
-      "extracted_nodes": 445,
-      "valid_nodes": 20,
+      "extracted_nodes": 630,
+      "valid_nodes": 42,
       "quality_score": 100
     },
     {
@@ -25,27 +25,27 @@
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 98,
-      "forks": 8,
-      "extracted_nodes": 351,
-      "valid_nodes": 9,
-      "quality_score": 88.0
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 23,
+      "forks": 1,
+      "extracted_nodes": 109,
+      "valid_nodes": 3,
+      "quality_score": 59.4
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 313,
-      "forks": 26,
-      "extracted_nodes": 18,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 144,
+      "valid_nodes": 130,
+      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 6,
+      "valid_nodes": 5,
       "quality_score": 40.0
     },
     {
@@ -57,21 +57,45 @@
       "quality_score": 40.0
     },
     {
-      "repository": "riverscn/singbox-confgen",
-      "stars": 29,
-      "forks": 3,
-      "extracted_nodes": 13,
+      "repository": "zhongwangwei/CoLM-Desktop",
+      "stars": 3,
+      "forks": 1,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 26.2
+      "quality_score": 3.4
     },
     {
-      "repository": "48ytw4q7zg-sudo/claude-switcher-windows",
-      "stars": 1,
+      "repository": "rz467fzs7d/openwrt-network-stack",
+      "stars": 4,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 3.2
+    },
+    {
+      "repository": "xmwengxing/CFPilot",
+      "stars": 1,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.8
+    },
+    {
+      "repository": "alireza786786/Free-V2ray-Configs",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 256,
+      "valid_nodes": 0,
+      "quality_score": 1.6
+    },
+    {
+      "repository": "cf876/agsbx",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-27 02:47:39"
+  "updated_at": "2026-10-27 09:25:33"
 }
