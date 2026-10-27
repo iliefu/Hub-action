@@ -11527,6 +11527,66 @@
       "last_nodes_update": "2026-06-18T08:32:15.215981Z"
     },
     {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9396,
+      "forks": 675,
+      "extracted_nodes": 802,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "subscribe/clash.yml",
+          "node_count": 346,
+          "last_checked": "2026-10-27T16:59:27.361187Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml"
+        },
+        {
+          "path": "subscribe/reachable/clash.yml",
+          "node_count": 263,
+          "last_checked": "2026-10-27T16:59:27.744291Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/reachable/clash.yml"
+        },
+        {
+          "path": "subscribe/reachable/v2ray.txt",
+          "node_count": 402,
+          "last_checked": "2026-10-27T16:59:27.823401Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/reachable/v2ray.txt"
+        },
+        {
+          "path": "subscribe/unreachable/clash.yml",
+          "node_count": 26,
+          "last_checked": "2026-10-27T16:59:27.940727Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/unreachable/clash.yml"
+        },
+        {
+          "path": "subscribe/unreachable/v2ray.txt",
+          "node_count": 49,
+          "last_checked": "2026-10-27T16:59:28.030321Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/unreachable/v2ray.txt"
+        },
+        {
+          "path": "subscribe/untested/clash.yml",
+          "node_count": 57,
+          "last_checked": "2026-10-27T16:59:28.177068Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/untested/clash.yml"
+        },
+        {
+          "path": "subscribe/untested/v2ray.txt",
+          "node_count": 55,
+          "last_checked": "2026-10-27T16:59:28.273258Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/untested/v2ray.txt"
+        },
+        {
+          "path": "subscribe/v2ray.txt",
+          "node_count": 506,
+          "last_checked": "2026-10-27T16:59:28.360700Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt"
+        }
+      ],
+      "last_full_scan": "2026-10-27T16:59:42.824052Z",
+      "last_nodes_update": "2026-10-27T16:59:42.824068Z"
+    },
+    {
       "repository": "tonyhuang23-sys/CFnodes",
       "stars": 0,
       "forks": 0,
@@ -12035,66 +12095,6 @@
       ],
       "last_full_scan": "2026-10-18T15:06:34.731711Z",
       "last_nodes_update": "2026-10-18T15:06:34.731716Z"
-    },
-    {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9368,
-      "forks": 673,
-      "extracted_nodes": 437,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "subscribe/clash.yml",
-          "node_count": 382,
-          "last_checked": "2026-10-20T15:58:35.415224Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml"
-        },
-        {
-          "path": "subscribe/reachable/clash.yml",
-          "node_count": 292,
-          "last_checked": "2026-10-20T15:58:35.981762Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/reachable/clash.yml"
-        },
-        {
-          "path": "subscribe/reachable/v2ray.txt",
-          "node_count": 44,
-          "last_checked": "2026-10-20T15:58:36.078215Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/reachable/v2ray.txt"
-        },
-        {
-          "path": "subscribe/unreachable/clash.yml",
-          "node_count": 27,
-          "last_checked": "2026-10-20T15:58:36.307352Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/unreachable/clash.yml"
-        },
-        {
-          "path": "subscribe/unreachable/v2ray.txt",
-          "node_count": 5,
-          "last_checked": "2026-10-20T15:58:36.476140Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/unreachable/v2ray.txt"
-        },
-        {
-          "path": "subscribe/untested/clash.yml",
-          "node_count": 63,
-          "last_checked": "2026-10-20T15:58:36.784106Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/untested/clash.yml"
-        },
-        {
-          "path": "subscribe/untested/v2ray.txt",
-          "node_count": 6,
-          "last_checked": "2026-10-20T15:58:36.941308Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/untested/v2ray.txt"
-        },
-        {
-          "path": "subscribe/v2ray.txt",
-          "node_count": 55,
-          "last_checked": "2026-10-20T15:58:37.044799Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt"
-        }
-      ],
-      "last_full_scan": "2026-10-20T15:59:57.656888Z",
-      "last_nodes_update": "2026-10-20T15:59:57.656916Z"
     },
     {
       "repository": "free18/v2ray",
@@ -13303,7 +13303,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-27 09:25:30",
+  "updated_at": "2026-10-27 16:59:42",
   "total_whitelisted_repos": 56,
-  "total_cached_nodes": 59487
+  "total_cached_nodes": 59852
 }
