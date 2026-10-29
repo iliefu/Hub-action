@@ -268,6 +268,7 @@
     "LightningLion-Studio/Android_WatchRSS_Phone",
     "LikaiLee/rss-reader",
     "Lin-arm/GKD_subscription",
+    "Lin-sist/Flashback",
     "Linlinqiu/LIO-LoopClosure",
     "Linsars/sub-store-bot",
     "Liyucheng1997/bookshelf-reader",
@@ -942,6 +943,7 @@
     "kukumi1/sing-box",
     "kukumi1/sing-box-v6",
     "kumi-info/Maincraft-plugin_laddercountdown",
+    "kure29/flyx",
     "kurumiZafkiel12/nat-vps-sub-guide",
     "kxswgj/appleid-free",
     "kyhx/OverCAN-KYHX",
@@ -1526,6 +1528,7 @@
     "zlzfun/DoramiSourceArchive",
     "zming-huang/Pure_Vector_Studio_Pro",
     "zoardgodor/WG-Warp-tool",
+    "zoardgodor/warp-WG-config-generator",
     "zoufudun/hengji",
     "zqs1qiwan/warp2wireguard",
     "zs350235495-ui/loutishequ",
@@ -1545,5 +1548,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-29 17:44:42"
+  "updated_at": "2026-10-29 23:42:43"
 }
