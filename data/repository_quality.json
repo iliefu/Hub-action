@@ -2,50 +2,42 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9402,
+      "stars": 9403,
       "forks": 676,
-      "extracted_nodes": 714,
-      "valid_nodes": 259,
+      "extracted_nodes": 772,
+      "valid_nodes": 257,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 87,
       "forks": 81,
-      "extracted_nodes": 695,
-      "valid_nodes": 89,
+      "extracted_nodes": 569,
+      "valid_nodes": 64,
+      "quality_score": 100
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 313,
+      "forks": 25,
+      "extracted_nodes": 27,
+      "valid_nodes": 2,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 636,
+      "stars": 637,
       "forks": 27,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 99,
-      "forks": 8,
-      "extracted_nodes": 372,
-      "valid_nodes": 14,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "wenxig/dongtai-sub",
-      "stars": 265,
-      "forks": 34,
-      "extracted_nodes": 3,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 1067,
-      "valid_nodes": 85,
+      "extracted_nodes": 736,
+      "valid_nodes": 42,
       "quality_score": 41.6
     },
     {
@@ -53,7 +45,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 141,
-      "valid_nodes": 139,
+      "valid_nodes": 129,
       "quality_score": 40.8
     },
     {
@@ -61,7 +53,7 @@
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 6,
+      "valid_nodes": 5,
       "quality_score": 40.0
     },
     {
@@ -73,23 +65,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "Largo-m/ExploitFA",
-      "stars": 5,
-      "forks": 2,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 6.0
-    },
-    {
-      "repository": "Largo-m/vless-toolkit",
-      "stars": 2,
+      "repository": "nichecer/v2ray-node-share",
+      "stars": 0,
       "forks": 0,
-      "extracted_nodes": 0,
+      "extracted_nodes": 24,
       "valid_nodes": 0,
-      "quality_score": 1.6
+      "quality_score": 0.0
     },
     {
-      "repository": "amiralidlb93-hash/-AmneziaWG-Config-Generator",
+      "repository": "Freeze7749/claude-token-monitor-ball",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,7 +81,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "LeBaronDeCharlus/bepo-mac-warpd",
+      "repository": "zzmm-1314/power_tool",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,23 +89,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "lzm0x219/airport-monitor",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "lza6/ASL-Tunnel-VPN-APK-Reverse",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "lza6/Jolt-VPN-APK-Reverse",
+      "repository": "zyf2492313716-cloud/kaogong-daily",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -129,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-28 23:43:16"
+  "updated_at": "2026-10-29 03:20:52"
 }
