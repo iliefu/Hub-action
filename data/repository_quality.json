@@ -2,26 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9411,
+      "stars": 9409,
       "forks": 678,
-      "extracted_nodes": 814,
-      "valid_nodes": 295,
+      "extracted_nodes": 884,
+      "valid_nodes": 335,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 87,
       "forks": 81,
-      "extracted_nodes": 729,
-      "valid_nodes": 83,
-      "quality_score": 100
-    },
-    {
-      "repository": "chengaopan/AutoMergePublicNodes",
-      "stars": 8297,
-      "forks": 1260,
-      "extracted_nodes": 738,
-      "valid_nodes": 195,
+      "extracted_nodes": 1012,
+      "valid_nodes": 118,
       "quality_score": 100
     },
     {
@@ -33,20 +25,44 @@
       "quality_score": 100
     },
     {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 314,
+      "forks": 25,
+      "extracted_nodes": 2,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 944,
-      "valid_nodes": 67,
+      "extracted_nodes": 936,
+      "valid_nodes": 65,
       "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 145,
-      "valid_nodes": 136,
+      "extracted_nodes": 136,
+      "valid_nodes": 122,
       "quality_score": 40.8
+    },
+    {
+      "repository": "bily1258-design/beimi",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 1408,
+      "valid_nodes": 396,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "nichecer/v2ray-node-share",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 17,
+      "valid_nodes": 1,
+      "quality_score": 40.0
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -65,21 +81,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "aimiliya825/codex-desktop-zh-cn",
-      "stars": 0,
+      "repository": "K-S-D-M/gkd-subscription-public",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "Himhu/newcode",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 0.8
     }
   ],
-  "updated_at": "2026-10-30 10:32:01"
+  "updated_at": "2026-10-30 17:25:10"
 }
