@@ -2,66 +2,42 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9409,
+      "stars": 9411,
       "forks": 678,
       "extracted_nodes": 814,
-      "valid_nodes": 301,
+      "valid_nodes": 295,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 87,
       "forks": 81,
-      "extracted_nodes": 506,
-      "valid_nodes": 70,
+      "extracted_nodes": 729,
+      "valid_nodes": 83,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 99,
-      "forks": 8,
-      "extracted_nodes": 369,
-      "valid_nodes": 19,
-      "quality_score": 88.0
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 8297,
+      "forks": 1260,
+      "extracted_nodes": 738,
+      "valid_nodes": 195,
+      "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 315,
-      "forks": 25,
-      "extracted_nodes": 9,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "v2raynnodes/clashfree",
-      "stars": 11,
-      "forks": 1,
-      "extracted_nodes": 1189,
-      "valid_nodes": 365,
-      "quality_score": 49.8
-    },
-    {
-      "repository": "Romeroc751700/chatgpt-plus-pro-codex-cn-guide",
-      "stars": 203,
-      "forks": 8,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 48.0
-    },
-    {
-      "repository": "chjm-ai/vococo",
-      "stars": 42,
-      "forks": 9,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 42.6
+      "repository": "hello-world-1989/cn-news",
+      "stars": 640,
+      "forks": 27,
+      "extracted_nodes": 14,
+      "valid_nodes": 6,
+      "quality_score": 100
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 639,
-      "valid_nodes": 40,
+      "extracted_nodes": 944,
+      "valid_nodes": 67,
       "quality_score": 41.6
     },
     {
@@ -69,7 +45,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 145,
-      "valid_nodes": 143,
+      "valid_nodes": 136,
       "quality_score": 40.8
     },
     {
@@ -89,23 +65,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "chenzhuohou1-byte/occupational-task-forge",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "nichecer/v2ray-node-share",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 27,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "LargeAkon/JunctionBox",
+      "repository": "aimiliya825/codex-desktop-zh-cn",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,15 +73,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "50521136/aegis-dns",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "AbnerSC/NexHomeGo",
+      "repository": "Himhu/newcode",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -129,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-10-30 03:22:52"
+  "updated_at": "2026-10-30 10:32:01"
 }
