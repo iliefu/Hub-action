@@ -32,6 +32,7 @@
     "3ALLBUY14/ComfyUI-Majordomo",
     "411A/V2RayDAR",
     "48ytw4q7zg-sudo/claude-switcher-windows",
+    "50521136/aegis-dns",
     "52mpzw-gif/fanqiang-jichang",
     "5VNetwork/VX",
     "644646497/kindle-news-nyt",
@@ -59,6 +60,7 @@
     "Abao130/xingjiabijichang",
     "Abao135/jc-tizi-tj",
     "AbnerSC/NexHome",
+    "AbnerSC/NexHomeGo",
     "AeternaDataSources/cloudflare_zero_trust_tunnel_warp_connector_config",
     "AeternaFoundry/lookup_cloudflare_zero_trust_tunnel_warp_connector_config",
     "AeternaFoundry/module_cloudflare_zero_trust_tunnel_warp_connector_config",
@@ -256,6 +258,7 @@
     "LancelotRar/best-cf-ips",
     "LancelotRar/free-subs",
     "LankstonAnderson/WorkerVless2sub",
+    "LargeAkon/JunctionBox",
     "Largo-m/ExploitFA",
     "Largo-m/vless-toolkit",
     "LeBaronDeCharlus/bepo-mac-warpd",
@@ -376,6 +379,7 @@
     "RingoCaviar/CainFlow",
     "RiverFlowsInUUU/Self-Configuration",
     "Rmosser/Clash-Verge-For-LC",
+    "Romeroc751700/chatgpt-plus-pro-codex-cn-guide",
     "RovenEverward/my-proxy",
     "RukaPrPr/AichanToolbox",
     "Rurikobaka/Subscription-conversion-configuration",
@@ -623,9 +627,11 @@
     "cheluen/singbox-proxy-manager",
     "chenyiyao/TrendRadar",
     "chenyuhao0628/cal-sync",
+    "chenzhuohou1-byte/occupational-task-forge",
     "chinachat/Pulse-Linux-Probe",
     "chinahanyang1991-svg/vs-ios",
     "chinaxunmei/Comfyui-Erase-Watermarks",
+    "chjm-ai/vococo",
     "chouniu666/vpn",
     "chubbyguan/chubbyskills",
     "cijiezhi/dsh-proxy-auto",
@@ -1548,5 +1554,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-29 23:42:43"
+  "updated_at": "2026-10-30 03:22:41"
 }
