@@ -11966,45 +11966,45 @@
     },
     {
       "repository": "kooker/FreeSubsCheck",
-      "stars": 424,
-      "forks": 57,
-      "extracted_nodes": 643,
+      "stars": 448,
+      "forks": 59,
+      "extracted_nodes": 665,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "all.yaml",
           "node_count": 1,
-          "last_checked": "2026-10-17T18:02:02.970701Z",
+          "last_checked": "2026-10-31T10:01:07.400999Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/all.yaml"
         },
         {
           "path": "base64.txt",
           "node_count": 1,
-          "last_checked": "2026-10-17T18:02:03.114473Z",
+          "last_checked": "2026-10-31T10:01:07.559158Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt"
         },
         {
           "path": "byxiaoxi.txt",
           "node_count": 2,
-          "last_checked": "2026-10-17T18:02:03.329717Z",
+          "last_checked": "2026-10-31T10:01:07.733657Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/byxiaoxi.txt"
         },
         {
           "path": "kooker.jp.txt",
-          "node_count": 658,
-          "last_checked": "2026-10-17T18:02:03.479055Z",
+          "node_count": 676,
+          "last_checked": "2026-10-31T10:01:07.893679Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/kooker.jp.txt"
         },
         {
           "path": "mihomo.yaml",
           "node_count": 1,
-          "last_checked": "2026-10-17T18:02:03.633700Z",
+          "last_checked": "2026-10-31T10:01:08.058554Z",
           "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/mihomo.yaml"
         }
       ],
-      "last_full_scan": "2026-10-17T18:02:11.464731Z",
-      "last_nodes_update": "2026-10-17T18:02:11.464749Z"
+      "last_full_scan": "2026-10-31T10:01:11.895488Z",
+      "last_nodes_update": "2026-10-31T10:01:11.895515Z"
     },
     {
       "repository": "TravelLeobai/SCHPD",
@@ -13303,7 +13303,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-10-31 03:07:20",
+  "updated_at": "2026-10-31 10:01:11",
   "total_whitelisted_repos": 56,
-  "total_cached_nodes": 60162
+  "total_cached_nodes": 60184
 }
