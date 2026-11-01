@@ -51,6 +51,7 @@
     "996059396/dlg-learning",
     "9Kun/bilibili-media-hub",
     "A-z-exe/SchnellVPN",
+    "AIPMAndy/aitoken",
     "AIWaveAPI/aiwave-sdk-node",
     "AIsouler/MyClash",
     "ALLCAPS-Droid/xin-wen-lian-bo",
@@ -63,6 +64,7 @@
     "Abao135/jc-tizi-tj",
     "AbnerSC/NexHome",
     "AbnerSC/NexHomeGo",
+    "Ace2025001/antigravity-desktop-zhcn",
     "AeternaDataSources/cloudflare_zero_trust_tunnel_warp_connector_config",
     "AeternaFoundry/lookup_cloudflare_zero_trust_tunnel_warp_connector_config",
     "AeternaFoundry/module_cloudflare_zero_trust_tunnel_warp_connector_config",
@@ -1566,5 +1568,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-10-31 22:57:47"
+  "updated_at": "2026-11-01 03:01:42"
 }
