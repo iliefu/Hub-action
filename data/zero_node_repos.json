@@ -786,6 +786,7 @@
     "guanxi660-crypto/SubPilot",
     "guanxi660-crypto/nezha-aurora",
     "guojijun/ComfyUI_GJJ_Nodes",
+    "guxia66898/tvbox-static",
     "gxyandy/FreeProxiesSubscribeForClash",
     "h185085/ComfyUI-TishiciSuijiCuiquqi",
     "haandiiong/yp7.net",
@@ -1052,6 +1053,7 @@
     "ltaoo/findrss-worker",
     "luka-n8n-nodes/n8n-nodes-feilian",
     "luka-n8n-nodes/n8n-nodes-kingdee",
+    "luotai671-dotcom/bikengshe",
     "lux6301/tizimao",
     "luxuoo/greenhouse-system",
     "luyi2008/disaster-alert-web",
@@ -1306,6 +1308,7 @@
     "theworker02/warppath",
     "theworker02/warptext",
     "thezaynahmed/ghostty-config",
+    "thintsing/tower-web",
     "thoerwink8/fleet-dao",
     "thomast8/warp-claude-workflow",
     "thsrite/configflow",
@@ -1568,5 +1571,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-01 03:01:42"
+  "updated_at": "2026-11-01 10:54:05"
 }
