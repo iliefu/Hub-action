@@ -2,18 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9419,
+      "stars": 9420,
       "forks": 678,
-      "extracted_nodes": 479,
-      "valid_nodes": 338,
+      "extracted_nodes": 500,
+      "valid_nodes": 349,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 87,
       "forks": 81,
-      "extracted_nodes": 636,
-      "valid_nodes": 65,
+      "extracted_nodes": 619,
+      "valid_nodes": 74,
       "quality_score": 100
     },
     {
@@ -25,19 +25,19 @@
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 100,
-      "forks": 8,
-      "extracted_nodes": 368,
-      "valid_nodes": 14,
-      "quality_score": 88.0
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 315,
+      "forks": 25,
+      "extracted_nodes": 14,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 715,
-      "valid_nodes": 55,
+      "extracted_nodes": 679,
+      "valid_nodes": 44,
       "quality_score": 41.6
     },
     {
@@ -45,15 +45,23 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 145,
-      "valid_nodes": 142,
+      "valid_nodes": 141,
       "quality_score": 40.8
+    },
+    {
+      "repository": "nichecer/v2ray-node-share",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 20,
+      "valid_nodes": 1,
+      "quality_score": 40.0
     },
     {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 6,
+      "valid_nodes": 7,
       "quality_score": 40.0
     },
     {
@@ -65,15 +73,31 @@
       "quality_score": 40.0
     },
     {
-      "repository": "zhaoyang51/vpn-tizi-fanqiang",
-      "stars": 1,
+      "repository": "gblw1218/shadowrocket",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 170,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "MWang-TS/geniusflow",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.0
+    },
+    {
+      "repository": "cointaboo/account-guide-mcp",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     },
     {
-      "repository": "hh1949tt/tnews",
+      "repository": "HGamey/experiments",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-01 23:12:46"
+  "updated_at": "2026-11-02 03:12:30"
 }

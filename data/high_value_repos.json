@@ -10417,6 +10417,42 @@
       "last_nodes_update": "2026-10-31T16:28:51.224414Z"
     },
     {
+      "repository": "gblw1218/shadowrocket",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "sub/sub_ok.txt",
+          "node_count": 698,
+          "last_checked": "2026-11-02T03:12:19.511346Z",
+          "url": "https://raw.githubusercontent.com/gblw1218/shadowrocket/main/sub/sub_ok.txt"
+        },
+        {
+          "path": "sub/sub_ok_clash.yaml",
+          "node_count": 290,
+          "last_checked": "2026-11-02T03:12:19.866754Z",
+          "url": "https://raw.githubusercontent.com/gblw1218/shadowrocket/main/sub/sub_ok_clash.yaml"
+        },
+        {
+          "path": "sub/trojan.txt",
+          "node_count": 902,
+          "last_checked": "2026-11-02T03:12:20.025730Z",
+          "url": "https://raw.githubusercontent.com/gblw1218/shadowrocket/main/sub/trojan.txt"
+        },
+        {
+          "path": "sub/vless.txt",
+          "node_count": 3438,
+          "last_checked": "2026-11-02T03:12:20.337029Z",
+          "url": "https://raw.githubusercontent.com/gblw1218/shadowrocket/main/sub/vless.txt"
+        }
+      ],
+      "last_full_scan": "2026-11-02T03:12:26.261318Z",
+      "last_nodes_update": "2026-11-02T03:12:26.261334Z"
+    },
+    {
       "repository": "qjlxg/one",
       "stars": 0,
       "forks": 0,
@@ -11189,36 +11225,6 @@
       ],
       "last_full_scan": "2026-09-15T02:18:26.756219Z",
       "last_nodes_update": "2026-09-15T02:18:26.756223Z"
-    },
-    {
-      "repository": "gblw1218/shadowrocket",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 1346,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "sub/sub_ok.txt",
-          "node_count": 1760,
-          "last_checked": "2026-10-24T08:28:45.284134Z",
-          "url": "https://raw.githubusercontent.com/gblw1218/shadowrocket/main/sub/sub_ok.txt"
-        },
-        {
-          "path": "sub/trojan.txt",
-          "node_count": 1350,
-          "last_checked": "2026-10-24T08:28:45.501608Z",
-          "url": "https://raw.githubusercontent.com/gblw1218/shadowrocket/main/sub/trojan.txt"
-        },
-        {
-          "path": "sub/trojan_qx.txt",
-          "node_count": 1350,
-          "last_checked": "2026-10-24T08:28:45.744926Z",
-          "url": "https://raw.githubusercontent.com/gblw1218/shadowrocket/main/sub/trojan_qx.txt"
-        }
-      ],
-      "last_full_scan": "2026-10-24T08:28:52.628466Z",
-      "last_nodes_update": "2026-10-24T08:28:52.628486Z"
     },
     {
       "repository": "spincat/SmartProxyPipeline",
@@ -13507,7 +13513,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-11-01 23:12:44",
+  "updated_at": "2026-11-02 03:12:26",
   "total_whitelisted_repos": 56,
-  "total_cached_nodes": 60379
+  "total_cached_nodes": 62033
 }
