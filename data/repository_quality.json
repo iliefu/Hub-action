@@ -2,59 +2,43 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9420,
+      "stars": 9425,
       "forks": 678,
       "extracted_nodes": 500,
-      "valid_nodes": 349,
+      "valid_nodes": 333,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 87,
       "forks": 81,
-      "extracted_nodes": 619,
-      "valid_nodes": 74,
+      "extracted_nodes": 731,
+      "valid_nodes": 59,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 645,
+      "stars": 646,
       "forks": 28,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 315,
-      "forks": 25,
-      "extracted_nodes": 14,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 679,
-      "valid_nodes": 44,
+      "extracted_nodes": 843,
+      "valid_nodes": 49,
       "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 145,
-      "valid_nodes": 141,
+      "extracted_nodes": 142,
+      "valid_nodes": 128,
       "quality_score": 40.8
-    },
-    {
-      "repository": "nichecer/v2ray-node-share",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 20,
-      "valid_nodes": 1,
-      "quality_score": 40.0
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -73,23 +57,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "gblw1218/shadowrocket",
-      "stars": 0,
+      "repository": "baiyilevou/cf-ip",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 170,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "MWang-TS/geniusflow",
-      "stars": 0,
-      "forks": 1,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.0
+      "quality_score": 0.8
     },
     {
-      "repository": "cointaboo/account-guide-mcp",
+      "repository": "Heking114514/clash2pureIP",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,7 +73,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "HGamey/experiments",
+      "repository": "askdgsaf/translator",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "wsx97/qx-conf",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +89,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-02 03:12:30"
+  "updated_at": "2026-11-02 11:47:37"
 }
