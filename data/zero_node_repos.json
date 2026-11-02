@@ -1,6 +1,7 @@
 {
   "zero_node_repos": [
     "029danio/fly",
+    "029danio/jichangfree",
     "0xav10086/FlowCollect",
     "10000ge10000/clash-config-gen",
     "1148194155-cell/bureau2",
@@ -218,6 +219,7 @@
     "Hawaiine/mihomo-rules",
     "HeartHurt-code-y/infinite-canvas",
     "HeartbeatSX/Node-Rule-Set",
+    "Heking114514/clash2pureIP",
     "HelloThreeLiu/ResearchWorkbench",
     "Hi1helloReal/warp-config-generator-vercel",
     "HiJaychou/free-vpn-china",
@@ -235,6 +237,7 @@
     "Isyyyue/monitor",
     "Jaaayden/feedlantern",
     "JackBean2134/simple-blockchain-go",
+    "JasperYubo/Fanqiang-Guide",
     "JayYang1991/vps-utils",
     "JegoVPN/HelpCenter",
     "JiPengLin/piliplus-sidestore-source",
@@ -450,6 +453,7 @@
     "TheLouisMahdi/npvt-terminal-converter",
     "TheShowMy/raccoon_node",
     "Thiefgg/warp-config-generator-vercel",
+    "Thompson0075/gkd-rules",
     "TianLSama/ComfyUI-OpenAI-API-Image-Generator",
     "Tianmoy/etxr",
     "TincoNomad/wezterm-config",
@@ -808,6 +812,7 @@
     "haowang02/cpa-plugin-key-billing",
     "happy-everyday-everyweek/nodevisual-app-builder",
     "hardhackerlabs/book",
+    "hareven65-Custom/warp-config-generator-vercel",
     "harrypapaai/limitless",
     "hbrmod1/go-mami-cn2-routing",
     "hbygydvby/Subscribe-link",
@@ -1582,5 +1587,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-02 11:47:34"
+  "updated_at": "2026-11-02 21:00:34"
 }
