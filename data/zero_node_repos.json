@@ -2,6 +2,7 @@
   "zero_node_repos": [
     "029danio/fly",
     "029danio/jichangfree",
+    "0xVoidw/claude-multi-account-management",
     "0xav10086/FlowCollect",
     "10000ge10000/clash-config-gen",
     "1148194155-cell/bureau2",
@@ -104,6 +105,7 @@
     "Azurefly/flow-ai-engine",
     "BULUTEMAN/bank-marketing-prediction-web",
     "Babbage42/whirli-ng",
+    "BaiRong-NUC/magpie-subscription-manager",
     "BannyLon/NPie-Draftstage",
     "Bastardki11er/moonlit",
     "Batianxieshen1/zhaxi-sub",
@@ -561,6 +563,7 @@
     "andyzhang1214/PIG-TV",
     "animarkuss-arch/warp-config-generator-vercel",
     "aniongithub/warp",
+    "anransu983-sketch/dreambox-asbefore",
     "antioxi1/my-sub-nodes",
     "anviod/edgeOS",
     "api-evangelist/oneapm",
@@ -691,6 +694,7 @@
     "cyzg90/v2ex-ignored-nodes",
     "czl-dev-pub/math-atlas",
     "daka-agent/RiverLantern",
+    "dakang824/Free-Hiddify-Node",
     "dandel34/bilingual-add-search",
     "dannyc87/embertide",
     "davoo233/Godfe2ray",
@@ -782,6 +786,7 @@
     "gaoorange/nezhagate-api-examples",
     "gateway-cloud/starbridge-tunnel",
     "gdject/free-MF",
+    "gedinked/airport-recommendation",
     "geenroooo/loon-plugins",
     "georgio-ghamchoul/chines-pocker",
     "gfpcom/free-proxy-list",
@@ -1221,6 +1226,7 @@
     "radinshahdaei/v2run",
     "rasindope/sub2api",
     "raychencrh-cpu/ai-subscription-compare",
+    "rcsyzh/dy",
     "rdai7196/server-recommendation-overseas",
     "renxqoo/Tillgate",
     "rico-cell/clash-proxy-sub",
@@ -1601,5 +1607,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-04 03:47:37"
+  "updated_at": "2026-11-04 11:46:43"
 }

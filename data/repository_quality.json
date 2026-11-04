@@ -1,68 +1,68 @@
 {
   "repositories": [
     {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 88,
+      "forks": 81,
+      "extracted_nodes": 778,
+      "valid_nodes": 76,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9432,
       "forks": 677,
       "extracted_nodes": 892,
-      "valid_nodes": 344,
+      "valid_nodes": 328,
       "quality_score": 100
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 88,
-      "forks": 81,
-      "extracted_nodes": 697,
-      "valid_nodes": 74,
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 8325,
+      "forks": 1267,
+      "extracted_nodes": 704,
+      "valid_nodes": 160,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 649,
+      "stars": 650,
       "forks": 28,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 100,
-      "forks": 8,
-      "extracted_nodes": 357,
-      "valid_nodes": 19,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "Daizhouhui/CustomNode",
-      "stars": 12,
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 23,
       "forks": 1,
-      "extracted_nodes": 1765,
-      "valid_nodes": 1605,
-      "quality_score": 50.6
-    },
-    {
-      "repository": "v2raynnodes/clashfree",
-      "stars": 11,
-      "forks": 1,
-      "extracted_nodes": 1217,
-      "valid_nodes": 422,
-      "quality_score": 49.8
+      "extracted_nodes": 104,
+      "valid_nodes": 14,
+      "quality_score": 59.4
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 3,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 422,
+      "valid_nodes": 407,
       "quality_score": 42.4
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 511,
-      "valid_nodes": 32,
+      "extracted_nodes": 517,
+      "valid_nodes": 34,
       "quality_score": 41.6
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 140,
+      "valid_nodes": 127,
+      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -81,21 +81,53 @@
       "quality_score": 40.0
     },
     {
-      "repository": "fork-svg/clash-node-subscription",
-      "stars": 0,
+      "repository": "gedinked/airport-recommendation",
+      "stars": 77,
       "forks": 0,
-      "extracted_nodes": 807,
-      "valid_nodes": 264,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
       "quality_score": 40.0
     },
     {
-      "repository": "yangzifun/proxypilot",
+      "repository": "0xVoidw/claude-multi-account-management",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "dakang824/Free-Hiddify-Node",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "rcsyzh/dy",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 6,
-      "valid_nodes": 1,
-      "quality_score": 40.0
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "BaiRong-NUC/magpie-subscription-manager",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "anransu983-sketch/dreambox-asbefore",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-04 03:47:56"
+  "updated_at": "2026-11-04 11:46:59"
 }
