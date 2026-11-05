@@ -13385,24 +13385,24 @@
         {
           "path": "data/history.json",
           "node_count": 203,
-          "last_checked": "2026-10-09T23:41:01.883167Z",
+          "last_checked": "2026-11-05T00:37:42.129167Z",
           "url": "https://raw.githubusercontent.com/CB-X2-Jun/verified-v2ray-lists/main/data/history.json"
         },
         {
           "path": "node.txt",
           "node_count": 198,
-          "last_checked": "2026-10-09T23:41:02.008517Z",
+          "last_checked": "2026-11-05T00:37:42.331324Z",
           "url": "https://raw.githubusercontent.com/CB-X2-Jun/verified-v2ray-lists/main/node.txt"
         },
         {
           "path": "public/proxies.json",
-          "node_count": 2,
-          "last_checked": "2026-10-09T23:41:02.116493Z",
+          "node_count": 3,
+          "last_checked": "2026-11-05T00:37:42.529993Z",
           "url": "https://raw.githubusercontent.com/CB-X2-Jun/verified-v2ray-lists/main/public/proxies.json"
         }
       ],
-      "last_full_scan": "2026-10-09T23:41:07.118797Z",
-      "last_nodes_update": "2026-10-09T23:41:07.118801Z"
+      "last_full_scan": "2026-11-05T00:37:47.847943Z",
+      "last_nodes_update": "2026-11-05T00:37:47.847976Z"
     },
     {
       "repository": "shaoyouvip/free",
@@ -13681,7 +13681,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-11-04 19:00:51",
+  "updated_at": "2026-11-05 00:37:47",
   "total_whitelisted_repos": 58,
   "total_cached_nodes": 64711
 }
