@@ -584,6 +584,7 @@
     "bacdown/yaml2sb",
     "baimao9527/jptv_redirect",
     "baiyilevou/cf-ip",
+    "balakirev2077/warp-config-generator-vercel",
     "baleenwhale233-blip/flclash-gateway",
     "bbc804208302/-AIGC-",
     "bbq-051116/TG-iamdt009",
@@ -961,6 +962,7 @@
     "kaixinhu780-ops/openclash-rules",
     "kamuxiy/CanvasNotes",
     "kanpianer/1click2VPN",
+    "kaveys/ghdl",
     "keepcalmx/subhub",
     "keiraee/hy2-allin-one",
     "kelvin-zjw/clash-autorule",
@@ -1128,6 +1130,8 @@
     "mingliu91/aptv-playlist",
     "miofelix/viasix",
     "mizombotv-source/warp-config-generator",
+    "mjbe71/MaGdSubForge",
+    "mkljngd/terminal-config",
     "mlmvpn/mlmvpn_android",
     "mmletgo/calculus-valley-journal",
     "modelbus/one-api-pro",
@@ -1440,6 +1444,7 @@
     "wjf1/coding-plan-radar",
     "wjluoxiao/XB_ToolBox",
     "wm1634208243/sub-hub",
+    "wmCmo/hashigo",
     "wonderingearth/comfyui-moss-tts",
     "wonidie66/Clash-for-Windows-Meta-Core-Patch",
     "worcds207/dmit-cn2-gia-speeds",
@@ -1612,5 +1617,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-05 19:12:19"
+  "updated_at": "2026-11-06 00:37:02"
 }

@@ -4,8 +4,8 @@
       "repository": "ermaozi/get_subscribe",
       "stars": 9439,
       "forks": 677,
-      "extracted_nodes": 766,
-      "valid_nodes": 212,
+      "extracted_nodes": 807,
+      "valid_nodes": 248,
       "quality_score": 100
     },
     {
@@ -17,35 +17,27 @@
       "quality_score": 100
     },
     {
-      "repository": "WLget/V2Ray_configs_64",
-      "stars": 313,
-      "forks": 25,
-      "extracted_nodes": 2,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 100,
+      "forks": 8,
+      "extracted_nodes": 349,
+      "valid_nodes": 21,
+      "quality_score": 88.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 23,
       "forks": 1,
       "extracted_nodes": 74,
-      "valid_nodes": 17,
+      "valid_nodes": 16,
       "quality_score": 59.4
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 3,
-      "forks": 1,
-      "extracted_nodes": 1101,
-      "valid_nodes": 943,
-      "quality_score": 43.4
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 763,
-      "valid_nodes": 48,
+      "extracted_nodes": 930,
+      "valid_nodes": 42,
       "quality_score": 41.6
     },
     {
@@ -53,15 +45,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 145,
-      "valid_nodes": 138,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "bily1258-design/beimi",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 1482,
-      "valid_nodes": 374,
+      "valid_nodes": 139,
       "quality_score": 40.8
     },
     {
@@ -81,7 +65,47 @@
       "quality_score": 40.0
     },
     {
-      "repository": "sora878565552a-debug/cf",
+      "repository": "nichecer/v2ray-node-share",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 17,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "mjbe71/MaGdSubForge",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "mkljngd/terminal-config",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "balakirev2077/warp-config-generator-vercel",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "kaveys/ghdl",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "wmCmo/hashigo",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,5 +113,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-05 19:12:23"
+  "updated_at": "2026-11-06 00:37:05"
 }
