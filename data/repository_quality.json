@@ -2,9 +2,9 @@
   "repositories": [
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 90,
+      "stars": 91,
       "forks": 81,
-      "extracted_nodes": 74,
+      "extracted_nodes": 63,
       "valid_nodes": 9,
       "quality_score": 100
     },
@@ -12,8 +12,8 @@
       "repository": "ermaozi/get_subscribe",
       "stars": 9453,
       "forks": 679,
-      "extracted_nodes": 816,
-      "valid_nodes": 280,
+      "extracted_nodes": 824,
+      "valid_nodes": 276,
       "quality_score": 100
     },
     {
@@ -21,39 +21,63 @@
       "stars": 652,
       "forks": 28,
       "extracted_nodes": 14,
-      "valid_nodes": 3,
+      "valid_nodes": 6,
       "quality_score": 100
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 60,
-      "valid_nodes": 13,
+      "extracted_nodes": 61,
+      "valid_nodes": 15,
       "quality_score": 61.2
+    },
+    {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 313,
+      "forks": 25,
+      "extracted_nodes": 2,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 3,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 402,
+      "valid_nodes": 424,
       "quality_score": 42.4
+    },
+    {
+      "repository": "nichecer/v2ray-node-share",
+      "stars": 2,
+      "forks": 0,
+      "extracted_nodes": 27,
+      "valid_nodes": 2,
+      "quality_score": 41.6
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 1048,
-      "valid_nodes": 54,
+      "extracted_nodes": 3000,
+      "valid_nodes": 271,
       "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 147,
-      "valid_nodes": 142,
+      "extracted_nodes": 143,
+      "valid_nodes": 136,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "bily1258-design/beimi",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 1435,
+      "valid_nodes": 357,
       "quality_score": 40.8
     },
     {
@@ -61,7 +85,7 @@
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 8,
+      "valid_nodes": 9,
       "quality_score": 40.0
     },
     {
@@ -73,15 +97,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "nigewen/airport-notes",
-      "stars": 11,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 8.8
-    },
-    {
-      "repository": "zwc772/codesjiema-sms-api",
+      "repository": "karllagerfeld-cn/qx-adguard-tracking",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,7 +105,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "YiMing918/ym-cfip",
+      "repository": "NoboDy-yz/dian115-plugins",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,7 +113,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "zschhmhbnv/ladder_knowledge",
+      "repository": "sle58083/yuchen-panel",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,7 +121,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "zs350235495-ui/louti",
+      "repository": "songoku2094/daydayup",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,7 +129,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "gxgleo67/topology-skill",
+      "repository": "wangdanian/hongguo-doh",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "dontcry/japan-shopping-buddy-paypal",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -121,5 +145,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-08 10:53:10"
+  "updated_at": "2026-11-08 17:22:17"
 }
