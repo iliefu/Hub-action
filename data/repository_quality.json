@@ -2,41 +2,41 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9453,
+      "stars": 9454,
       "forks": 679,
-      "extracted_nodes": 808,
-      "valid_nodes": 282,
+      "extracted_nodes": 743,
+      "valid_nodes": 239,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 91,
+      "stars": 92,
       "forks": 81,
-      "extracted_nodes": 62,
+      "extracted_nodes": 80,
       "valid_nodes": 9,
       "quality_score": 100
+    },
+    {
+      "repository": "danmaifu/mianfeijiedian",
+      "stars": 162,
+      "forks": 7,
+      "extracted_nodes": 3000,
+      "valid_nodes": 464,
+      "quality_score": 87.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 58,
-      "valid_nodes": 13,
+      "extracted_nodes": 60,
+      "valid_nodes": 17,
       "quality_score": 61.2
-    },
-    {
-      "repository": "v2raynnodes/clashfree",
-      "stars": 11,
-      "forks": 1,
-      "extracted_nodes": 1197,
-      "valid_nodes": 386,
-      "quality_score": 49.8
     },
     {
       "repository": "nichecer/v2ray-node-share",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 28,
+      "extracted_nodes": 25,
       "valid_nodes": 1,
       "quality_score": 41.6
     },
@@ -44,16 +44,16 @@
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 626,
-      "valid_nodes": 31,
+      "extracted_nodes": 806,
+      "valid_nodes": 77,
       "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 146,
-      "valid_nodes": 141,
+      "extracted_nodes": 145,
+      "valid_nodes": 143,
       "quality_score": 40.8
     },
     {
@@ -73,23 +73,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "735754647/Free-Nodes",
-      "stars": 39,
-      "forks": 7,
-      "extracted_nodes": 1,
-      "valid_nodes": 0,
-      "quality_score": 38.2
-    },
-    {
-      "repository": "skyzizhu/sky-rag-stu",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "Lunatic-Lee/Free-V2ray-Clash-Node-Daily",
+      "repository": "hondafit20032007-png/warp-config-generator-vercel",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,7 +81,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "kaishuangzhang/a-share-multifactor-research",
+      "repository": "zhao8663411/car-podcast",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "zhongruan0522/clash_rule_scrip",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-09 03:31:34"
+  "updated_at": "2026-11-09 12:20:42"
 }
