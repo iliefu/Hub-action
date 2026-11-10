@@ -10543,6 +10543,432 @@
       "last_nodes_update": "2026-11-02T03:12:26.261334Z"
     },
     {
+      "repository": "Eleven1985/Scrape-By-Country",
+      "stars": 29,
+      "forks": 5,
+      "extracted_nodes": 3000,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "configs/countries/Albania.txt",
+          "node_count": 3,
+          "last_checked": "2026-11-10T21:32:59.734539Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Albania.txt"
+        },
+        {
+          "path": "configs/countries/Armenia.txt",
+          "node_count": 6,
+          "last_checked": "2026-11-10T21:32:59.836165Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Armenia.txt"
+        },
+        {
+          "path": "configs/countries/Australia.txt",
+          "node_count": 6,
+          "last_checked": "2026-11-10T21:32:59.938041Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Australia.txt"
+        },
+        {
+          "path": "configs/countries/Austria.txt",
+          "node_count": 15,
+          "last_checked": "2026-11-10T21:33:00.017369Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Austria.txt"
+        },
+        {
+          "path": "configs/countries/Belarus.txt",
+          "node_count": 11,
+          "last_checked": "2026-11-10T21:33:00.094942Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Belarus.txt"
+        },
+        {
+          "path": "configs/countries/Belgium.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:00.292630Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Belgium.txt"
+        },
+        {
+          "path": "configs/countries/Brazil.txt",
+          "node_count": 8,
+          "last_checked": "2026-11-10T21:33:00.434690Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Brazil.txt"
+        },
+        {
+          "path": "configs/countries/Canada.txt",
+          "node_count": 84,
+          "last_checked": "2026-11-10T21:33:00.560663Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Canada.txt"
+        },
+        {
+          "path": "configs/countries/Chile.txt",
+          "node_count": 3,
+          "last_checked": "2026-11-10T21:33:00.629966Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Chile.txt"
+        },
+        {
+          "path": "configs/countries/China.txt",
+          "node_count": 1,
+          "last_checked": "2026-11-10T21:33:00.716168Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/China.txt"
+        },
+        {
+          "path": "configs/countries/CongoKinshasa.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:00.849016Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/CongoKinshasa.txt"
+        },
+        {
+          "path": "configs/countries/Czechia.txt",
+          "node_count": 14,
+          "last_checked": "2026-11-10T21:33:00.916119Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Czechia.txt"
+        },
+        {
+          "path": "configs/countries/Denmark.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:01.025592Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Denmark.txt"
+        },
+        {
+          "path": "configs/countries/Estonia.txt",
+          "node_count": 8,
+          "last_checked": "2026-11-10T21:33:01.101459Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Estonia.txt"
+        },
+        {
+          "path": "configs/countries/Finland.txt",
+          "node_count": 47,
+          "last_checked": "2026-11-10T21:33:01.178826Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Finland.txt"
+        },
+        {
+          "path": "configs/countries/France.txt",
+          "node_count": 210,
+          "last_checked": "2026-11-10T21:33:01.289036Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/France.txt"
+        },
+        {
+          "path": "configs/countries/Germany.txt",
+          "node_count": 244,
+          "last_checked": "2026-11-10T21:33:01.384012Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Germany.txt"
+        },
+        {
+          "path": "configs/countries/Greece.txt",
+          "node_count": 12,
+          "last_checked": "2026-11-10T21:33:01.468151Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Greece.txt"
+        },
+        {
+          "path": "configs/countries/HongKong.txt",
+          "node_count": 48,
+          "last_checked": "2026-11-10T21:33:01.564291Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/HongKong.txt"
+        },
+        {
+          "path": "configs/countries/Hungary.txt",
+          "node_count": 8,
+          "last_checked": "2026-11-10T21:33:01.666130Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Hungary.txt"
+        },
+        {
+          "path": "configs/countries/Iceland.txt",
+          "node_count": 6,
+          "last_checked": "2026-11-10T21:33:01.763387Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Iceland.txt"
+        },
+        {
+          "path": "configs/countries/India.txt",
+          "node_count": 12,
+          "last_checked": "2026-11-10T21:33:01.838886Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/India.txt"
+        },
+        {
+          "path": "configs/countries/Indonesia.txt",
+          "node_count": 4,
+          "last_checked": "2026-11-10T21:33:02.242108Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Indonesia.txt"
+        },
+        {
+          "path": "configs/countries/Iran.txt",
+          "node_count": 226,
+          "last_checked": "2026-11-10T21:33:02.317561Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Iran.txt"
+        },
+        {
+          "path": "configs/countries/Iraq.txt",
+          "node_count": 6,
+          "last_checked": "2026-11-10T21:33:02.408616Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Iraq.txt"
+        },
+        {
+          "path": "configs/countries/Ireland.txt",
+          "node_count": 6,
+          "last_checked": "2026-11-10T21:33:02.485038Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Ireland.txt"
+        },
+        {
+          "path": "configs/countries/Israel.txt",
+          "node_count": 6,
+          "last_checked": "2026-11-10T21:33:02.731709Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Israel.txt"
+        },
+        {
+          "path": "configs/countries/Italy.txt",
+          "node_count": 53,
+          "last_checked": "2026-11-10T21:33:02.798871Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Italy.txt"
+        },
+        {
+          "path": "configs/countries/Japan.txt",
+          "node_count": 83,
+          "last_checked": "2026-11-10T21:33:02.859768Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Japan.txt"
+        },
+        {
+          "path": "configs/countries/Kazakhstan.txt",
+          "node_count": 7,
+          "last_checked": "2026-11-10T21:33:02.944640Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Kazakhstan.txt"
+        },
+        {
+          "path": "configs/countries/Latvia.txt",
+          "node_count": 7,
+          "last_checked": "2026-11-10T21:33:03.023967Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Latvia.txt"
+        },
+        {
+          "path": "configs/countries/Lithuania.txt",
+          "node_count": 11,
+          "last_checked": "2026-11-10T21:33:03.164764Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Lithuania.txt"
+        },
+        {
+          "path": "configs/countries/Malaysia.txt",
+          "node_count": 3,
+          "last_checked": "2026-11-10T21:33:03.269077Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Malaysia.txt"
+        },
+        {
+          "path": "configs/countries/Mexico.txt",
+          "node_count": 7,
+          "last_checked": "2026-11-10T21:33:03.341561Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Mexico.txt"
+        },
+        {
+          "path": "configs/countries/Micronesia.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:03.506439Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Micronesia.txt"
+        },
+        {
+          "path": "configs/countries/Moldova.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:03.605085Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Moldova.txt"
+        },
+        {
+          "path": "configs/countries/Montenegro.txt",
+          "node_count": 636,
+          "last_checked": "2026-11-10T21:33:03.729717Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Montenegro.txt"
+        },
+        {
+          "path": "configs/countries/Netherlands.txt",
+          "node_count": 250,
+          "last_checked": "2026-11-10T21:33:03.829803Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Netherlands.txt"
+        },
+        {
+          "path": "configs/countries/NewZealand.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:03.909364Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/NewZealand.txt"
+        },
+        {
+          "path": "configs/countries/Norway.txt",
+          "node_count": 6,
+          "last_checked": "2026-11-10T21:33:03.983503Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Norway.txt"
+        },
+        {
+          "path": "configs/countries/Philippines.txt",
+          "node_count": 1,
+          "last_checked": "2026-11-10T21:33:04.063279Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Philippines.txt"
+        },
+        {
+          "path": "configs/countries/Poland.txt",
+          "node_count": 92,
+          "last_checked": "2026-11-10T21:33:04.134826Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Poland.txt"
+        },
+        {
+          "path": "configs/countries/Romania.txt",
+          "node_count": 18,
+          "last_checked": "2026-11-10T21:33:04.204791Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Romania.txt"
+        },
+        {
+          "path": "configs/countries/Russia.txt",
+          "node_count": 43,
+          "last_checked": "2026-11-10T21:33:04.285323Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Russia.txt"
+        },
+        {
+          "path": "configs/countries/Samoa.txt",
+          "node_count": 52,
+          "last_checked": "2026-11-10T21:33:04.358859Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Samoa.txt"
+        },
+        {
+          "path": "configs/countries/SaudiArabia.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:04.464597Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/SaudiArabia.txt"
+        },
+        {
+          "path": "configs/countries/Serbia.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:04.539166Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Serbia.txt"
+        },
+        {
+          "path": "configs/countries/Seychelles.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:04.620293Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Seychelles.txt"
+        },
+        {
+          "path": "configs/countries/Singapore.txt",
+          "node_count": 99,
+          "last_checked": "2026-11-10T21:33:04.728146Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Singapore.txt"
+        },
+        {
+          "path": "configs/countries/SouthAfrica.txt",
+          "node_count": 4,
+          "last_checked": "2026-11-10T21:33:04.814099Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/SouthAfrica.txt"
+        },
+        {
+          "path": "configs/countries/SouthKorea.txt",
+          "node_count": 41,
+          "last_checked": "2026-11-10T21:33:04.887643Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/SouthKorea.txt"
+        },
+        {
+          "path": "configs/countries/SouthSudan.txt",
+          "node_count": 19,
+          "last_checked": "2026-11-10T21:33:04.970356Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/SouthSudan.txt"
+        },
+        {
+          "path": "configs/countries/Spain.txt",
+          "node_count": 50,
+          "last_checked": "2026-11-10T21:33:05.086421Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Spain.txt"
+        },
+        {
+          "path": "configs/countries/SriLanka.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:05.167637Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/SriLanka.txt"
+        },
+        {
+          "path": "configs/countries/Sweden.txt",
+          "node_count": 34,
+          "last_checked": "2026-11-10T21:33:05.229101Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Sweden.txt"
+        },
+        {
+          "path": "configs/countries/Switzerland.txt",
+          "node_count": 53,
+          "last_checked": "2026-11-10T21:33:05.308772Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Switzerland.txt"
+        },
+        {
+          "path": "configs/countries/Taiwan.txt",
+          "node_count": 24,
+          "last_checked": "2026-11-10T21:33:05.375114Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Taiwan.txt"
+        },
+        {
+          "path": "configs/countries/Thailand.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-10T21:33:06.229470Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Thailand.txt"
+        },
+        {
+          "path": "configs/countries/Turkey.txt",
+          "node_count": 28,
+          "last_checked": "2026-11-10T21:33:06.351845Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Turkey.txt"
+        },
+        {
+          "path": "configs/countries/Turkmenistan.txt",
+          "node_count": 14,
+          "last_checked": "2026-11-10T21:33:06.445243Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Turkmenistan.txt"
+        },
+        {
+          "path": "configs/countries/UAE.txt",
+          "node_count": 15,
+          "last_checked": "2026-11-10T21:33:06.513687Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/UAE.txt"
+        },
+        {
+          "path": "configs/countries/UK.txt",
+          "node_count": 140,
+          "last_checked": "2026-11-10T21:33:06.685400Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/UK.txt"
+        },
+        {
+          "path": "configs/countries/USA.txt",
+          "node_count": 651,
+          "last_checked": "2026-11-10T21:33:06.800214Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/USA.txt"
+        },
+        {
+          "path": "configs/countries/Ukraine.txt",
+          "node_count": 13,
+          "last_checked": "2026-11-10T21:33:06.873583Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Ukraine.txt"
+        },
+        {
+          "path": "configs/countries/Uzbekistan.txt",
+          "node_count": 4,
+          "last_checked": "2026-11-10T21:33:06.997045Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Uzbekistan.txt"
+        },
+        {
+          "path": "configs/countries/Vietnam.txt",
+          "node_count": 7,
+          "last_checked": "2026-11-10T21:33:07.115818Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/countries/Vietnam.txt"
+        },
+        {
+          "path": "configs/protocols/Hysteria2.txt",
+          "node_count": 130,
+          "last_checked": "2026-11-10T21:33:07.220824Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/protocols/Hysteria2.txt"
+        },
+        {
+          "path": "configs/protocols/Trojan.txt",
+          "node_count": 1484,
+          "last_checked": "2026-11-10T21:33:07.392826Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/protocols/Trojan.txt"
+        },
+        {
+          "path": "configs/protocols/Vmess.txt",
+          "node_count": 644,
+          "last_checked": "2026-11-10T21:33:07.483293Z",
+          "url": "https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/main/configs/protocols/Vmess.txt"
+        }
+      ],
+      "last_full_scan": "2026-11-10T21:33:07.886676Z",
+      "last_nodes_update": "2026-11-10T21:33:07.886678Z"
+    },
+    {
       "repository": "wa3duck/freenodes",
       "stars": 0,
       "forks": 0,
@@ -11935,66 +12361,6 @@
       "last_nodes_update": "2026-06-18T08:32:15.215981Z"
     },
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9431,
-      "forks": 677,
-      "extracted_nodes": 915,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "subscribe/clash.yml",
-          "node_count": 435,
-          "last_checked": "2026-11-03T21:20:47.762685Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml"
-        },
-        {
-          "path": "subscribe/reachable/clash.yml",
-          "node_count": 346,
-          "last_checked": "2026-11-03T21:20:48.430462Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/reachable/clash.yml"
-        },
-        {
-          "path": "subscribe/reachable/v2ray.txt",
-          "node_count": 460,
-          "last_checked": "2026-11-03T21:20:48.578666Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/reachable/v2ray.txt"
-        },
-        {
-          "path": "subscribe/unreachable/clash.yml",
-          "node_count": 15,
-          "last_checked": "2026-11-03T21:20:48.721480Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/unreachable/clash.yml"
-        },
-        {
-          "path": "subscribe/unreachable/v2ray.txt",
-          "node_count": 35,
-          "last_checked": "2026-11-03T21:20:48.867804Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/unreachable/v2ray.txt"
-        },
-        {
-          "path": "subscribe/untested/clash.yml",
-          "node_count": 74,
-          "last_checked": "2026-11-03T21:20:49.063394Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/untested/clash.yml"
-        },
-        {
-          "path": "subscribe/untested/v2ray.txt",
-          "node_count": 71,
-          "last_checked": "2026-11-03T21:20:49.179654Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/untested/v2ray.txt"
-        },
-        {
-          "path": "subscribe/v2ray.txt",
-          "node_count": 566,
-          "last_checked": "2026-11-03T21:20:49.371505Z",
-          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt"
-        }
-      ],
-      "last_full_scan": "2026-11-03T21:21:04.699754Z",
-      "last_nodes_update": "2026-11-03T21:21:04.699771Z"
-    },
-    {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
@@ -12071,6 +12437,66 @@
       ],
       "last_full_scan": "2026-11-06T18:40:37.143011Z",
       "last_nodes_update": "2026-11-06T18:40:37.143021Z"
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9458,
+      "forks": 679,
+      "extracted_nodes": 896,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "subscribe/clash.yml",
+          "node_count": 407,
+          "last_checked": "2026-11-10T21:32:42.993478Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml"
+        },
+        {
+          "path": "subscribe/reachable/clash.yml",
+          "node_count": 315,
+          "last_checked": "2026-11-10T21:32:43.472471Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/reachable/clash.yml"
+        },
+        {
+          "path": "subscribe/reachable/v2ray.txt",
+          "node_count": 435,
+          "last_checked": "2026-11-10T21:32:43.550747Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/reachable/v2ray.txt"
+        },
+        {
+          "path": "subscribe/unreachable/clash.yml",
+          "node_count": 22,
+          "last_checked": "2026-11-10T21:32:43.689415Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/unreachable/clash.yml"
+        },
+        {
+          "path": "subscribe/unreachable/v2ray.txt",
+          "node_count": 40,
+          "last_checked": "2026-11-10T21:32:43.771077Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/unreachable/v2ray.txt"
+        },
+        {
+          "path": "subscribe/untested/clash.yml",
+          "node_count": 70,
+          "last_checked": "2026-11-10T21:32:43.916805Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/untested/clash.yml"
+        },
+        {
+          "path": "subscribe/untested/v2ray.txt",
+          "node_count": 65,
+          "last_checked": "2026-11-10T21:32:44.010386Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/untested/v2ray.txt"
+        },
+        {
+          "path": "subscribe/v2ray.txt",
+          "node_count": 540,
+          "last_checked": "2026-11-10T21:32:44.097748Z",
+          "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt"
+        }
+      ],
+      "last_full_scan": "2026-11-10T21:33:07.886574Z",
+      "last_nodes_update": "2026-11-10T21:33:07.886599Z"
     },
     {
       "repository": "fork-svg/clash-node-subscription",
@@ -13657,6 +14083,30 @@
       "last_nodes_update": "2026-10-14T16:09:36.342885Z"
     },
     {
+      "repository": "xvnysvx/clash-nodes",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 112,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "clash-latest.yaml",
+          "node_count": 95,
+          "last_checked": "2026-11-10T21:32:55.990952Z",
+          "url": "https://raw.githubusercontent.com/xvnysvx/clash-nodes/main/clash-latest.yaml"
+        },
+        {
+          "path": "clash-pool.yaml",
+          "node_count": 17,
+          "last_checked": "2026-11-10T21:32:56.510579Z",
+          "url": "https://raw.githubusercontent.com/xvnysvx/clash-nodes/main/clash-pool.yaml"
+        }
+      ],
+      "last_full_scan": "2026-11-10T21:33:07.886646Z",
+      "last_nodes_update": "2026-11-10T21:33:07.886649Z"
+    },
+    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 23,
       "forks": 1,
@@ -13711,7 +14161,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-11-10 15:55:21",
-  "total_whitelisted_repos": 58,
-  "total_cached_nodes": 63425
+  "updated_at": "2026-11-10 21:33:07",
+  "total_whitelisted_repos": 60,
+  "total_cached_nodes": 66518
 }

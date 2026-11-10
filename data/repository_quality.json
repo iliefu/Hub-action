@@ -2,17 +2,17 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9456,
+      "stars": 9458,
       "forks": 679,
       "extracted_nodes": 896,
-      "valid_nodes": 330,
+      "valid_nodes": 326,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 93,
       "forks": 82,
-      "extracted_nodes": 64,
+      "extracted_nodes": 59,
       "valid_nodes": 9,
       "quality_score": 100
     },
@@ -28,9 +28,17 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 100,
       "forks": 8,
-      "extracted_nodes": 352,
-      "valid_nodes": 18,
+      "extracted_nodes": 354,
+      "valid_nodes": 19,
       "quality_score": 88.0
+    },
+    {
+      "repository": "Eleven1985/Scrape-By-Country",
+      "stars": 29,
+      "forks": 5,
+      "extracted_nodes": 3000,
+      "valid_nodes": 430,
+      "quality_score": 68.2
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
@@ -41,19 +49,19 @@
       "quality_score": 61.2
     },
     {
-      "repository": "LalatinaHub/LatinaSub",
-      "stars": 12,
-      "forks": 3,
-      "extracted_nodes": 500,
-      "valid_nodes": 486,
-      "quality_score": 52.6
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 313,
+      "forks": 25,
+      "extracted_nodes": 1,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
-      "repository": "nichecer/v2ray-node-share",
+      "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 15,
-      "valid_nodes": 1,
+      "extracted_nodes": 861,
+      "valid_nodes": 63,
       "quality_score": 41.6
     },
     {
@@ -61,7 +69,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 146,
-      "valid_nodes": 138,
+      "valid_nodes": 141,
       "quality_score": 40.8
     },
     {
@@ -81,45 +89,21 @@
       "quality_score": 40.0
     },
     {
-      "repository": "yangzifun/proxypilot",
+      "repository": "xvnysvx/clash-nodes",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 6,
-      "valid_nodes": 1,
+      "extracted_nodes": 112,
+      "valid_nodes": 57,
       "quality_score": 40.0
     },
     {
-      "repository": "suin-park/Whik",
-      "stars": 7,
-      "forks": 3,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 8.6
-    },
-    {
-      "repository": "BTCUP99/gagcha",
-      "stars": 7,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 5.6
-    },
-    {
-      "repository": "erw3563/GodotQuickUi",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 2.4
-    },
-    {
-      "repository": "xx025/slurm-explorer",
+      "repository": "qjlxg/one",
       "stars": 0,
       "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "extracted_nodes": 605,
+      "valid_nodes": 40,
+      "quality_score": 40.0
     }
   ],
-  "updated_at": "2026-11-10 15:55:24"
+  "updated_at": "2026-11-10 21:33:11"
 }
