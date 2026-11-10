@@ -4,8 +4,8 @@
       "repository": "ermaozi/get_subscribe",
       "stars": 9454,
       "forks": 679,
-      "extracted_nodes": 743,
-      "valid_nodes": 254,
+      "extracted_nodes": 844,
+      "valid_nodes": 318,
       "quality_score": 100
     },
     {
@@ -17,19 +17,11 @@
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 100,
-      "forks": 8,
-      "extracted_nodes": 354,
-      "valid_nodes": 19,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "v2raynnodes/v2rayfree",
-      "stars": 74,
+      "repository": "danmaifu/mianfeijiedian",
+      "stars": 163,
       "forks": 7,
-      "extracted_nodes": 1160,
-      "valid_nodes": 340,
+      "extracted_nodes": 3000,
+      "valid_nodes": 480,
       "quality_score": 87.0
     },
     {
@@ -37,16 +29,24 @@
       "stars": 24,
       "forks": 2,
       "extracted_nodes": 58,
-      "valid_nodes": 14,
+      "valid_nodes": 15,
       "quality_score": 61.2
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
-      "stars": 3,
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 313,
+      "forks": 25,
+      "extracted_nodes": 8,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "nichecer/v2ray-node-share",
+      "stars": 2,
       "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 395,
-      "quality_score": 42.4
+      "extracted_nodes": 29,
+      "valid_nodes": 1,
+      "quality_score": 41.6
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -65,15 +65,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "harrypapaai/auto-team-custom",
-      "stars": 1,
+      "repository": "bingheyuxing-sheng/officecli-template-filler",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     },
     {
-      "repository": "nekoleamo/packnest",
+      "repository": "bohub8888/haoli-site",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-09 23:56:05"
+  "updated_at": "2026-11-10 05:07:11"
 }
