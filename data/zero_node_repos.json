@@ -338,6 +338,7 @@
     "MoewSama/node",
     "MouckIS/dusk-module-auth",
     "Mufumoca/clash_warp-config",
+    "Muggles001/pbox",
     "Mugzx/MyClash",
     "My-Search/official-subscribe",
     "MyOrbit-top/MyOrbit",
@@ -1215,6 +1216,7 @@
     "o614/appstore-global-price",
     "oOStanOo/dian115-plugins",
     "obinexus/obix-core-ssr",
+    "odskku296/apple-music-china-pricing",
     "oekit/etcdx",
     "oneclickvirt/speedtest",
     "onl35461-debug/Node-Airport---VPN",
@@ -1334,6 +1336,7 @@
     "skyzizhu/sky-rag-stu",
     "sle58083/yuchen-panel",
     "slender-prelature73/FireRedTTS3-ComfyUI",
+    "slobys/ClaudeLink",
     "smkzw/competitive-intelligence-workflow",
     "smysong/mediamaster-v2",
     "songlairui/haohao-flow",
@@ -1348,6 +1351,7 @@
     "spiritLHLS/ecsspeed",
     "spiritLHLS/speedtest.cn-CN-ID",
     "spiritLHLS/speedtest.net-CN-ID",
+    "spiritfox-app/spiritfox-guide",
     "spydirbyte/spydirvpn",
     "sree-akkineni/warp-config",
     "ssssliug/claude-skill-docx-cn",
@@ -1588,6 +1592,7 @@
     "yixuan1982345-boop/breach-duel",
     "yiz61613-eng/mj-studio",
     "yjitiu/ComfyUI-Binyuan-Sampler-EN",
+    "ykgswc8/suno-pricing-plans",
     "ylyhyue/Std-Practice",
     "ynlp0624/RE-Amachiromaker-Android",
     "yongyaoduan/doc-search-lite",
@@ -1625,6 +1630,7 @@
     "zhaoyang51/vpn-tizi-fanqiang",
     "zhaxg/ZgoClash",
     "zheng0625/Clash-Studio",
+    "zheng879/warpsocks",
     "zhenxin2005/live-speech-analysis",
     "zhenzi0322/comfyui-koukoutu",
     "zhewang448/astrbot_plugin_ark_calendar",
@@ -1672,5 +1678,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-11 18:58:35"
+  "updated_at": "2026-11-12 01:43:38"
 }
