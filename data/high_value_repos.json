@@ -12109,24 +12109,6 @@
       "last_nodes_update": "2026-11-06T23:52:10.743546Z"
     },
     {
-      "repository": "VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy",
-      "stars": 5582,
-      "forks": 427,
-      "extracted_nodes": 1178,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "combine/v2ray.config.txt",
-          "node_count": 1477,
-          "last_checked": "2026-10-10T10:12:35.959716Z",
-          "url": "https://raw.githubusercontent.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt"
-        }
-      ],
-      "last_full_scan": "2026-10-10T10:14:12.232565Z",
-      "last_nodes_update": "2026-10-10T10:14:12.232587Z"
-    },
-    {
       "repository": "v2raynnodes/v2rayfree",
       "stars": 74,
       "forks": 7,
@@ -12317,6 +12299,24 @@
       ],
       "last_full_scan": "2026-08-06T10:26:36.872500Z",
       "last_nodes_update": "2026-08-06T10:26:36.872531Z"
+    },
+    {
+      "repository": "VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy",
+      "stars": 5734,
+      "forks": 429,
+      "extracted_nodes": 1039,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "combine/v2ray.config.txt",
+          "node_count": 1287,
+          "last_checked": "2026-11-12T19:29:19.673156Z",
+          "url": "https://raw.githubusercontent.com/VPN-Subcription-Links/ClashX-V2Ray-TopFreeProxy/main/combine/v2ray.config.txt"
+        }
+      ],
+      "last_full_scan": "2026-11-12T19:29:48.966124Z",
+      "last_nodes_update": "2026-11-12T19:29:48.966150Z"
     },
     {
       "repository": "maimengmeng/mysub",
@@ -14161,7 +14161,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-11-12 11:58:14",
+  "updated_at": "2026-11-12 19:29:48",
   "total_whitelisted_repos": 60,
-  "total_cached_nodes": 66518
+  "total_cached_nodes": 66379
 }
