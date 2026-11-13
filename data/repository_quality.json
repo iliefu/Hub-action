@@ -1,51 +1,67 @@
 {
   "repositories": [
     {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 93,
+      "forks": 82,
+      "extracted_nodes": 3000,
+      "valid_nodes": 301,
+      "quality_score": 100
+    },
+    {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9465,
+      "stars": 9468,
       "forks": 679,
-      "extracted_nodes": 802,
-      "valid_nodes": 268,
+      "extracted_nodes": 849,
+      "valid_nodes": 290,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 655,
+      "stars": 654,
       "forks": 29,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 100,
+      "forks": 8,
+      "extracted_nodes": 356,
+      "valid_nodes": 18,
+      "quality_score": 88.0
+    },
+    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 88,
+      "extracted_nodes": 59,
       "valid_nodes": 15,
       "quality_score": 61.2
     },
     {
-      "repository": "201206030/novel",
-      "stars": 5850,
-      "forks": 1451,
-      "extracted_nodes": 0,
+      "repository": "wenxig/dongtai-sub",
+      "stars": 279,
+      "forks": 34,
+      "extracted_nodes": 3,
       "valid_nodes": 0,
       "quality_score": 60
     },
     {
-      "repository": "nichecer/v2ray-node-share",
+      "repository": "huiwin/NodeCollection",
       "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 21,
-      "valid_nodes": 1,
-      "quality_score": 42.4
+      "forks": 1,
+      "extracted_nodes": 1226,
+      "valid_nodes": 1071,
+      "quality_score": 43.4
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 887,
-      "valid_nodes": 77,
+      "extracted_nodes": 837,
+      "valid_nodes": 45,
       "quality_score": 41.6
     },
     {
@@ -53,7 +69,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 147,
-      "valid_nodes": 142,
+      "valid_nodes": 136,
       "quality_score": 40.8
     },
     {
@@ -73,7 +89,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "helper15901590/game-story",
+      "repository": "jiuchai/fish-house",
+      "stars": 22,
+      "forks": 3,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 20.6
+    },
+    {
+      "repository": "SomeoneIsWorking/crash3-decomp",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,7 +105,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "nisconder/gkd-subscription",
+      "repository": "iLrs9935/AEGIS",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,7 +113,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "huobuzhe/ai_chief",
+      "repository": "tsic404/kos-devicemanager",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,7 +121,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "jichangbao/pianyi-tizi",
+      "repository": "3137luluon-jpg/infinite-canvas-open",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,7 +129,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "z12244/baota-proxy-fix",
+      "repository": "limao0814/limao-h3-workflows",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,5 +137,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-13 11:41:23"
+  "updated_at": "2026-11-13 18:54:48"
 }
