@@ -2,35 +2,35 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9462,
-      "forks": 680,
+      "stars": 9465,
+      "forks": 679,
       "extracted_nodes": 802,
-      "valid_nodes": 280,
+      "valid_nodes": 268,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
       "stars": 655,
-      "forks": 28,
-      "extracted_nodes": 11,
-      "valid_nodes": 3,
+      "forks": 29,
+      "extracted_nodes": 14,
+      "valid_nodes": 6,
       "quality_score": 100
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 100,
-      "forks": 8,
-      "extracted_nodes": 357,
-      "valid_nodes": 22,
-      "quality_score": 88.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 58,
+      "extracted_nodes": 88,
       "valid_nodes": 15,
       "quality_score": 61.2
+    },
+    {
+      "repository": "201206030/novel",
+      "stars": 5850,
+      "forks": 1451,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 60
     },
     {
       "repository": "nichecer/v2ray-node-share",
@@ -44,16 +44,16 @@
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 685,
-      "valid_nodes": 90,
+      "extracted_nodes": 887,
+      "valid_nodes": 77,
       "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 113,
-      "valid_nodes": 111,
+      "extracted_nodes": 147,
+      "valid_nodes": 142,
       "quality_score": 40.8
     },
     {
@@ -73,7 +73,39 @@
       "quality_score": 40.0
     },
     {
-      "repository": "ayuanjc/VPNTray",
+      "repository": "helper15901590/game-story",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "nisconder/gkd-subscription",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "huobuzhe/ai_chief",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "jichangbao/pianyi-tizi",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "z12244/baota-proxy-fix",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,5 +113,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-13 00:47:00"
+  "updated_at": "2026-11-13 11:41:23"
 }
