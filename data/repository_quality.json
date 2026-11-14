@@ -4,56 +4,72 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 93,
       "forks": 82,
-      "extracted_nodes": 556,
-      "valid_nodes": 56,
+      "extracted_nodes": 1029,
+      "valid_nodes": 62,
       "quality_score": 100
     },
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9468,
+      "stars": 9472,
       "forks": 679,
       "extracted_nodes": 829,
-      "valid_nodes": 310,
+      "valid_nodes": 298,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 654,
+      "stars": 655,
       "forks": 29,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
+      "repository": "lanzm/MetaFetch",
+      "stars": 56,
+      "forks": 9,
+      "extracted_nodes": 765,
+      "valid_nodes": 275,
+      "quality_score": 89.0
+    },
+    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 70,
+      "extracted_nodes": 82,
       "valid_nodes": 14,
       "quality_score": 61.2
     },
     {
-      "repository": "nichecer/v2ray-node-share",
+      "repository": "huiwin/NodeCollection",
+      "stars": 3,
+      "forks": 1,
+      "extracted_nodes": 1229,
+      "valid_nodes": 1070,
+      "quality_score": 43.4
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 3,
       "forks": 0,
-      "extracted_nodes": 18,
-      "valid_nodes": 1,
+      "extracted_nodes": 3000,
+      "valid_nodes": 384,
       "quality_score": 42.4
     },
     {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
+      "repository": "alireza786786/Free-V2ray-Configs",
+      "stars": 2,
       "forks": 0,
-      "extracted_nodes": 141,
-      "valid_nodes": 138,
-      "quality_score": 40.8
+      "extracted_nodes": 855,
+      "valid_nodes": 54,
+      "quality_score": 41.6
     },
     {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 9,
+      "valid_nodes": 8,
       "quality_score": 40.0
     },
     {
@@ -65,7 +81,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "cw11ark/jichang-node-availability",
+      "repository": "ddaada11/cheap-airport-guide",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "ddaada11/stable-airport-guide",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -73,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-14 00:32:05"
+  "updated_at": "2026-11-14 11:05:34"
 }
