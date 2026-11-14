@@ -4,39 +4,31 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 93,
       "forks": 82,
-      "extracted_nodes": 1029,
-      "valid_nodes": 62,
+      "extracted_nodes": 727,
+      "valid_nodes": 45,
       "quality_score": 100
     },
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9472,
+      "stars": 9475,
       "forks": 679,
-      "extracted_nodes": 829,
-      "valid_nodes": 298,
+      "extracted_nodes": 795,
+      "valid_nodes": 268,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 655,
+      "stars": 656,
       "forks": 29,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
-      "repository": "lanzm/MetaFetch",
-      "stars": 56,
-      "forks": 9,
-      "extracted_nodes": 765,
-      "valid_nodes": 275,
-      "quality_score": 89.0
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 82,
+      "extracted_nodes": 61,
       "valid_nodes": 14,
       "quality_score": 61.2
     },
@@ -44,32 +36,48 @@
       "repository": "huiwin/NodeCollection",
       "stars": 3,
       "forks": 1,
-      "extracted_nodes": 1229,
-      "valid_nodes": 1070,
+      "extracted_nodes": 3000,
+      "valid_nodes": 2658,
       "quality_score": 43.4
+    },
+    {
+      "repository": "hshjmm/jichang",
+      "stars": 65,
+      "forks": 3,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 43.0
     },
     {
       "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 3,
       "forks": 0,
       "extracted_nodes": 3000,
-      "valid_nodes": 384,
+      "valid_nodes": 373,
       "quality_score": 42.4
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 855,
-      "valid_nodes": 54,
+      "extracted_nodes": 1296,
+      "valid_nodes": 58,
       "quality_score": 41.6
+    },
+    {
+      "repository": "g-star1024/my-clash-subscribe",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 147,
+      "valid_nodes": 143,
+      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 8,
+      "valid_nodes": 9,
       "quality_score": 40.0
     },
     {
@@ -81,7 +89,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "ddaada11/cheap-airport-guide",
+      "repository": "fengguokeji/shadowrocket",
+      "stars": 14,
+      "forks": 3,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 14.2
+    },
+    {
+      "repository": "nichecer/v2ray-node-share",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 18,
+      "valid_nodes": 0,
+      "quality_score": 2.4
+    },
+    {
+      "repository": "rocky8891/FoXray-Gateway",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,7 +113,15 @@
       "quality_score": 0.8
     },
     {
-      "repository": "ddaada11/stable-airport-guide",
+      "repository": "pyq3367/enbanc",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.8
+    },
+    {
+      "repository": "runlinx-eng/math",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +129,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-14 11:05:34"
+  "updated_at": "2026-11-14 17:28:36"
 }

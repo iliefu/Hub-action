@@ -795,6 +795,7 @@
     "feiniaovpn/Game-Accelerator---VPN",
     "feiniaovpn/Office---VPN",
     "feiniaovpn/feiniao-VPN",
+    "fengguokeji/shadowrocket",
     "fiamitaa/jichangtuijian",
     "fight-lf/graphrag-tcm-qa-system",
     "find-xposed-magisk/cloudflare-reverse-proxy",
@@ -898,6 +899,7 @@
     "hotseo123/peiqianjichang",
     "hotseo123/shida-jichang-tuijian",
     "hotyue/IP-Sentinel",
+    "hshjmm/jichang",
     "ht-shaipe/vortex",
     "ht182400-creator/easyagent-plugin-obsidian-doc-viewer",
     "huangfanyi8/XNodeEditor",
@@ -1271,6 +1273,7 @@
     "pwhkk/pyxy",
     "px80004/Best-China-VPN-2026-GFW-Bypass",
     "pyonline/xiaomi-news",
+    "pyq3367/enbanc",
     "python-net-dev/network-test",
     "python-net-dev/vpn",
     "q547113058-max/-hermes-vpn-skills",
@@ -1298,9 +1301,11 @@
     "rico-cell/clash-proxy-sub",
     "ripaojiedian/freenode",
     "rockbenben/free-llm-intel",
+    "rocky8891/FoXray-Gateway",
     "rqzhu-aide/K-12-math",
     "rshh-h/FigmaToCodeMcpServer",
     "rui40000/Ruinode",
+    "runlinx-eng/math",
     "rustin1229/TV",
     "rutht1962/world-of-warplanes-desktop",
     "rz467fzs7d/openwrt-network-stack",
@@ -1703,5 +1708,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-14 11:05:18"
+  "updated_at": "2026-11-14 17:28:18"
 }
