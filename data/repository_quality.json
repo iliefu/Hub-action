@@ -1,35 +1,59 @@
 {
   "repositories": [
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 94,
-      "forks": 82,
-      "extracted_nodes": 753,
-      "valid_nodes": 85,
-      "quality_score": 100
-    },
-    {
       "repository": "ermaozi/get_subscribe",
       "stars": 9488,
       "forks": 681,
-      "extracted_nodes": 781,
-      "valid_nodes": 281,
+      "extracted_nodes": 762,
+      "valid_nodes": 271,
+      "quality_score": 100
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 94,
+      "forks": 82,
+      "extracted_nodes": 553,
+      "valid_nodes": 32,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 660,
+      "stars": 665,
       "forks": 30,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
+      "repository": "Eleven1985/Scrape-By-Country",
+      "stars": 31,
+      "forks": 5,
+      "extracted_nodes": 2717,
+      "valid_nodes": 539,
+      "quality_score": 69.8
+    },
+    {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 24,
+      "forks": 2,
+      "extracted_nodes": 58,
+      "valid_nodes": 15,
+      "quality_score": 61.2
+    },
+    {
+      "repository": "ermaozi01/free_clash_vpn",
+      "stars": 837,
+      "forks": 28,
+      "extracted_nodes": 46,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 743,
-      "valid_nodes": 39,
+      "extracted_nodes": 626,
+      "valid_nodes": 25,
       "quality_score": 41.6
     },
     {
@@ -37,7 +61,15 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 147,
-      "valid_nodes": 142,
+      "valid_nodes": 145,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "huwotop/free_subs",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 11,
+      "valid_nodes": 11,
       "quality_score": 40.8
     },
     {
@@ -57,31 +89,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "nichecer/clash-node-share",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 24,
-      "valid_nodes": 24,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "Xjajwjjsjs/xboard-subscribe-lb",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 1.6
-    },
-    {
-      "repository": "nichecer/shadowrocket-node-share",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 24,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "gengmu/subscribe",
+      "repository": "adri-cry/egress-monitor",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,7 +97,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "overnice2025/clash-error-codes",
+      "repository": "NoS-1/NoAS",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,7 +105,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "Element-Square/MyX",
+      "repository": "nbbk/sing-box-node",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "nbbk/tiktok-node",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +121,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-16 12:11:54"
+  "updated_at": "2026-11-16 23:54:17"
 }
