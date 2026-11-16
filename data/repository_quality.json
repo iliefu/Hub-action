@@ -1,59 +1,35 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9485,
-      "forks": 680,
-      "extracted_nodes": 787,
-      "valid_nodes": 277,
-      "quality_score": 100
-    },
-    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 94,
       "forks": 82,
-      "extracted_nodes": 386,
-      "valid_nodes": 37,
+      "extracted_nodes": 753,
+      "valid_nodes": 85,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9488,
+      "forks": 681,
+      "extracted_nodes": 781,
+      "valid_nodes": 281,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 659,
+      "stars": 660,
       "forks": 30,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 99,
-      "forks": 8,
-      "extracted_nodes": 367,
-      "valid_nodes": 30,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 24,
-      "forks": 2,
-      "extracted_nodes": 63,
-      "valid_nodes": 15,
-      "quality_score": 61.2
-    },
-    {
-      "repository": "LalatinaHub/LatinaSub",
-      "stars": 12,
-      "forks": 3,
-      "extracted_nodes": 500,
-      "valid_nodes": 500,
-      "quality_score": 52.6
-    },
-    {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 762,
-      "valid_nodes": 57,
+      "extracted_nodes": 743,
+      "valid_nodes": 39,
       "quality_score": 41.6
     },
     {
@@ -61,15 +37,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 147,
-      "valid_nodes": 144,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "huwotop/free_subs",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 19,
-      "valid_nodes": 19,
+      "valid_nodes": 142,
       "quality_score": 40.8
     },
     {
@@ -89,15 +57,31 @@
       "quality_score": 40.0
     },
     {
-      "repository": "carrotciallo/clashgo",
-      "stars": 1,
+      "repository": "nichecer/clash-node-share",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 24,
+      "valid_nodes": 24,
+      "quality_score": 40.0
+    },
+    {
+      "repository": "Xjajwjjsjs/xboard-subscribe-lb",
+      "stars": 2,
       "forks": 0,
       "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.6
+    },
+    {
+      "repository": "nichecer/shadowrocket-node-share",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 24,
       "valid_nodes": 0,
       "quality_score": 0.8
     },
     {
-      "repository": "Sheep-Yang-Sheep/adguard-home-rules",
+      "repository": "gengmu/subscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,7 +89,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "HEITAMU/pulsefront-play",
+      "repository": "overnice2025/clash-error-codes",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "Element-Square/MyX",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,5 +105,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-15 23:38:39"
+  "updated_at": "2026-11-16 12:11:54"
 }
