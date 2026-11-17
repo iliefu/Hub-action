@@ -2,18 +2,10 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9488,
-      "forks": 681,
-      "extracted_nodes": 762,
-      "valid_nodes": 271,
-      "quality_score": 100
-    },
-    {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 94,
-      "forks": 82,
-      "extracted_nodes": 553,
-      "valid_nodes": 32,
+      "stars": 9489,
+      "forks": 682,
+      "extracted_nodes": 840,
+      "valid_nodes": 286,
       "quality_score": 100
     },
     {
@@ -25,35 +17,35 @@
       "quality_score": 100
     },
     {
-      "repository": "Eleven1985/Scrape-By-Country",
-      "stars": 31,
-      "forks": 5,
-      "extracted_nodes": 2717,
-      "valid_nodes": 539,
-      "quality_score": 69.8
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 314,
+      "forks": 25,
+      "extracted_nodes": 21,
+      "valid_nodes": 1,
+      "quality_score": 100
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 58,
+      "extracted_nodes": 60,
       "valid_nodes": 15,
       "quality_score": 61.2
     },
     {
-      "repository": "ermaozi01/free_clash_vpn",
-      "stars": 837,
-      "forks": 28,
-      "extracted_nodes": 46,
-      "valid_nodes": 0,
-      "quality_score": 60
+      "repository": "nichecer/v2ray-node-share",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 33,
+      "valid_nodes": 1,
+      "quality_score": 42.4
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 626,
-      "valid_nodes": 25,
+      "extracted_nodes": 721,
+      "valid_nodes": 36,
       "quality_score": 41.6
     },
     {
@@ -61,15 +53,7 @@
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 147,
-      "valid_nodes": 145,
-      "quality_score": 40.8
-    },
-    {
-      "repository": "huwotop/free_subs",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 11,
-      "valid_nodes": 11,
+      "valid_nodes": 142,
       "quality_score": 40.8
     },
     {
@@ -89,31 +73,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "adri-cry/egress-monitor",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "NoS-1/NoAS",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "nbbk/sing-box-node",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "nbbk/tiktok-node",
+      "repository": "YYDS25273/ai-evolution-timeline",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -121,5 +81,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-16 23:54:17"
+  "updated_at": "2026-11-17 05:36:37"
 }
