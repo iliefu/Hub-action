@@ -66,6 +66,7 @@
     "ANRCM0/TXBoard",
     "ANe5s/ComfyUI-MiniMax-H3-Hybrid",
     "ATLCNND/ATL-MCPanel-V1",
+    "AaaMoSO/Node-Canves",
     "Aaalice233/ComfyUI-Aaalice-Nodes",
     "Abao130/xingjiabijichang",
     "Abao135/jc-tizi-tj",
@@ -635,6 +636,7 @@
     "bianjieyun/clash-singbox-guide",
     "bigqingshu/DataFlowKit",
     "billionsheep/r76s-robot-node",
+    "billxc/potion-search",
     "binaktarimedina-source/Azerbaijan-as-a-Logistic-Hub-Gravity-Model-of-the-China-Caspian-Europe-Route-",
     "bingfenghd/kydnspup",
     "bingheyuxing-sheng/officecli-template-filler",
@@ -1082,6 +1084,7 @@
     "lanrat/wireguard-warp-generator",
     "laoliu6-laoliu/gate",
     "lareesahu/asoc-web",
+    "larksq/deplark-skills",
     "laurievermillionqca239/hytz",
     "lawyerrr/warp-config-generator-vercel",
     "lbyxiaolizi/sub2api-dev",
@@ -1382,6 +1385,7 @@
     "shy3130/tickflow-stock-panel",
     "silent-never/Power-Flow",
     "simonlin1212/vibe-astock",
+    "sinailurus/subdeck",
     "singgeoi/personal-tvbox",
     "sinspired/subs-check-pro",
     "siruoren/NetHub",
@@ -1641,6 +1645,7 @@
     "yanxi123-com/route-warden",
     "yaodao0yaodao/proxylens",
     "yatori-dev/yatori-free",
+    "ycultnaig/latest_jichang",
     "ycx666994/gpu-k8s-scheduler",
     "yee94/opencode-magpie-plugin",
     "yemao-dev/claude-china-direct",
@@ -1721,6 +1726,7 @@
     "zkytech/aistat",
     "zlzfun/DoramiSourceArchive",
     "zming-huang/Pure_Vector_Studio_Pro",
+    "znxzsy/EduTaxonomy",
     "zoardgodor/WG-Warp-tool",
     "zoardgodor/warp-WG-config-generator",
     "zoufudun/hengji",
@@ -1745,5 +1751,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-18 01:56:36"
+  "updated_at": "2026-11-18 12:25:52"
 }
