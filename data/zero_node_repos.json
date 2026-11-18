@@ -560,6 +560,7 @@
     "YuFan08/sbm",
     "YuLinLoli/BilibiliDynamicAronaPlugin",
     "Yum0Rin/cx-downloader",
+    "Yumi0606/GamePulse",
     "Yxlan-yu/yoyapai-node-fetcher",
     "Yxw052/ComfyUI-ClassicBoundingBoxes",
     "Z-yaofang/ComfyUI-Krea2WashControl",
@@ -643,6 +644,7 @@
     "blankym/inkbone",
     "blue-a11y/deep-brace-json",
     "bluebluesoda/reality-simple",
+    "bluee1111/egern-warp",
     "blueish0930/BIKINI",
     "bluelovers/ws-segment",
     "bobrovskijaroslav1-sketch/warp-config-generator-vercel",
@@ -702,6 +704,7 @@
     "chinaxunmei/Comfyui-Erase-Watermarks",
     "chjm-ai/vococo",
     "chouniu666/vpn",
+    "chtyyds/clash-verge-rules",
     "chubbyguan/chubbyskills",
     "cijiezhi/dsh-proxy-auto",
     "cijsm8/static-ip-vps",
@@ -905,6 +908,8 @@
     "hkoren/openTagCloud",
     "hm4reg/jichangtuijian",
     "hm4reggggg/jichang",
+    "holder-quarry/1688-scraper",
+    "holder-quarry/xianyu-goofish-scraper",
     "holeenlu/sub2api",
     "holeenlu/vm2api",
     "honako41/warp-config-generator-79630",
@@ -965,6 +970,7 @@
     "jcsift/airport-summary",
     "jctz123/jichang-tuijian",
     "jctz123/jichangtizi-youhuima",
+    "jctz123/peiqianjichang",
     "jdnei/JiChangTuiJian",
     "jeffzc24-cmyk/clash-chain-proxy",
     "jerryshell/hono-upload",
@@ -1174,6 +1180,7 @@
     "macrwfuse/myspeed-cn",
     "mahcamara999/dnsj",
     "mahdi-sheibak/omarchy-v2ray-manager",
+    "mahyarsii11/SimpleVPN",
     "mailzwj/ComfyUI-MultiScene-Prompt",
     "maiyulao/ResoHub",
     "makers-hub/share-vpn-clash",
@@ -1738,5 +1745,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-17 17:11:54"
+  "updated_at": "2026-11-18 01:56:36"
 }
