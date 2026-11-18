@@ -1,43 +1,83 @@
 {
   "repositories": [
     {
-      "repository": "ermaozi/get_subscribe",
-      "stars": 9495,
-      "forks": 681,
-      "extracted_nodes": 730,
-      "valid_nodes": 256,
-      "quality_score": 100
-    },
-    {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 94,
       "forks": 83,
-      "extracted_nodes": 657,
-      "valid_nodes": 54,
+      "extracted_nodes": 500,
+      "valid_nodes": 41,
+      "quality_score": 100
+    },
+    {
+      "repository": "ermaozi/get_subscribe",
+      "stars": 9501,
+      "forks": 681,
+      "extracted_nodes": 730,
+      "valid_nodes": 237,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 667,
+      "stars": 668,
       "forks": 30,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 315,
+      "forks": 25,
+      "extracted_nodes": 15,
+      "valid_nodes": 1,
+      "quality_score": 100
+    },
+    {
+      "repository": "chengaopan/AutoMergePublicNodes",
+      "stars": 8411,
+      "forks": 1267,
+      "extracted_nodes": 593,
+      "valid_nodes": 83,
+      "quality_score": 100
+    },
+    {
+      "repository": "marshall888666/free_clash_subscribe",
+      "stars": 24,
+      "forks": 2,
+      "extracted_nodes": 61,
+      "valid_nodes": 16,
+      "quality_score": 61.2
+    },
+    {
+      "repository": "huiwin/NodeCollection",
+      "stars": 3,
+      "forks": 1,
+      "extracted_nodes": 1121,
+      "valid_nodes": 793,
+      "quality_score": 43.4
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 3000,
+      "valid_nodes": 420,
+      "quality_score": 42.4
+    },
+    {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 2,
       "forks": 0,
-      "extracted_nodes": 822,
-      "valid_nodes": 56,
+      "extracted_nodes": 660,
+      "valid_nodes": 44,
       "quality_score": 41.6
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 150,
-      "valid_nodes": 147,
+      "extracted_nodes": 149,
+      "valid_nodes": 145,
       "quality_score": 40.8
     },
     {
@@ -57,23 +97,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "ycultnaig/latest_jichang",
-      "stars": 10,
+      "repository": "fastestjerry/ai-agent",
+      "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 8.0
+      "quality_score": 0.8
     },
     {
-      "repository": "nichecer/v2ray-node-share",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 25,
-      "valid_nodes": 0,
-      "quality_score": 2.4
-    },
-    {
-      "repository": "billxc/potion-search",
+      "repository": "GilevGa/warp-config-generator-vercel",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,31 +113,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "larksq/deplark-skills",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "sinailurus/subdeck",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "AaaMoSO/Node-Canves",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "znxzsy/EduTaxonomy",
+      "repository": "xiaoqin333/MoviePilot-RankingSubscribe",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,5 +121,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-18 12:25:54"
+  "updated_at": "2026-11-18 22:47:25"
 }
