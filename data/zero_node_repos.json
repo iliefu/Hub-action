@@ -493,6 +493,7 @@
     "TincoNomad/wezterm-config",
     "TomClancy258/cesium01",
     "Tony7012/zhipu_-api",
+    "Twelvedgeice/XianyuMonitor2.0",
     "Txdxz/media-sync",
     "Tzeyuen/warp-config-generator-vercel",
     "UFOAlastor/PicaYomi_Sources",
@@ -740,6 +741,7 @@
     "cwq503448212/china-economic-stats-dashboard",
     "cxhihilwb123-hash/tixiaozhu-oss",
     "cyber-teahouse/waymark",
+    "cycjimmy/chinese-sentiment",
     "cyczz/ComfyUI-ClipSequencePreview",
     "cyezun18/singapore-vps-pricing-comparison",
     "cyfain/chatgpt",
@@ -927,6 +929,7 @@
     "hotseo123/shida-jichang-tuijian",
     "hotyue/IP-Sentinel",
     "hshjmm/jichang",
+    "hshjmm/jichangtuijian",
     "ht-shaipe/vortex",
     "ht182400-creator/easyagent-plugin-obsidian-doc-viewer",
     "huangfanyi8/XNodeEditor",
@@ -1723,6 +1726,7 @@
     "zhouzhouprogram/Shadowrocket-ADBlock-Rules",
     "zhufx/iptv-api",
     "zhujiuyi/ccgui-plugin-balance-meter",
+    "zhushen12580/lunar-today-smoke",
     "zhuweiyou/codearts2api",
     "zhxmt-xm/dsh-opencode-usage-dashboard",
     "zidimoxu89/fjt",
@@ -1758,5 +1762,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-19 04:55:12"
+  "updated_at": "2026-11-19 16:55:17"
 }
