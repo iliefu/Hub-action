@@ -11023,72 +11023,6 @@
       "last_nodes_update": "2026-11-10T21:33:07.886678Z"
     },
     {
-      "repository": "MohammadBahemmat/V2ray-Collector",
-      "stars": 93,
-      "forks": 82,
-      "extracted_nodes": 3000,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "Tested.txt",
-          "node_count": 60,
-          "last_checked": "2026-11-13T18:54:19.306440Z",
-          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/Tested.txt"
-        },
-        {
-          "path": "servers/hysteria2_servers.txt",
-          "node_count": 4,
-          "last_checked": "2026-11-13T18:54:20.271472Z",
-          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria2_servers.txt"
-        },
-        {
-          "path": "servers/hysteria_servers.txt",
-          "node_count": 2,
-          "last_checked": "2026-11-13T18:54:20.376017Z",
-          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria_servers.txt"
-        },
-        {
-          "path": "servers/ss_servers.txt",
-          "node_count": 2520,
-          "last_checked": "2026-11-13T18:54:20.823153Z",
-          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/ss_servers.txt"
-        },
-        {
-          "path": "servers/ssr_servers.txt",
-          "node_count": 1,
-          "last_checked": "2026-11-13T18:54:20.950316Z",
-          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/ssr_servers.txt"
-        },
-        {
-          "path": "servers/trojan_servers.txt",
-          "node_count": 332,
-          "last_checked": "2026-11-13T18:54:21.046980Z",
-          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/trojan_servers.txt"
-        },
-        {
-          "path": "servers/tuic_servers.txt",
-          "node_count": 1,
-          "last_checked": "2026-11-13T18:54:21.164300Z",
-          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/tuic_servers.txt"
-        },
-        {
-          "path": "servers/vless_servers.txt",
-          "node_count": 2810,
-          "last_checked": "2026-11-13T18:54:21.399305Z",
-          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vless_servers.txt"
-        },
-        {
-          "path": "servers/vmess_servers.txt",
-          "node_count": 480,
-          "last_checked": "2026-11-13T18:54:21.577654Z",
-          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vmess_servers.txt"
-        }
-      ],
-      "last_full_scan": "2026-11-13T18:54:44.033649Z",
-      "last_nodes_update": "2026-11-13T18:54:44.033651Z"
-    },
-    {
       "repository": "wa3duck/freenodes",
       "stars": 0,
       "forks": 0,
@@ -12367,6 +12301,36 @@
       "last_nodes_update": "2026-11-12T19:29:48.966150Z"
     },
     {
+      "repository": "BOB0098/nodes",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 1019,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "data/nodes.json",
+          "node_count": 1026,
+          "last_checked": "2026-11-20T22:25:38.320266Z",
+          "url": "https://raw.githubusercontent.com/BOB0098/nodes/main/data/nodes.json"
+        },
+        {
+          "path": "\u8ba2\u9605 \u5168\u90e8\u8282\u70b9 base64.txt",
+          "node_count": 1026,
+          "last_checked": "2026-11-20T22:25:38.621489Z",
+          "url": "https://raw.githubusercontent.com/BOB0098/nodes/main/\u8ba2\u9605 \u5168\u90e8\u8282\u70b9 base64.txt"
+        },
+        {
+          "path": "\u8ba2\u9605 \u5168\u90e8\u8282\u70b9 \u660e\u6587.txt",
+          "node_count": 1026,
+          "last_checked": "2026-11-20T22:25:38.753842Z",
+          "url": "https://raw.githubusercontent.com/BOB0098/nodes/main/\u8ba2\u9605 \u5168\u90e8\u8282\u70b9 \u660e\u6587.txt"
+        }
+      ],
+      "last_full_scan": "2026-11-20T22:25:39.929477Z",
+      "last_nodes_update": "2026-11-20T22:25:39.929481Z"
+    },
+    {
       "repository": "maimengmeng/mysub",
       "stars": 13,
       "forks": 6,
@@ -12407,84 +12371,6 @@
       ],
       "last_full_scan": "2026-06-18T08:32:15.215976Z",
       "last_nodes_update": "2026-06-18T08:32:15.215981Z"
-    },
-    {
-      "repository": "alireza786786/Free-V2ray-Configs",
-      "stars": 2,
-      "forks": 0,
-      "extracted_nodes": 837,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "all_servers.txt",
-          "node_count": 859,
-          "last_checked": "2026-11-13T18:54:14.575254Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/all_servers.txt"
-        },
-        {
-          "path": "servers/hysteria2_servers.txt",
-          "node_count": 20,
-          "last_checked": "2026-11-13T18:54:16.684069Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/hysteria2_servers.txt"
-        },
-        {
-          "path": "servers/hysteria_servers.txt",
-          "node_count": 2,
-          "last_checked": "2026-11-13T18:54:16.806893Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/hysteria_servers.txt"
-        },
-        {
-          "path": "servers/lite.txt",
-          "node_count": 50,
-          "last_checked": "2026-11-13T18:54:16.934139Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/lite.txt"
-        },
-        {
-          "path": "servers/no_cloudflare.txt",
-          "node_count": 760,
-          "last_checked": "2026-11-13T18:54:17.078163Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/no_cloudflare.txt"
-        },
-        {
-          "path": "servers/ss_servers.txt",
-          "node_count": 166,
-          "last_checked": "2026-11-13T18:54:17.553467Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/ss_servers.txt"
-        },
-        {
-          "path": "servers/ssr_servers.txt",
-          "node_count": 1,
-          "last_checked": "2026-11-13T18:54:17.653432Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/ssr_servers.txt"
-        },
-        {
-          "path": "servers/trojan_servers.txt",
-          "node_count": 71,
-          "last_checked": "2026-11-13T18:54:17.767212Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/trojan_servers.txt"
-        },
-        {
-          "path": "servers/tuic_servers.txt",
-          "node_count": 1,
-          "last_checked": "2026-11-13T18:54:17.886239Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/tuic_servers.txt"
-        },
-        {
-          "path": "servers/vless_servers.txt",
-          "node_count": 552,
-          "last_checked": "2026-11-13T18:54:18.040684Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/vless_servers.txt"
-        },
-        {
-          "path": "servers/vmess_servers.txt",
-          "node_count": 49,
-          "last_checked": "2026-11-13T18:54:18.176799Z",
-          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/vmess_servers.txt"
-        }
-      ],
-      "last_full_scan": "2026-11-13T18:54:44.033602Z",
-      "last_nodes_update": "2026-11-13T18:54:44.033622Z"
     },
     {
       "repository": "ermaozi/get_subscribe",
@@ -12617,6 +12503,156 @@
       ],
       "last_full_scan": "2026-06-30T17:48:46.673410Z",
       "last_nodes_update": "2026-06-30T17:48:46.673434Z"
+    },
+    {
+      "repository": "MohammadBahemmat/V2ray-Collector",
+      "stars": 97,
+      "forks": 83,
+      "extracted_nodes": 705,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "Tested.txt",
+          "node_count": 60,
+          "last_checked": "2026-11-20T22:25:25.045590Z",
+          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/Tested.txt"
+        },
+        {
+          "path": "all_servers.txt",
+          "node_count": 761,
+          "last_checked": "2026-11-20T22:25:25.165815Z",
+          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/all_servers.txt"
+        },
+        {
+          "path": "servers/hysteria2_servers.txt",
+          "node_count": 3,
+          "last_checked": "2026-11-20T22:25:25.853082Z",
+          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria2_servers.txt"
+        },
+        {
+          "path": "servers/hysteria_servers.txt",
+          "node_count": 6,
+          "last_checked": "2026-11-20T22:25:25.923808Z",
+          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria_servers.txt"
+        },
+        {
+          "path": "servers/ss_servers.txt",
+          "node_count": 151,
+          "last_checked": "2026-11-20T22:25:26.171567Z",
+          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/ss_servers.txt"
+        },
+        {
+          "path": "servers/ssr_servers.txt",
+          "node_count": 2,
+          "last_checked": "2026-11-20T22:25:26.247655Z",
+          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/ssr_servers.txt"
+        },
+        {
+          "path": "servers/trojan_servers.txt",
+          "node_count": 49,
+          "last_checked": "2026-11-20T22:25:26.344463Z",
+          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/trojan_servers.txt"
+        },
+        {
+          "path": "servers/tuic_servers.txt",
+          "node_count": 1,
+          "last_checked": "2026-11-20T22:25:26.442748Z",
+          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/tuic_servers.txt"
+        },
+        {
+          "path": "servers/vless_servers.txt",
+          "node_count": 492,
+          "last_checked": "2026-11-20T22:25:26.534738Z",
+          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vless_servers.txt"
+        },
+        {
+          "path": "servers/vmess_servers.txt",
+          "node_count": 65,
+          "last_checked": "2026-11-20T22:25:26.611572Z",
+          "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vmess_servers.txt"
+        }
+      ],
+      "last_full_scan": "2026-11-20T22:25:39.929371Z",
+      "last_nodes_update": "2026-11-20T22:25:39.929396Z"
+    },
+    {
+      "repository": "alireza786786/Free-V2ray-Configs",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 679,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "all_servers.txt",
+          "node_count": 699,
+          "last_checked": "2026-11-20T22:25:27.418610Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/all_servers.txt"
+        },
+        {
+          "path": "servers/hysteria2_servers.txt",
+          "node_count": 5,
+          "last_checked": "2026-11-20T22:25:29.235043Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/hysteria2_servers.txt"
+        },
+        {
+          "path": "servers/hysteria_servers.txt",
+          "node_count": 6,
+          "last_checked": "2026-11-20T22:25:29.349054Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/hysteria_servers.txt"
+        },
+        {
+          "path": "servers/lite.txt",
+          "node_count": 46,
+          "last_checked": "2026-11-20T22:25:29.470633Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/lite.txt"
+        },
+        {
+          "path": "servers/no_cloudflare.txt",
+          "node_count": 622,
+          "last_checked": "2026-11-20T22:25:29.607695Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/no_cloudflare.txt"
+        },
+        {
+          "path": "servers/ss_servers.txt",
+          "node_count": 115,
+          "last_checked": "2026-11-20T22:25:29.913620Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/ss_servers.txt"
+        },
+        {
+          "path": "servers/ssr_servers.txt",
+          "node_count": 1,
+          "last_checked": "2026-11-20T22:25:30.005693Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/ssr_servers.txt"
+        },
+        {
+          "path": "servers/trojan_servers.txt",
+          "node_count": 78,
+          "last_checked": "2026-11-20T22:25:30.095850Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/trojan_servers.txt"
+        },
+        {
+          "path": "servers/tuic_servers.txt",
+          "node_count": 1,
+          "last_checked": "2026-11-20T22:25:30.209186Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/tuic_servers.txt"
+        },
+        {
+          "path": "servers/vless_servers.txt",
+          "node_count": 435,
+          "last_checked": "2026-11-20T22:25:30.326943Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/vless_servers.txt"
+        },
+        {
+          "path": "servers/vmess_servers.txt",
+          "node_count": 65,
+          "last_checked": "2026-11-20T22:25:30.423453Z",
+          "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/vmess_servers.txt"
+        }
+      ],
+      "last_full_scan": "2026-11-20T22:25:39.929439Z",
+      "last_nodes_update": "2026-11-20T22:25:39.929443Z"
     },
     {
       "repository": "kooker/FreeSubsCheck",
@@ -14233,7 +14269,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-11-20 12:18:24",
-  "total_whitelisted_repos": 60,
-  "total_cached_nodes": 67306
+  "updated_at": "2026-11-20 22:25:39",
+  "total_whitelisted_repos": 61,
+  "total_cached_nodes": 65872
 }
