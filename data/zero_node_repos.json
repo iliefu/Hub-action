@@ -108,6 +108,8 @@
     "AweekJyz/Nolio",
     "Ayuilos/Miffan",
     "Azurefly/flow-ai-engine",
+    "B03gitRepository/b03-100node",
+    "B03gitRepository/b03-20node",
     "BTCUP99/gagcha",
     "BULUTEMAN/bank-marketing-prediction-web",
     "Babbage42/whirli-ng",
@@ -260,6 +262,7 @@
     "JegoVPN/HelpCenter",
     "JiPengLin/piliplus-sidestore-source",
     "JiahangRen/surge-ip-labeler",
+    "Jiangpip/FrameScribe-Library",
     "JiexiaoZhang1/humanizer-workbench",
     "JoeXLins/parkpay-android-printer",
     "John19187/The-40-Best-VPNs",
@@ -516,6 +519,7 @@
     "WSL043/dsh-codex-subscription",
     "WTest1518/MyLending",
     "WTriumph/DeepSeek-Harness-macOS-Desktop-App",
+    "WWSTA/easytier-cf-relay",
     "WaneDay/VerPinG",
     "Wangsc1/ai-usage",
     "Wangsc1/dashboard",
@@ -716,6 +720,7 @@
     "cijsm8/static-ip-vps",
     "cindy1995up/crypto_master",
     "cirosantilli/cirosantilli",
+    "cjy0812/gkd-subscription-hub",
     "cjz3899/LocalLife",
     "clashfreenodecom/clashfreenode.com",
     "clashv2ray-hub/clashfree",
@@ -1399,6 +1404,7 @@
     "shushengritian/LifeIndex",
     "shvartem/santa-warp-config",
     "shy3130/tickflow-stock-panel",
+    "shylock-wu/surge-config",
     "silent-never/Power-Flow",
     "simonlin1212/vibe-astock",
     "sinailurus/subdeck",
@@ -1636,6 +1642,7 @@
     "xm6018924/BSAI-ComfyUI-FastH3",
     "xmb505/Haku_EET",
     "xmwengxing/CFPilot",
+    "xqqhygmh8v-rgb/muse-usage-widget",
     "xrayfree/free-ssr-ss-v2ray-vpn-clash",
     "xtgm/stallTCP1.32-V2",
     "xucanyang/auto-gpt",
@@ -1773,5 +1780,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-21 04:40:40"
+  "updated_at": "2026-11-21 15:44:26"
 }
