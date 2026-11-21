@@ -12121,6 +12121,30 @@
       "last_nodes_update": "2026-11-06T23:52:10.743602Z"
     },
     {
+      "repository": "free18/v2ray",
+      "stars": 5953,
+      "forks": 252,
+      "extracted_nodes": 1110,
+      "valid_nodes": 0,
+      "quality_score": 0.0,
+      "node_files": [
+        {
+          "path": "c.yaml",
+          "node_count": 500,
+          "last_checked": "2026-11-21T04:40:34.561419Z",
+          "url": "https://raw.githubusercontent.com/free18/v2ray/main/c.yaml"
+        },
+        {
+          "path": "v.txt",
+          "node_count": 651,
+          "last_checked": "2026-11-21T04:40:34.658175Z",
+          "url": "https://raw.githubusercontent.com/free18/v2ray/main/v.txt"
+        }
+      ],
+      "last_full_scan": "2026-11-21T04:40:40.359272Z",
+      "last_nodes_update": "2026-11-21T04:40:40.359300Z"
+    },
+    {
       "repository": "v2raynnodes/clashfree",
       "stars": 11,
       "forks": 1,
@@ -13091,30 +13115,6 @@
       ],
       "last_full_scan": "2026-10-18T15:06:34.731711Z",
       "last_nodes_update": "2026-10-18T15:06:34.731716Z"
-    },
-    {
-      "repository": "free18/v2ray",
-      "stars": 5178,
-      "forks": 238,
-      "extracted_nodes": 413,
-      "valid_nodes": 0,
-      "quality_score": 0.0,
-      "node_files": [
-        {
-          "path": "c.yaml",
-          "node_count": 219,
-          "last_checked": "2026-08-08T04:45:13.786294Z",
-          "url": "https://raw.githubusercontent.com/free18/v2ray/main/c.yaml"
-        },
-        {
-          "path": "v.txt",
-          "node_count": 225,
-          "last_checked": "2026-08-08T04:45:13.866726Z",
-          "url": "https://raw.githubusercontent.com/free18/v2ray/main/v.txt"
-        }
-      ],
-      "last_full_scan": "2026-08-08T04:45:14.637916Z",
-      "last_nodes_update": "2026-08-08T04:45:14.637943Z"
     },
     {
       "repository": "ShimpleJeaf/v2rayfree",
@@ -14269,7 +14269,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-11-20 22:25:39",
+  "updated_at": "2026-11-21 04:40:40",
   "total_whitelisted_repos": 61,
-  "total_cached_nodes": 65872
+  "total_cached_nodes": 66569
 }
