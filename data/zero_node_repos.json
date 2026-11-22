@@ -67,6 +67,7 @@
     "ANRCM0/TXBoard",
     "ANe5s/ComfyUI-MiniMax-H3-Hybrid",
     "ATLCNND/ATL-MCPanel-V1",
+    "AVA-2568/AI-Benchmark",
     "AaaMoSO/Node-Canves",
     "Aaalice233/ComfyUI-Aaalice-Nodes",
     "Abao130/xingjiabijichang",
@@ -339,6 +340,7 @@
     "Maplewhite-net/vpnsknow.review",
     "MaplumeX/vless-script",
     "Marco0431/pdf-translate-review",
+    "Mars-A-I/chatgpt-plus-kaitong",
     "MarshHarte/shanshuiyun-guide",
     "MarshHarte/ssrdog-guide",
     "MarshHarte/vikinglinks-guide",
@@ -389,6 +391,7 @@
     "PENG-7777/seafood-trace-front",
     "PRTS168/DrumQuill",
     "ParsaAzari/wirepro",
+    "PastLantern/llm-notes-v1",
     "Pawdroid/Free-servers",
     "Pawdroid/ShadowShare",
     "PhilipJohnBasile/philjs",
@@ -787,6 +790,7 @@
     "dqqqqd1/yunxiang-free-node",
     "dqtx760/Proxyfree",
     "dreamboxone/zirgozar",
+    "dreamldx/ComfyStudy",
     "dronhond/KingdomRules_Release",
     "druidcaesa/neuralgate",
     "dszz453/fastbox-tvbox",
@@ -973,6 +977,7 @@
     "imythu/kirara",
     "imythu/rflush",
     "int2t05/rss-feed",
+    "interjc/create-fiction-skills",
     "iosrjk/fanqiang",
     "iran-px-panel/px-panel",
     "islon/goout",
@@ -981,6 +986,7 @@
     "ivorypatel/mianfei-jiedian-tiaoma",
     "ixxxxoooo/yutuzhi",
     "izcw/NodeCanvas",
+    "jack-114514/reality-fallback-site",
     "jackluson/akshare-cb",
     "jamebal/xray-kuma-probe",
     "jamsluuuuu/iptv",
@@ -1784,5 +1790,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-21 21:18:48"
+  "updated_at": "2026-11-22 03:55:30"
 }
