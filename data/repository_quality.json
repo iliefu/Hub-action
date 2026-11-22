@@ -5,79 +5,55 @@
       "stars": 9515,
       "forks": 682,
       "extracted_nodes": 650,
-      "valid_nodes": 228,
+      "valid_nodes": 210,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 97,
       "forks": 83,
-      "extracted_nodes": 954,
-      "valid_nodes": 122,
+      "extracted_nodes": 812,
+      "valid_nodes": 103,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 668,
+      "stars": 669,
       "forks": 33,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 99,
-      "forks": 8,
-      "extracted_nodes": 367,
-      "valid_nodes": 24,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 24,
-      "forks": 2,
-      "extracted_nodes": 60,
-      "valid_nodes": 13,
-      "quality_score": 61.2
-    },
-    {
       "repository": "wenxig/alvin9999-sub",
-      "stars": 305,
+      "stars": 308,
       "forks": 36,
       "extracted_nodes": 3,
       "valid_nodes": 0,
       "quality_score": 60
     },
     {
-      "repository": "v2raynnodes/clashfree",
-      "stars": 12,
-      "forks": 1,
-      "extracted_nodes": 1109,
-      "valid_nodes": 338,
-      "quality_score": 50.6
-    },
-    {
-      "repository": "nichecer/v2ray-node-share",
-      "stars": 4,
-      "forks": 0,
-      "extracted_nodes": 26,
-      "valid_nodes": 1,
-      "quality_score": 43.2
-    },
-    {
-      "repository": "alireza786786/Free-V2ray-Configs",
+      "repository": "huiwin/NodeCollection",
       "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 736,
-      "valid_nodes": 34,
-      "quality_score": 42.4
+      "forks": 1,
+      "extracted_nodes": 2080,
+      "valid_nodes": 1674,
+      "quality_score": 43.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 136,
-      "valid_nodes": 132,
+      "extracted_nodes": 122,
+      "valid_nodes": 114,
+      "quality_score": 40.8
+    },
+    {
+      "repository": "nichecer/shadowrocket-node-share",
+      "stars": 1,
+      "forks": 0,
+      "extracted_nodes": 17,
+      "valid_nodes": 1,
       "quality_score": 40.8
     },
     {
@@ -85,7 +61,7 @@
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 48,
-      "valid_nodes": 9,
+      "valid_nodes": 7,
       "quality_score": 40.0
     },
     {
@@ -97,15 +73,7 @@
       "quality_score": 40.0
     },
     {
-      "repository": "AVA-2568/AI-Benchmark",
-      "stars": 1,
-      "forks": 1,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 1.8
-    },
-    {
-      "repository": "PastLantern/llm-notes-v1",
+      "repository": "bushilian/bushilian",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
@@ -113,7 +81,7 @@
       "quality_score": 0.8
     },
     {
-      "repository": "interjc/create-fiction-skills",
+      "repository": "faryadu59-arch/miniature-giggle",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -121,23 +89,7 @@
       "quality_score": 0.0
     },
     {
-      "repository": "Mars-A-I/chatgpt-plus-kaitong",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "jack-114514/reality-fallback-site",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "dreamldx/ComfyStudy",
+      "repository": "lilyco-42/lain42-node-deploy",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -145,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-22 03:55:40"
+  "updated_at": "2026-11-22 12:07:34"
 }
