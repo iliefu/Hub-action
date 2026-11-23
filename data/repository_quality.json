@@ -2,18 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9518,
+      "stars": 9519,
       "forks": 682,
-      "extracted_nodes": 678,
-      "valid_nodes": 241,
+      "extracted_nodes": 612,
+      "valid_nodes": 220,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 97,
       "forks": 83,
-      "extracted_nodes": 741,
-      "valid_nodes": 108,
+      "extracted_nodes": 792,
+      "valid_nodes": 120,
       "quality_score": 100
     },
     {
@@ -28,32 +28,40 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 99,
       "forks": 8,
-      "extracted_nodes": 369,
-      "valid_nodes": 18,
+      "extracted_nodes": 365,
+      "valid_nodes": 20,
       "quality_score": 88.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 66,
+      "extracted_nodes": 69,
       "valid_nodes": 14,
       "quality_score": 61.2
     },
     {
-      "repository": "nichecer/v2ray-node-share",
+      "repository": "chanhui800/Meridian",
+      "stars": 93,
+      "forks": 9,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 49.0
+    },
+    {
+      "repository": "huiwin/NodeCollection",
       "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 27,
-      "valid_nodes": 1,
-      "quality_score": 42.4
+      "forks": 1,
+      "extracted_nodes": 1929,
+      "valid_nodes": 1486,
+      "quality_score": 43.4
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
       "stars": 3,
       "forks": 0,
-      "extracted_nodes": 677,
-      "valid_nodes": 28,
+      "extracted_nodes": 867,
+      "valid_nodes": 53,
       "quality_score": 42.4
     },
     {
@@ -73,7 +81,15 @@
       "quality_score": 40.0
     },
     {
-      "repository": "pekmop1024/unwarp",
+      "repository": "amwangfan/whale-mobile",
+      "stars": 0,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 1.0
+    },
+    {
+      "repository": "gustinraev/nodaroo-free",
       "stars": 1,
       "forks": 0,
       "extracted_nodes": 0,
@@ -81,21 +97,45 @@
       "quality_score": 0.8
     },
     {
-      "repository": "opjm222/uk-native-ip-vps",
-      "stars": 1,
+      "repository": "HuyKenny/eroka",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     },
     {
-      "repository": "vjjie03/666clouds-vps-pricing",
-      "stars": 1,
+      "repository": "HuyKenny/kouzelnydeda",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
+    },
+    {
+      "repository": "MCFCMARK/warp-config-generator123",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "teletypegames/warp-engine-local",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "marqiushq/marqius-wkhtmltopdf-node",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-23 04:36:00"
+  "updated_at": "2026-11-23 19:37:48"
 }
