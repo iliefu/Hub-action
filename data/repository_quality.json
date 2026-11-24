@@ -2,23 +2,23 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9521,
+      "stars": 9529,
       "forks": 682,
-      "extracted_nodes": 658,
-      "valid_nodes": 232,
+      "extracted_nodes": 581,
+      "valid_nodes": 204,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 97,
       "forks": 83,
-      "extracted_nodes": 968,
-      "valid_nodes": 129,
+      "extracted_nodes": 797,
+      "valid_nodes": 110,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 671,
+      "stars": 672,
       "forks": 33,
       "extracted_nodes": 14,
       "valid_nodes": 6,
@@ -28,32 +28,48 @@
       "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
       "stars": 99,
       "forks": 8,
-      "extracted_nodes": 365,
-      "valid_nodes": 24,
+      "extracted_nodes": 368,
+      "valid_nodes": 22,
       "quality_score": 88.0
     },
     {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 61,
+      "extracted_nodes": 63,
       "valid_nodes": 13,
       "quality_score": 61.2
     },
     {
-      "repository": "nichecer/v2ray-node-share",
+      "repository": "WLget/V2Ray_configs_64",
+      "stars": 317,
+      "forks": 25,
+      "extracted_nodes": 1,
+      "valid_nodes": 0,
+      "quality_score": 60
+    },
+    {
+      "repository": "huiwin/NodeCollection",
+      "stars": 3,
+      "forks": 1,
+      "extracted_nodes": 1414,
+      "valid_nodes": 1124,
+      "quality_score": 43.4
+    },
+    {
+      "repository": "myominn062-svg/mk-studio-vpn-service",
       "stars": 3,
       "forks": 0,
-      "extracted_nodes": 24,
-      "valid_nodes": 1,
+      "extracted_nodes": 3000,
+      "valid_nodes": 405,
       "quality_score": 42.4
     },
     {
       "repository": "g-star1024/my-clash-subscribe",
       "stars": 1,
       "forks": 0,
-      "extracted_nodes": 97,
-      "valid_nodes": 92,
+      "extracted_nodes": 112,
+      "valid_nodes": 101,
       "quality_score": 40.8
     },
     {
@@ -73,61 +89,13 @@
       "quality_score": 40.0
     },
     {
-      "repository": "China-wzy41/MobiWeave-Protocol",
-      "stars": 4,
+      "repository": "nichecer/v2ray-node-share",
+      "stars": 3,
       "forks": 0,
-      "extracted_nodes": 0,
+      "extracted_nodes": 18,
       "valid_nodes": 0,
-      "quality_score": 3.2
-    },
-    {
-      "repository": "iyxntv4/evoscloud-japan-vps",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "kbtuwz3/evoxt-hk-vps-pricing",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.8
-    },
-    {
-      "repository": "HuyKenny/kakapo",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "wuji-technology/wuji-sim",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "NoS-1/noas-subs",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
-    },
-    {
-      "repository": "duoduoler-ops/Table-ClaudeGuide",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 0,
-      "valid_nodes": 0,
-      "quality_score": 0.0
+      "quality_score": 2.4
     }
   ],
-  "updated_at": "2026-11-24 04:30:41"
+  "updated_at": "2026-11-24 19:12:23"
 }
