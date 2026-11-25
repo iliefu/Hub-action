@@ -2,67 +2,27 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9532,
+      "stars": 9537,
       "forks": 682,
-      "extracted_nodes": 625,
-      "valid_nodes": 212,
+      "extracted_nodes": 667,
+      "valid_nodes": 239,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 97,
       "forks": 83,
-      "extracted_nodes": 543,
-      "valid_nodes": 105,
+      "extracted_nodes": 855,
+      "valid_nodes": 125,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 672,
+      "stars": 675,
       "forks": 33,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
-    },
-    {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 99,
-      "forks": 8,
-      "extracted_nodes": 358,
-      "valid_nodes": 24,
-      "quality_score": 88.0
-    },
-    {
-      "repository": "marshall888666/free_clash_subscribe",
-      "stars": 24,
-      "forks": 2,
-      "extracted_nodes": 58,
-      "valid_nodes": 13,
-      "quality_score": 61.2
-    },
-    {
-      "repository": "wenxig/alvin9999-sub",
-      "stars": 313,
-      "forks": 37,
-      "extracted_nodes": 3,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "LalatinaHub/LatinaSub",
-      "stars": 12,
-      "forks": 3,
-      "extracted_nodes": 500,
-      "valid_nodes": 497,
-      "quality_score": 52.6
-    },
-    {
-      "repository": "nichecer/v2ray-node-share",
-      "stars": 3,
-      "forks": 0,
-      "extracted_nodes": 25,
-      "valid_nodes": 1,
-      "quality_score": 42.4
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -81,23 +41,31 @@
       "quality_score": 40.0
     },
     {
-      "repository": "jiangjiangbozan/ShangShu-AI",
-      "stars": 0,
-      "forks": 1,
+      "repository": "miaocell/magpie-doubao-work-auth",
+      "stars": 37,
+      "forks": 10,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.0
+      "quality_score": 39.6
     },
     {
-      "repository": "ethancaldwell760-create/clash-nodes-subscribe",
-      "stars": 1,
+      "repository": "nichecer/v2ray-node-share",
+      "stars": 3,
+      "forks": 0,
+      "extracted_nodes": 20,
+      "valid_nodes": 0,
+      "quality_score": 2.4
+    },
+    {
+      "repository": "MISHU-KHONDOKER/MISHU-Translator",
+      "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 0.0
     },
     {
-      "repository": "NingCui29/ADB-Mirror-Studio",
+      "repository": "Roche114514/nanami_story",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -105,5 +73,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-25 03:14:15"
+  "updated_at": "2026-11-25 13:41:56"
 }
