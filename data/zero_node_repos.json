@@ -143,6 +143,7 @@
     "CashewTeam/Cashew_Nodes",
     "Cat-Ling/sing-box",
     "CatsInJune/tiptap-markdown-react",
+    "CauriumX/mihomo-template",
     "Ccm-Tim/ComfyUI-VideoFrameMark",
     "ChanceYu/front-end-rss",
     "Chaosamongclippers/PRSA-Photorealistic-San-Andreas",
@@ -162,6 +163,8 @@
     "D1-2004/dingtalk-doc-multica-sync",
     "D3-3109/baidu-t5-proxy-rs",
     "D3Dream/cursor2api",
+    "DIAN-115/dian115-plugins",
+    "DVE-FCT/HopSend",
     "DY-tian/patent-disclosure-21-skills",
     "DaBao-Lee/V2RayN-NodeShare",
     "DaTingYeQing/Blender-ai-geometry-nodes",
@@ -217,6 +220,7 @@
     "FreeFolksOn/abc-configs-free-vpn-proxy-list-for-china",
     "Freedom-Guard/Freedom-Guard",
     "FreekMencke/freek-mencke-web",
+    "Frist6361/xray2socks",
     "GD-Attack/GD-V2ray-shell-Yum",
     "GGX355/node-audit",
     "GTAVAry1/BPB-Worker-Fork",
@@ -288,6 +292,7 @@
     "KaWaIDeSuNe/dijiajichang",
     "KaWaIDeSuNe/xingjiabijichang",
     "KazuhaHub/Passwall-Sub-Panel",
+    "KenIDN24/news-image-20261126-v2",
     "Keyxrax/Nebula",
     "KongFangXun/sofagent",
     "Kopla3310/warp-config-generator-vercel",
@@ -605,6 +610,7 @@
     "achuanya/rss-lhasa",
     "adithyaathreya2264/WarpRadar",
     "adri-cry/egress-monitor",
+    "adtyai1995/adtyai-edge",
     "agentgeleven-lab/sillytavern-dynamic-map",
     "ahao430/AIVault",
     "aihop/APayShop",
@@ -1130,6 +1136,7 @@
     "lamblama/stm32F103ZET6-potatoroom",
     "lambret-1/new-vpn",
     "lanrat/wireguard-warp-generator",
+    "laoXuHome/NodePoolME",
     "laoliu6-laoliu/gate",
     "lareesahu/asoc-web",
     "larksq/deplark-skills",
@@ -1806,6 +1813,7 @@
     "zoardgodor/warp-WG-config-generator",
     "zoufudun/hengji",
     "zqs1qiwan/warp2wireguard",
+    "zs350235495-ui/hangxian",
     "zs350235495-ui/louti",
     "zs350235495-ui/loutishequ",
     "zs350235495-ui/shequ",
@@ -1827,5 +1835,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-26 05:51:39"
+  "updated_at": "2026-11-26 17:58:03"
 }
