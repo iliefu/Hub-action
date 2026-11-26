@@ -1193,6 +1193,7 @@
     "live1617/ComfyUI-QG-tools",
     "lixi333/ai-rules",
     "lixi333/muse-rules",
+    "liyunlong136/kaodian-radar",
     "lizy0327/fio-bench",
     "lje02/probe-bot",
     "llaassmail-ui/aws-storage-tool",
@@ -1454,6 +1455,7 @@
     "skka3134/Free-servers",
     "skyzizhu/sky-agent-mvp-stu",
     "skyzizhu/sky-rag-stu",
+    "sl2782087/easynodedeck",
     "sle58083/yuchen-panel",
     "slender-prelature73/FireRedTTS3-ComfyUI",
     "slobys/ClaudeLink",
@@ -1547,6 +1549,7 @@
     "tukeceshi/z3cz",
     "tunnel-syndrome/awg-config-validator",
     "twj515895394/Ryan_Comfy_Utils",
+    "txh2224/kuka_arctech_ws",
     "txrx13/meduzavpn",
     "txtsamu/home-nixos",
     "type53/dsh-claude-subscriptions",
@@ -1577,6 +1580,7 @@
     "vladislav-pavlikov/bind-keyboard",
     "vlln/dsh-navbar",
     "vmrey/node-hub",
+    "voidd0/made-in-china-scraper",
     "vpnjichangdaquan/sanmaojichang",
     "vpnjichangdaquan/smjc",
     "wall-flipping/SSV2RayTrojanClashSSR",
@@ -1823,5 +1827,5 @@
     "zzmy1917-svg/cheap-vpn-airport",
     "zzzhhe999/Mihomo-Script-Rules"
   ],
-  "updated_at": "2026-11-25 23:52:13"
+  "updated_at": "2026-11-26 05:51:39"
 }
