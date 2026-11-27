@@ -12412,73 +12412,73 @@
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 97,
       "forks": 83,
-      "extracted_nodes": 705,
+      "extracted_nodes": 730,
       "valid_nodes": 0,
       "quality_score": 0.0,
       "node_files": [
         {
           "path": "Tested.txt",
-          "node_count": 60,
-          "last_checked": "2026-11-20T22:25:25.045590Z",
+          "node_count": 174,
+          "last_checked": "2026-11-27T23:48:44.577451Z",
           "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/Tested.txt"
         },
         {
           "path": "all_servers.txt",
-          "node_count": 761,
-          "last_checked": "2026-11-20T22:25:25.165815Z",
+          "node_count": 649,
+          "last_checked": "2026-11-27T23:48:44.737576Z",
           "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/all_servers.txt"
         },
         {
           "path": "servers/hysteria2_servers.txt",
-          "node_count": 3,
-          "last_checked": "2026-11-20T22:25:25.853082Z",
+          "node_count": 2,
+          "last_checked": "2026-11-27T23:48:46.053134Z",
           "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria2_servers.txt"
         },
         {
           "path": "servers/hysteria_servers.txt",
-          "node_count": 6,
-          "last_checked": "2026-11-20T22:25:25.923808Z",
+          "node_count": 18,
+          "last_checked": "2026-11-27T23:48:46.186160Z",
           "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/hysteria_servers.txt"
         },
         {
           "path": "servers/ss_servers.txt",
-          "node_count": 151,
-          "last_checked": "2026-11-20T22:25:26.171567Z",
+          "node_count": 127,
+          "last_checked": "2026-11-27T23:48:46.595630Z",
           "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/ss_servers.txt"
         },
         {
           "path": "servers/ssr_servers.txt",
-          "node_count": 2,
-          "last_checked": "2026-11-20T22:25:26.247655Z",
+          "node_count": 29,
+          "last_checked": "2026-11-27T23:48:46.736214Z",
           "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/ssr_servers.txt"
         },
         {
           "path": "servers/trojan_servers.txt",
-          "node_count": 49,
-          "last_checked": "2026-11-20T22:25:26.344463Z",
+          "node_count": 46,
+          "last_checked": "2026-11-27T23:48:46.849700Z",
           "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/trojan_servers.txt"
         },
         {
           "path": "servers/tuic_servers.txt",
-          "node_count": 1,
-          "last_checked": "2026-11-20T22:25:26.442748Z",
+          "node_count": 14,
+          "last_checked": "2026-11-27T23:48:46.988532Z",
           "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/tuic_servers.txt"
         },
         {
           "path": "servers/vless_servers.txt",
-          "node_count": 492,
-          "last_checked": "2026-11-20T22:25:26.534738Z",
+          "node_count": 434,
+          "last_checked": "2026-11-27T23:48:47.152926Z",
           "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vless_servers.txt"
         },
         {
           "path": "servers/vmess_servers.txt",
-          "node_count": 65,
-          "last_checked": "2026-11-20T22:25:26.611572Z",
+          "node_count": 42,
+          "last_checked": "2026-11-27T23:48:47.284269Z",
           "url": "https://raw.githubusercontent.com/MohammadBahemmat/V2ray-Collector/main/servers/vmess_servers.txt"
         }
       ],
-      "last_full_scan": "2026-11-20T22:25:39.929371Z",
-      "last_nodes_update": "2026-11-20T22:25:39.929396Z"
+      "last_full_scan": "2026-11-27T23:50:18.498467Z",
+      "last_nodes_update": "2026-11-27T23:50:18.498489Z"
     },
     {
       "repository": "alireza786786/Free-V2ray-Configs",
@@ -14221,7 +14221,7 @@
       "last_nodes_update": "2026-08-15T04:19:48.979177Z"
     }
   ],
-  "updated_at": "2026-11-27 13:17:12",
+  "updated_at": "2026-11-27 23:50:18",
   "total_whitelisted_repos": 61,
-  "total_cached_nodes": 65515
+  "total_cached_nodes": 65540
 }
