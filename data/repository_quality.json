@@ -2,18 +2,18 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9550,
+      "stars": 9553,
       "forks": 683,
-      "extracted_nodes": 715,
-      "valid_nodes": 265,
+      "extracted_nodes": 681,
+      "valid_nodes": 248,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 97,
       "forks": 83,
-      "extracted_nodes": 730,
-      "valid_nodes": 112,
+      "extracted_nodes": 768,
+      "valid_nodes": 149,
       "quality_score": 100
     },
     {
@@ -25,52 +25,28 @@
       "quality_score": 100
     },
     {
-      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
-      "stars": 100,
-      "forks": 8,
-      "extracted_nodes": 360,
-      "valid_nodes": 15,
-      "quality_score": 88.0
-    },
-    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 60,
+      "extracted_nodes": 87,
       "valid_nodes": 13,
       "quality_score": 61.2
     },
     {
-      "repository": "ermaozi01/free_clash_vpn",
-      "stars": 846,
-      "forks": 28,
-      "extracted_nodes": 54,
-      "valid_nodes": 0,
-      "quality_score": 60
-    },
-    {
-      "repository": "huiwin/NodeCollection",
-      "stars": 3,
+      "repository": "v2raynnodes/clashfree",
+      "stars": 12,
       "forks": 1,
-      "extracted_nodes": 632,
-      "valid_nodes": 567,
-      "quality_score": 43.4
+      "extracted_nodes": 1109,
+      "valid_nodes": 340,
+      "quality_score": 50.6
     },
     {
-      "repository": "myominn062-svg/mk-studio-vpn-service",
+      "repository": "nichecer/v2ray-node-share",
       "stars": 3,
       "forks": 0,
-      "extracted_nodes": 3000,
-      "valid_nodes": 935,
+      "extracted_nodes": 25,
+      "valid_nodes": 1,
       "quality_score": 42.4
-    },
-    {
-      "repository": "g-star1024/my-clash-subscribe",
-      "stars": 1,
-      "forks": 0,
-      "extracted_nodes": 106,
-      "valid_nodes": 100,
-      "quality_score": 40.8
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -89,31 +65,31 @@
       "quality_score": 40.0
     },
     {
-      "repository": "xiaohuozei999/v2nodes",
-      "stars": 0,
-      "forks": 0,
-      "extracted_nodes": 37,
-      "valid_nodes": 2,
-      "quality_score": 40.0
-    },
-    {
-      "repository": "Homomimo/flyx-mod",
+      "repository": "daguov6-beep/AirportManager",
       "stars": 1,
-      "forks": 1,
+      "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.8
+      "quality_score": 0.8
     },
     {
-      "repository": "zhulinghuanyu/Node",
-      "stars": 2,
+      "repository": "cxknotjj/chinese-novel-atlas",
+      "stars": 1,
       "forks": 0,
-      "extracted_nodes": 12,
+      "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 1.6
+      "quality_score": 0.8
     },
     {
-      "repository": "Vladze33/warp-config-ru",
+      "repository": "zdabing/streamdock",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "hgai1/aiprice-data",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -121,5 +97,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-27 23:50:34"
+  "updated_at": "2026-11-28 05:24:44"
 }
