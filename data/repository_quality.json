@@ -2,51 +2,59 @@
   "repositories": [
     {
       "repository": "ermaozi/get_subscribe",
-      "stars": 9553,
-      "forks": 683,
-      "extracted_nodes": 681,
-      "valid_nodes": 248,
+      "stars": 9557,
+      "forks": 684,
+      "extracted_nodes": 635,
+      "valid_nodes": 217,
       "quality_score": 100
     },
     {
       "repository": "MohammadBahemmat/V2ray-Collector",
       "stars": 97,
       "forks": 83,
-      "extracted_nodes": 768,
-      "valid_nodes": 149,
+      "extracted_nodes": 985,
+      "valid_nodes": 95,
       "quality_score": 100
     },
     {
       "repository": "hello-world-1989/cn-news",
-      "stars": 678,
+      "stars": 679,
       "forks": 32,
       "extracted_nodes": 14,
       "valid_nodes": 6,
       "quality_score": 100
     },
     {
+      "repository": "mohamadfg-dev/telegram-v2ray-configs-collector",
+      "stars": 100,
+      "forks": 8,
+      "extracted_nodes": 369,
+      "valid_nodes": 14,
+      "quality_score": 88.0
+    },
+    {
       "repository": "marshall888666/free_clash_subscribe",
       "stars": 24,
       "forks": 2,
-      "extracted_nodes": 87,
-      "valid_nodes": 13,
+      "extracted_nodes": 64,
+      "valid_nodes": 14,
       "quality_score": 61.2
-    },
-    {
-      "repository": "v2raynnodes/clashfree",
-      "stars": 12,
-      "forks": 1,
-      "extracted_nodes": 1109,
-      "valid_nodes": 340,
-      "quality_score": 50.6
     },
     {
       "repository": "nichecer/v2ray-node-share",
       "stars": 3,
       "forks": 0,
-      "extracted_nodes": 25,
+      "extracted_nodes": 32,
       "valid_nodes": 1,
       "quality_score": 42.4
+    },
+    {
+      "repository": "vpn-proxy-bot/VPN-SSR-V2ray-Trojan",
+      "stars": 104,
+      "forks": 1,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 41.0
     },
     {
       "repository": "rrzt/get_subscribe",
@@ -65,23 +73,23 @@
       "quality_score": 40.0
     },
     {
-      "repository": "daguov6-beep/AirportManager",
-      "stars": 1,
+      "repository": "fishermanxzx/xui-hub",
+      "stars": 4,
       "forks": 0,
       "extracted_nodes": 0,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 3.2
     },
     {
-      "repository": "cxknotjj/chinese-novel-atlas",
-      "stars": 1,
+      "repository": "zhulinghuanyu/Node",
+      "stars": 2,
       "forks": 0,
-      "extracted_nodes": 0,
+      "extracted_nodes": 12,
       "valid_nodes": 0,
-      "quality_score": 0.8
+      "quality_score": 1.6
     },
     {
-      "repository": "zdabing/streamdock",
+      "repository": "wzx-moe/surge-warp-sync",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -89,7 +97,15 @@
       "quality_score": 0.0
     },
     {
-      "repository": "hgai1/aiprice-data",
+      "repository": "PowerCui/skill-hub",
+      "stars": 0,
+      "forks": 0,
+      "extracted_nodes": 0,
+      "valid_nodes": 0,
+      "quality_score": 0.0
+    },
+    {
+      "repository": "qq4284377/legado-sources",
       "stars": 0,
       "forks": 0,
       "extracted_nodes": 0,
@@ -97,5 +113,5 @@
       "quality_score": 0.0
     }
   ],
-  "updated_at": "2026-11-28 05:24:44"
+  "updated_at": "2026-11-28 16:28:39"
 }
